@@ -1,0 +1,76 @@
+                                                                                          CHAPTER 4 Innate Immunity                           81
+
+
+Dendritic Cells                                                                                                        Common
+Dendritic cells rapidly and efficiently detect invading microbes                                                       lymphoid
+because of their location in tissues and their expression of                                                           progenitor
+numerous pattern recognition receptors for PAMPs and
+DAMPs. DCs express many different types of TLRs and cyto-
+plasmic pattern recognition receptors, making them versa-
+tile sensors of PAMPs and DAMPs. In response to invading
+                                                                                                              Id2      ILC precursor
+microbes, they secrete inflammatory cytokines that promote
+recruitment of additional leukocytes from the blood. There are          Development
+multiple subsets of DCs (see Chapter 2), most of which produce            of ILCs                  IL-15                IL-7
+proinflammatory cytokines and capture antigens for presenta-                                       IL-7         IL-7
+tion to T cells. The plasmacytoid subset of DCs is a major source
+of the antiviral cytokines type I IFNs, produced in response to
+viral infections. We will discuss the antiviral actions of type I                        T-BET                                  RORt
+IFNs in more detail later in the chapter.                                                                  GATA3
+    The ability of DCs to promote T lymphocyte responses after
+                                                                                          ILC1                                   ILC3
+innate immune activation also makes them an important                                                       ILC2
+bridge between innate and adaptive immunity. The reactions                                     IL-12             IL-25
+of DCs to microbes in the early innate response enhance the             Activation                                                    IL-1
+                                                                                               IL-15             IL-33
+ability of the DCs to activate T cells in the subsequent adap-           of ILCs                                                      IL-23
+                                                                                               IL-18             TSLP
+tive immune response. DCs capture antigens and display them
+to T cells (see Chapter 6). DCs activated by microbial PAMPs
+                                                                                                             IL-5                IL-17
+also express membrane molecules called costimulators that pro-                            IFN-                                  IL-22
+                                                                                                            IL-13
+mote T-cell responses. In addition, depending on the nature of
+the microbe that induces the innate response, DCs will direct                           Defense           Defense      Intestinal
+naive T-cell differentiation into distinct types of effector cells,       Effector against                 against       barrier
+such as IFN-γ–producing Th1 cells or IL-17–producing Th17                functions viruses              helminths;     function;
+                                                                          of ILCs                          allergic    lymphoid
+cells. These features of DCs will be discussed in Chapters 9 and
+                                                                                                       inflammation organogenesis
+10. Because of their tissue residence and ability to rapidly detect
+                                                                      Fig. 4.8 Cytokine producing innate lymphoid cell subsets. The
+infections in the tissues, DCs are the prototypic sentinels of the    three major subsets of cytokine-producing innate lymphoid cells (ILCs)
+immune system.                                                        develop from the common lymphoid progenitor that also gives rise to B
+                                                                      and T lymphocytes and natural killer (NK) cells (not shown). A common
+                                                                      ILC precursor identified by the Id2 transcription factor differentiates into
+Cytokine-Producing Innate Lymphoid Cells                              three major subsets of cytokine-producing ILCs. Each differentiated
+Innate lymphoid cells (ILCs), which were introduced in                subset is distinguished by expression of distinct transcription factors
+                                                                      and by cytokines produced when activated, as indicated. The cytokines
+Chapter 2, are bone marrow–derived cells with lympho-                 that drive differentiation into ILC1, 2, or 3 subsets, as well as the cyto-
+cyte morphology that were discovered as cells that pro-               kines that activate ILCs to produce their own subset-specific cytokines,
+duced cytokines similar to those made by helper T cells but           are shown. The major known functions of the ILCs are also indicated.
+lacked TCRs. There are different subsets of ILCs that arise           The cytokines indicated in bold are discussed in Chapter 10, in the con-
+from the same common lymphoid precursor that gives rise               text of T-cell responses. The functions of the other cytokines mentioned
+                                                                      in the figure are summarized later in this chapter (see Table 4.7), and all
+to B and T cells, but the precise steps in ILC development            these cytokines are listed in Appendix I. IFN, Interferon; IL, interleukin;
+are not fully understood, especially in humans. During their          TSLP, thymic stromal lymphopoietin.
+development, there are branch points that give rise to three
+different “helper” subsets of ILCs, which function mainly by
+secreting different types of cytokines, similar to CD4+ helper
+T-cell subsets, and a separate branch giving rise to NK cells,        transcription factor RORγt, like Th17 cells. Because ILCs do
+which function as cytotoxic effectors in addition to secreting        not express T-cell receptors, they must be activated by different
+the cytokine IFN-­γ, similar to CD8+ CTLs. We will describe           mechanisms than helper T cells to produce these cytokines. The
+cytokine-producing ILC subsets in this section and NK cells           best defined stimuli for cytokine production by ILCs are other
+in the following section.                                             cytokines that are released during innate responses to infections
+   Three subsets of ILCs, called ILC1, ILC2, and ILC3, produce        and tissue damage; each ILC subset is activated by different
+different cytokines and express different transcription fac-          cytokines (see Fig. 4.8).
+tors, analogous to the Th1, Th2, and Th17 subsets of CD4+ T              ILC subsets may participate in host defense against various
+lymphocytes (Fig. 4.8). ILC1s produce IFN-γ and express the           pathogens and also may be involved in inflammatory disor-
+transcription factor T-BET, like Th1 cells. ILC2s produce mainly      ders. ILC1s are likely important for defense against intracellular
+IL-5 and IL-13 and express the transcription factor GATA3, like       microbes. ILC2s may play a role in defense against helminthic
+Th2 cells. ILC3s produce IL-22 and/or IL-17 and express the           parasites and also contribute to allergic diseases. ILC3s are
+
+
+                                                       ERRNVPHGLFRVRUJ
+
+

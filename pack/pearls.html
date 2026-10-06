@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exam pearls one-pager — Innate Immunity</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+main { max-width: 1150px; }
+.pearls h1 { font-size: 1.5rem; margin: .6rem 0 .1rem; }
+.pearls .subtitle { margin-bottom: .6rem; font-size: .85rem; }
+.cols { column-count: 3; column-gap: 1.4rem; column-rule: 1px solid var(--line); }
+.cols h2 { font-size: .95rem; margin: .5rem 0 .2rem; padding-bottom: .1rem; border-bottom: 2px solid var(--line);
+  color: var(--accent); break-after: avoid; }
+.cols h2:first-child { margin-top: 0; }
+.cols ul { list-style: none; padding: 0; margin: 0 0 .3rem; }
+.cols li { font-size: .82rem; line-height: 1.32; margin: 0 0 .22rem; padding-left: .7rem; position: relative; break-inside: avoid; }
+.cols li::before { content: "•"; position: absolute; left: 0; color: var(--innate); font-weight: 700; }
+.cols li.trap::before { content: "!"; color: var(--danger); }
+.cols li.trap b.t { color: var(--danger); }
+.cols .src { font-size: .68rem; padding: 0 .2rem; }
+.cols .note { font-size: .74rem; color: #7a4a05; background: #fdf6ea; border-left: 3px solid var(--warn); padding: .15rem .35rem; margin: .15rem 0 .3rem; break-inside: avoid; }
+@media print {
+  @page { size: A4 portrait; margin: 8mm 8mm; }
+  html { font-size: 9pt; }
+  .pearls h1 { font-size: 14pt; margin: 0 0 .5mm; }
+  .pearls .subtitle { font-size: 8pt; margin: 0 0 1.5mm; }
+  .cols { column-gap: 3.5mm; }
+  .cols h2 { font-size: 10pt; margin: 1.6mm 0 .8mm; }
+  .cols li { font-size: 9pt; line-height: 1.25; margin-bottom: .8mm; }
+  .cols .src { font-size: 8pt; color: #5b6475; }
+  .cols .note { font-size: 8.8pt; padding: .3mm 1mm; }
+}
+</style>
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="index.html">Home</a>
+  <a href="modules/M1-foundation.html">M1 Foundation</a>
+  <a href="modules/M2-cells.html">M2 Cells</a>
+  <a href="modules/M3-prrs.html">M3 PRRs</a>
+  <a href="modules/M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="modules/M5-complement.html">M5 Complement</a>
+  <a href="modules/M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="modules/M7-summary.html">M7 Summary</a>
+  <a href="quiz/quiz.html">Quiz</a>
+</nav></header>
+<main class="pearls">
+<h1>Innate immunity · exam pearls one-pager</h1>
+<p class="subtitle">EAACI/UEMS Knowledge Exam, 19 Oct 2026 · <b>!</b> = exam trap · Source tags: A = Abbas 11e, J = Janeway 8e, GL = WAO/EAACI HAE guideline 2017 (page numbers; hover for fact ID) · amber tag = volatile.</p>
+<div class="cols">
+
+<h2>M1 Foundation</h2>
+<ul>
+<li>Innate receptors: germline-encoded, nonclonal, &lt;100 types; memory limited. <span class="src" title="M1-F023,M1-F024,M1-F008">A64,4</span></li>
+<li>Phases: immediate innate 0–4 h, early induced 4–96 h, adaptive &gt;96 h. <span class="src" title="M1-F060">J37</span></li>
+<li>Paneth cells make α-defensins. LL-37 (cathelicidin) neutralizes LPS. <span class="src" title="M1-F045,M1-F049">A80</span></li>
+<li>TNF, IL-1, IL-6 → fever, leukocytosis, acute-phase proteins; CRP can rise 1000-fold. <span class="src" title="M1-F089,M1-F095,M1-F096,M1-F097">A96,97,88</span></li>
+<li>Epithelial IL-25, IL-33, TSLP drive ILC2s, Th2 cells, mast cells; IL-33 is an alarmin. <span class="src" title="M1-F087">A94</span></li>
+<li class="trap"><b class="t">Trap:</b> lysozyme works better on Gram-positive bacteria (LPS covers Gram-negative peptidoglycan). <span class="src" title="M1-F040">J45</span></li>
+<li class="trap"><b class="t">Trap:</b> anti-TNF gave no benefit in sepsis trials and can reactivate TB. <span class="src" title="M1-F109,M1-F111">A97 J109</span></li>
+</ul>
+
+<h2>M2 Cells</h2>
+<ul>
+<li>Neutrophils: most abundant WBC, arrive first; azurophilic granules hold MPO and defensins. <span class="src" title="M2-F013,M1-F083,M2-F016">A14,94</span></li>
+<li>Most tissue macrophages are fetal-derived and self-renew (Janeway: from monocytes). <span class="src" title="M2-F022,M2-F024">A15 J76</span></li>
+<li>pDC (TLR7, TLR9) = major type I IFN source; cDC1 cross-presents to CD8+ T cells. <span class="src" title="M2-F036,M2-F037,M2-F035">A23,22,21-23</span></li>
+<li>NK cells: CD56+ CD3−; low MHC-I ("missing self") removes KIR/NKG2A inhibition; CD16 → ADCC. <span class="src" title="M2-F043,M2-F053,M2-F054,M2-F052">A82,85,84</span></li>
+<li>NK deficiency (GATA2, CD16, CHS) → severe herpesvirus and papillomavirus infections. <span class="src" title="M2-F059,M2-F060,M2-F061,M2-F062">A488</span></li>
+<li>C3a, C5a degranulate mast cells; MRGPRX2 → IgE-independent drug reactions. <span class="src" title="M2-F074,M2-F075">A470</span></li>
+<li>ILC2 (GATA3; IL-5, IL-13) responds to IL-25, IL-33, TSLP. <span class="src" title="M2-F094,M2-F095">A81</span></li>
+<li class="trap"><b class="t">Trap:</b> tryptase, not histamine, marks mast cell activation (all mast cells, no other cell). <span class="src" title="M2-F077">A471</span></li>
+<li class="trap"><b class="t">Trap:</b> eosinophil FcεRI is low and lacks a signalling chain; IL-5 is the key cytokine. <span class="src" title="M2-F090,M2-F089">A473</span></li>
+</ul>
+
+<h2>M3 PRRs &amp; signalling</h2>
+<ul>
+<li>Surface TLR1/2/4/5/6 see wall products; endosomal TLR3/7/8/9 see nucleic acids. <span class="src" title="M3-F009,M3-F010">A69</span></li>
+<li>LPS → TLR4 (+MD2, CD14); flagellin → TLR5; dsRNA → TLR3; CpG DNA → TLR9. <span class="src" title="M3-F012,M3-F020,M3-F021,M3-F013,M3-F014,M3-F015">A67,69</span></li>
+<li>MyD88/IRAK4 deficiency → early invasive pneumococcal disease, no fever ("cold"). <span class="src" title="M3-F036,M3-F037,M3-F038">A489 J535</span></li>
+<li>TLR3, UNC93B, TRIF defects → herpes simplex encephalitis. <span class="src" title="M3-F040,M3-F041,M3-F042">A489</span></li>
+<li>NLRP3–ASC–caspase-1 cleaves pro-IL-1β/IL-18; gasdermin D pores → pyroptosis. <span class="src" title="M3-F052,M3-F053,M3-F054,M3-F059">A72,74</span></li>
+<li>NLRP3 gain of function → CAPS (FCAS: cold-induced; Muckle-Wells: deafness); IL-1 blockade works. <span class="src volatile" title="M3-F067,M3-F068,M3-F069,M3-F066">A75,74 J537</span></li>
+<li class="trap"><b class="t">Trap:</b> TLR3 is the only TLR without MyD88; TLR4 uses MyD88 and TRIF. <span class="src" title="M3-F025">A69</span></li>
+<li class="trap"><b class="t">Trap:</b> weak NOD2 variants → Crohn's; NOD2 gain of function → Blau syndrome. <span class="src" title="M3-F048,M3-F049">A72</span></li>
+</ul>
+
+<h2>M4 Phagocytosis &amp; defects</h2>
+<ul>
+<li>Recruitment: selectin rolling (sialyl Lewis X) → chemokine integrin activation → ICAM-1/VCAM-1 arrest → transmigration. <span class="src" title="M4-F016,M4-F006,M4-F017">A49,45</span></li>
+<li>CXCL8 (CXCR1/2) → neutrophils; CCL2 (CCR2) → monocytes. <span class="src" title="M4-F024,M4-F025">A50</span></li>
+<li>CGD: about 2/3 X-linked gp91; catalase+ <i>Staphylococcus</i>; <i>Aspergillus</i> = leading cause of death; granulomas. <span class="src" title="M4-F073,M4-F077,M4-F076,M4-F078">A486,487</span></li>
+<li>LAD-1 (CD18): leukocytosis, no pus, poor wound healing. LAD-2: no sialyl Lewis X, Bombay group. LAD-3 (KINDLIN-3): bleeding. <span class="src" title="M4-F085,M4-F086,M4-F084,M4-F088,M4-F089,M4-F090,M4-F091">A488</span></li>
+<li>CHS (LYST): partial albinism, giant lysosomes, NK defect, HLH. <span class="src volatile" title="M4-F093,M4-F094,M4-F095,M4-F096">A488</span></li>
+<li>MSMD (IL-12p40, IL-12Rβ1, IFN-γR, STAT1, NEMO): mycobacteria, <i>Salmonella</i>, BCG spread. <span class="src" title="M4-F104,M4-F105">A498</span></li>
+<li class="trap"><b class="t">Trap:</b> NADPH oxidase makes superoxide; MPO makes hypohalous acid. MPO deficiency is CGD-like but milder. <span class="src" title="M4-F051,M4-F052,M4-F082">A96 J536</span></li>
+</ul>
+
+<h2>M5 Complement</h2>
+<ul>
+<li>C3 cleavage is central. C3 convertases: C4b2a (classical, lectin), C3bBb (alternative). <span class="src" title="M5-F010,M5-F022,M5-F029,M5-F032">A301,305 J54</span></li>
+<li>IgM fixes complement better than IgG; IgG1, IgG3 best; IgG4 none. <span class="src" title="M5-F018,M5-F014,M5-F015">A305</span></li>
+<li>Factor D circulates active; properdin stabilizes C3bBb. <span class="src" title="M5-F034,M5-F035">J61 A302</span></li>
+<li>C5a: most potent anaphylatoxin; degranulates mast cells without IgE. <span class="src" title="M5-F054,M5-F057">A314,470</span></li>
+<li>CR2 (CD21) binds C3d, is the EBV receptor and helps B-cell activation. <span class="src" title="M5-F062,M5-F063,M5-F064">A308,310,314</span></li>
+<li class="trap"><b class="t">Trap:</b> factor H regulates only the alternative pathway; C4BP regulates C4b. <span class="src" title="M5-F074,M5-F076">A311,310</span></li>
+<li class="trap"><b class="t">Trap:</b> CD59 blocks C9 at C5b-8; DAF dissociates the C3 convertases. <span class="src" title="M5-F083,M5-F081">A312,310</span></li>
+</ul>
+
+<h2>M6 Deficiencies &amp; HAE</h2>
+<ul>
+<li>C1q/C2/C4 → SLE (&gt;50%); C2 deficiency is the most common. <span class="src" title="M6-F002,M6-F001">A315</span></li>
+<li>C3 or factor I deficiency → pyogenic infections. <span class="src" title="M6-F008,M6-F021">A315</span></li>
+<li>C5–C9, properdin (X-linked), factor D → <i>Neisseria</i>. <span class="src" title="M6-F017,M6-F014,M6-F015">A315 J532</span></li>
+<li>aHUS: factor H, MCP. PNH: somatic PIG-A → no CD59, DAF. <span class="src" title="M6-F026,M6-F030,M6-F032">A315,312</span></li>
+<li>HAE-1: low C1-INH function and protein. HAE-2: protein normal/high, function low. C4 usually low. <span class="src" title="M6-F040,M6-F041,M6-F060">GL5,6</span></li>
+<li>AAE-C1-INH: later onset, lymphoma/MGUS, C1q low in 75%. <span class="src" title="M6-F063,M6-F065">GL7</span></li>
+<li>ACE inhibitors: avoid in HAE; ACEI-AE has normal C1-INH. <span class="src" title="M6-F075,M6-F044">GL14,6</span></li>
+<li class="trap"><b class="t">Trap:</b> C3 and CH50 are normal in HAE; C4 is unreliable before 12 months. <span class="src" title="M6-F061,M6-F072">GL6-7,11</span></li>
+<li class="trap"><b class="t">Trap:</b> HAE-1/2 does not respond to antihistamines, steroids or adrenaline; wheals do not exclude HAE. <span class="src" title="M6-F057,M6-F067">GL6,7</span></li>
+</ul>
+<div class="note"><b>2017 guideline (volatile — check current):</b> treat attacks early with C1-INH, ecallantide or icatibant; no tranexamic acid or androgens on demand. LTP: C1-INH first line, androgens second. <span class="src volatile" title="M6-F077,M6-F078,M6-F079,M6-F091,M6-F092">GL7,7-8,8,9-10,10</span></div>
+</div>
+</main>
+</body>
+</html>

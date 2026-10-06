@@ -1,0 +1,398 @@
+[
+  {
+    "id": "M2-A1",
+    "module": "M2",
+    "type": "A",
+    "stem": "A 46-year-old woman develops generalised urticaria and hypotension within minutes of an intravenous antibiotic given at induction of anaesthesia. She has never received this drug before. Specific IgE to the drug is negative. Which mast cell receptor most likely mediated this IgE-independent reaction?",
+    "options": [
+      {
+        "key": "A",
+        "text": "FcεRII (CD23)",
+        "correct": false,
+        "explanation": "CD23 is a low-affinity IgE receptor whose biologic role is not known; it does not explain an IgE-independent drug reaction.",
+        "source": "Abbas p.467"
+      },
+      {
+        "key": "B",
+        "text": "MRGPRX2",
+        "correct": true,
+        "explanation": "MRGPRX2 on skin mast cells binds several antibiotics and anaesthetic drugs and activates mast cells without IgE; it likely mediates some allergy-like drug reactions.",
+        "source": "Abbas p.470"
+      },
+      {
+        "key": "C",
+        "text": "FcγRIIB",
+        "correct": false,
+        "explanation": "FcγRIIB is an inhibitory (ITIM) receptor that co-aggregates with FcεRI and inhibits mast cell signalling; it does not trigger degranulation.",
+        "source": "Abbas p.470"
+      },
+      {
+        "key": "D",
+        "text": "CD16 (FcγRIIIA)",
+        "correct": false,
+        "explanation": "CD16 is the low-affinity IgG receptor on NK cells that mediates ADCC; it is not the drug receptor on mast cells.",
+        "source": "Abbas p.84"
+      },
+      {
+        "key": "E",
+        "text": "NKG2D",
+        "correct": false,
+        "explanation": "NKG2D is an activating NK cell receptor for stress ligands (MIC-A, MIC-B, ULBP), not a mast cell drug receptor.",
+        "source": "Abbas p.83"
+      }
+    ],
+    "fact_ids": [
+      "M2-F075",
+      "M2-F108",
+      "M2-F076",
+      "M2-F052",
+      "M2-F050"
+    ]
+  },
+  {
+    "id": "M2-A2",
+    "module": "M2",
+    "type": "A",
+    "stem": "A 52-year-old man has had three episodes of unexplained anaphylaxis. Between episodes his baseline serum tryptase stays raised. A bone marrow biopsy shows clusters of mast cells with abnormal morphology. A mutation in which gene is most likely?",
+    "options": [
+      {
+        "key": "A",
+        "text": "GATA2",
+        "correct": false,
+        "explanation": "GATA2 loss-of-function causes loss of NK cells, monocytes, DCs and B cells, not a clonal mast cell disorder.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "CD18 (β2 integrin β chain)",
+        "correct": false,
+        "explanation": "CD18 mutations cause leukocyte adhesion deficiency type 1 with bacterial infections, not mast cell expansion.",
+        "source": "Abbas p.487"
+      },
+      {
+        "key": "C",
+        "text": "FcεRI α chain",
+        "correct": false,
+        "explanation": "FcεRI is the high-affinity IgE receptor on mast cells and basophils; it is not the gene linked to systemic mastocytosis in the sources.",
+        "source": "Abbas p.466"
+      },
+      {
+        "key": "D",
+        "text": "c-KIT",
+        "correct": true,
+        "explanation": "Systemic mastocytosis is a clonal mast cell disorder associated with c-KIT mutations; the mast cells release more mediators, including tryptase.",
+        "source": "Abbas p.470-471"
+      },
+      {
+        "key": "E",
+        "text": "LYST",
+        "correct": false,
+        "explanation": "LYST mutations cause Chédiak-Higashi syndrome with defective cytotoxic granules, not systemic mastocytosis.",
+        "source": "Abbas p.488"
+      }
+    ],
+    "fact_ids": [
+      "M2-F079",
+      "M2-F064",
+      "M2-F077",
+      "M2-F060",
+      "M2-F106",
+      "M2-F062",
+      "M2-F068"
+    ]
+  },
+  {
+    "id": "M2-A3",
+    "module": "M2",
+    "type": "A",
+    "stem": "In a laboratory assay, a tumour cell line that has lost all surface MHC class I is mixed with blood lymphocytes from a healthy donor who was never exposed to the tumour. CD56-positive, CD3-negative cells lyse the tumour cells within hours. No antibody is present. Which mechanism best explains the killing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Loss of inhibitory signals from KIRs and CD94/NKG2A ('missing self')",
+        "correct": true,
+        "explanation": "The cells are NK cells. Inhibitory KIRs and CD94/NKG2A recognise MHC-I; when MHC-I is lost, inhibition stops and activating signals trigger killing.",
+        "source": "Abbas p.85"
+      },
+      {
+        "key": "B",
+        "text": "T-cell receptor recognition of tumour peptide on MHC class I",
+        "correct": false,
+        "explanation": "CD3-negative cells have no T-cell receptor, and the target has no MHC-I to present peptide.",
+        "source": "Abbas p.82"
+      },
+      {
+        "key": "C",
+        "text": "ADCC through CD16 binding to IgG on the tumour cells",
+        "correct": false,
+        "explanation": "ADCC needs IgG1 or IgG3 bound to the target; no antibody is present.",
+        "source": "Abbas p.84"
+      },
+      {
+        "key": "D",
+        "text": "Engagement of the activating receptor CD94/NKG2A by HLA-E",
+        "correct": false,
+        "explanation": "CD94/NKG2A is an inhibitory receptor; it binds HLA-E, which is an MHC-I molecule that the tumour has lost.",
+        "source": "Abbas p.85"
+      },
+      {
+        "key": "E",
+        "text": "Release of IL-12 that directly lyses the tumour cells",
+        "correct": false,
+        "explanation": "IL-12 enhances NK cytotoxicity and IFN-γ secretion; it is a cytokine signal, not a killing mechanism.",
+        "source": "Abbas p.85"
+      }
+    ],
+    "fact_ids": [
+      "M2-F053",
+      "M2-F054",
+      "M2-F043",
+      "M2-F044",
+      "M2-F046",
+      "M2-F052",
+      "M2-F048",
+      "M2-F049"
+    ]
+  },
+  {
+    "id": "M2-A4",
+    "module": "M2",
+    "type": "A",
+    "stem": "A 16-year-old girl has had recurrent severe herpesvirus infections and extensive warts since childhood. Her blood shows almost no NK cells, and her monocyte, dendritic cell and B-cell counts are also low. Her mother has a similar history. Which is the most likely diagnosis?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chédiak-Higashi syndrome",
+        "correct": false,
+        "explanation": "Chédiak-Higashi syndrome is autosomal recessive; NK cell function is impaired by abnormal granules, which does not fit a dominant pattern with low monocytes, DCs and B cells.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "CD16 (FcγRIIIA) deficiency",
+        "correct": false,
+        "explanation": "CD16 deficiency is a functional NK cell deficiency (autosomal recessive); NK numbers and other lineages are not low.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "GATA2 deficiency",
+        "correct": true,
+        "explanation": "Autosomal dominant GATA2 mutations cause loss of NK cells together with low monocytes, DCs and B cells; NK deficiency presents with herpesvirus and papillomavirus infections.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "D",
+        "text": "Leukocyte adhesion deficiency type 1",
+        "correct": false,
+        "explanation": "LAD-1 (CD18 mutation) causes bacterial and fungal infections from defective leukocyte adhesion, not loss of NK cells.",
+        "source": "Abbas p.487"
+      },
+      {
+        "key": "E",
+        "text": "Chronic granulomatous disease",
+        "correct": false,
+        "explanation": "CGD is a defect of phagocyte oxidase with bacterial and fungal infections; it does not remove NK cells, DCs or B cells.",
+        "source": "Abbas p.487"
+      }
+    ],
+    "fact_ids": [
+      "M2-F060",
+      "M2-F059",
+      "M2-F061",
+      "M2-F062",
+      "M2-F106",
+      "M2-F105"
+    ]
+  },
+  {
+    "id": "M2-A5",
+    "module": "M2",
+    "type": "A",
+    "stem": "A 27-year-old woman with allergic asthma has airway eosinophilia and mucus hypersecretion within hours of allergen exposure. Biopsy studies suggest that the first IL-5 and IL-13 come from tissue-resident cells that lack a T-cell receptor and that respond to IL-33, IL-25 and TSLP from the epithelium. Which cell is this?",
+    "options": [
+      {
+        "key": "A",
+        "text": "ILC1",
+        "correct": false,
+        "explanation": "ILC1s express T-BET and produce IFN-γ; they respond to IL-12, IL-15 and IL-18.",
+        "source": "Abbas p.81"
+      },
+      {
+        "key": "B",
+        "text": "ILC3",
+        "correct": false,
+        "explanation": "ILC3s express RORγt and produce IL-17 and/or IL-22; they respond to IL-1 and IL-23.",
+        "source": "Abbas p.81"
+      },
+      {
+        "key": "C",
+        "text": "NK cell",
+        "correct": false,
+        "explanation": "NK cells are cytotoxic and secrete IFN-γ, not IL-5 and IL-13.",
+        "source": "Abbas p.82"
+      },
+      {
+        "key": "D",
+        "text": "Th2 cell",
+        "correct": false,
+        "explanation": "Th2 cells make IL-5 and IL-13 but carry a T-cell receptor and arrive later in the tissue than ILC2s.",
+        "source": "Abbas p.465"
+      },
+      {
+        "key": "E",
+        "text": "ILC2",
+        "correct": true,
+        "explanation": "ILC2s (GATA3) lack a TCR, reside in tissue, respond to IL-25, IL-33 and TSLP, and make IL-5 and IL-13; they can start allergic inflammation before Th2 cells arrive.",
+        "source": "Abbas p.94"
+      }
+    ],
+    "fact_ids": [
+      "M2-F092",
+      "M2-F094",
+      "M2-F095",
+      "M2-F098",
+      "M2-F099",
+      "M2-F045",
+      "M2-F089"
+    ]
+  },
+  {
+    "id": "M2-A6",
+    "module": "M2",
+    "type": "A",
+    "stem": "A 38-year-old man with severe allergic asthma produces thick sputum. Microscopy shows many eosinophils and Charcot-Leyden crystals. Which eosinophil protein forms these crystals?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Major basic protein",
+        "correct": false,
+        "explanation": "Major basic protein is a cationic granule protein toxic to helminths, bacteria and host cells; it does not form Charcot-Leyden crystals.",
+        "source": "Abbas p.473"
+      },
+      {
+        "key": "B",
+        "text": "Galectin-10",
+        "correct": true,
+        "explanation": "Eosinophils make large amounts of galectin-10, which aggregates into Charcot-Leyden crystals at sites of chronic type 2 inflammation such as asthmatic bronchi.",
+        "source": "Abbas p.473"
+      },
+      {
+        "key": "C",
+        "text": "Eosinophil peroxidase",
+        "correct": false,
+        "explanation": "Eosinophil peroxidase makes hypochlorous or hypobromous acid; it is not the crystal-forming protein.",
+        "source": "Abbas p.473"
+      },
+      {
+        "key": "D",
+        "text": "Tryptase",
+        "correct": false,
+        "explanation": "Tryptase is a mast cell protease and a marker of mast cell activation.",
+        "source": "Abbas p.471"
+      },
+      {
+        "key": "E",
+        "text": "Eosinophil cationic protein",
+        "correct": false,
+        "explanation": "Eosinophil cationic protein is a toxic granule protein, but galectin-10 forms the crystals.",
+        "source": "Abbas p.473"
+      }
+    ],
+    "fact_ids": [
+      "M2-F087",
+      "M2-F085",
+      "M2-F086",
+      "M2-F077"
+    ]
+  },
+  {
+    "id": "M2-K1",
+    "module": "M2",
+    "type": "KPRIM",
+    "stem": "Mast cells, basophils and eosinophils in allergic disease. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Basophils express high levels of FcεRI and can be triggered when antigen binds IgE on their surface.",
+        "correct": true,
+        "explanation": "Correct. Basophils, like mast cells, have high FcεRI expression, bind IgE and are triggered by antigen binding to the IgE.",
+        "source": "Abbas p.465; Abbas p.466"
+      },
+      {
+        "key": "B",
+        "text": "Eosinophils are efficiently activated by allergen cross-linking of IgE bound to their FcεRI.",
+        "correct": false,
+        "explanation": "Incorrect. Eosinophil FcεRI is very low and lacks a signalling chain; there is no convincing evidence of activation through IgE.",
+        "source": "Abbas p.473"
+      },
+      {
+        "key": "C",
+        "text": "Mature mast cells circulate in the blood and migrate to tissues during allergic reactions.",
+        "correct": false,
+        "explanation": "Incorrect. Mature mast cells are normally not found in the circulation; progenitors mature in tissues.",
+        "source": "Abbas p.465"
+      },
+      {
+        "key": "D",
+        "text": "Tryptase is present in all human mast cells, whereas chymase is present only in some mast cell subsets.",
+        "correct": true,
+        "explanation": "Correct. Tryptase is in all human mast cells; subsets contain tryptase only or tryptase and chymase.",
+        "source": "Abbas p.465"
+      }
+    ],
+    "fact_ids": [
+      "M2-F081",
+      "M2-F067",
+      "M2-F090",
+      "M2-F069",
+      "M2-F063",
+      "M2-F005",
+      "M2-F077",
+      "M2-F078"
+    ]
+  },
+  {
+    "id": "M2-K2",
+    "module": "M2",
+    "type": "KPRIM",
+    "stem": "Dendritic cells and NK cells. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Plasmacytoid dendritic cells express high levels of TLR7 and TLR9 and are the main producers of type I interferon.",
+        "correct": true,
+        "explanation": "Correct. pDCs have high TLR7 and TLR9 and are the body's major producers of type I IFNs.",
+        "source": "Abbas p.23"
+      },
+      {
+        "key": "B",
+        "text": "CD16 on NK cells binds IgE and mediates antibody-dependent cell-mediated cytotoxicity.",
+        "correct": false,
+        "explanation": "Incorrect. CD16 (FcγRIIIA) is a low-affinity receptor for IgG (IgG1 and IgG3), not IgE.",
+        "source": "Abbas p.84"
+      },
+      {
+        "key": "C",
+        "text": "The inhibitory receptor CD94/NKG2A recognises HLA-E, which displays peptides from other MHC class I molecules.",
+        "correct": true,
+        "explanation": "Correct. CD94/NKG2A binds HLA-E; HLA-E displays peptides derived from other MHC-I molecules.",
+        "source": "Abbas p.85"
+      },
+      {
+        "key": "D",
+        "text": "Follicular dendritic cells are bone marrow-derived cells that present protein antigens to naive T cells.",
+        "correct": false,
+        "explanation": "Incorrect. Follicular dendritic cells are stromal cells, not bone marrow-derived, and do not present protein antigens to T cells.",
+        "source": "Abbas p.22"
+      }
+    ],
+    "fact_ids": [
+      "M2-F036",
+      "M2-F037",
+      "M2-F052",
+      "M2-F054",
+      "M2-F040"
+    ]
+  }
+]

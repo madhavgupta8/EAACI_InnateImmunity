@@ -1,0 +1,153 @@
+[
+  {
+    "id": "M6-A1",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 19-year-old man has his second episode of meningococcal meningitis in 3 years. His maternal uncle died of meningococcal sepsis at age 20. His mother and sisters are healthy. Which inherited complement deficiency best explains this pattern?",
+    "options": [
+      {"key": "A", "text": "C2 deficiency", "correct": false, "explanation": "C2 deficiency is linked mainly to SLE-like immune-complex disease, and is not X-linked.", "source": "Abbas p.315"},
+      {"key": "B", "text": "C8 deficiency", "correct": false, "explanation": "Terminal component deficiency also causes Neisseria infection, but the X-linked pattern (affected males through the maternal line) fits properdin better.", "source": "Abbas p.315"},
+      {"key": "C", "text": "Properdin deficiency", "correct": true, "explanation": "Properdin deficiency is X-linked recessive, and properdin-deficient patients are particularly susceptible to Neisseria meningitidis.", "source": "Abbas p.315; Janeway p.59"},
+      {"key": "D", "text": "MBL deficiency", "correct": false, "explanation": "MBL deficiency gives a mild immunodeficiency with bacterial infections in early childhood, not recurrent meningococcal disease in adults.", "source": "Janeway p.533"},
+      {"key": "E", "text": "C1q deficiency", "correct": false, "explanation": "C1q deficiency causes SLE in more than 50% of patients; Neisseria susceptibility is the hallmark of alternative and terminal defects.", "source": "Abbas p.315"}
+    ],
+    "fact_ids": ["M6-F012", "M6-F014", "M6-F016", "M6-F017", "M6-F002", "M6-F001"]
+  },
+  {
+    "id": "M6-A2",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 24-year-old woman has a photosensitive rash, arthritis and positive antinuclear antibodies. She also had two episodes of bacterial pneumonia. Genetic testing finds a homozygous deficiency of a single complement component. This component deficiency is the most common in humans. Which component is deficient?",
+    "options": [
+      {"key": "A", "text": "C2", "correct": true, "explanation": "C2 deficiency is the most common human complement deficiency. More than 50% of patients with C2 deficiency develop SLE, and some have more infections.", "source": "Abbas p.315"},
+      {"key": "B", "text": "C3", "correct": false, "explanation": "C3 deficiency mainly causes frequent, serious, possibly fatal pyogenic infections; it is not the most common deficiency.", "source": "Abbas p.315"},
+      {"key": "C", "text": "C6", "correct": false, "explanation": "Terminal component deficiency causes Neisseria infection as the only consistent problem, not SLE.", "source": "Abbas p.315"},
+      {"key": "D", "text": "Factor I", "correct": false, "explanation": "Factor I deficiency depletes C3 and causes pyogenic infections; it is not the most common deficiency.", "source": "Abbas p.315"},
+      {"key": "E", "text": "Properdin", "correct": false, "explanation": "Properdin deficiency causes meningococcal infection, not an SLE-like illness.", "source": "Abbas p.315"}
+    ],
+    "fact_ids": ["M6-F001", "M6-F002", "M6-F005", "M6-F008", "M6-F017", "M6-F021", "M6-F013"]
+  },
+  {
+    "id": "M6-A3",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 7-year-old boy has had recurrent pneumonia and one episode of bacteraemia with pyogenic bacteria. Serum C3 is markedly low. Genetic testing shows a homozygous factor I mutation; the C3 gene is normal. What best explains the low C3?",
+    "options": [
+      {"key": "A", "text": "Reduced hepatic synthesis of C3", "correct": false, "explanation": "The C3 gene is normal; the sources explain the low C3 by consumption, not by reduced synthesis.", "source": "Abbas p.315"},
+      {"key": "B", "text": "An autoantibody that destroys C3", "correct": false, "explanation": "The autoantibody C3NeF stabilizes C3bBb; it does not destroy C3, and this boy has a genetic defect.", "source": "Abbas p.315"},
+      {"key": "C", "text": "Loss of GPI-anchored regulators on blood cells", "correct": false, "explanation": "Loss of GPI-anchored DAF and CD59 causes PNH with haemolysis, not C3 depletion.", "source": "Abbas p.315"},
+      {"key": "D", "text": "Uncontrolled fluid-phase C3 convertase that consumes C3", "correct": true, "explanation": "Without factor I, fluid-phase C3 convertase forms without control and depletes C3; the result is a de facto C3 deficiency with pyogenic infections.", "source": "Abbas p.315; Janeway p.533"},
+      {"key": "E", "text": "Failure of C1-INH to block C1r and C1s", "correct": false, "explanation": "Loss of C1-INH control causes consumption of C4 and C2 and HAE; C3 is expected to be normal in HAE.", "source": "Janeway p.67; HAE-GL p.6"}
+    ],
+    "fact_ids": ["M6-F020", "M6-F021", "M6-F022", "M6-F025", "M6-F030", "M6-F037", "M6-F061"]
+  },
+  {
+    "id": "M6-A4",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 16-year-old girl has recurrent painful abdominal attacks and swelling of the hands since age 11. Her father has similar episodes. Antihistamines did not help. She has no wheals. Which laboratory profile is most likely, if she has the most common form of hereditary angioedema?",
+    "options": [
+      {"key": "A", "text": "C1-INH function normal, C1-INH protein normal, C4 normal", "correct": false, "explanation": "Normal C1-INH level and function fit HAE with normal C1-INH, which is very rare.", "source": "HAE-GL p.6"},
+      {"key": "B", "text": "C1-INH function low, C1-INH protein normal or high, C4 low", "correct": false, "explanation": "This is HAE-2 (dysfunctional C1-INH), the less common form.", "source": "HAE-GL p.5"},
+      {"key": "C", "text": "C1-INH normal, C3 low, CH50 low", "correct": false, "explanation": "C3 and CH50 are expected to be normal in HAE and are usually not helpful.", "source": "HAE-GL p.6-7"},
+      {"key": "D", "text": "C1-INH function low, C1-INH protein low, C1q low", "correct": false, "explanation": "Low C1q points to acquired C1-INH deficiency; C1q is nearly always normal in HAE.", "source": "HAE-GL p.7"},
+      {"key": "E", "text": "C1-INH function low, C1-INH protein low, C4 low", "correct": true, "explanation": "HAE-1 is about 85% of patients and has low C1-INH concentration and function; C4 is usually low.", "source": "HAE-GL p.6"}
+    ],
+    "fact_ids": ["M6-F040", "M6-F041", "M6-F046", "M6-F060", "M6-F061", "M6-F065", "M6-F057"]
+  },
+  {
+    "id": "M6-A5",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 63-year-old man has had four episodes of facial and tongue swelling in 6 months. He has no family history of angioedema and no wheals. He takes no ACE inhibitor. C1-INH function, C1-INH protein and C4 are all low on two occasions. Which test is the most useful next step?",
+    "options": [
+      {"key": "A", "text": "Serum tryptase", "correct": false, "explanation": "The low C1-INH profile already points to a bradykinin-mediated, C1-INH-related angioedema; the guideline next step is C1q.", "source": "HAE-GL p.7"},
+      {"key": "B", "text": "Serum C1q", "correct": true, "explanation": "C1q is recommended in new-onset angioedema after age 40 without family history; C1q is low in 75% of AAE-C1-INH and nearly always normal in HAE.", "source": "HAE-GL p.7"},
+      {"key": "C", "text": "SERPING1 gene sequencing", "correct": false, "explanation": "Sequencing can support HAE diagnosis, but late onset without family history first needs C1q to look for acquired deficiency.", "source": "HAE-GL p.7"},
+      {"key": "D", "text": "C3 and CH50", "correct": false, "explanation": "C3 and CH50 are expected to be normal in HAE and are usually not helpful.", "source": "HAE-GL p.6-7"},
+      {"key": "E", "text": "F12 gene analysis", "correct": false, "explanation": "F12 mutations cause HAE with normal C1-INH; this patient has low C1-INH.", "source": "HAE-GL p.5-6"}
+    ],
+    "fact_ids": ["M6-F062", "M6-F063", "M6-F064", "M6-F065", "M6-F061", "M6-F042"]
+  },
+  {
+    "id": "M6-A6",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 29-year-old woman has recurrent lip and facial swellings lasting 2-3 days, without wheals. They became more frequent after she started a combined oral contraceptive. Her father has similar swellings. High-dose antihistamines did not help. C1-INH concentration and C1-INH function are normal on repeated testing. What is the most likely diagnosis?",
+    "options": [
+      {"key": "A", "text": "HAE-2 (dysfunctional C1-INH)", "correct": false, "explanation": "HAE-2 has low functional C1-INH; her function is normal.", "source": "HAE-GL p.5"},
+      {"key": "B", "text": "Acquired angioedema with C1-INH deficiency", "correct": false, "explanation": "AAE-C1-INH has low C1-INH function and protein, later onset and often low C1q.", "source": "HAE-GL p.7"},
+      {"key": "C", "text": "Hereditary angioedema with normal C1-INH", "correct": true, "explanation": "HAE nC1-INH (for example HAE-FXII) resembles HAE-1/2 clinically but C1-INH level and function are normal; the family history supports a hereditary form.", "source": "HAE-GL p.5-6"},
+      {"key": "D", "text": "ACE inhibitor-induced angioedema", "correct": false, "explanation": "ACEI-AE is bradykinin-mediated with normal C1-INH, but she takes no ACE inhibitor and has a family history.", "source": "HAE-GL p.6"},
+      {"key": "E", "text": "Mast cell-mediated angioedema of chronic spontaneous urticaria", "correct": false, "explanation": "Absence of wheals does not exclude CSU, but the family history and failure of antihistamines favour a hereditary bradykinin form.", "source": "HAE-GL p.7"}
+    ],
+    "fact_ids": ["M6-F041", "M6-F042", "M6-F044", "M6-F046", "M6-F063", "M6-F067", "M6-F074"]
+  },
+  {
+    "id": "M6-A7",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 35-year-old man with known HAE-1 comes to the emergency department 1 hour after onset of tongue swelling and a hoarse voice. He has no stridor yet. According to the 2017 WAO/EAACI guideline, what is the best management?",
+    "options": [
+      {"key": "A", "text": "Intramuscular adrenaline, IV antihistamine and IV glucocorticoid, then observe", "correct": false, "explanation": "Failure to respond to antihistamines, glucocorticoids or epinephrine is typical of HAE; the swelling is bradykinin-mediated.", "source": "HAE-GL p.6"},
+      {"key": "B", "text": "High-dose oral tranexamic acid and admission for observation", "correct": false, "explanation": "Antifibrinolytics show no or only minimal effect for on-demand treatment and are not advised.", "source": "HAE-GL p.8"},
+      {"key": "C", "text": "Start danazol and review the response after 24 hours", "correct": false, "explanation": "Androgens are not advised for on-demand treatment of attacks.", "source": "HAE-GL p.8"},
+      {"key": "D", "text": "Give C1-INH concentrate or icatibant at once and prepare early airway intervention", "correct": true, "explanation": "Treat any attack that affects the upper airway, as early as possible, with C1-INH, ecallantide or icatibant; consider intubation or surgical airway early if edema progresses.", "source": "HAE-GL p.7-8"},
+      {"key": "E", "text": "Observe without drugs because most attacks resolve without treatment", "correct": false, "explanation": "The guideline recommends treating any attack that affects or may affect the upper airway; laryngeal attacks are emergencies.", "source": "HAE-GL p.7-8"}
+    ],
+    "fact_ids": ["M6-F057", "M6-F076", "M6-F077", "M6-F078", "M6-F079", "M6-F080"]
+  },
+  {
+    "id": "M6-A8",
+    "module": "M6",
+    "type": "A",
+    "stem": "A 31-year-old woman with HAE-1 is 16 weeks pregnant. Her attacks have increased to three per month, with two abdominal attacks. She asks for long-term prophylaxis. According to the 2017 WAO/EAACI guideline, which option is preferred?",
+    "options": [
+      {"key": "A", "text": "Danazol at the lowest effective dose", "correct": false, "explanation": "Androgens are contraindicated in pregnancy because they cross the placenta.", "source": "HAE-GL p.13"},
+      {"key": "B", "text": "Icatibant twice weekly", "correct": false, "explanation": "Icatibant is an on-demand B2 receptor antagonist, not a long-term prophylactic drug; C1-INH is preferred in pregnancy.", "source": "HAE-GL p.8, p.13"},
+      {"key": "C", "text": "Ecallantide every 3 days", "correct": false, "explanation": "Ecallantide is an on-demand kallikrein inhibitor licensed only in the USA and needs a healthcare professional because of anaphylaxis risk.", "source": "HAE-GL p.8"},
+      {"key": "D", "text": "Tranexamic acid as first choice", "correct": false, "explanation": "Antifibrinolytics are not recommended for long-term prophylaxis; in pregnancy they may be considered only if C1-INH concentrate is unavailable.", "source": "HAE-GL p.10, p.13"},
+      {"key": "E", "text": "Plasma-derived C1-INH concentrate", "correct": true, "explanation": "C1-INH concentrate is the recommended first-line therapy in pregnancy and is safe and effective when long-term prophylaxis is needed; it is also first-line long-term prophylaxis in general.", "source": "HAE-GL p.9-10, p.12-13"}
+    ],
+    "fact_ids": ["M6-F083", "M6-F084", "M6-F091", "M6-F094", "M6-F098", "M6-F104"]
+  },
+  {
+    "id": "M6-K1",
+    "module": "M6",
+    "type": "KPRIM",
+    "stem": "Complement deficiencies and their phenotypes. Which of the following statements is/are correct?",
+    "options": [
+      {"key": "A", "text": "Deficiency of C5, C6, C7, C8 or C9 predisposes mainly to disseminated Neisseria infection.", "correct": true, "explanation": "Neisseria infection is the only consistent clinical problem in terminal component deficiency, because MAC lysis matters for these thin-walled bacteria.", "source": "Abbas p.315"},
+      {"key": "B", "text": "Properdin deficiency is inherited as an autosomal dominant trait.", "correct": false, "explanation": "Properdin deficiency is X-linked recessive.", "source": "Abbas p.315"},
+      {"key": "C", "text": "More than half of patients with C1q deficiency develop SLE.", "correct": true, "explanation": "More than 50% of patients with C1q, C2 or C4 deficiency develop SLE.", "source": "Abbas p.315"},
+      {"key": "D", "text": "MBL deficiency typically causes severe lifelong pyogenic infections similar to C3 deficiency.", "correct": false, "explanation": "MBL deficiency is common and may cause only a mild immunodeficiency with bacterial infections in early childhood.", "source": "Janeway p.533"}
+    ],
+    "fact_ids": ["M6-F017", "M6-F014", "M6-F002", "M6-F011", "M6-F012", "M6-F008"]
+  },
+  {
+    "id": "M6-K2",
+    "module": "M6",
+    "type": "KPRIM",
+    "stem": "Management of HAE-1/2 according to the WAO/EAACI guideline, 2017 revision. Which of the following statements is/are correct?",
+    "options": [
+      {"key": "A", "text": "Icatibant is a competitive antagonist of the bradykinin B2 receptor.", "correct": true, "explanation": "Icatibant is a synthetic peptide that selectively and competitively blocks the B2 receptor.", "source": "HAE-GL p.8"},
+      {"key": "B", "text": "C1-INH concentrate is the preferred short-term prophylaxis before a dental extraction.", "correct": true, "explanation": "Short-term prophylaxis is recommended before procedures that can induce an attack, preferably with C1-INH concentrate close to the procedure.", "source": "HAE-GL p.9"},
+      {"key": "C", "text": "Attenuated androgens are the recommended first-line long-term prophylaxis.", "correct": false, "explanation": "C1-INH is first-line long-term prophylaxis (Rec. 10); androgens are second line (Rec. 11).", "source": "HAE-GL p.9-10"},
+      {"key": "D", "text": "Every patient should have on-demand medication for two attacks and carry it at all times.", "correct": true, "explanation": "This is Recommendation 6.", "source": "HAE-GL p.8"}
+    ],
+    "fact_ids": ["M6-F084", "M6-F087", "M6-F088", "M6-F091", "M6-F092", "M6-F085"]
+  },
+  {
+    "id": "M6-K3",
+    "module": "M6",
+    "type": "KPRIM",
+    "stem": "Diseases caused by defective complement regulators. Which of the following statements is/are correct?",
+    "options": [
+      {"key": "A", "text": "PNH results from a germline PIG-A mutation inherited from a parent.", "correct": false, "explanation": "The PNH mutation is not inherited; it is an acquired somatic mutation in haematopoietic stem cells.", "source": "Abbas p.312"},
+      {"key": "B", "text": "Mutations in factor H, MCP or factor I predispose to atypical haemolytic uraemic syndrome.", "correct": true, "explanation": "Abbas names factor H as the most common mutated gene in aHUS, with MCP also mutated in many patients; Janeway adds factor I, and heterozygous mutations can predispose.", "source": "Abbas p.315; Janeway p.70"},
+      {"key": "C", "text": "Factor I deficiency causes secondary C3 depletion and pyogenic infections.", "correct": true, "explanation": "Uncontrolled fluid-phase C3 convertase depletes C3, which increases pyogenic infections.", "source": "Abbas p.315"},
+      {"key": "D", "text": "Factor H mainly regulates the classical pathway C3 convertase.", "correct": false, "explanation": "Factor H blocks only the binding of Bb to C3b, so it regulates the alternative pathway but not the classical pathway.", "source": "Abbas p.311"}
+    ],
+    "fact_ids": ["M6-F032", "M6-F030", "M6-F026", "M6-F028", "M6-F020", "M6-F021", "M6-F023"]
+  }
+]

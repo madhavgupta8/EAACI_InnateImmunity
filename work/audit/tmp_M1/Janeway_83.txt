@@ -1,0 +1,79 @@
+Pattern recognition by cells of the innate immune system
+
+second is to induce local blood clotting, which provides a physical barrier to
+the spread of the infection in the bloodstream. The third is to promote the
+repair of injured tissue.
+
+Inflammatory responses are operationally characterized by pain, redness,
+heat, and swelling at the site of an infection, reflecting four types of change
+in the local blood vessels, as shown in Fig. 3.6. The first is an increase in vas-
+cular diameter, leading to increased local blood flow—hence the heat and
+redness—and a reduction in the velocity of blood flow, especially along the
+inner walls of small blood vessels. The second change is that the endothe-
+lial cells lining the blood vessel are activated to express cell-adhesion mole-
+cules that promote the binding of circulating leukocytes. The combination of
+slowed blood flow and adhesion molecules allows leukocytes to attach to the
+endothelium and migrate into the tissues, a process known as extravasation.
+All these changes are initiated by the pro-inflammatory cytokines and chem-
+okines produced by activated macrophages.
+
+Once inflammation has begun, the first white blood cells attracted to the site
+
+are neutrophils. These are followed by monocytes, which differentiate into
+
+tissue macrophages (Fig. 3.7). Monocytes are also able to give rise to den-
+
+dritic cells in the tissues, depending on the precise signals that they receive
+
+from their environment: for example, the cytokine granulocyte-macrophage
+
+colony-stimulating factor (GM-CSF), together with interleukin 4 (IL-4), will
+
+induce monocytes to differentiate into dendritic cells, whereas macrophage
+
+colony-stimulating factor (M-CSF) induces their differentiation into macro-
+
+phages. In the later stages of inflammation, other leukocytes such as eosino- Fi - .
+
+. . . , ig. 3.6 Infection stimulates
+
+phils and lymphocytes (see Section 1-3) also enter the infected site. macrophages to release cytokines
+
+The third major change in local blood vessels is an increase in vascular per-  2%4 chemokines that initiate an
+inflammatory response. Cytokines
+
+meability. Thus, instead of being tightly joined together, the endothelial cells produced by tissue macrophages at the
+lining the blood vessel walls become separated, leading to an exit of fluid site of infection cause the dilation of
+and proteins from the blood and their local accumulation in the tissue. This local small blood vessels and changes
+accounts for the swelling, or edema, and pain—as well as the accumulation in the endothelial cells of their walls.
+
+in tissues of plasma proteins such as complement and MBL that aid in host These changes lead to the movement
+defense. The changes that occur in endothelium as a result of inflammation _°f leukocytes, such as neutrophils and
+are known generally as endothelial activation. The fourth change, clottingin _ Tn0cytes, out of the blood vessel
+
++ . : + . : (extravasation) and into the infected
+microvessels in the site of infection, prevents the spread of the pathogen via tissue, guided by chemokines produced
+
+the blood. by the activated macrophages. The blood
+
+These changes are induced by a variety of inflammatory mediators released as USS eee eecome more pommecie:
+allowing plasma proteins and fluid to leak
+
+a consequence of the recognition of pathogens by macrophages, and later by into the tissues. Together, these changes
+neutrophils and other white blood cells. Both macrophages and neutrophils cause the characteristic inflammatory
+secrete lipid mediators of inflammation—prostaglandins, leukotrienes, and signs of heat, pain, redness, and swelling
+platelet-activating factor (PAF)—which are rapidly produced by enzymatic at the site of infection.
+
+Leukocytes move to periphery of
+
+es Gee of eco vessel ey a ean Leukocytes extravasate at site of Blood clotting occurs in the
+expression of adhesion infection microvessels
+
+local small blood vessels molecules by endothelium '
+
+S
+
+Ke) | RD | ese
+
+
+

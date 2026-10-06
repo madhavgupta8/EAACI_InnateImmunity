@@ -1,0 +1,103 @@
+Induced innate responses to infection
+
+111
+
+Bacteria induce macrophages to produce
+IL-6, which acts on hepatocytes to induce
+synthesis of acute-phase proteins
+
+IL-6
+
+SP-A
+SP-D
+
+A
+A
+
+mannose-
+
+a binding lectin
+© fibrinogen
+
+serum C-reactive
+amyloid protein Protein
+
+mat
+
+< =
+
+C-reactive protein binds phosphocholine
+on bacterial surfaces, acting as an
+opsonin, and also activating complement
+
+Mannose-binding lectin binds mannose
+residues on bacterial surfaces, acting as an
+opsonin, and also activating complement
+
+% =
+
+being developed. As shown in Fig. 3.27, TNF-a also has a role in stimulating
+the migration of dendritic cells from their sites in peripheral tissues to the
+lymph node and in their maturation into nonphagocytic but highly co-stimu-
+latory antigen-presenting cells.
+
+3-19 Interferons induced by viral infection make several contributions
+
+to host defense.
+
+Virus infection induces the production of interferons, which were originally
+called this because of their ability to interfere with viral replication in previ-
+ously uninfected tissue culture cells. They are believed to have a similar role in
+vivo, blocking the spread of viruses to uninfected cells. There are two classes
+of antiviral, or type I, interferons, IFN-o, which is a family of several closely
+related proteins, and IFN-f, the product of a single gene. The type I interfer-
+ons are synthesized by many cell types after infection by diverse viruses.
+
+Almost all types of cells can produce IFN-« and IFN-f, but some cells seem
+to be specialized for the task. In Section 3-1 we introduced the plasmacytoid
+dendritic cell (pDC). Also called interferon-producing cells (IPCs) or natu-
+ral interferon-producing cells, human plasmacytoid dendritic cells were
+initially recognized as rare peripheral blood cells that accumulate in periph-
+eral lymphoid tissues during a viral infection and make abundant type I
+interferons (IFN-o and IFN-B)—up to 1000 times more than other cell types.
+Plasmacytoid dendritic cells express CXCR3, a receptor for the chemokines
+CXCL9, CXCL10, and CXCL11, which are produced by T cells. This means
+that pDCs can migrate from the blood into lymph nodes in which there is an
+ongoing inflammatory response to a pathogen. Their abundant production of
+type I interferon may not be due to a greater capacity for production as such,
+but because they efficiently couple viral recognition by TLRs to the produc-
+tion of interferon (see Section 3-7). Type I interferons are also induced by the
+
+Serum amyloid protein
+
+Fig. 3.28 The acute-phase response
+produces molecules that bind
+pathogens but not host cells. Acute-
+phase proteins are produced by liver
+cells in response to cytokines released by
+macrophages in the presence of bacteria.
+They include serum amyloid protein (SAP)
+(in mice but not humans), C-reactive
+protein (CRP), fibrinogen, and mannose-
+binding lectin (MBL). SAP and CRP
+
+are homologous in structure; both are
+pentraxins, forming five-membered discs,
+as shown for SAP (right panel). CRP binds
+phosphocholine on certain bacterial and
+fungal surfaces but does not recognize it
+in the form in which it is found in host cell
+membranes. It both acts as an opsonin in
+its own right and activates the classical
+complement pathway by binding C1q to
+augment opsonization. MBL is a member
+of the collectin family, which also includes
+the pulmonary surfactant proteins SP-A
+and SP-D. Like CRP, MBL can act as an
+opsonin in its own right, as can SP-A
+
+and SP-D. Model structure courtesy of
+
+J. Emsley.
+
+

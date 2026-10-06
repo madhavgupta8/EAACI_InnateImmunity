@@ -1,0 +1,244 @@
+[
+  {
+    "id": "M1-A1",
+    "module": "M1",
+    "type": "A",
+    "stem": "A 19-year-old man with cystic fibrosis has repeated lower-airway bacterial infections. Sputum cultures grow bacteria that colonize the airway surface. Blood cultures stay negative and there is no evidence of tissue invasion. Which failure of innate defense best explains this pattern?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Loss of tight junctions between airway epithelial cells",
+        "correct": false,
+        "explanation": "Tight junctions block passage of microbes between cells. Their loss would favor invasion, but these bacteria do not cross the epithelium.",
+        "source": "Abbas p.80; Janeway p.44"
+      },
+      {
+        "key": "B",
+        "text": "Absent alpha-defensin production by Paneth cells",
+        "correct": false,
+        "explanation": "Paneth cells sit in the crypts of the small bowel. They are not the airway defense that fails in cystic fibrosis.",
+        "source": "Abbas p.80"
+      },
+      {
+        "key": "C",
+        "text": "Deficient histatin secretion by the salivary glands",
+        "correct": false,
+        "explanation": "Histatins come from the parotid, sublingual and submandibular glands and act mainly against fungi such as Candida.",
+        "source": "Janeway p.46"
+      },
+      {
+        "key": "D",
+        "text": "Impaired mucus clearance by ciliary action",
+        "correct": true,
+        "explanation": "In cystic fibrosis, thick mucus or impaired ciliary movement causes lung infections by bacteria that colonize the epithelial surface but do not cross it.",
+        "source": "Janeway p.44; Abbas p.80"
+      },
+      {
+        "key": "E",
+        "text": "Lack of intraepithelial T lymphocytes with limited TCR diversity",
+        "correct": false,
+        "explanation": "Intraepithelial T cells are a normal barrier component. Cystic fibrosis is the textbook example of failed mucus flow, not of absent intraepithelial lymphocytes.",
+        "source": "Abbas p.80; Janeway p.44"
+      }
+    ],
+    "fact_ids": [
+      "M1-F030",
+      "M1-F034",
+      "M1-F045",
+      "M1-F052",
+      "M1-F033",
+      "M1-F054"
+    ]
+  },
+  {
+    "id": "M1-A2",
+    "module": "M1",
+    "type": "A",
+    "stem": "A 35-year-old man is admitted with community-acquired pneumonia. On day 2 his temperature is 39.2 °C, his blood neutrophil count is raised, and his serum C-reactive protein (CRP) is many times above the upper reference limit. Which mechanism best explains the raised CRP?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Plasma cells secrete CRP as an early, antigen-specific antibody",
+        "correct": false,
+        "explanation": "CRP is an acute-phase protein from the liver. Acute-phase proteins have no structural diversity and are induced nonspecifically, unlike antibodies.",
+        "source": "Janeway p.110; Abbas p.97"
+      },
+      {
+        "key": "B",
+        "text": "Hepatocytes increase CRP synthesis in response to IL-6, IL-1 and TNF",
+        "correct": true,
+        "explanation": "IL-6, IL-1 and TNF from phagocytes and DCs increase CRP synthesis by liver cells; plasma CRP can rise up to 1000-fold in infection.",
+        "source": "Abbas p.88; Abbas p.97"
+      },
+      {
+        "key": "C",
+        "text": "Neutrophils release preformed CRP stored in their granules",
+        "correct": false,
+        "explanation": "The long pentraxin PTX3, not CRP, is stored in neutrophil granules. CRP is made by hepatocytes.",
+        "source": "Abbas p.87; Abbas p.88"
+      },
+      {
+        "key": "D",
+        "text": "Macrophage IL-10 drives hepatic CRP production",
+        "correct": false,
+        "explanation": "IL-10 is a negative-feedback cytokine that inhibits macrophages and DCs. It does not drive the acute-phase response.",
+        "source": "Abbas p.101"
+      },
+      {
+        "key": "E",
+        "text": "The hypothalamus secretes CRP as part of the febrile response",
+        "correct": false,
+        "explanation": "TNF and IL-1 act on the hypothalamus to cause fever. CRP comes from hepatocytes, not from the hypothalamus.",
+        "source": "Abbas p.96; Abbas p.97"
+      }
+    ],
+    "fact_ids": [
+      "M1-F104",
+      "M1-F096",
+      "M1-F097",
+      "M1-F099",
+      "M1-F124",
+      "M1-F089",
+      "M1-F127"
+    ]
+  },
+  {
+    "id": "M1-A3",
+    "module": "M1",
+    "type": "A",
+    "stem": "A vaccine team tests a purified recombinant protein antigen in healthy volunteers. Alone, the protein induces only weak T cell–dependent antibody responses. When the team adds an aluminium salt, the responses become strong. What is the main reason for this effect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium increases the diversity of B-cell receptor genes",
+        "correct": false,
+        "explanation": "Receptor diversity comes from somatic recombination of gene segments in lymphocytes, not from adjuvants.",
+        "source": "Abbas p.4"
+      },
+      {
+        "key": "B",
+        "text": "Aluminium cross-links the T-cell receptor and so replaces signal 1",
+        "correct": false,
+        "explanation": "Signal 1 is antigen recognition. Adjuvants act on the innate side and increase MHC molecules and costimulators on DCs.",
+        "source": "Abbas p.100; Abbas p.101"
+      },
+      {
+        "key": "C",
+        "text": "Aluminium blocks IL-10 negative feedback in macrophages",
+        "correct": false,
+        "explanation": "IL-10 is a negative-feedback regulator of macrophages and DCs. The sources describe adjuvant action as innate stimulation, not IL-10 blockade.",
+        "source": "Abbas p.101"
+      },
+      {
+        "key": "D",
+        "text": "Aluminium induces memory in innate cells, so later responses are faster",
+        "correct": false,
+        "explanation": "Innate memory is limited, and innate responses to repeated exposure are usually the same as the first.",
+        "source": "Abbas p.4"
+      },
+      {
+        "key": "E",
+        "text": "Aluminium activates innate responses that make DCs express costimulators and cytokines (signal 2)",
+        "correct": true,
+        "explanation": "Aluminium salts may act by inflammasome activation. Adjuvants make DCs express more MHC, costimulators (signal 2) and cytokines, and migrate to lymph nodes.",
+        "source": "Abbas p.101"
+      }
+    ],
+    "fact_ids": [
+      "M1-F007",
+      "M1-F112",
+      "M1-F120",
+      "M1-F124",
+      "M1-F118",
+      "M1-F008",
+      "M1-F011"
+    ]
+  },
+  {
+    "id": "M1-K1",
+    "module": "M1",
+    "type": "KPRIM",
+    "stem": "Innate recognition and the epithelial barrier. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Innate immune receptors are germline-encoded and distributed nonclonally: all cells of one lineage carry identical receptors.",
+        "correct": true,
+        "explanation": "Correct. Innate receptors are germline-encoded and nonclonal; adaptive receptors are clonal.",
+        "source": "Abbas p.63; Abbas p.64"
+      },
+      {
+        "key": "B",
+        "text": "Lysozyme is more effective against Gram-negative than Gram-positive bacteria because it cleaves lipopolysaccharide.",
+        "correct": false,
+        "explanation": "Incorrect. Lysozyme cleaves peptidoglycan and is more effective against Gram-positive bacteria. In Gram-negative bacteria, LPS covers the peptidoglycan.",
+        "source": "Janeway p.45"
+      },
+      {
+        "key": "C",
+        "text": "Paneth cells in the crypts of the small bowel are a major source of alpha-defensins.",
+        "correct": true,
+        "explanation": "Correct. Paneth cells are a major producer of alpha-defensins.",
+        "source": "Abbas p.80"
+      },
+      {
+        "key": "D",
+        "text": "Human neutrophils produce functional theta-defensins as their main antimicrobial peptide.",
+        "correct": false,
+        "explanation": "Incorrect. The single human theta-defensin gene is inactivated by a mutation.",
+        "source": "Janeway p.46"
+      }
+    ],
+    "fact_ids": [
+      "M1-F017",
+      "M1-F024",
+      "M1-F040",
+      "M1-F045",
+      "M1-F047"
+    ]
+  },
+  {
+    "id": "M1-K2",
+    "module": "M1",
+    "type": "KPRIM",
+    "stem": "Systemic effects of innate cytokines. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Endogenous pyrogens induce cyclooxygenase-2 to make prostaglandin E2, which acts on the hypothalamus; aspirin reduces fever by blocking prostaglandin synthesis.",
+        "correct": true,
+        "explanation": "Correct. TNF, IL-1 and IL-6 induce COX-2 and PGE2; prostaglandin synthesis inhibitors such as aspirin reduce fever.",
+        "source": "Janeway p.109; Abbas p.97"
+      },
+      {
+        "key": "B",
+        "text": "Acute-phase proteins have broad specificity for microbial patterns but no structural diversity.",
+        "correct": true,
+        "explanation": "Correct. Acute-phase proteins have broad specificity for PAMPs and antibody-like functions, but no structural diversity; they are induced nonspecifically.",
+        "source": "Janeway p.109; Janeway p.110"
+      },
+      {
+        "key": "C",
+        "text": "Anti-TNF antibodies have shown a clear survival benefit in clinical trials in patients with sepsis.",
+        "correct": false,
+        "explanation": "Incorrect. Anti-TNF antibodies and soluble TNF receptors have not shown benefit in patients with sepsis.",
+        "source": "Abbas p.97"
+      },
+      {
+        "key": "D",
+        "text": "TNF blockade can reactivate tuberculosis, which shows the role of TNF in keeping infection local.",
+        "correct": true,
+        "explanation": "Correct. TNF blockade can reactivate tuberculosis in apparently well patients with previous infection.",
+        "source": "Janeway p.109; Abbas p.94"
+      }
+    ],
+    "fact_ids": [
+      "M1-F091",
+      "M1-F090",
+      "M1-F104",
+      "M1-F109",
+      "M1-F111",
+      "M1-F088"
+    ]
+  }
+]

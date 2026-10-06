@@ -1,0 +1,477 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.475
+Complement looks like alphabet soup.
+
+2
+00:00:02.525 --> 00:00:04.861
+But it follows a few simple rules.
+
+3
+00:00:04.911 --> 00:00:08.298
+Learn them, and complement questions become easy.
+
+4
+00:00:08.667 --> 00:00:11.433
+Complement is a major effector mechanism of
+
+5
+00:00:11.483 --> 00:00:14.118
+antibody immunity and of innate immunity.
+
+6
+00:00:14.168 --> 00:00:17.065
+Its proteases circulate as inactive zymogens.
+
+7
+00:00:17.115 --> 00:00:21.191
+A zymogen becomes active only when another protease cleaves it.
+
+8
+00:00:21.567 --> 00:00:26.128
+Each active protease cleaves many molecules of the next zymogen.
+
+9
+00:00:26.178 --> 00:00:28.866
+So the signal amplifies at every step.
+
+10
+00:00:28.916 --> 00:00:31.316
+Think of it like falling dominoes.
+
+11
+00:00:31.667 --> 00:00:33.546
+Two naming rules help.
+
+12
+00:00:33.596 --> 00:00:38.018
+The larger fragment gets b, and the smaller gets a.
+
+13
+00:00:38.068 --> 00:00:42.402
+C2 is the exception: the large C2a stays attached.
+
+14
+00:00:42.452 --> 00:00:46.348
+And the numbers follow discovery, not action.
+
+15
+00:00:46.398 --> 00:00:51.522
+So the classical sequence is C1, C4, C2, C3, then C5 to C9.
+
+16
+00:00:51.900 --> 00:00:53.929
+Three pathways start complement.
+
+17
+00:00:53.979 --> 00:00:57.698
+The classical pathway starts on antibody bound to antigen.
+
+18
+00:00:57.748 --> 00:01:01.661
+The lectin pathway starts when lectins bind microbial sugars.
+
+19
+00:01:01.711 --> 00:01:06.209
+The alternative pathway starts on microbial surfaces without antibody.
+
+20
+00:01:06.259 --> 00:01:09.848
+Janeway notes that all three can start without antibody.
+
+21
+00:01:10.200 --> 00:01:13.424
+All three lead to one central event.
+
+22
+00:01:13.474 --> 00:01:17.426
+A C3 convertase cleaves C3 into C3a and C3b.
+
+23
+00:01:17.476 --> 00:01:21.337
+C3b binds covalently to the target surface.
+
+24
+00:01:21.387 --> 00:01:28.977
+If it finds no surface nearby, its thioester is hydrolyzed and C3b becomes inactive.
+
+25
+00:01:29.333 --> 00:01:33.336
+Host cells carry regulatory proteins that inhibit complement.
+
+26
+00:01:33.386 --> 00:01:34.598
+Microbes lack them.
+
+27
+00:01:34.648 --> 00:01:38.385
+So activation proceeds on microbes, not on our own cells.
+
+28
+00:01:38.767 --> 00:01:41.226
+Now the classical pathway.
+
+29
+00:01:41.276 --> 00:01:46.727
+C1q binds antibody, and C1r and C1s are serine proteases.
+
+30
+00:01:46.777 --> 00:01:52.229
+C1q binds the CH2 domain of IgG or the CH3 domain of IgM.
+
+31
+00:01:52.279 --> 00:01:59.564
+It must bind at least two heavy chains, so free antibody cannot activate C1.
+
+32
+00:01:59.933 --> 00:02:03.906
+One antigen-bound IgM can bind two or more
+
+33
+00:02:03.956 --> 00:02:08.216
+C1q, so IgM fixes complement better than IgG.
+
+34
+00:02:08.266 --> 00:02:15.974
+IgG1 and IgG3 are efficient, IgG2 is weak, and IgG4 does not activate complement.
+
+35
+00:02:16.333 --> 00:02:21.420
+C1q activates C1r, and C1r activates C1s.
+
+36
+00:02:21.470 --> 00:02:26.682
+C1s cleaves C4, and C4b binds the surface.
+
+37
+00:02:26.732 --> 00:02:30.817
+C2 binds C4b, and C1s cleaves it.
+
+38
+00:02:30.867 --> 00:02:36.956
+C4b2a forms, the classical pathway C3 convertase.
+
+39
+00:02:37.333 --> 00:02:42.159
+The lectin pathway is the classical pathway's twin.
+
+40
+00:02:42.209 --> 00:02:48.565
+Mannose-binding lectin, or MBL, and ficolins bind microbial sugars.
+
+41
+00:02:48.615 --> 00:02:52.771
+MASP2 then cleaves C4 and C2, just like C1s.
+
+42
+00:02:52.821 --> 00:02:58.316
+So the lectin pathway forms the same C3 convertase, C4b2a.
+
+43
+00:02:58.667 --> 00:03:02.291
+The alternative pathway never fully sleeps.
+
+44
+00:03:02.341 --> 00:03:07.931
+Plasma C3 is cleaved spontaneously, about 1 to 2 percent per hour.
+
+45
+00:03:07.981 --> 00:03:09.725
+This is C3 tick-over.
+
+46
+00:03:09.775 --> 00:03:15.023
+The product, C3(H2O), binds factor B, and factor D cleaves it.
+
+47
+00:03:15.073 --> 00:03:18.953
+A short-lived fluid-phase C3 convertase forms.
+
+48
+00:03:19.003 --> 00:03:26.046
+Factor D is the only activating complement protease that circulates already active.
+
+49
+00:03:26.400 --> 00:03:32.320
+On a surface, C3b binds factor B, and factor D cleaves it.
+
+50
+00:03:32.370 --> 00:03:38.599
+Bb stays, and C3bBb is the alternative pathway C3 convertase.
+
+51
+00:03:38.649 --> 00:03:44.466
+Properdin stabilizes C3bBb, mainly on microbial surfaces.
+
+52
+00:03:44.516 --> 00:03:50.539
+Note the twins: C3 is homologous to C4, and factor B to C2.
+
+53
+00:03:50.900 --> 00:03:56.590
+Each C3bBb makes more C3b, and each new C3b builds more C3bBb.
+
+54
+00:03:56.640 --> 00:04:01.867
+So this loop amplifies complement started by any pathway.
+
+55
+00:04:01.917 --> 00:04:04.737
+Think of it like a pilot light.
+
+56
+00:04:04.787 --> 00:04:10.199
+On a bacterium, nothing blows it out, so it becomes a fire.
+
+57
+00:04:10.567 --> 00:04:17.579
+Add one more C3b to a C3 convertase, and you get a C5 convertase.
+
+58
+00:04:17.629 --> 00:04:20.838
+Classical and lectin: C4b2a3b.
+
+59
+00:04:20.888 --> 00:04:27.575
+Alternative: one Bb with two C3b, which Janeway writes C3b2Bb.
+
+60
+00:04:27.625 --> 00:04:30.400
+C2a or Bb then cleaves C5.
+
+61
+00:04:30.767 --> 00:04:35.225
+C5b starts the membrane attack complex, or MAC.
+
+62
+00:04:35.275 --> 00:04:40.597
+Unlike C3b, C5b does not bind covalently to the surface.
+
+63
+00:04:40.647 --> 00:04:46.065
+C5b binds C6 and C7, and C5b-7 inserts into the membrane.
+
+64
+00:04:46.115 --> 00:04:49.038
+C8 joins and makes small pores.
+
+65
+00:04:49.088 --> 00:04:53.835
+Binding of the first C9 is the rate-limiting step.
+
+66
+00:04:54.200 --> 00:04:58.331
+More C9 molecules polymerize to finish the pore, C5b-9.
+
+67
+00:04:58.381 --> 00:05:02.588
+Abbas says up to 18 C9 molecules; Janeway says 10 to 16.
+
+68
+00:05:02.638 --> 00:05:06.009
+Water enters, and the cell swells and bursts.
+
+69
+00:05:06.059 --> 00:05:11.939
+But lysis matters against only a few pathogens, such as thin-walled Neisseria.
+
+70
+00:05:12.300 --> 00:05:19.919
+The most important job of complement is to help phagocytes take up pathogens.
+
+71
+00:05:19.969 --> 00:05:24.301
+C3b and C4b bind complement receptor 1, CR1.
+
+72
+00:05:24.351 --> 00:05:28.982
+iC3b, a cleaved form of C3b, binds CR3 and CR4.
+
+73
+00:05:29.032 --> 00:05:33.564
+CR1 alone triggers phagocytosis inefficiently.
+
+74
+00:05:33.614 --> 00:05:37.249
+But iC3b on CR3 is enough on its own.
+
+75
+00:05:37.600 --> 00:05:38.697
+A clinical link.
+
+76
+00:05:38.747 --> 00:05:42.497
+IgM against capsules activates the classical pathway,
+
+77
+00:05:42.547 --> 00:05:46.153
+and the spleen clears pneumococci and meningococci.
+
+78
+00:05:46.203 --> 00:05:49.307
+So people without a spleen risk disseminated
+
+79
+00:05:49.357 --> 00:05:52.318
+pneumococcal and meningococcal septicemia.
+
+80
+00:05:52.700 --> 00:06:00.891
+The small fragments C3a, C4a and C5a degranulate mast cells and release histamine.
+
+81
+00:06:00.941 --> 00:06:03.705
+We call them anaphylatoxins.
+
+82
+00:06:03.755 --> 00:06:06.016
+C5a is the most potent.
+
+83
+00:06:06.066 --> 00:06:12.046
+C3a is about 20-fold weaker, and C4a about 2500-fold weaker.
+
+84
+00:06:12.400 --> 00:06:16.488
+C3a and C5a can degranulate mast cells without IgE.
+
+85
+00:06:16.538 --> 00:06:21.763
+C5a also attracts eosinophils and stimulates neutrophil motility.
+
+86
+00:06:21.813 --> 00:06:26.551
+Large systemic amounts of anaphylatoxins cause a shock-like
+
+87
+00:06:26.601 --> 00:06:30.608
+syndrome, similar to a systemic allergic reaction.
+
+88
+00:06:30.967 --> 00:06:34.085
+Complement also helps adaptive immunity.
+
+89
+00:06:34.135 --> 00:06:40.421
+CR1 on red cells carries immune complexes to the liver and spleen for clearance.
+
+90
+00:06:40.471 --> 00:06:46.045
+And C3d on an antigen binds CR2 on B cells and helps B-cell activation.
+
+91
+00:06:46.400 --> 00:06:47.624
+Now the brakes.
+
+92
+00:06:47.674 --> 00:06:53.912
+C3b cannot tell a host cell from a pathogen, so our cells need regulators.
+
+93
+00:06:53.962 --> 00:06:58.160
+They act at three levels: C3 convertase formation,
+
+94
+00:06:58.210 --> 00:07:01.559
+the convertases themselves, and the MAC.
+
+95
+00:07:01.933 --> 00:07:06.362
+At the start sits C1 inhibitor, or C1-INH, a serpin.
+
+96
+00:07:06.412 --> 00:07:11.357
+It removes C1r and C1s from C1q, and it inactivates MASP2.
+
+97
+00:07:11.407 --> 00:07:18.161
+It also inhibits kallikrein and factor XII, which promote bradykinin formation.
+
+98
+00:07:18.211 --> 00:07:22.208
+C1-INH deficiency causes hereditary angioedema.
+
+99
+00:07:22.567 --> 00:07:29.472
+At the convertases, decay accelerators pull the enzyme apart.
+
+100
+00:07:29.522 --> 00:07:34.717
+DAF, or CD55, dissociates both C3 convertases.
+
+101
+00:07:34.767 --> 00:07:41.444
+Factor H displaces Bb, and C4-binding protein displaces C2.
+
+102
+00:07:41.494 --> 00:07:44.295
+Factor I is the scissors.
+
+103
+00:07:44.345 --> 00:07:53.759
+It cuts C3b and C4b only with a cofactor: factor H, MCP, C4-binding protein or CR1.
+
+104
+00:07:54.133 --> 00:08:02.553
+At the MAC, CD59, or protectin, joins the complex after C5b-8 and blocks C9.
+
+105
+00:08:02.603 --> 00:08:10.354
+In plasma, S protein binds soluble C5b-7 and protects bystander cells.
+
+106
+00:08:10.404 --> 00:08:15.257
+Loss of GPI anchors removes DAF and CD59 and
+
+107
+00:08:15.307 --> 00:08:20.049
+causes paroxysmal nocturnal hemoglobinuria.
+
+108
+00:08:20.400 --> 00:08:22.685
+Five things to remember.
+
+109
+00:08:22.735 --> 00:08:26.966
+One: three pathways converge on C3 cleavage.
+
+110
+00:08:27.016 --> 00:08:34.555
+Two: classical and lectin make C4b2a, and the alternative pathway makes C3bBb.
+
+111
+00:08:34.605 --> 00:08:39.323
+Three: the alternative loop amplifies everything.
+
+112
+00:08:39.373 --> 00:08:43.312
+Four: C3b opsonizes, C5a is the strongest
+
+113
+00:08:43.362 --> 00:08:47.496
+anaphylatoxin, and the MAC lyses Neisseria.
+
+114
+00:08:47.546 --> 00:08:51.096
+Five: regulators act at three levels.
+
+115
+00:08:51.467 --> 00:08:52.599
+One exam trap.
+
+116
+00:08:52.649 --> 00:08:56.651
+Factor H regulates only the alternative pathway.
+
+117
+00:08:56.701 --> 00:08:59.521
+It does not displace C2a from C4b.
+
+118
+00:08:59.571 --> 00:09:03.489
+The plasma brake for C4b is C4-binding protein.
+
+119
+00:09:03.539 --> 00:09:08.217
+Next: complement deficiencies and hereditary angioedema.

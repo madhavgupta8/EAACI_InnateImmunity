@@ -1,0 +1,364 @@
+{
+ "id": "V3",
+ "slug": "prrs-signalling",
+ "title": "How cells sense danger: PRRs & signalling",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "How does a cell know that danger is near? It uses pattern recognition receptors. For the exam, learn three things per receptor: what it sees, where it sits, and what signal it sends.",
+   "no_facts_reason": "Hook and orientation; no factual claim.",
+   "visual": "Title card, then three question words: what? where? which signal?"
+  },
+  {
+   "id": "b02",
+   "text": "Innate cells recognize molecules that whole classes of microbes share. These are pathogen-associated molecular patterns, or PAMPs. Typical PAMPs are LPS, lipoteichoic acid, unmethylated CpG DNA, and viral double-stranded RNA.",
+   "facts": [
+    "M3-F001",
+    "M3-F002"
+   ],
+   "visual": "PAMP header; bacterium and virus icons with PAMP labels.",
+   "say": "Innate cells recognize molecules that whole classes of microbes share. These are pathogen-associated molecular patterns, or pamps. Typical pamps are L P S, lipoteichoic acid, unmethylated C p G D N A, and viral double-stranded R N A."
+  },
+  {
+   "id": "b03",
+   "text": "Damaged or dying cells release damage-associated molecular patterns, or DAMPs. Examples are heat shock proteins, urate crystals, extracellular ATP and HMGB1. DAMPs signal sterile injury, such as burns, trauma or ischaemia.",
+   "facts": [
+    "M3-F003",
+    "M3-F004"
+   ],
+   "visual": "Damaged host cell releases DAMP labels (pink).",
+   "say": "Damaged or dying cells release damage-associated molecular patterns, or damps. Examples are heat shock proteins, urate crystals, extracellular A T P and H M G B 1. damps signal sterile injury, such as burns, trauma or ischaemia."
+  },
+  {
+   "id": "b04",
+   "text": "The receptors for PAMPs and DAMPs are pattern recognition receptors, or PRRs. They sit on the cell surface, in endosomes and in the cytosol. Soluble recognition molecules circulate in blood and secretions.",
+   "facts": [
+    "M3-F005"
+   ],
+   "visual": "D7 PRR map builds: big cell with surface, endosome, cytosol zones; soluble zone outside.",
+   "say": "The receptors for pamps and damps are pattern recognition receptors, or P R Rs. They sit on the cell surface, in endosomes and in the cytosol. Soluble recognition molecules circulate in blood and secretions."
+  },
+  {
+   "id": "b05",
+   "text": "Think of it like smoke detectors in different rooms of a house. One on the outside wall sees bacterial walls. One in the waste room sees digested microbes. One in the living room sees invaders that broke in.",
+   "no_facts_reason": "Analogy for the PRR location map already cited in b04.",
+   "visual": "Rooms labels appear over the three zones of the cell map."
+  },
+  {
+   "id": "b06",
+   "text": "The best-known PRRs are the Toll-like receptors, or TLRs. Humans have ten, TLR1 to TLR10. Each TLR tail carries a TIR domain, which the IL-1, IL-18 and IL-33 receptors share.",
+   "facts": [
+    "M3-F006",
+    "M3-F008"
+   ],
+   "visual": "TLR drawn as membrane receptor with TIR tail; IL-1R/IL-18R/IL-33R share it.",
+   "say": "The best-known P R Rs are the Toll-like receptors, or T L Rs. Humans have ten, T L R 1 to T L R 10. Each T L R tail carries a T I R domain, which the I L 1, I L 18 and I L 33 receptors share."
+  },
+  {
+   "id": "b07",
+   "text": "Location splits the TLRs into two groups. TLR1, 2, 4, 5 and 6 sit on the plasma membrane and see bacterial and fungal PAMPs. TLR3, 7, 8 and 9 sit mainly in endosomes and detect nucleic acids. Host RNA does not normally reach endosomes, so location helps tell microbe from self.",
+   "facts": [
+    "M3-F009",
+    "M3-F010",
+    "M3-F011"
+   ],
+   "visual": "Cell: surface TLR row on membrane, endosome with TLR3/7/8/9.",
+   "say": "Location splits the T L Rs into two groups. T L R 1, 2, 4, 5 and 6 sit on the plasma membrane and see bacterial and fungal pamps. T L R 3, 7, 8 and 9 sit mainly in endosomes and detect nucleic acids. Host R N A does not normally reach endosomes, so location helps tell microbe from self."
+  },
+  {
+   "id": "b08",
+   "text": "Now the surface ligands. LPS of gram-negative bacteria binds TLR4. Peptidoglycan and lipoteichoic acid of gram-positive bacteria bind TLR2. TLR2 pairs with TLR1 or TLR6 to bind lipopeptides. Flagellin of motile bacteria binds TLR5.",
+   "facts": [
+    "M3-F012",
+    "M3-F013",
+    "M3-F019"
+   ],
+   "visual": "Ligand → TLR table builds for surface TLRs.",
+   "say": "Now the surface ligands. L P S of gram-negative bacteria binds T L R 4. Peptidoglycan and lipoteichoic acid of gram-positive bacteria bind T L R 2. T L R 2 pairs with T L R 1 or T L R 6 to bind lipopeptides. Flagellin of motile bacteria binds T L R 5."
+  },
+  {
+   "id": "b09",
+   "text": "TLR4 needs helpers to see LPS. First, LPS binds soluble LPS-binding protein. CD14 is also needed for efficient signalling. Then the accessory protein MD2 binds lipid A, and the complex engages TLR4.",
+   "facts": [
+    "M3-F020",
+    "M3-F021"
+   ],
+   "visual": "Chain LPS → LBP → CD14 → MD2 → TLR4.",
+   "say": "T L R 4 needs helpers to see L P S. First, L P S binds soluble L P S-binding protein. C D 14 is also needed for efficient signalling. Then the accessory protein M D 2 binds lipid A, and the complex engages T L R 4."
+  },
+  {
+   "id": "b10",
+   "text": "In the endosome, TLR3 binds double-stranded RNA, and TLR7 and TLR8 bind viral single-stranded RNA. TLR9 binds unmethylated CpG DNA. Our own CpG is heavily methylated, so it stays silent. Plasmacytoid dendritic cells and B cells express TLR9.",
+   "facts": [
+    "M3-F014",
+    "M3-F015",
+    "M3-F016",
+    "M3-F017"
+   ],
+   "visual": "Endosomal ligand table; methylated CpG crossed out.",
+   "say": "In the endosome, T L R 3 binds double-stranded R N A, and T L R 7 and T L R 8 bind viral single-stranded R N A. T L R 9 binds unmethylated C p G D N A. Our own C p G is heavily methylated, so it stays silent. Plasmacytoid dendritic cells and B cells express T L R 9."
+  },
+  {
+   "id": "b11",
+   "text": "After ligand binding, the TLR recruits adaptor proteins: MyD88, MAL, TRIF and TRAM. Learn three sentences. Every TLR except TLR3 uses MyD88. Only TLR3 and TLR4 use TRIF. So TLR4 is the only TLR that uses both.",
+   "facts": [
+    "M3-F025",
+    "M3-F026",
+    "M3-F027"
+   ],
+   "visual": "Three rule lines in yellow; adaptor names.",
+   "say": "After ligand binding, the T L R recruits adaptor proteins: My D 88, mal, trif and tram. Learn three sentences. Every T L R except T L R 3 uses My D 88. Only T L R 3 and T L R 4 use trif. So T L R 4 is the only T L R that uses both."
+  },
+  {
+   "id": "b12",
+   "text": "Follow the MyD88 branch first. MyD88 recruits the kinases IRAK4 and IRAK1. IRAK recruits TRAF6, which activates TAK1 and then the IKK complex. One part of IKK is NEMO. IKK phosphorylates IκB, and IκB releases NF-κB.",
+   "facts": [
+    "M3-F028",
+    "M3-F029"
+   ],
+   "visual": "D8 left branch builds top-down: TLR4 → MyD88 → IRAK4/1 → TRAF6 → TAK1 → IKK → NF-κB.",
+   "say": "Follow the My D 88 branch first. My D 88 recruits the kinases I-rak 4 and I-rak 1. I-rak recruits traf 6, which activates tak 1 and then the I K K complex. One part of I K K is NEMO. I K K phosphorylates I kappa B, and I kappa B releases N F kappa B."
+  },
+  {
+   "id": "b13",
+   "text": "NF-κB switches on TNF, IL-1, IL-6, the chemokines CXCL8 and CCL2, and E-selectin. TLR signals also induce CD80 and CD86 on dendritic cells, which help start adaptive immunity.",
+   "facts": [
+    "M3-F023",
+    "M3-F029",
+    "M3-F035"
+   ],
+   "visual": "NF-κB output list; CD80/CD86 link to adaptive.",
+   "say": "N F kappa B switches on T N F, I L 1, I L 6, the chemokines C X C L 8 and C C L 2, and E-selectin. T L R signals also induce C D 80 and C D 86 on dendritic cells, which help start adaptive immunity."
+  },
+  {
+   "id": "b14",
+   "text": "Now the TRIF branch. TRIF activates the kinases TBK1 and IKK epsilon. They phosphorylate IRF3, which induces interferon beta. TLR3 uses only this branch. TLR4 uses both, so LPS gives an inflammatory and an antiviral response.",
+   "facts": [
+    "M3-F034",
+    "M3-F033",
+    "M3-F032"
+   ],
+   "visual": "D8 right branch: TRIF → TBK1/IKKε → IRF3 → IFN-β.",
+   "say": "Now the trif branch. trif activates the kinases T B K 1 and I K K epsilon. They phosphorylate I R F 3, which induces interferon beta. T L R 3 uses only this branch. T L R 4 uses both, so L P S gives an inflammatory and an antiviral response."
+  },
+  {
+   "id": "b15",
+   "text": "The endosomal TLR7, 8 and 9 use MyD88 too, but with a twist. In endosomes, MyD88 binds IRF7 directly. So TLR7 and TLR9 make plasmacytoid dendritic cells produce interferon alpha and beta.",
+   "facts": [
+    "M3-F030",
+    "M3-F031"
+   ],
+   "visual": "Endosome: TLR7/9 → MyD88 → IRF7 → IFN-α/β in pDC.",
+   "say": "The endosomal T L R 7, 8 and 9 use My D 88 too, but with a twist. In endosomes, My D 88 binds I R F 7 directly. So T L R 7 and T L R 9 make plasmacytoid dendritic cells produce interferon alpha and beta."
+  },
+  {
+   "id": "b16",
+   "text": "What happens when the MyD88 branch fails? This pathway sits under most TLRs and the IL-1 receptor. Children with MyD88 or IRAK4 deficiency get severe invasive bacterial infections, especially pneumococcal. They often have no fever and little inflammation: so-called cold infections.",
+   "facts": [
+    "M3-F119",
+    "M3-F036",
+    "M3-F037",
+    "M3-F038"
+   ],
+   "visual": "Strike MyD88/IRAK4 on pathway; pink clinical box: cold pyogenic infections.",
+   "say": "What happens when the My D 88 branch fails? This pathway sits under most T L Rs and the I L 1 receptor. Children with My D 88 or I-rak 4 deficiency get severe invasive bacterial infections, especially pneumococcal. They often have no fever and little inflammation: so-called cold infections."
+  },
+  {
+   "id": "b17",
+   "text": "Infections improve with age, and IRAK4 deficiency adds no viral risk. Now break the TLR3 branch. TLR3 loss causes recurrent herpes simplex encephalitis, but other viral infections do not generally rise.",
+   "facts": [
+    "M3-F036",
+    "M3-F039",
+    "M3-F040"
+   ],
+   "visual": "Second clinical box: TLR3 defect → HSE.",
+   "say": "Infections improve with age, and I-rak 4 deficiency adds no viral risk. Now break the T L R 3 branch. T L R 3 loss causes recurrent herpes simplex encephalitis, but other viral infections do not generally rise."
+  },
+  {
+   "id": "b18",
+   "text": "Defects in TRIF, TRAF3, TBK1 or UNC93B do the same. UNC93B moves TLRs from the endoplasmic reticulum to endosomes.",
+   "facts": [
+    "M3-F041",
+    "M3-F042",
+    "M3-F022"
+   ],
+   "visual": "Add TRIF/TRAF3/TBK1/UNC93B under HSE box.",
+   "say": "Defects in trif, traf 3, T B K 1 or U N C 93 B do the same. U N C 93 B moves T L Rs from the endoplasmic reticulum to endosomes."
+  },
+  {
+   "id": "b19",
+   "text": "Next, the cytosol. NOD1 and NOD2 are NOD-like receptors that sense bacterial peptidoglycan. NOD1 sees diaminopimelic acid, mainly from gram-negative bacteria. NOD2 sees muramyl dipeptide from gram-negative and gram-positive bacteria. Both recruit the kinase RIP2, which activates NF-κB.",
+   "facts": [
+    "M3-F045",
+    "M3-F046",
+    "M3-F047"
+   ],
+   "visual": "NOD1/NOD2 boxes → RIP2 → NF-κB.",
+   "say": "Next, the cytosol. nod 1 and nod 2 are nod-like receptors that sense bacterial peptidoglycan. nod 1 sees diaminopimelic acid, mainly from gram-negative bacteria. nod 2 sees muramyl dipeptide from gram-negative and gram-positive bacteria. Both recruit the kinase rip 2, which activates N F kappa B."
+  },
+  {
+   "id": "b20",
+   "text": "NOD2 is a classic exam trap, because both directions cause disease. Some NOD2 variants sense gut microbes poorly and raise the risk of Crohn's disease. Gain-of-function NOD2 mutations cause Blau syndrome, with inflammation of joints, eyes and skin.",
+   "facts": [
+    "M3-F048",
+    "M3-F049",
+    "M3-F050"
+   ],
+   "visual": "Two arrows from NOD2: weak → Crohn's; strong → Blau.",
+   "say": "nod 2 is a classic exam trap, because both directions cause disease. Some nod 2 variants sense gut microbes poorly and raise the risk of Crohn's disease. Gain-of-function nod 2 mutations cause Blau syndrome, with inflammation of joints, eyes and skin."
+  },
+  {
+   "id": "b21",
+   "text": "Now the inflammasome, a multiprotein complex that forms in the cytosol after infection or injury. IL-1β needs two signals. Signal 1 comes through NF-κB, for example from a TLR, and makes inactive pro-IL-1β. Signal 2 activates the inflammasome, which cuts the precursor.",
+   "facts": [
+    "M3-F051",
+    "M3-F055"
+   ],
+   "visual": "D9: signal 1 lane → pro-IL-1β; signal 2 lane → inflammasome.",
+   "say": "Now the inflammasome, a multiprotein complex that forms in the cytosol after infection or injury. I L 1 beta needs two signals. Signal 1 comes through N F kappa B, for example from a T L R, and makes inactive pro-I L 1 beta. Signal 2 activates the inflammasome, which cuts the precursor."
+  },
+  {
+   "id": "b22",
+   "text": "Common triggers of signal 2 are potassium efflux and reactive oxygen species. Crystals may act by damaging lysosomes. NLRP3 molecules then cluster and bind the adaptor ASC. ASC recruits procaspase-1, which becomes active caspase-1. Caspase-1 cuts pro-IL-1β and pro-IL-18 into active cytokines.",
+   "facts": [
+    "M3-F057",
+    "M3-F052",
+    "M3-F053"
+   ],
+   "visual": "Assembly NLRP3 → ASC → caspase-1; scissors cut pro-IL-1β.",
+   "say": "Common triggers of signal 2 are potassium efflux and reactive oxygen species. Crystals may act by damaging lysosomes. N L R P 3 molecules then cluster and bind the adaptor A S C. A S C recruits procaspase-1, which becomes active caspase-1. Caspase-1 cuts pro-I L 1 beta and pro-I L 18 into active cytokines."
+  },
+  {
+   "id": "b23",
+   "text": "Caspase-1 also cleaves gasdermin D, and its fragment forms pores in the plasma membrane. IL-1β has no signal peptide, so it leaves the cell through these pores. The pores also let fluid in, so the cell swells and dies. This inflammatory death is pyroptosis. It affects macrophages and dendritic cells, but not neutrophils.",
+   "facts": [
+    "M3-F054",
+    "M3-F059"
+   ],
+   "visual": "Cell with gasdermin pores; IL-1β exits; cell swells.",
+   "say": "Caspase-1 also cleaves gasdermin D, and its fragment forms pores in the plasma membrane. I L 1 beta has no signal peptide, so it leaves the cell through these pores. The pores also let fluid in, so the cell swells and dies. This inflammatory death is pyroptosis. It affects macrophages and dendritic cells, but not neutrophils."
+  },
+  {
+   "id": "b24",
+   "text": "NLRP3 senses crystals, silica, extracellular ATP, some bacterial toxins and influenza virus. It also senses alum, and alum's adjuvant effect depends on NLRP3.",
+   "facts": [
+    "M3-F056",
+    "M3-F058"
+   ],
+   "visual": "Trigger cloud around NLRP3; alum highlighted.",
+   "say": "N L R P 3 senses crystals, silica, extracellular A T P, some bacterial toxins and influenza virus. It also senses alum, and alum's adjuvant effect depends on N L R P 3."
+  },
+  {
+   "id": "b25",
+   "text": "Gain-of-function mutations in inflammasome parts cause too much IL-1. Patients get recurrent fever with inflammation of skin, joints and abdomen. These are autoinflammatory diseases. Unlike autoimmune diseases, they do not need self-reactive antibodies or T cells.",
+   "facts": [
+    "M3-F063",
+    "M3-F064"
+   ],
+   "visual": "Autoinflammatory vs autoimmune comparison.",
+   "say": "Gain-of-function mutations in inflammasome parts cause too much I L 1. Patients get recurrent fever with inflammation of skin, joints and abdomen. These are autoinflammatory diseases. Unlike autoimmune diseases, they do not need self-reactive antibodies or T cells."
+  },
+  {
+   "id": "b26",
+   "text": "The key example is CAPS, the cryopyrin-associated periodic syndromes, from gain-of-function NLRP3 mutations. In familial cold autoinflammatory syndrome, cold triggers the fever. Muckle-Wells syndrome adds progressive deafness. Both give urticarial rash, joint pain and conjunctivitis.",
+   "facts": [
+    "M3-F065",
+    "M3-F067",
+    "M3-F068",
+    "M3-F069"
+   ],
+   "visual": "CAPS card: FCAS and Muckle-Wells features.",
+   "say": "The key example is caps, the cryopyrin-associated periodic syndromes, from gain-of-function N L R P 3 mutations. In familial cold autoinflammatory syndrome, cold triggers the fever. Muckle-Wells syndrome adds progressive deafness. Both give urticarial rash, joint pain and conjunctivitis."
+  },
+  {
+   "id": "b27",
+   "text": "In the textbooks, IL-1 antagonists such as anakinra treat CAPS successfully. Drug choices change, so check the current guidance.",
+   "facts": [
+    "M3-F066",
+    "M3-F071"
+   ],
+   "visual": "Orange drug tag: IL-1 blockade, volatile note.",
+   "say": "In the textbooks, I L 1 antagonists such as anakinra treat caps successfully. Drug choices change, so check the current guidance."
+  },
+  {
+   "id": "b28",
+   "text": "Viral RNA in the cytosol meets the RIG-like receptors, RIG-I and MDA5. RIG-I recognizes RNA with a 5′-triphosphate. Host mRNA has a cap instead, so it stays silent. MDA5 recognizes long double-stranded RNA.",
+   "facts": [
+    "M3-F075",
+    "M3-F076",
+    "M3-F077"
+   ],
+   "visual": "D10 left: viral RNA → RIG-I / MDA5.",
+   "say": "Viral R N A in the cytosol meets the rig-like receptors, rig eye and M D A 5. rig eye recognizes R N A with a 5 prime triphosphate. Host messenger R N A has a cap instead, so it stays silent. M D A 5 recognizes long double-stranded R N A."
+  },
+  {
+   "id": "b29",
+   "text": "Activated RIG-I or MDA5 binds MAVS on the outer mitochondrial membrane. MAVS recruits TRAF proteins, which activate TBK1 and IKK. Then IRF3, IRF7 and NF-κB induce type I interferon.",
+   "facts": [
+    "M3-F079",
+    "M3-F080"
+   ],
+   "visual": "MAVS on mitochondrion → TBK1/IKK → IRF3/7 + NF-κB → type I IFN.",
+   "say": "Activated rig eye or M D A 5 binds mavs on the outer mitochondrial membrane. mavs recruits traf proteins, which activate T B K 1 and I K K. Then I R F 3, I R F 7 and N F kappa B induce type one interferon."
+  },
+  {
+   "id": "b30",
+   "text": "Cytosolic double-stranded DNA is a danger sign too. It activates the enzyme cGAS, which makes the messenger cGAMP. cGAMP binds STING on the endoplasmic reticulum. STING activates TBK1, so both routes meet: IRF3 and type I interferon.",
+   "facts": [
+    "M3-F082",
+    "M3-F083",
+    "M3-F084"
+   ],
+   "visual": "D10 right: DNA → cGAS → cGAMP → STING → joins TBK1.",
+   "say": "Cytosolic double-stranded D N A is a danger sign too. It activates the enzyme C gas, which makes the messenger C gamp. C gamp binds STING on the endoplasmic reticulum. STING activates T B K 1, so both routes meet: I R F 3 and type one interferon."
+  },
+  {
+   "id": "b31",
+   "text": "Too much interferon also causes disease. Gain-of-function STING mutations cause SAVI, with skin vasculopathy, fever and interstitial lung disease. In Aicardi-Goutières syndrome, faulty nucleases such as TREX1 let excess nucleic acid reach the sensors.",
+   "facts": [
+    "M3-F085",
+    "M3-F086",
+    "M3-F087"
+   ],
+   "visual": "Pink interferonopathy boxes under STING.",
+   "say": "Too much interferon also causes disease. Gain-of-function STING mutations cause savvy, with skin vasculopathy, fever and interstitial lung disease. In Aicardi-Goutières syndrome, faulty nucleases such as trex 1 let excess nucleic acid reach the sensors."
+  },
+  {
+   "id": "b32",
+   "text": "Why does this matter in allergy? Mast cells express TLRs. One Abbas chapter says TLR ligands cause degranulation; another says mediator release without degranulation. IL-33 sits in the nuclei of barrier epithelial cells and acts as an alarmin when damaged cells release it.",
+   "facts": [
+    "M3-F115",
+    "M3-F116",
+    "M3-F114"
+   ],
+   "visual": "Mast cell with TLR; epithelial cell releases IL-33.",
+   "say": "Why does this matter in allergy? Mast cells express T L Rs. One Abbas chapter says T L R ligands cause degranulation; another says mediator release without degranulation. I L 33 sits in the nuclei of barrier epithelial cells and acts as an alarmin when damaged cells release it."
+  },
+  {
+   "id": "b33",
+   "text": "Five things to remember. One: surface TLRs see microbial walls; endosomal TLRs see nucleic acids. Two: all TLRs except TLR3 use MyD88. Three: IL-1β needs two signals. Four: RNA and DNA sensors converge on type I interferon. Five: MyD88 or IRAK4 defects give cold infections; TLR3 defects give herpes encephalitis.",
+   "facts": [
+    "M3-F009",
+    "M3-F010",
+    "M3-F025",
+    "M3-F055",
+    "M3-F080",
+    "M3-F084",
+    "M3-F038",
+    "M3-F040"
+   ],
+   "visual": "Numbered recap list 1–5.",
+   "say": "Five things to remember. One: surface T L Rs see microbial walls; endosomal T L Rs see nucleic acids. Two: all T L Rs except T L R 3 use My D 88. Three: I L 1 beta needs two signals. Four: R N A and D N A sensors converge on type one interferon. Five: My D 88 or I-rak 4 defects give cold infections; T L R 3 defects give herpes encephalitis."
+  },
+  {
+   "id": "b34",
+   "text": "One exam trap. TLR4 sits on the cell surface, yet it still uses TRIF and induces interferon. Next: phagocytosis and the respiratory burst, what the cell does after it senses danger.",
+   "facts": [
+    "M3-F025",
+    "M3-F032"
+   ],
+   "visual": "Trap card: TLR4 surface but TRIF; then 'Next' card.",
+   "say": "One exam trap. T L R 4 sits on the cell surface, yet it still uses trif and induces interferon. Next: phagocytosis and the respiratory burst, what the cell does after it senses danger."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+                                                                        CHAPTER 1 Overview of the Immune System                           3
+
+
+   In this chapter we outline the general features of immune             responses. The innate immune response to microbes provides
+responses and introduce the concepts that form the cornerstones          early danger signals that stimulate adaptive immune responses.
+of modern immunology and that recur throughout this book.                Conversely, adaptive immune responses often work by enhanc-
+                                                                         ing the protective mechanisms of innate immunity, making
+                                                                         them more capable of effectively combating microbes.
+OVERVIEW OF INNATE AND ADAPTIVE                                              Mechanisms for defending the host against microbes are pres-
+                                                                         ent in all multicellular organisms. The phylogenetically oldest
+IMMUNITY
+                                                                         mechanisms of host defense are those of innate immunity, which
+Defense against microbes is mediated by the functions of two             are present even in plants and insects. Approximately 500 million
+coordinated and partially overlapping branches of the immune             years ago, jawless fish, such as lampreys and hagfish, developed
+system that are called innate and adaptive immunity (Fig. 1.1            an immune system containing lymphocyte-like cells that may
+and Table 1.3). Innate immunity (also called natural immunity            function like lymphocytes in more advanced species and even
+or native immunity) provides continuous barrier defenses to              respond to immunization. The antigen receptors on these cells are
+prevent infection and also reacts to invading microbes in the            proteins with limited variability that are capable of recognizing
+first few hours or days after infection, before adaptive immune          many antigens but are distinct from the highly variable antibod-
+responses have developed. The innate immune system is fully              ies and T-cell receptors that appeared later in evolution. The more
+functional in individuals even before an infection occurs                specialized defense mechanisms that constitute adaptive immu-
+(hence, innate).                                                         nity are found only in vertebrates. Most of the components of the
+    In contrast to innate immunity, adaptive immunity (also              adaptive immune system, including lymphocytes with diverse
+called specific immunity or acquired immunity) relies on                 antigen receptors, antibodies, and specialized lymphoid tissues,
+immune responses that are stimulated by exposure to infectious           evolved coordinately within a short time in jawed vertebrates
+agents and increase in magnitude and defensive capabilities with         (e.g., sharks) approximately 360 million years ago.
+repeated exposures to a particular microbe. In other words, this             Every individual’s immune system is able to recognize,
+form of immunity adapts to the infection. The adaptive immune            respond to, and eliminate many foreign (nonself) antigens
+system can recognize and react to a large number of microbial            but does not usually react against that individual’s own (self)
+and nonmicrobial substances called antigens. Although patho-             antigens and tissues. In the adaptive immune system of all
+gens frequently evolve to resist the innate immune response,             individuals, cells with antigen receptors capable of recogniz-
+the stronger and more specialized adaptive immune responses              ing self antigens are produced but are either eliminated or
+are capable of eradicating many of these infections. There are           inactivated before they can make harmful responses against
+numerous connections between innate and adaptive immune                  self tissues. Different mechanisms are used by the innate and
+
+
+
+                 Microbe
+                        Innate immunity                                 Adaptive immunity
+
+                                     Epithelial
+                                     barriers B lymphocytes                                           Antibodies
+
+
+
+                     Phagocytes     Dendritic
+                                    cells
+                                                                                                      Effector
+                                                          T lymphocytes                               T cells
+                 Mast
+                 cell
+                                    NK cells
+                                    and other
+                 Complement         ILCs
+                           Hours                                                 Days
+                 0            6            12              1                        4                        7
+                Time after infection
+                Fig. 1.1 Innate and adaptive immunity. The mechanisms of innate immunity provide the initial defense
+                against microbial infections. Adaptive immune responses to the first exposure of a microbe develop later
+                because they require the activation, expansion, and differentiation of lymphocytes specific for the microbe.
+                The kinetics of the innate and adaptive immune responses are approximations and may vary in different infec-
+                tions. Only selected cell types are shown. ILCs, Innate lymphoid cells; NK, natural killer.
+
+
+
+                                                        ERRNVPHGLFRVRUJ
+
+

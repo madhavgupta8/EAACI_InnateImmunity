@@ -1,0 +1,66 @@
+Induced innate responses to infection
+
+109
+
+(TNF-o-converting enzyme, formerly called ADAM17) and released from
+the membrane as a soluble cytokine. The presence of infection in the blood-
+stream, or sepsis, is accompanied by a massive release of TNF-a from macro-
+phages in the liver, spleen, and other sites throughout the body. The systemic
+release of TNF-a into the bloodstream causes vasodilation, which leads to a
+loss of blood pressure and increased vascular permeability, leading to a loss
+of plasma volume and eventually to shock, known in this case as septic shock
+because the underlying cause is a bacterial infection. The TNF-a released
+in septic shock also triggers blood clotting in small vessels throughout the
+body—known as disseminated intravascular coagulation—which leads to
+the massive consumption of clotting proteins, so that the patient’s blood can-
+not clot appropriately. Disseminated intravascular coagulation frequently
+leads to the failure of vital organs such as the kidneys, liver, heart, and lungs,
+which are quickly compromised by the failure of normal blood perfusion;
+consequently, septic shock has a very high mortality rate.
+
+Mice with defective or no TNF-a receptors are resistant to septic shock but are
+also unable to control local infection. Mice in which TACE has been selectively
+inactivated in myeloid cells are also resistant to septic shock, confirming that
+the release of soluble TNF-o into the circulation both depends on TACE and
+is the main factor responsible for septic shock. Blocking the action of TNF-a,
+either with specific antibodies or with soluble proteins that mimic the recep-
+tor, is a successful treatment for several inflammatory disorders, including
+rheumatoid arthritis. However, these treatments have been found to reacti-
+vate tuberculosis in some apparently well patients with evidence of previous
+infection (as demonstrated by skin test), which is a direct demonstration of
+the importance of TNF-o in keeping infection local and in check.
+
+3-18 Cytokines released by macrophages and dendritic cells activate the
+acute-phase response.
+
+As wellas their important local effects, the cytokines produced by macrophages
+have long-range effects that contribute to host defense. One of these is the
+elevation of body temperature, which is caused mainly by TNF-a, IL-1B, and
+IL-6. These cytokines are termed endogenous pyrogens because they cause
+fever and derive from an endogenous source rather than from bacterial
+components such as LPS, which also induces fever and is an exogenous
+pyrogen. Endogenous pyrogens cause fever by inducing the synthesis of
+prostaglandin E2 by the enzyme cyclooxygenase-2, the expression of which is
+induced by these cytokines. Prostaglandin E2 then acts on the hypothalamus,
+resulting in an increase in heat production by brown fat and increased
+vasoconstriction, decreasing the loss of excess heat through the skin.
+Exogenous pyrogens are able to induce fever both by inducing the production
+of the endogenous pyrogens and also by directly inducing cyclooxygenase-2
+as a consequence of signaling through TLR-4, leading to the production of
+prostaglandin E2. Fever is generally beneficial to host defense; most pathogens
+grow better at lower temperatures, whereas adaptive immune responses are
+more intense at elevated temperatures. Host cells are also protected from the
+deleterious effects of TNF-o at raised temperatures.
+
+The effects of TNF-a, IL-1B, and IL-6 are summarized in Fig. 3.27. One of the
+most important of these is the initiation of a response known as the acute-
+phase response (Fig. 3.28). The cytokines act on liver hepatocytes, which
+respond by changing the profile of proteins that they synthesize and secrete
+into the blood. In the acute-phase response, blood levels of some proteins go
+down, whereas levels of others increase markedly. The proteins induced by
+TNF-a, IL-1B, and IL-6 are called the acute-phase proteins. Several of these are
+of particular interest because they mimic the action of antibodies, but unlike
+antibodies they have broad specificity for pathogen-associated molecular pat-
+terns and depend only on the presence of cytokines for their production.
+
+

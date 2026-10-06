@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiz — Innate Immunity</title>
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+  .setup { background: var(--panel); border-radius: 8px; padding: 1rem 1.2rem; }
+  .setup fieldset { border: 0; padding: 0; margin: .4rem 0 .8rem; }
+  .setup legend { font-weight: 700; margin-bottom: .3rem; }
+  .setup label { margin-right: 1rem; white-space: nowrap; }
+  button { font: inherit; padding: .45rem 1rem; border-radius: 6px; border: 1px solid var(--accent);
+    background: var(--accent); color: #fff; cursor: pointer; }
+  button.secondary { background: #fff; color: var(--accent); }
+  button:disabled { opacity: .45; cursor: default; }
+  .qhead { display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+    font-size: .85rem; color: var(--muted); margin-top: 1rem; }
+  .timer { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--ink); }
+  .timer.low { color: var(--danger); }
+  .stem { font-size: 1.05rem; margin: .6rem 0 1rem; white-space: pre-line; }
+  .opt { display: flex; gap: .6rem; align-items: flex-start; border: 1px solid var(--line);
+    border-radius: 6px; padding: .55rem .75rem; margin: .4rem 0; cursor: pointer; }
+  .opt:hover { background: #fafbfc; }
+  .opt .key { font-weight: 700; min-width: 1.3rem; }
+  .opt.selected { border-color: var(--accent); background: #eef4fa; }
+  .opt.right { border-color: var(--innate); background: #eef7f2; }
+  .opt.wrong { border-color: var(--danger); background: #fbf0f2; }
+  .kp { display: grid; grid-template-columns: 1.5rem 1fr auto; gap: .6rem; align-items: center;
+    border: 1px solid var(--line); border-radius: 6px; padding: .5rem .75rem; margin: .4rem 0; }
+  .kp .pm { display: flex; gap: .3rem; }
+  .kp .pm button { padding: .2rem .65rem; background: #fff; color: var(--ink); border-color: var(--line); }
+  .kp .pm button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .kp.right { border-color: var(--innate); background: #eef7f2; }
+  .kp.wrong { border-color: var(--danger); background: #fbf0f2; }
+  .sct-scale { display: flex; gap: .3rem; flex-wrap: wrap; }
+  .sct-scale button { background: #fff; color: var(--ink); border-color: var(--line); min-width: 3rem; }
+  .sct-scale button.on { background: var(--accent); color: #fff; }
+  .sct-item { border: 1px solid var(--line); border-radius: 6px; padding: .6rem .8rem; margin: .5rem 0; }
+  .expl { font-size: .9rem; margin: .2rem 0 .2rem 1.9rem; color: var(--ink); }
+  .expl .src { margin-left: .3rem; }
+  .verdict { font-weight: 700; margin: .8rem 0; }
+  .verdict.ok { color: var(--innate); }
+  .verdict.half { color: var(--warn); }
+  .verdict.bad { color: var(--danger); }
+  .nav { display: flex; gap: .5rem; margin: 1.2rem 0; flex-wrap: wrap; }
+  .progress { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .progress > div { height: 100%; background: var(--accent); }
+  .tag { font-size: .75rem; border-radius: 4px; padding: .05rem .4rem; background: #eef1f5; color: var(--muted); }
+  #results table td:nth-child(n+2), #results table th:nth-child(n+2) { text-align: right; }
+  .review-item { border-top: 1px solid var(--line); padding: .6rem 0; }
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="../index.html">Home</a>
+  <a href="../modules/M1-foundation.html">M1 Foundation</a>
+  <a href="../modules/M2-cells.html">M2 Cells</a>
+  <a href="../modules/M3-prrs.html">M3 PRRs</a>
+  <a href="../modules/M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="../modules/M5-complement.html">M5 Complement</a>
+  <a href="../modules/M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="../modules/M7-summary.html">M7 Summary</a>
+  <a href="quiz.html" class="current">Quiz</a>
+</nav></header>
+<main>
+<h1>Innate immunity — practice quiz</h1>
+<p class="subtitle">Type A (one best answer), KPrim (4 × true/false) and Script Concordance Test (SCT) items · EAACI/UEMS exam format</p>
+
+<section id="setup" class="setup">
+  <fieldset><legend>Modules</legend><div id="modsel"></div></fieldset>
+  <fieldset><legend>Question types</legend>
+    <label><input type="checkbox" name="type" value="A" checked> Type A</label>
+    <label><input type="checkbox" name="type" value="KPRIM" checked> KPrim</label>
+    <label><input type="checkbox" name="type" value="SCT"> SCT samples</label>
+  </fieldset>
+  <fieldset><legend>Mode</legend>
+    <label><input type="radio" name="mode" value="practice" checked> Practice — feedback after each item</label>
+    <label><input type="radio" name="mode" value="exam"> Exam — 90 s per item, feedback at the end</label>
+  </fieldset>
+  <fieldset><legend>Order</legend>
+    <label><input type="checkbox" id="shuffle" checked> Shuffle questions</label>
+  </fieldset>
+  <button id="start">Start</button> <span id="count" class="tag"></span>
+  <p style="font-size:.85rem;color:var(--muted);margin-bottom:0">KPrim scoring (IML standard): 4/4 correct = 1 point, 3/4 = 0.5 point, ≤2/4 = 0. SCT items use provisional panel credits (expert panel not yet set).</p>
+</section>
+
+<section id="quiz" class="hidden">
+  <div class="progress"><div id="bar"></div></div>
+  <div class="qhead"><span id="qpos"></span><span id="qtag"></span><span class="timer" id="timer"></span></div>
+  <div id="qbody"></div>
+  <div id="feedback"></div>
+  <div class="nav">
+    <button id="check">Check answer</button>
+    <button id="next" class="secondary">Next</button>
+    <button id="finish" class="secondary">Finish</button>
+  </div>
+</section>
+
+<section id="results" class="hidden"></section>
+</main>
+
+<script src="questions.js"></script>
+<script>
+(function () {
+  const Q = window.QUESTIONS || [];
+  const MODULES = { M1: "Foundation", M2: "Cells", M3: "PRRs & signalling", M4: "Phagocytosis & defects",
+                    M5: "Complement", M6: "Deficiencies & HAE", SCT: "Script concordance" };
+  const TIME = 90;
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  // Module selector
+  const present = [...new Set(Q.map(q => q.module))];
+  const hashMod = location.hash.replace("#", "");
+  $("#modsel").innerHTML = present.map(m =>
+    `<label><input type="checkbox" name="mod" value="${m}" ${!hashMod || hashMod === m ? "checked" : ""}> ${m} ${MODULES[m] || ""}</label>`).join("");
+  if (hashMod === "SCT") document.querySelector('input[name=type][value=SCT]').checked = true;
+
+  function selection() {
+    const mods = [...document.querySelectorAll("input[name=mod]:checked")].map(i => i.value);
+    const types = [...document.querySelectorAll("input[name=type]:checked")].map(i => i.value);
+    return Q.filter(q => mods.includes(q.module) && types.includes(q.type));
+  }
+  function updateCount() { $("#count").textContent = selection().length + " questions selected"; }
+  document.querySelectorAll("#setup input").forEach(i => i.addEventListener("change", updateCount));
+  updateCount();
+
+  let items = [], idx = 0, mode = "practice", answers = [], timerId = null, remaining = TIME;
+
+  $("#start").onclick = () => {
+    items = selection();
+    if (!items.length) return;
+    if ($("#shuffle").checked) items = items.map(q => [Math.random(), q]).sort((a, b) => a[0] - b[0]).map(x => x[1]);
+    mode = document.querySelector("input[name=mode]:checked").value;
+    answers = items.map(q => ({ resp: q.type === "SCT" ? q.items.map(() => null) : q.type === "KPRIM" ? [null, null, null, null] : null, checked: false, score: 0 }));
+    idx = 0;
+    $("#setup").classList.add("hidden"); $("#results").classList.add("hidden"); $("#quiz").classList.remove("hidden");
+    render();
+  };
+
+  function scoreOf(q, a) {
+    if (q.type === "A") { const c = q.options.find(o => o.correct).key; return a.resp === c ? 1 : 0; }
+    if (q.type === "KPRIM") {
+      const n = q.options.filter((o, i) => a.resp[i] === o.correct).length;
+      return n === 4 ? 1 : n === 3 ? 0.5 : 0;
+    }
+    if (q.type === "SCT") {
+      const s = q.items.reduce((t, it, i) => t + (a.resp[i] == null ? 0 : (it.credits[String(a.resp[i])] || 0)), 0);
+      return s / q.items.length;
+    }
+    return 0;
+  }
+
+  function startTimer() {
+    clearInterval(timerId);
+    if (mode !== "exam") { $("#timer").textContent = ""; return; }
+    remaining = TIME; tick();
+    timerId = setInterval(() => { remaining--; tick(); if (remaining <= 0) { clearInterval(timerId); go(1); } }, 1000);
+  }
+  function tick() {
+    const m = Math.floor(remaining / 60), s = String(remaining % 60).padStart(2, "0");
+    $("#timer").textContent = `⏱ ${m}:${s}`;
+    $("#timer").classList.toggle("low", remaining <= 15);
+  }
+
+  function render() {
+    const q = items[idx], a = answers[idx];
+    $("#bar").style.width = (100 * idx / items.length) + "%";
+    $("#qpos").textContent = `Question ${idx + 1} / ${items.length}`;
+    $("#qtag").innerHTML = `<span class="tag">${q.id}</span> <span class="tag">${q.type === "A" ? "Type A" : q.type}</span>`;
+    let h = `<p class="stem">${esc(q.stem)}</p>`;
+    if (q.type === "A") {
+      h += q.options.map(o => `<div class="opt${a.resp === o.key ? " selected" : ""}" data-k="${o.key}"><span class="key">${o.key}</span><span>${esc(o.text)}</span></div>`).join("");
+    } else if (q.type === "KPRIM") {
+      h += `<p style="font-size:.85rem;color:var(--muted)">Mark each statement correct (+) or not correct (−).</p>`;
+      h += q.options.map((o, i) => `<div class="kp" data-i="${i}"><span class="key"><b>${o.key}</b></span><span>${esc(o.text)}</span>
+        <span class="pm"><button data-v="1" class="${a.resp[i] === true ? "on" : ""}">+</button><button data-v="0" class="${a.resp[i] === false ? "on" : ""}">−</button></span></div>`).join("");
+    } else if (q.type === "SCT") {
+      h += `<p style="font-size:.85rem;color:var(--muted)">For each line: if you were thinking of the hypothesis, and then you find the new information, the hypothesis becomes… (−2 ruled out / much less likely … +2 much more likely).</p>`;
+      h += q.items.map((it, i) => `<div class="sct-item" data-i="${i}"><p style="margin:.1rem 0"><b>If you were thinking of:</b> ${esc(it.hypothesis)}<br><b>…and then you find:</b> ${esc(it.new_info)}</p>
+        <div class="sct-scale">${["-2", "-1", "0", "+1", "+2"].map(v => `<button data-v="${v}" class="${a.resp[i] === v ? "on" : ""}">${v}</button>`).join("")}</div></div>`).join("");
+    }
+    $("#qbody").innerHTML = h;
+    $("#feedback").innerHTML = "";
+    bind();
+    $("#check").classList.toggle("hidden", mode === "exam");
+    $("#check").disabled = a.checked;
+    $("#next").textContent = idx === items.length - 1 ? "Finish" : "Next";
+    $("#finish").classList.toggle("hidden", idx === items.length - 1);
+    if (a.checked) showFeedback();
+    else startTimer();
+  }
+
+  function bind() {
+    const q = items[idx], a = answers[idx];
+    if (a.checked) return;
+    if (q.type === "A") document.querySelectorAll(".opt").forEach(el => el.onclick = () => {
+      a.resp = el.dataset.k; document.querySelectorAll(".opt").forEach(x => x.classList.toggle("selected", x === el)); });
+    if (q.type === "KPRIM") document.querySelectorAll(".kp").forEach(el => el.querySelectorAll("button").forEach(b => b.onclick = () => {
+      a.resp[+el.dataset.i] = b.dataset.v === "1"; el.querySelectorAll("button").forEach(x => x.classList.toggle("on", x === b)); }));
+    if (q.type === "SCT") document.querySelectorAll(".sct-item").forEach(el => el.querySelectorAll("button").forEach(b => b.onclick = () => {
+      a.resp[+el.dataset.i] = b.dataset.v; el.querySelectorAll("button").forEach(x => x.classList.toggle("on", x === b)); }));
+  }
+
+  function feedbackHTML(q, a) {
+    const sc = scoreOf(q, a);
+    const cls = sc === 1 ? "ok" : sc > 0 ? "half" : "bad";
+    let h = `<p class="verdict ${cls}">Score: ${sc % 1 ? sc.toFixed(2) : sc} / 1</p>`;
+    if (q.type === "A" || q.type === "KPRIM") {
+      h += q.options.map((o, i) => {
+        const ok = q.type === "A" ? o.correct : (a.resp[i] === o.correct);
+        const truth = q.type === "KPRIM" ? (o.correct ? " (+) correct statement" : " (−) not correct") : (o.correct ? " ✔ correct answer" : "");
+        return `<p class="expl"><b>${o.key}${truth}.</b> ${esc(o.explanation)} <span class="src">${esc(o.source)}</span></p>`;
+      }).join("");
+    } else if (q.type === "SCT") {
+      h += q.items.map((it, i) => {
+        const best = Object.entries(it.credits).sort((x, y) => y[1] - x[1])[0][0];
+        return `<p class="expl"><b>Line ${i + 1}:</b> panel modal answer ${best}; your answer ${a.resp[i] ?? "—"} earns ${(it.credits[String(a.resp[i])] || 0)}. ${esc(it.rationale)} <span class="src">${esc(it.source)}</span></p>`;
+      }).join("");
+    }
+    return h;
+  }
+
+  function showFeedback() {
+    const q = items[idx], a = answers[idx];
+    if (q.type === "A") document.querySelectorAll(".opt").forEach(el => {
+      const o = q.options.find(x => x.key === el.dataset.k);
+      if (o.correct) el.classList.add("right"); else if (a.resp === o.key) el.classList.add("wrong"); });
+    if (q.type === "KPRIM") document.querySelectorAll(".kp").forEach(el => {
+      const i = +el.dataset.i; el.classList.add(a.resp[i] === q.options[i].correct ? "right" : "wrong"); });
+    $("#feedback").innerHTML = feedbackHTML(q, a);
+    $("#check").disabled = true;
+  }
+
+  function lock() { const a = answers[idx]; if (!a.checked) { a.checked = true; a.score = scoreOf(items[idx], a); } }
+
+  $("#check").onclick = () => { clearInterval(timerId); lock(); showFeedback(); };
+  function go(step) {
+    clearInterval(timerId);
+    if (mode === "exam") lock();
+    if (idx + step >= items.length) return finish();
+    idx += step; render();
+  }
+  $("#next").onclick = () => go(1);
+  $("#finish").onclick = () => finish();
+
+  function finish() {
+    clearInterval(timerId);
+    answers.forEach((a, i) => { if (!a.checked) { a.checked = true; a.score = scoreOf(items[i], a); } });
+    $("#quiz").classList.add("hidden");
+    const by = {};
+    items.forEach((q, i) => { const m = q.module; by[m] = by[m] || { n: 0, s: 0 }; by[m].n++; by[m].s += answers[i].score; });
+    const tot = answers.reduce((t, a) => t + a.score, 0);
+    let h = `<h2>Results</h2><p class="verdict">${tot.toFixed(1)} / ${items.length} points (${Math.round(100 * tot / items.length)}%)</p>
+      <table><tr><th>Module</th><th>Items</th><th>Points</th><th>%</th></tr>` +
+      Object.keys(by).sort().map(m => `<tr><td>${m} ${MODULES[m] || ""}</td><td>${by[m].n}</td><td>${by[m].s.toFixed(1)}</td><td>${Math.round(100 * by[m].s / by[m].n)}%</td></tr>`).join("") +
+      `</table><div class="nav"><button onclick="location.reload()">New quiz</button></div><h2>Review</h2>`;
+    h += items.map((q, i) => `<div class="review-item"><p><span class="tag">${q.id}</span> <b>${answers[i].score} pt</b> — ${esc(q.stem)}</p>
+      ${q.type === "A" ? `<p class="expl">Your answer: ${answers[i].resp || "—"} · Correct: ${q.options.find(o => o.correct).key}</p>` : ""}
+      ${q.type === "KPRIM" ? `<p class="expl">Your marks: ${answers[i].resp.map(r => r === null ? "?" : r ? "+" : "−").join(" ")} · Key: ${q.options.map(o => o.correct ? "+" : "−").join(" ")}</p>` : ""}
+      ${feedbackHTML(q, answers[i])}</div>`).join("");
+    $("#results").innerHTML = h;
+    $("#results").classList.remove("hidden");
+    window.scrollTo(0, 0);
+  }
+})();
+</script>
+</body>
+</html>

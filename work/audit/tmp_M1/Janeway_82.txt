@@ -1,0 +1,71 @@
+82
+
+Chapter 3: The Induced Responses of Innate Immunity
+
+Chronic Granulomatous
+Disease
+
+R
+
+used up their primary and secondary granules. Dead and dying neutrophils
+are a major component of the pus that forms in abscesses and in wounds
+infected by certain extracellular capsulated bacteria such as streptococci and
+staphylococci, which are thus known as pus-forming or pyogenic bacteria.
+Macrophages, in contrast, are long-lived cells and continue to generate new
+lysosomes.
+
+Patients with a disease called chronic granulomatous disease (CGD) have
+a genetic deficiency of NADPH oxidase, which means that their phagocytes
+do not produce the toxic oxygen derivatives characteristic of the respiratory
+burst and so are less able to kill ingested microorganisms and clear an infec-
+tion. The most common form of CGD is an X-linked disease that arises from
+inactivating mutations in the gene encoding the gp91 subunit of cytochrome
+bss, located on the X chromosome. People with this defect are unusually sus-
+ceptible to bacterial and fungal infections, especially in infancy. Autosomal
+mutations in other subunits of the NADPH oxidase can also cause chronic
+granulomatous disease, but can be milder and have a later onset.
+
+Macrophages can phagocytose pathogens and produce the respiratory burst
+immediately on encountering an infecting microorganism, and this can be
+sufficient to prevent an infection from becoming established. In the nine-
+teenth century the immunologist Elie Metchnikoff believed that the innate
+response of macrophages encompassed all host defense; indeed, inverte-
+brates such as the sea star that he was studying rely entirely on innate immun-
+ity to overcome infection. Although this is not the case in humans and other
+vertebrates, the innate response of macrophages still provides an important
+front line of defense that must be overcome if a microorganism is to establish
+an infection that can be passed on to a new host.
+
+Pathogens have, however, developed a variety of strategies to avoid immed-
+iate destruction by macrophages and neutrophils. Many extracellular path-
+ogenic bacteria coat themselves with a thick polysaccharide capsule that is
+not recognized by any phagocytic receptor. In such cases, however, the com-
+plement system can recognize microbial surfaces, coat them with C3b and
+so flag them for phagocytosis via complement receptors, as described in
+Chapter 2. Other pathogens, for example mycobacteria, have evolved ways
+to grow inside macrophage phagosomes by inhibiting their acidification and
+fusion with lysosomes. Without such devices, a microorganism must enter the
+body in sufficient numbers to simply overwhelm the immediate innate host
+defenses and to establish a focus of infection.
+
+3-3 Pathogen recognition and tissue damage initiate an inflammatory
+response.
+
+An important effect of the interaction between pathogens and tissue macro-
+phages is the activation of macrophages and other immune cells to release
+small proteins called cytokines and chemokines (chemoattractant cytokines),
+and other chemical mediators that set up a state of inflammation in the tissue,
+attract monocytes and neutrophils to the infection, and allow plasma proteins
+to enter the tissue from the blood. An inflammatory response is usually
+initiated within hours of infection or wounding. Macrophages are stimulated
+to secrete pro-inflammatory cytokines and chemokines by interactions
+between microbes and microbial products and specific receptors expressed
+by the macrophage. Before examining such interactions in detail, we will
+describe some general aspects of inflammation and how it contributes to
+host defense.
+
+Inflammation has three essential roles in combating infection. The first is to
+deliver additional effector molecules and cells from the blood into sites of
+infection, and so increase the destruction of invading microorganisms. The
+
+

@@ -1,0 +1,599 @@
+1
+00:00:00,000 --> 00:00:04,356
+Welcome to the ten-minute rapid review of innate immunity.
+
+2
+00:00:04,406 --> 00:00:10,585
+We cover the top pearls and traps from all six modules, then build one master map.
+
+3
+00:00:10,967 --> 00:00:15,996
+Keep one rule in mind: the lost function predicts the disease.
+
+4
+00:00:16,046 --> 00:00:20,830
+Lose an early classical component, and you often get lupus.
+
+5
+00:00:20,880 --> 00:00:23,206
+Lose C3: pyogenic infections.
+
+6
+00:00:23,256 --> 00:00:25,255
+Lose C5 to C9: Neisseria.
+
+7
+00:00:25,633 --> 00:00:26,280
+Module 1.
+
+8
+00:00:26,330 --> 00:00:32,391
+Innate receptors are germline-encoded and nonclonal, with fewer than 100 types.
+
+9
+00:00:32,441 --> 00:00:34,325
+Innate memory is limited.
+
+10
+00:00:34,700 --> 00:00:38,998
+Three phases: immediate innate, zero to four hours.
+
+11
+00:00:39,048 --> 00:00:43,005
+Early induced innate, four to ninety-six hours.
+
+12
+00:00:43,055 --> 00:00:45,819
+Adaptive, after ninety-six hours.
+
+13
+00:00:46,200 --> 00:00:51,565
+Barriers come first: keratin, tight junctions, mucus and cilia.
+
+14
+00:00:51,615 --> 00:00:54,488
+Paneth cells make alpha-defensins.
+
+15
+00:00:54,538 --> 00:00:56,379
+LL-37 neutralizes LPS.
+
+16
+00:00:56,429 --> 00:01:01,278
+In cystic fibrosis, thick mucus leads to lung infections.
+
+17
+00:01:01,633 --> 00:01:06,052
+Trap: lysozyme works better on Gram-positive bacteria.
+
+18
+00:01:06,102 --> 00:01:10,023
+In Gram-negatives, LPS covers the peptidoglycan.
+
+19
+00:01:10,400 --> 00:01:19,779
+TNF, IL-1 and IL-6 cause fever, leukocytosis and acute-phase proteins.
+
+20
+00:01:19,829 --> 00:01:22,877
+CRP can rise 1000-fold.
+
+21
+00:01:23,233 --> 00:01:26,332
+TNF mediates much of septic shock.
+
+22
+00:01:26,382 --> 00:01:31,148
+But trap: anti-TNF gave no benefit in sepsis trials,
+
+23
+00:01:31,198 --> 00:01:35,315
+and TNF blockade can reactivate tuberculosis.
+
+24
+00:01:35,667 --> 00:01:46,841
+For allergy: epithelial IL-25, IL-33 and TSLP drive ILC2s, Th2 cells and mast cells.
+
+25
+00:01:46,891 --> 00:01:49,514
+IL-33 is an alarmin.
+
+26
+00:01:49,867 --> 00:01:51,308
+Module 2, the cells.
+
+27
+00:01:51,358 --> 00:01:56,455
+Neutrophils are the most abundant white cells, and they arrive first.
+
+28
+00:01:56,505 --> 00:02:00,632
+Azurophilic granules hold myeloperoxidase and defensins.
+
+29
+00:02:00,682 --> 00:02:02,124
+They also cast NETs.
+
+30
+00:02:02,500 --> 00:02:07,288
+Abbas says most tissue macrophages are fetal-derived and self-renew.
+
+31
+00:02:07,338 --> 00:02:09,991
+Janeway says they come from monocytes.
+
+32
+00:02:10,041 --> 00:02:13,619
+CD47 binding SIRP-alpha is the don't-eat-me signal.
+
+33
+00:02:14,000 --> 00:02:19,923
+Plasmacytoid DCs are the major type I interferon source.
+
+34
+00:02:19,973 --> 00:02:24,190
+cDC1 cells cross-present to CD8 T cells.
+
+35
+00:02:24,567 --> 00:02:31,506
+NK cells are CD56 positive, CD3 negative.
+
+36
+00:02:31,556 --> 00:02:39,860
+Low MHC class I removes inhibition: missing self.
+
+37
+00:02:39,910 --> 00:02:43,952
+CD16 binds IgG for ADCC.
+
+38
+00:02:44,333 --> 00:02:48,586
+NK deficiency, for example GATA2 or CD16, gives
+
+39
+00:02:48,636 --> 00:02:53,072
+severe herpesvirus and papillomavirus infections.
+
+40
+00:02:53,433 --> 00:03:00,093
+Trap: tryptase, not histamine, marks mast cell activation.
+
+41
+00:03:00,143 --> 00:03:06,224
+C3a, C5a and MRGPRX2 activate mast cells without IgE.
+
+42
+00:03:06,600 --> 00:03:12,993
+Trap: eosinophils have very low FcεRI without a signalling chain.
+
+43
+00:03:13,043 --> 00:03:15,669
+IL-5 is their key cytokine.
+
+44
+00:03:15,719 --> 00:03:19,832
+Galectin-10 forms Charcot-Leyden crystals.
+
+45
+00:03:20,200 --> 00:03:22,595
+Module 3, sensing.
+
+46
+00:03:22,645 --> 00:03:26,535
+Location predicts the ligand.
+
+47
+00:03:26,585 --> 00:03:33,328
+Surface TLRs 1, 2, 4, 5 and 6 see microbial walls.
+
+48
+00:03:33,378 --> 00:03:39,713
+Endosomal TLRs 3, 7, 8 and 9 see nucleic acids.
+
+49
+00:03:40,067 --> 00:03:45,084
+LPS binds TLR4, with MD2 and CD14.
+
+50
+00:03:45,134 --> 00:03:48,214
+Flagellin binds TLR5.
+
+51
+00:03:48,264 --> 00:03:52,835
+Double-stranded RNA binds TLR3.
+
+52
+00:03:52,885 --> 00:03:55,667
+CpG DNA binds TLR9.
+
+53
+00:03:56,033 --> 00:04:02,087
+Classic trap: TLR3 is the only TLR without MyD88.
+
+54
+00:04:02,137 --> 00:04:07,941
+Only TLR3 and TLR4 use TRIF, so TLR4 uses both.
+
+55
+00:04:08,300 --> 00:04:14,373
+MyD88 or IRAK4 deficiency: early invasive pneumococcal
+
+56
+00:04:14,423 --> 00:04:19,135
+infection with no fever, a cold infection.
+
+57
+00:04:19,185 --> 00:04:25,711
+TLR3, UNC93B or TRIF defects: herpes simplex encephalitis.
+
+58
+00:04:26,067 --> 00:04:31,703
+NLRP3 senses urate crystals, ATP and potassium efflux.
+
+59
+00:04:31,753 --> 00:04:35,704
+Caspase-1 cleaves pro-IL-1β and IL-18.
+
+60
+00:04:35,754 --> 00:04:44,129
+Gasdermin D pores cause pyroptosis, in macrophages and DCs, but not neutrophils.
+
+61
+00:04:44,500 --> 00:04:49,322
+NLRP3 gain of function causes CAPS: FCAS with cold-induced
+
+62
+00:04:49,372 --> 00:04:54,195
+fever and urticarial rash, and Muckle-Wells with deafness.
+
+63
+00:04:54,245 --> 00:04:57,639
+Abbas reports that IL-1 antagonists work.
+
+64
+00:04:58,000 --> 00:05:02,138
+Trap: weak NOD2 variants raise Crohn's disease risk.
+
+65
+00:05:02,188 --> 00:05:05,601
+NOD2 gain of function causes Blau syndrome.
+
+66
+00:05:05,967 --> 00:05:07,800
+Module 4, phagocytes.
+
+67
+00:05:07,850 --> 00:05:12,283
+Recruitment runs: selectin rolling on sialyl Lewis
+
+68
+00:05:12,333 --> 00:05:16,946
+X, integrin activation, firm arrest, transmigration.
+
+69
+00:05:17,300 --> 00:05:24,990
+LAD-1, a CD18 defect: leukocytosis, no pus, poor wound healing.
+
+70
+00:05:25,040 --> 00:05:30,518
+LAD-2: no sialyl Lewis X, Bombay blood group.
+
+71
+00:05:30,568 --> 00:05:35,187
+LAD-3: bleeding with normal platelets.
+
+72
+00:05:35,567 --> 00:05:40,357
+Trap: LAD means leukocytosis in blood but no pus in tissue.
+
+73
+00:05:40,407 --> 00:05:43,639
+Do not confuse it with severe congenital
+
+74
+00:05:43,689 --> 00:05:47,824
+neutropenia, below 0.5 times 10 to the 9 per litre.
+
+75
+00:05:48,200 --> 00:05:55,652
+Respiratory burst: NADPH oxidase makes superoxide, which becomes hydrogen peroxide.
+
+76
+00:05:55,702 --> 00:05:59,539
+Myeloperoxidase then makes hypohalous acid.
+
+77
+00:05:59,900 --> 00:06:04,554
+CGD breaks the oxidase; two-thirds is X-linked gp91.
+
+78
+00:06:04,604 --> 00:06:09,258
+Expect catalase-positive Staphylococcus, granulomas,
+
+79
+00:06:09,308 --> 00:06:13,238
+and Aspergillus, the leading cause of death.
+
+80
+00:06:13,288 --> 00:06:15,500
+MPO deficiency is milder.
+
+81
+00:06:15,867 --> 00:06:20,234
+Chédiak-Higashi, from LYST mutations: partial
+
+82
+00:06:20,284 --> 00:06:25,535
+albinism, silver hair, giant lysosomes, weak NK cells.
+
+83
+00:06:25,900 --> 00:06:36,450
+Disseminated BCG or Salmonella means MSMD: the IL-12 and IFN-γ axis fails.
+
+84
+00:06:36,800 --> 00:06:38,950
+Module 5, complement.
+
+85
+00:06:39,000 --> 00:06:41,359
+C3 cleavage is central.
+
+86
+00:06:41,409 --> 00:06:47,643
+Classical and lectin pathways share the C3 convertase C4b2a.
+
+87
+00:06:47,693 --> 00:06:51,309
+The alternative pathway uses C3bBb.
+
+88
+00:06:51,667 --> 00:06:57,160
+Trap: for C2, the larger bound fragment is C2a.
+
+89
+00:06:57,210 --> 00:07:00,344
+Factor D circulates active.
+
+90
+00:07:00,394 --> 00:07:03,529
+Properdin stabilizes C3bBb.
+
+91
+00:07:03,900 --> 00:07:08,312
+Only antigen-bound antibody activates C1.
+
+92
+00:07:08,362 --> 00:07:16,691
+IgM beats IgG; IgG1 and IgG3 are best, and IgG4 does not activate complement.
+
+93
+00:07:17,067 --> 00:07:23,144
+C5a is the most potent anaphylatoxin, and degranulates mast cells without IgE.
+
+94
+00:07:23,194 --> 00:07:28,093
+The membrane attack complex lets water in, and the cell bursts.
+
+95
+00:07:28,467 --> 00:07:29,752
+The brakes.
+
+96
+00:07:29,802 --> 00:07:35,579
+Factor H regulates only the alternative pathway.
+
+97
+00:07:35,629 --> 00:07:37,400
+C4BP binds C4b.
+
+98
+00:07:37,450 --> 00:07:41,770
+DAF dissociates both C3 convertases.
+
+99
+00:07:41,820 --> 00:07:43,591
+CD59 blocks C9.
+
+100
+00:07:43,967 --> 00:07:44,902
+Module 6.
+
+101
+00:07:44,952 --> 00:07:54,096
+C1q, C2 or C4 deficiency gives lupus in over half; C2 deficiency is the most common.
+
+102
+00:07:54,146 --> 00:07:59,788
+C3 or factor I deficiency gives pyogenic infections.
+
+103
+00:08:00,167 --> 00:08:05,621
+C5 to C9, properdin or factor D deficiency gives Neisseria.
+
+104
+00:08:05,671 --> 00:08:08,699
+Properdin deficiency is X-linked.
+
+105
+00:08:08,749 --> 00:08:10,845
+MBL deficiency is mild.
+
+106
+00:08:11,200 --> 00:08:16,441
+Factor H or MCP mutations cause atypical HUS.
+
+107
+00:08:16,491 --> 00:08:19,145
+PNH lacks CD59 and DAF.
+
+108
+00:08:19,195 --> 00:08:25,964
+Trap: the PIG-A mutation in PNH is somatic, not inherited.
+
+109
+00:08:26,333 --> 00:08:30,831
+Hereditary angioedema is autosomal dominant C1 inhibitor
+
+110
+00:08:30,881 --> 00:08:34,647
+deficiency, and bradykinin causes the swelling.
+
+111
+00:08:34,697 --> 00:08:40,087
+Clues: abdominal attacks, no wheals, no response to antihistamines.
+
+112
+00:08:40,467 --> 00:08:47,801
+The 2017 guideline says: test C1 inhibitor function, protein, and C4.
+
+113
+00:08:47,851 --> 00:08:51,867
+HAE type 1: low function, low protein.
+
+114
+00:08:51,917 --> 00:08:56,683
+Type 2: low function, normal or high protein.
+
+115
+00:08:57,033 --> 00:09:01,564
+Acquired angioedema starts later, with lymphoma
+
+116
+00:09:01,614 --> 00:09:05,268
+or MGUS, and C1q is low in 75 percent.
+
+117
+00:09:05,318 --> 00:09:10,044
+ACE inhibitor angioedema has normal C1 inhibitor.
+
+118
+00:09:10,400 --> 00:09:11,345
+HAE traps.
+
+119
+00:09:11,395 --> 00:09:13,634
+C3 and CH50 are normal.
+
+120
+00:09:13,684 --> 00:09:17,714
+Normal C1 inhibitor does not exclude HAE.
+
+121
+00:09:17,764 --> 00:09:20,998
+C4 is not useful below 12 months.
+
+122
+00:09:21,048 --> 00:09:23,585
+Wheals do not exclude HAE.
+
+123
+00:09:23,967 --> 00:09:28,638
+Treatment follows the 2017 guideline; check the current one.
+
+124
+00:09:28,688 --> 00:09:32,572
+Treat attacks early with C1 inhibitor, ecallantide
+
+125
+00:09:32,622 --> 00:09:36,270
+or icatibant, not tranexamic acid or androgens.
+
+126
+00:09:36,633 --> 00:09:43,317
+For long-term prophylaxis, C1 inhibitor is first line, androgens second.
+
+127
+00:09:43,367 --> 00:09:46,403
+Carry medication for two attacks.
+
+128
+00:09:46,453 --> 00:09:48,367
+Avoid ACE inhibitors.
+
+129
+00:09:48,733 --> 00:09:50,186
+Now the master map.
+
+130
+00:09:50,236 --> 00:09:52,796
+Barriers fail in cystic fibrosis.
+
+131
+00:09:52,846 --> 00:09:57,778
+Sensing fails in cold infections, herpes encephalitis and CAPS.
+
+132
+00:09:57,828 --> 00:10:01,257
+Cells fail in severe congenital neutropenia.
+
+133
+00:10:01,633 --> 00:10:09,582
+Effector mechanisms: phagocytosis fails in LAD, CGD and Chédiak-Higashi.
+
+134
+00:10:09,632 --> 00:10:13,915
+Complement: lupus, Neisseria, HAE, PNH.
+
+135
+00:10:13,965 --> 00:10:18,359
+Inflammation: septic shock, IL-1 excess.
+
+136
+00:10:18,409 --> 00:10:21,025
+NK cells: herpesviruses.
+
+137
+00:10:21,400 --> 00:10:24,578
+Last, the link to adaptive immunity.
+
+138
+00:10:24,628 --> 00:10:26,372
+Antigen is signal 1.
+
+139
+00:10:26,422 --> 00:10:30,856
+Innate responses give signal 2: costimulators like
+
+140
+00:10:30,906 --> 00:10:35,250
+CD80 and CD86, cytokines and complement products.
+
+141
+00:10:35,300 --> 00:10:36,954
+Failure here: MSMD.
+
+142
+00:10:37,333 --> 00:10:39,159
+Five things to remember.
+
+143
+00:10:39,209 --> 00:10:42,130
+Innate receptors are germline-encoded.
+
+144
+00:10:42,180 --> 00:10:44,397
+Location predicts the ligand.
+
+145
+00:10:44,447 --> 00:10:46,820
+Lost function predicts disease.
+
+146
+00:10:46,870 --> 00:10:48,931
+HAE is bradykinin-mediated.
+
+147
+00:10:48,981 --> 00:10:51,354
+Innate immunity gives signal 2.
+
+148
+00:10:51,733 --> 00:10:56,683
+One last trap: TLR3 is the only TLR without MyD88.
+
+149
+00:10:56,733 --> 00:11:00,482
+Review the master map before the exam.
+
+150
+00:11:00,532 --> 00:11:01,482
+Good luck!

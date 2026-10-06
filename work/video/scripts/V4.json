@@ -1,0 +1,348 @@
+{
+ "id": "V4",
+ "slug": "phagocytosis",
+ "title": "Phagocytosis & the respiratory burst",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "Phagocytosis and the respiratory burst. A neutrophil must leave the blood, find the microbe, swallow it and kill it. Exam questions test each step, and the disease that appears when it fails.",
+   "visual": "Title card; then a four-step strip: leave blood, find, swallow, kill.",
+   "no_facts_reason": "Hook and roadmap; facts follow in later beats."
+  },
+  {
+   "id": "b02",
+   "text": "Neutrophils come first. An adult makes more than one hundred billion neutrophils per day. G-CSF and GM-CSF stimulate their production.",
+   "facts": [
+    "M4-F032",
+    "M4-F034"
+   ],
+   "visual": "Neutrophil cell drawn; three short facts appear beside it.",
+   "say": "Neutrophils come first. An adult makes more than one hundred billion neutrophils per day. G C S F and G M C S F stimulate their production."
+  },
+  {
+   "id": "b03",
+   "text": "Step one is to leave the blood. Abbas describes four steps: selectin rolling, chemokine-driven integrin activation, firm integrin arrest, and transmigration.",
+   "facts": [
+    "M4-F016"
+   ],
+   "visual": "Vessel wall drawn; four numbered step labels appear left to right."
+  },
+  {
+   "id": "b04",
+   "text": "Rolling starts in postcapillary venules. Selectins mediate a first, low-affinity adhesion. Endothelial cells express P-selectin and E-selectin. L-selectin sits on the leukocyte, not on the endothelium.",
+   "facts": [
+    "M4-F001",
+    "M4-F002",
+    "M4-F003"
+   ],
+   "visual": "Selectins drawn on endothelium (P, E) and on leukocyte (L)."
+  },
+  {
+   "id": "b05",
+   "text": "P-selectin is stored in endothelial granules. Histamine and thrombin move it rapidly to the surface. IL-1 and TNF induce E-selectin within one to two hours.",
+   "facts": [
+    "M4-F004",
+    "M4-F005"
+   ],
+   "visual": "P-selectin pops up from a granule; E-selectin appears with an IL-1/TNF arrow and '1-2 h'.",
+   "say": "P-selectin is stored in endothelial granules. Histamine and thrombin move it rapidly to the surface. I L 1 and T N F induce E-selectin within one to two hours."
+  },
+  {
+   "id": "b06",
+   "text": "The leukocyte ligand is the sugar sialyl Lewis X. Selectin bonds have low affinity and a fast off-rate. They form and break again and again, so the cell rolls.",
+   "facts": [
+    "M4-F006",
+    "M4-F009"
+   ],
+   "visual": "Leukocyte rolls along the vessel wall; sialyl Lewis X labelled."
+  },
+  {
+   "id": "b07",
+   "text": "Next, integrin activation. Endothelial heparan sulfate holds chemokines and shows them to the rolling cell. Chemokine receptor signals switch the integrin to high affinity. This is called inside-out signalling.",
+   "facts": [
+    "M4-F015",
+    "M4-F014"
+   ],
+   "visual": "Chemokine dots on the wall; integrin on the cell flips from bent to upright."
+  },
+  {
+   "id": "b08",
+   "text": "Then firm arrest. Cytokines increase ICAM-1 and VCAM-1 on the endothelium. ICAM-1 binds LFA-1 and MAC-1. VCAM-1 binds VLA-4. The cell stops.",
+   "facts": [
+    "M4-F017"
+   ],
+   "visual": "Pairing table: LFA-1 and MAC-1 to ICAM-1; VLA-4 to VCAM-1.",
+   "say": "Then firm arrest. Cytokines increase I cam 1 and V cam 1 on the endothelium. I cam 1 binds L F A 1 and mac 1. V cam 1 binds V L A 4. The cell stops."
+  },
+  {
+   "id": "b09",
+   "text": "Last, transmigration. The cell squeezes between endothelial cells, with help from CD31. Watch the word diapedesis. Abbas uses it for this passage. Janeway uses it for crossing the basement membrane.",
+   "facts": [
+    "M4-F018",
+    "M4-F019",
+    "M4-F020"
+   ],
+   "visual": "Cell squeezes through a gap; Abbas vs Janeway 'diapedesis' note.",
+   "say": "Last, transmigration. The cell squeezes between endothelial cells, with help from C D 31. Watch the word diapedesis. Abbas uses it for this passage. Janeway uses it for crossing the basement membrane."
+  },
+  {
+   "id": "b10",
+   "text": "Now the cell must find the microbe. Chemotaxis is movement along a chemoattractant gradient toward its source. Chemokine receptors are seven-transmembrane G protein-coupled receptors.",
+   "facts": [
+    "M4-F021",
+    "M4-F023"
+   ],
+   "visual": "Gradient of dots; cell moves up the gradient."
+  },
+  {
+   "id": "b11",
+   "text": "Neutrophils use CXCR1 and CXCR2 to bind CXCL8, also called IL-8. Classical monocytes use CCR2, and its key ligand is CCL2.",
+   "facts": [
+    "M4-F024",
+    "M4-F025"
+   ],
+   "visual": "Two receptor-ligand pairs: neutrophil and monocyte.",
+   "say": "Neutrophils use C X C R 1 and C X C R 2 to bind C X C L 8, also called I L 8. Classical monocytes use C C R 2, and its key ligand is C C L 2."
+  },
+  {
+   "id": "b12",
+   "text": "Other attractants are C5a, C3a and leukotriene B4. Bacterial formyl peptides bind FPR1, and they are among the most potent attractants. C5a and CXCL8 also switch on the respiratory burst.",
+   "facts": [
+    "M4-F026",
+    "M4-F027",
+    "M4-F029"
+   ],
+   "visual": "List of other attractants; arrow from C5a/CXCL8 to 'respiratory burst'.",
+   "say": "Other attractants are C 5 a, C 3 a and leukotriene B 4. Bacterial formyl peptides bind F P R 1, and they are among the most potent attractants. C 5 a and C X C L 8 also switch on the respiratory burst."
+  },
+  {
+   "id": "b13",
+   "text": "Step three: swallow. Phagocytosis is an active, energy-dependent engulfment of particles larger than half a micrometre. Opsonization helps. Antibodies or complement coat the microbe, so phagocytes take it up more readily.",
+   "facts": [
+    "M4-F037",
+    "M4-F039"
+   ],
+   "visual": "Microbe gets coated with opsonin dots."
+  },
+  {
+   "id": "b14",
+   "text": "Each opsonin has its receptor. FcγRI is a high-affinity receptor for IgG1 and IgG3. CR1 binds C3b and C4b. CR1 alone is weak, but IgG binding or interferon gamma helps it.",
+   "facts": [
+    "M4-F040",
+    "M4-F041",
+    "M4-F042"
+   ],
+   "visual": "Receptor table builds: FcγRI-IgG, CR1-C3b/C4b.",
+   "say": "Each opsonin has its receptor. F c gamma receptor one is a high-affinity receptor for I g G 1 and I g G 3. C R 1 binds C 3 b and C 4 b. C R 1 alone is weak, but I g G binding or interferon gamma helps it."
+  },
+  {
+   "id": "b15",
+   "text": "CR3 binds iC3b, and this binding alone is enough to stimulate phagocytosis. CR3 is the same molecule as MAC-1, the adhesion integrin. Its beta chain is CD18. Remember this for LAD-1.",
+   "facts": [
+    "M4-F044",
+    "M4-F012",
+    "M5-F050"
+   ],
+   "visual": "CR3 row added; '= MAC-1, CD18' highlighted.",
+   "say": "C R 3 binds i C 3 b, and this binding alone is enough to stimulate phagocytosis. C R 3 is the same molecule as mac 1, the adhesion integrin. Its beta chain is C D 18. Remember this for L A D 1."
+  },
+  {
+   "id": "b16",
+   "text": "The steps are simple. The microbe binds a receptor. The membrane forms a cup that closes into a phagosome. The phagosome fuses with a lysosome to make a phagolysosome. Most killing happens there.",
+   "facts": [
+    "M4-F038",
+    "M4-F046",
+    "M4-F047"
+   ],
+   "visual": "Animated engulfment: bind, cup, phagosome, lysosome fusion, phagolysosome."
+  },
+  {
+   "id": "b17",
+   "text": "Step four: kill. The three most important classes of killing molecules are reactive oxygen species, nitric oxide and proteolytic enzymes.",
+   "facts": [
+    "M4-F049"
+   ],
+   "visual": "Three boxes: ROS, nitric oxide, enzymes."
+  },
+  {
+   "id": "b18",
+   "text": "Reactive oxygen species come from phagocyte oxidase, also called NADPH oxidase. In resting neutrophils, gp91 and p22 sit in granule membranes. p40, p47 and p67 float in the cytosol. Rac2 signals assemble them.",
+   "facts": [
+    "M4-F050",
+    "M4-F054",
+    "M4-F055"
+   ],
+   "visual": "Membrane subunits gp91/p22 and cytosolic p40/p47/p67 come together; Rac2 label.",
+   "say": "Reactive oxygen species come from phagocyte oxidase, also called N A D P H oxidase. In resting neutrophils, g p 91 and p 22 sit in granule membranes. p 40, p 47 and p 67 float in the cytosol. rack 2 signals assemble them."
+  },
+  {
+   "id": "b19",
+   "text": "Now the chain. NADPH oxidase reduces oxygen to superoxide. Superoxide dismutase converts superoxide to hydrogen peroxide. Myeloperoxidase turns hydrogen peroxide into hypohalous acids, such as hypochlorous acid.",
+   "facts": [
+    "M4-F051",
+    "M4-F056",
+    "M4-F052"
+   ],
+   "visual": "Reaction chain: O₂ → O₂•⁻ → H₂O₂ → HOCl with enzymes on arrows.",
+   "say": "Now the chain. N A D P H oxidase reduces oxygen to superoxide. Superoxide dismutase converts superoxide to hydrogen peroxide. Myeloperoxidase turns hydrogen peroxide into hypohalous acids, such as hypochlorous acid."
+  },
+  {
+   "id": "b20",
+   "text": "It is called the respiratory burst because it consumes oxygen. Potassium and hydrogen ions then enter the phagolysosome. This releases and activates granule enzymes such as elastase and cathepsin G. Janeway notes that oxygen radicals alone may not kill.",
+   "facts": [
+    "M4-F053",
+    "M4-F057",
+    "M4-F058"
+   ],
+   "visual": "Oxygen consumption label; K⁺ ions flow in and activate enzymes."
+  },
+  {
+   "id": "b21",
+   "text": "Nitric oxide is the second weapon. Inducible nitric oxide synthase is absent in resting macrophages. TLR signals induce it, especially with interferon gamma. Nitric oxide joins superoxide or hydrogen peroxide to make peroxynitrite. Neutrophils make little or no nitric oxide.",
+   "facts": [
+    "M4-F059",
+    "M4-F060",
+    "M4-F061"
+   ],
+   "visual": "Macrophage with iNOS: arginine → citrulline + NO → peroxynitrite; neutrophil crossed out.",
+   "say": "Nitric oxide is the second weapon. Inducible nitric oxide synthase is absent in resting macrophages. T L R signals induce it, especially with interferon gamma. Nitric oxide joins superoxide or hydrogen peroxide to make peroxynitrite. Neutrophils make little or no nitric oxide."
+  },
+  {
+   "id": "b22",
+   "text": "Neutrophils can also throw out NETs, neutrophil extracellular traps. They are strands of DNA and histones with granule proteins. NETs trap and kill bacteria and fungi. Their formation needs PAD4, elastase, myeloperoxidase and phagocyte oxidase. The neutrophil usually dies.",
+   "facts": [
+    "M4-F066",
+    "M4-F067",
+    "M4-F068"
+   ],
+   "visual": "Net of strands thrown out of a neutrophil; requirement list.",
+   "say": "Neutrophils can also throw out nets, neutrophil extracellular traps. They are strands of DNA and histones with granule proteins. nets trap and kill bacteria and fungi. Their formation needs pad 4, elastase, myeloperoxidase and phagocyte oxidase. The neutrophil usually dies."
+  },
+  {
+   "id": "b23",
+   "text": "Now the clinic. Phagocyte defects cause invasive bacterial and fungal infections of skin, liver and respiratory tract. The fungi are mainly Aspergillus and Candida. Janeway sorts them into four groups: production, adhesion, activation and killing.",
+   "facts": [
+    "M4-F069",
+    "M4-F070"
+   ],
+   "visual": "Defect map frame: four columns."
+  },
+  {
+   "id": "b24",
+   "text": "Chronic granulomatous disease, or CGD, is the classic killing defect. Mutations hit NADPH oxidase, so phagocytes make too little superoxide. About two-thirds of cases are X-linked, in gp91. The rest are autosomal recessive and can be milder.",
+   "facts": [
+    "M4-F072",
+    "M4-F114",
+    "M4-F073",
+    "M4-F075"
+   ],
+   "visual": "Respiratory chain redrawn; first arrow struck out; genetics pie 2/3 X-linked.",
+   "say": "Chronic granulomatous disease, or C G D, is the classic killing defect. Mutations hit N A D P H oxidase, so phagocytes make too little superoxide. About two-thirds of cases are X-linked, in g p 91. The rest are autosomal recessive and can be milder."
+  },
+  {
+   "id": "b25",
+   "text": "Catalase-producing organisms, such as Staphylococcus, are a problem in CGD. Their catalase destroys the little hydrogen peroxide left. Invasive Aspergillus infection is the leading cause of death. Uncontrolled infection drives granuloma formation.",
+   "facts": [
+    "M4-F077",
+    "M4-F076",
+    "M4-F078"
+   ],
+   "visual": "Organism list and granuloma sketch.",
+   "say": "Catalase-producing organisms, such as Staphylococcus, are a problem in C G D. Their catalase destroys the little hydrogen peroxide left. Invasive Aspergillus infection is the leading cause of death. Uncontrolled infection drives granuloma formation."
+  },
+  {
+   "id": "b26",
+   "text": "Abbas lists management as antibiotic and antifungal prophylaxis, interferon gamma, and possible stem cell transplantation. Check the current guideline. Myeloperoxidase deficiency also impairs killing, but it is milder than CGD.",
+   "facts": [
+    "M4-F079",
+    "M4-F082"
+   ],
+   "visual": "Management list in orange with 'check current guideline'; MPO deficiency note.",
+   "say": "Abbas lists management as antibiotic and antifungal prophylaxis, interferon gamma, and possible stem cell transplantation. Check the current guideline. Myeloperoxidase deficiency also impairs killing, but it is milder than C G D."
+  },
+  {
+   "id": "b27",
+   "text": "Leukocyte adhesion deficiencies are autosomal recessive. Neutrophils cannot reach the tissue, so there is no pus. LAD-1 is a CD18 defect, so beta-2 integrins are missing. The blood often shows leukocytosis.",
+   "facts": [
+    "M4-F084",
+    "M4-F085",
+    "M4-F086"
+   ],
+   "visual": "Back to the extravasation strip; LAD-1 blocks arrest.",
+   "say": "Leukocyte adhesion deficiencies are autosomal recessive. Neutrophils cannot reach the tissue, so there is no pus. L A D 1 is a C D 18 defect, so beta 2 integrins are missing. The blood often shows leukocytosis."
+  },
+  {
+   "id": "b28",
+   "text": "LAD-2 is a rolling defect. A GDP-fucose transporter fails, so sialyl Lewis X is absent. Look for developmental problems and the Bombay blood group. LAD-3 is a KINDLIN-3 defect. Integrins cannot be activated, and patients bleed with normal platelet counts.",
+   "facts": [
+    "M4-F088",
+    "M4-F089",
+    "M4-F090",
+    "M4-F091"
+   ],
+   "visual": "LAD-2 blocks rolling; LAD-3 blocks activation; clues appear.",
+   "say": "L A D 2 is a rolling defect. A G D P fucose transporter fails, so sialyl Lewis X is absent. Look for developmental problems and the Bombay blood group. L A D 3 is a kindlin 3 defect. Integrins cannot be activated, and patients bleed with normal platelet counts."
+  },
+  {
+   "id": "b29",
+   "text": "Chédiak-Higashi syndrome is autosomal recessive. LYST mutations disturb lysosome trafficking, so phagosomes and lysosomes fail to fuse properly. Look for giant lysosomes, partial albinism and pyogenic infections. Without transplant, HLH usually develops.",
+   "facts": [
+    "M4-F093",
+    "M4-F094",
+    "M4-F097",
+    "M4-F096"
+   ],
+   "visual": "Phagosome-lysosome fusion step struck out; clue list.",
+   "say": "Shay-dee-ak Higashi syndrome is autosomal recessive. L Y S T mutations disturb lysosome trafficking, so phagosomes and lysosomes fail to fuse properly. Look for giant lysosomes, partial albinism and pyogenic infections. Without transplant, H L H usually develops."
+  },
+  {
+   "id": "b30",
+   "text": "Production defects come last. Severe congenital neutropenia has a neutrophil count below 0.5 times ten to the nine per litre. Cyclic neutropenia cycles about every 21 days. ELA2 mutations are the most common cause of severe congenital neutropenia. G-CSF is the mainstay of treatment.",
+   "facts": [
+    "M4-F099",
+    "M4-F100",
+    "M4-F101",
+    "M4-F103"
+   ],
+   "visual": "Neutrophil count graph: flat-low (SCN) and 21-day wave (cyclic).",
+   "say": "Production defects come last. Severe congenital neutropenia has a neutrophil count below zero point five times ten to the nine per litre. Cyclic neutropenia cycles about every 21 days. E L A 2 mutations are the most common cause of severe congenital neutropenia. G C S F is the mainstay of treatment."
+  },
+  {
+   "id": "b31",
+   "text": "Five things to remember. One: roll, activate, arrest, transmigrate. Two: CXCL8, C5a and formyl peptides attract neutrophils. Three: CR3 is MAC-1 and binds iC3b. Four: oxidase, dismutase, myeloperoxidase. Five: CGD, LAD and Chédiak-Higashi each block one step.",
+   "facts": [
+    "M4-F016",
+    "M4-F024",
+    "M4-F026",
+    "M4-F027",
+    "M4-F012",
+    "M4-F056",
+    "M4-F052",
+    "M4-F072",
+    "M4-F085",
+    "M4-F097"
+   ],
+   "visual": "Five numbered points appear one by one.",
+   "say": "Five things to remember. One: roll, activate, arrest, transmigrate. Two: C X C L 8, C 5 a and formyl peptides attract neutrophils. Three: C R 3 is mac 1 and binds i C 3 b. Four: oxidase, dismutase, myeloperoxidase. Five: C G D, L A D and Shay-dee-ak Higashi each block one step."
+  },
+  {
+   "id": "b32",
+   "text": "One exam trap. Myeloperoxidase does not make superoxide or hydrogen peroxide. NADPH oxidase makes superoxide, and superoxide dismutase makes hydrogen peroxide. So a defect in myeloperoxidase is milder than CGD.",
+   "facts": [
+    "M4-F051",
+    "M4-F056",
+    "M4-F052",
+    "M4-F082"
+   ],
+   "visual": "Trap card: MPO with a pink cross over 'makes superoxide'.",
+   "say": "One exam trap. Myeloperoxidase does not make superoxide or hydrogen peroxide. N A D P H oxidase makes superoxide, and superoxide dismutase makes hydrogen peroxide. So a defect in myeloperoxidase is milder than C G D."
+  },
+  {
+   "id": "b33",
+   "text": "Next: complement made easy. Three pathways, one C3 convertase, and the opsonins you met today.",
+   "visual": "Closing card pointing to V5.",
+   "no_facts_reason": "Closing transition to the next video.",
+   "say": "Next: complement made easy. Three pathways, one C 3 convertase, and the opsonins you met today."
+  }
+ ]
+}

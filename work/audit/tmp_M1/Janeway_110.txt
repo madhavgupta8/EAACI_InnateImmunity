@@ -1,0 +1,93 @@
+110
+
+Chapter 3: The Induced Responses of Innate Immunity
+
+Fig. 3.27 The cytokines TNF-a, IL-1B,
+and IL-6 have a wide spectrum of
+biological activities that help to
+coordinate the body’s responses
+
+to infection. IL-1, IL-6, and TNF-a
+activate hepatocytes to synthesize
+acute-phase proteins, and bone marrow
+endothelium to release neutrophils. The
+acute-phase proteins act as opsonins,
+whereas the disposal of opsonized
+pathogens is augmented by the enhanced
+recruitment of neutrophils from the
+bone marrow. IL-1B, IL-6, and TNF-a
+are also endogenous pyrogens, raising
+body temperature, which is believed to
+help in eliminating infections. A major
+effect of these cytokines is to act on
+
+the hypothalamus, altering the body’s
+temperature regulation, and on muscle
+and fat cells, altering energy mobilization
+to increase the body temperature. At
+higher temperatures, bacterial and viral
+replication is less efficient, whereas the
+adaptive immune response operates
+more efficiently.
+
+IL-1 B/IL-6/TNF-c
+TT
+Jc J IG JIG ab
+Bone marrow
+Liver endothelium Hypothalamus Fat, muscle Dendritic cells
+Acute-phase Neutrophil Increased Protein and TNF-o stimulates
+proteins mobilization body energy migration to lymph
+(C-reactive temperature mobilization nodes and
+protein, to allow maturation
+_Mannose- increased
+binding lectin) body temperature
+S & = & 3 & = & 3 &
+Activation of Ph . Decreased viral and bacterial replication Initiation of
+complement fagocytosis Increased antigen processing adaptive immune
+Opsonization Increased specific immune response response
+
+One acute-phase protein, the C-reactive protein, is a member of the pen-
+traxin protein family, so called because they are formed from five identical
+subunits. C-reactive protein is another example of a multipronged pathogen-
+recognition molecule, and it binds to the phosphocholine portion of certain
+bacterial and fungal cell-wall lipopolysaccharides. Phosphocholine is also
+found in mammalian cell membrane phospholipids, but it cannot be bound
+by C-reactive protein. When C-reactive protein binds to a bacterium, it is not
+only able to opsonize it but can also activate the complement cascade by
+binding to Clq, the first component of the classical pathway of complement
+activation, as we saw in Section 2-7. The interaction with Clq involves the
+collagen-like parts of Clq rather than the globular heads that make contact
+with pathogen surfaces, but the same cascade of reactions is initiated.
+
+The second acute-phase protein of interest is mannose-binding lectin (MBL),
+which we have already introduced as a pathogen-binding molecule (see Fig.
+2.17) and as a trigger for the complement cascade (see Section 2-6). MBL is
+present in low levels in the blood of healthy individuals, but it is produced
+in increased amounts during the acute-phase response. By recognizing man-
+nose residues on microbial surfaces it can act as an opsonin that is recognized
+by monocytes, which do not express the macrophage mannose receptor. Two
+other proteins with opsonizing properties that are also produced in increased
+amounts during an acute-phase response are the surfactant proteins SP-A
+and SP-D. SP-A and SP-D are produced by the liver and a variety of epithelia.
+They are, for example, found along with macrophages in the alveolar fluid
+of the lung, where they are secreted by pneumocytes, and are important in
+promoting the phagocytosis of opportunistic respiratory pathogens such as
+Pneumocystis jirovecii (formerly known as P carinii), one of the main causes
+of pneumonia in patients with AIDS.
+
+Thus, within a day or two, the acute-phase response provides the host with
+several proteins with the functional properties of antibodies but able to bind
+abroad range of pathogens. However, unlike antibodies, which we describe in
+Chapters 4 and 10, acute-phase proteins have no structural diversity and are
+made in response to any stimulus that triggers the release of TNF-a, IL-1, and
+IL-6. Therefore, unlike antibodies, their synthesis is not specifically induced
+and targeted.
+
+A final distant effect of the cytokines produced by macrophages is to induce a
+leukocytosis, an increase in the numbers of circulating neutrophils. The neu-
+trophils come from two sources: the bone marrow, from which mature leuko-
+cytes are released in increased numbers; and sites in blood vessels where they
+are attached loosely to endothelial cells. Thus, the effects of these cytokines
+contribute to the control of infection while the adaptive immune response is
+
+

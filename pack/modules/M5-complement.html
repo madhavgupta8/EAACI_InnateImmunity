@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M5 Complement — Innate Immunity</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="../index.html">Home</a>
+  <a href="M1-foundation.html">M1 Foundation</a>
+  <a href="M2-cells.html">M2 Cells</a>
+  <a href="M3-prrs.html">M3 PRRs</a>
+  <a href="M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="M5-complement.html" class="current">M5 Complement</a>
+  <a href="M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="M7-summary.html">M7 Summary</a>
+  <a href="../quiz/quiz.html">Quiz</a>
+</nav></header>
+<main>
+<h1>M5 · Complement made easy</h1>
+<p class="subtitle">Innate immunity lecture pack · EAACI/UEMS Knowledge Exam preparation</p>
+
+<section class="objectives"><h2>After this module you can</h2><ul>
+  <li>Explain in one sentence what complement does and why it amplifies so fast.</li>
+  <li>Name the trigger, sensor and proteases of the classical, lectin and alternative pathways.</li>
+  <li>Write the C3 convertase and C5 convertase of each pathway.</li>
+  <li>Describe the assembly of the membrane attack complex (MAC), step by step.</li>
+  <li>Link each complement fragment to its function and receptor (CR1–CR4, C5aR1).</li>
+  <li>Place each regulator at the exact step where it acts, and link it to the disease in M6.</li>
+</ul></section>
+
+<dl class="abbr">
+  <dt>MAC</dt><dd>membrane attack complex (C5b-9)</dd>
+  <dt>C1-INH</dt><dd>C1 inhibitor</dd>
+  <dt>MBL</dt><dd>mannose-binding lectin</dd>
+  <dt>MASP</dt><dd>MBL-associated serine protease</dd>
+  <dt>CRP</dt><dd>C-reactive protein</dd>
+  <dt>CR1–CR4</dt><dd>complement receptor type 1 to type 4</dd>
+  <dt>C5aR1</dt><dd>C5a receptor 1</dd>
+  <dt>C4BP</dt><dd>C4-binding protein</dd>
+  <dt>MCP</dt><dd>membrane cofactor protein (CD46)</dd>
+  <dt>DAF</dt><dd>decay-accelerating factor (CD55)</dd>
+  <dt>GPI</dt><dd>glycophosphatidylinositol (membrane anchor)</dd>
+  <dt>ICAM-1</dt><dd>intercellular adhesion molecule 1</dd>
+  <dt>EBV</dt><dd>Epstein-Barr virus</dd>
+  <dt>HAE</dt><dd>hereditary angioedema</dd>
+  <dt>PNH</dt><dd>paroxysmal nocturnal hemoglobinuria</dd>
+  <dt>LAD</dt><dd>leukocyte adhesion deficiency</dd>
+</dl>
+
+<h2>1. What complement is — in plain words</h2>
+<p>Complement is a set of plasma proteins. It is a major effector arm of humoral (antibody) immunity and also an important effector arm of innate immunity. <span class="src" title="M5-F001">Abbas p.300</span></p>
+<p>Most complement proteases circulate as inactive zymogens. A zymogen becomes active only when another protease cleaves it. <span class="src" title="M5-F002">Janeway p.49</span> Each active protease then cleaves many molecules of the next zymogen. Thus the signal grows at every step. <span class="src" title="M5-F003">Janeway p.49</span></p>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>Think of a row of dominoes where each domino knocks over ten more. One small trigger on a bacterium quickly becomes thousands of active molecules on that same bacterium.</p></div>
+<p>Complement does four main jobs. You will meet each one again in section 7:</p>
+<ol>
+  <li><b>Opsonization</b> — C3b coats the microbe so that phagocytes eat it.</li>
+  <li><b>Inflammation</b> — small fragments (C3a, C5a) call in cells and activate mast cells.</li>
+  <li><b>Lysis</b> — the membrane attack complex (MAC) punches holes in some microbes.</li>
+  <li><b>Help for adaptive immunity</b> — clearance of immune complexes and B-cell activation.</li>
+</ol>
+<p><span class="src" title="M5-F048,M5-F052,M5-F045,M5-F061,M5-F064">Abbas p.313; Abbas p.307; Abbas p.314</span></p>
+
+<h3>Name rules that make complement easy</h3>
+<ul>
+  <li>When a protein is cleaved, the <b>larger</b> fragment gets the letter <b>b</b> and the smaller fragment gets <b>a</b> (C3 → C3a + C3b). C2 is the only exception. <span class="src" title="M5-F004">Janeway p.49</span></li>
+  <li>For C2, the larger fragment that stays bound is <b>C2a</b>. The small released fragment is <b>C2b</b>. Both books use this rule, so the classical C3 convertase is written <b>C4b2a</b>. <span class="src" title="M5-F005,M5-F022">Abbas p.305</span></li>
+  <li>The numbers follow the order of discovery, not the order of action. The classical sequence is C1 → C4 → C2 → C3 → C5 → C6 → C7 → C8 → C9. <span class="src" title="M5-F006">Janeway p.49</span></li>
+</ul>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>"Small a, big b — except C2." If a question writes C4b2a, the "2a" is the large, enzymatic piece of C2.</p></div>
+
+<h2>2. The big picture: three ways in, one common road</h2>
+<p>Three pathways start complement. <span class="src" title="M5-F007">Abbas p.301</span></p>
+<ul>
+  <li>The <b>classical pathway</b> starts on antibody bound to antigen.</li>
+  <li>The <b>lectin pathway</b> starts when lectins bind sugars on microbes.</li>
+  <li>The <b>alternative pathway</b> starts on microbial surfaces without antibody.</li>
+</ul>
+<p>The alternative and lectin pathways are innate effector mechanisms. The classical pathway is a major mechanism of adaptive humoral immunity. <span class="src" title="M5-F008">Abbas p.301</span> However, Janeway notes that all three pathways can start without antibody, as part of innate immunity. <span class="src" title="M5-F009">Janeway p.71</span></p>
+<p>All three pathways make the same key enzyme activity: a <b>C3 convertase</b>. The C3 convertase cleaves C3 into C3a and C3b. C3b then binds covalently to the target surface. This is the central event of complement activation. <span class="src" title="M5-F010">Abbas p.301</span></p>
+<p>Cleavage exposes a reactive thioester bond in C3b. If C3b does not bond to a nearby surface, water hydrolyzes the thioester and C3b becomes inactive. <span class="src" title="M5-F011">Janeway p.52</span> This keeps complement on the surface where it started.</p>
+<p>Normal host cells carry regulatory proteins that stop complement. Microbes lack these proteins. Therefore complement proceeds on microbes but not on our own cells. <span class="src" title="M5-F012">Abbas p.301</span></p>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>C3b is like wet paint with a "please eat me" label. The paint sticks only if it lands on a surface quickly; otherwise it dries and is useless. Our own cells carry "paint remover" (the regulators). Bacteria do not.</p></div>
+
+<figure class="diagram" id="D15">
+<svg viewBox="0 0 800 510" role="img" aria-labelledby="D15t">
+<title id="D15t">Three complement pathways converge on a C3 convertase</title>
+<defs><marker id="arr-D15" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="400" y="28" text-anchor="middle" class="t-title">Three pathways, one goal: a C3 convertase</text>
+<!-- headers -->
+<rect x="20" y="45" width="240" height="40" rx="8" fill="#6a4c93"/>
+<text x="140" y="70" text-anchor="middle" class="t-head t-white">Classical pathway</text>
+<rect x="280" y="45" width="240" height="40" rx="8" fill="#2e7d5b"/>
+<text x="400" y="70" text-anchor="middle" class="t-head t-white">Lectin pathway</text>
+<rect x="540" y="45" width="240" height="40" rx="8" fill="#1f6fb2"/>
+<text x="660" y="70" text-anchor="middle" class="t-head t-white">Alternative pathway</text>
+<!-- triggers -->
+<rect x="20" y="100" width="240" height="70" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="140" y="122" text-anchor="middle" class="t-body">Trigger: antigen-bound IgM or</text>
+<text x="140" y="140" text-anchor="middle" class="t-body">IgG (immune complex),</text>
+<text x="140" y="158" text-anchor="middle" class="t-body">or CRP on a microbe</text>
+<rect x="280" y="100" width="240" height="70" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="400" y="122" text-anchor="middle" class="t-body">Trigger: microbial sugars</text>
+<text x="400" y="140" text-anchor="middle" class="t-body">mannose → MBL</text>
+<text x="400" y="158" text-anchor="middle" class="t-body">N-acetylglucosamine → ficolins</text>
+<rect x="540" y="100" width="240" height="70" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="660" y="122" text-anchor="middle" class="t-body">Trigger: spontaneous C3</text>
+<text x="660" y="140" text-anchor="middle" class="t-body">tick-over; C3b sticks to a</text>
+<text x="660" y="158" text-anchor="middle" class="t-body">surface without regulators</text>
+<!-- sensors -->
+<rect x="20" y="185" width="240" height="60" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="140" y="209" text-anchor="middle" class="t-head">Sensor: C1q</text>
+<text x="140" y="230" text-anchor="middle" class="t-body">Proteases: C1r → C1s</text>
+<rect x="280" y="185" width="240" height="60" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="400" y="209" text-anchor="middle" class="t-head">Sensor: MBL or ficolin</text>
+<text x="400" y="230" text-anchor="middle" class="t-body">Proteases: MASP1 → MASP2</text>
+<rect x="540" y="185" width="240" height="60" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="660" y="209" text-anchor="middle" class="t-head">C3b binds factor B</text>
+<text x="660" y="230" text-anchor="middle" class="t-body">factor D cuts B → Bb + Ba</text>
+<!-- steps -->
+<rect x="20" y="260" width="240" height="50" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="140" y="281" text-anchor="middle" class="t-body">C1s cleaves C4, then C2</text>
+<text x="140" y="299" text-anchor="middle" class="t-small">(C4b binds the surface)</text>
+<rect x="280" y="260" width="240" height="50" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="400" y="281" text-anchor="middle" class="t-body">MASP2 cleaves C4, then C2</text>
+<text x="400" y="299" text-anchor="middle" class="t-small">(same steps as classical)</text>
+<rect x="540" y="260" width="240" height="50" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="660" y="281" text-anchor="middle" class="t-body">Properdin stabilizes C3bBb</text>
+<text x="660" y="299" text-anchor="middle" class="t-small">(favored on microbial surfaces)</text>
+<!-- convertases -->
+<rect x="20" y="330" width="240" height="50" rx="8" fill="#6a4c93"/>
+<text x="140" y="361" text-anchor="middle" class="t-head t-white">C3 convertase: C4b2a</text>
+<rect x="280" y="330" width="240" height="50" rx="8" fill="#2e7d5b"/>
+<text x="400" y="361" text-anchor="middle" class="t-head t-white">C3 convertase: C4b2a</text>
+<rect x="540" y="330" width="240" height="50" rx="8" fill="#1f6fb2"/>
+<text x="660" y="361" text-anchor="middle" class="t-head t-white">C3 convertase: C3bBb</text>
+<!-- vertical arrows -->
+<g stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D15)">
+<line x1="140" y1="170" x2="140" y2="184"/><line x1="140" y1="245" x2="140" y2="259"/><line x1="140" y1="310" x2="140" y2="329"/>
+<line x1="400" y1="170" x2="400" y2="184"/><line x1="400" y1="245" x2="400" y2="259"/><line x1="400" y1="310" x2="400" y2="329"/>
+<line x1="660" y1="170" x2="660" y2="184"/><line x1="660" y1="245" x2="660" y2="259"/><line x1="660" y1="310" x2="660" y2="329"/>
+<line x1="140" y1="380" x2="250" y2="419"/><line x1="400" y1="380" x2="400" y2="419"/><line x1="660" y1="380" x2="550" y2="419"/>
+</g>
+<!-- central -->
+<rect x="200" y="420" width="400" height="50" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="2"/>
+<text x="400" y="442" text-anchor="middle" class="t-head">C3 → C3a + C3b</text>
+<text x="400" y="460" text-anchor="middle" class="t-small">C3a: inflammation · C3b: opsonin, builds the C5 convertase</text>
+<!-- amplification loop -->
+<path d="M600,450 C690,450 740,430 740,382" fill="none" stroke="#c77d14" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arr-D15)"/>
+<text x="615" y="482" class="t-small">Amplification loop: new C3b</text>
+<text x="615" y="496" class="t-small">binds factor B → more C3bBb</text>
+</svg>
+<figcaption><b>D15.</b> The three pathways differ only in how they start. Classical and lectin pathways build the same C3 convertase (C4b2a); the alternative pathway builds C3bBb. Every C3b made by any pathway can enter the alternative-pathway amplification loop (dashed). <span class="src" title="M5-F012,M5-F013,M5-F019,M5-F025,M5-F027,M5-F028,M5-F029,M5-F022,M5-F030,M5-F032,M5-F035,M5-F033">Abbas p.301; Abbas p.305; Abbas p.306; Abbas p.307; Janeway p.54; Abbas p.302</span></figcaption>
+</figure>
+
+<h2>3. The classical pathway — step by step</h2>
+<p>The classical pathway starts when C1 binds the CH2 domain of IgG or the CH3 domain of IgM. The antibody must already be bound to antigen. <span class="src" title="M5-F013">Abbas p.305</span></p>
+<p>C1 has three parts. C1q is the sensor that binds antibody. C1r and C1s are serine proteases. <span class="src" title="M5-F016">Abbas p.305</span></p>
+<ol class="steps">
+  <li>C1q binds at least two Ig heavy chains. Free, circulating antibody cannot do this, so only antigen-bound antibody triggers the pathway. <span class="src" title="M5-F017">Abbas p.305</span></li>
+  <li>Bound C1q activates C1r. C1r cleaves and activates C1s. <span class="src" title="M5-F020">Abbas p.305</span></li>
+  <li>C1s cleaves C4. C4b binds covalently to the surface. <span class="src" title="M5-F020">Abbas p.305</span></li>
+  <li>C2 binds the surface C4b. C1s cleaves C2. The large C2a fragment stays on C4b. <span class="src" title="M5-F021">Abbas p.305</span></li>
+  <li>The C4b2a complex is the classical pathway <b>C3 convertase</b>. <span class="src" title="M5-F022">Abbas p.305</span></li>
+  <li>C4b2a cleaves C3. Some new C3b binds to the convertase itself. C4b2a3b forms, the classical <b>C5 convertase</b>. <span class="src" title="M5-F023">Abbas p.306</span></li>
+</ol>
+<h3>Which antibodies and molecules trigger C1?</h3>
+<ul>
+  <li><b>IgM</b>: one antigen-bound IgM can bind two or more C1q molecules. Therefore IgM fixes complement better than IgG. <span class="src" title="M5-F018">Abbas p.305</span></li>
+  <li><b>IgG</b>: IgG1 and IgG3 are the most efficient human subclasses. <span class="src" title="M5-F014">Abbas p.305</span> IgG2 is weak, and IgG4 does not activate complement. <span class="src" title="M5-F015">Abbas p.305</span></li>
+  <li><b>Pentraxins</b>: C1q also binds C-reactive protein (CRP) and serum amyloid P. C1q also binds apoptotic bodies. <span class="src" title="M5-F019">Abbas p.305</span></li>
+</ul>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>A single IgG molecule cannot activate C1, because C1q needs two Fc regions close together. One antigen-bound IgM is enough. IgG4 does not fix complement. <span class="src" title="M5-F017,M5-F018,M5-F015">Abbas p.305</span></p></div>
+
+<h2>4. The lectin pathway — the classical pathway's twin</h2>
+<p>The lectin pathway starts when plasma mannose-binding lectin (MBL) or ficolins bind polysaccharides on microbes. <span class="src" title="M5-F025">Abbas p.306</span> MBL binds mannose residues. <span class="src" title="M5-F026">Abbas p.306</span> Ficolins (L-, H- and M-ficolin) bind N-acetylglucosamine-containing glycans with a fibrinogen-like domain. <span class="src" title="M5-F027">Abbas p.306</span></p>
+<ol class="steps">
+  <li>MBL or a ficolin binds sugars on the microbe. <span class="src" title="M5-F025">Abbas p.306</span></li>
+  <li>MASP1 may activate MASP2. MASP2 cleaves C4 and C2, just like C1s. <span class="src" title="M5-F028">Abbas p.307</span></li>
+  <li>The result is the same C3 convertase as in the classical pathway: C4b2a. <span class="src" title="M5-F029">Janeway p.54</span></li>
+</ol>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>The classical and lectin pathways are two different keys for the same lock. C1q reads "antibody"; MBL and ficolins read "microbial sugar". After the key turns, the machinery (C4, C2, C4b2a) is identical.</p></div>
+
+<h2>5. The alternative pathway — always idling, ready to amplify</h2>
+<p>Plasma C3 breaks down spontaneously at a low rate, about 1–2% of total C3 per hour. This is called C3 <b>tick-over</b>. <span class="src" title="M5-F030">Abbas p.301</span></p>
+<ol class="steps">
+  <li>Tick-over gives C3(H<sub>2</sub>O). C3(H<sub>2</sub>O) binds factor B. <span class="src" title="M5-F031">Janeway p.58</span></li>
+  <li>Factor D cleaves the bound factor B. A short-lived fluid-phase C3 convertase, C3(H<sub>2</sub>O)Bb, forms. <span class="src" title="M5-F031">Janeway p.58</span></li>
+  <li>This enzyme makes C3b. Some C3b lands on a nearby surface. <span class="src" title="M5-F031">Janeway p.58</span></li>
+  <li>Surface C3b binds factor B. Factor D cleaves it; Ba is released and Bb stays. <span class="src" title="M5-F032">Abbas p.301</span></li>
+  <li>C3bBb is the alternative pathway <b>C3 convertase</b>. <span class="src" title="M5-F032">Abbas p.301</span></li>
+  <li>Properdin binds and stabilizes C3bBb. Properdin attaches preferentially to microbial surfaces. <span class="src" title="M5-F035">Abbas p.302</span></li>
+  <li>A second C3b joins the convertase. The complex with one Bb and two C3b (C3bBb3b) is the alternative <b>C5 convertase</b>. <span class="src" title="M5-F036">Abbas p.303</span></li>
+</ol>
+<p>Factor D is special. It is the only activating protease of complement that circulates as an active enzyme, not as a zymogen. <span class="src" title="M5-F034">Janeway p.61</span></p>
+<h3>The amplification loop</h3>
+<p>Each C3bBb makes more C3b, and each new C3b can form more C3bBb. Thus the alternative pathway C3 convertase amplifies complement activation started by <i>any</i> of the three pathways. <span class="src" title="M5-F033">Abbas p.301</span></p>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>Tick-over is a pilot light that always burns a little. On our own cells, regulators blow the flame out at once. On a bacterium, nothing stops it, so the pilot light becomes a fire that feeds itself (the amplification loop). Properdin is the wind shield that keeps the flame alive.</p></div>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>Homologous pairs: C3 ↔ C4 and factor B ↔ C2. <span class="src" title="M5-F024">Abbas p.306</span> So C3bBb is the "alternative twin" of C4b2a: C3b plays the role of C4b, and Bb plays the role of C2a.</p></div>
+
+<h2>6. Convertases and the membrane attack complex (MAC)</h2>
+<h3>The four convertases at a glance</h3>
+<table>
+  <tr><th>Pathway</th><th>C3 convertase</th><th>C5 convertase</th><th>Source</th></tr>
+  <tr><td>Classical</td><td>C4b2a</td><td>C4b2a3b</td><td><span class="src" title="M5-F022,M5-F023">Abbas p.305; Abbas p.306</span></td></tr>
+  <tr><td>Lectin</td><td>C4b2a (same as classical)</td><td>C4b2a3b</td><td><span class="src" title="M5-F029,M5-F037">Janeway p.54; Janeway p.62</span></td></tr>
+  <tr><td>Alternative</td><td>C3bBb (fluid phase: C3(H<sub>2</sub>O)Bb)</td><td>C3bBb3b (Janeway: C3b<sub>2</sub>Bb)</td><td><span class="src" title="M5-F032,M5-F031,M5-F036,M5-F037">Abbas p.301; Janeway p.58; Abbas p.303; Janeway p.62</span></td></tr>
+</table>
+<p>A C5 convertase is simply a C3 convertase plus one extra C3b. C5 binds to this C3b. Then C2a or Bb cleaves C5 into C5a and C5b. <span class="src" title="M5-F038">Janeway p.62</span></p>
+<div class="box pearl"><span class="label">Exam pearl — nomenclature</span>
+<p>Abbas and Janeway both write the classical/lectin C3 convertase as C4b2a and the C5 convertase as C4b2a3b. <span class="src" title="M5-F022,M5-F037">Abbas p.305; Janeway p.62</span> For the alternative C5 convertase, Abbas describes one Bb with two C3b, and Janeway writes C3b<sub>2</sub>Bb. These names describe the same complex. <span class="src" title="M5-F036,M5-F037">Abbas p.303; Janeway p.62</span></p></div>
+
+<h3>Building the MAC</h3>
+<p>C5b starts the late (terminal) steps. <span class="src" title="M5-F040">Abbas p.307</span> Unlike C3b and C4b, C5b does not bind covalently to the cell surface. <span class="src" title="M5-F039">Janeway p.62</span></p>
+<ol class="steps">
+  <li>C5b binds C6, and then C7. The C5b-7 complex inserts into the lipid bilayer. <span class="src" title="M5-F040">Abbas p.307</span></li>
+  <li>C8 joins. C5b-8 makes small, unstable pores (0.4–3 nm). <span class="src" title="M5-F041">Abbas p.307</span></li>
+  <li>The first C9 binds. This is the rate-limiting step. <span class="src" title="M5-F042">Abbas p.307</span></li>
+  <li>More C9 molecules polymerize (poly-C9). The complete pore is C5b-9, the <b>membrane attack complex (MAC)</b>. <span class="src" title="M5-F043">Abbas p.307</span></li>
+  <li>Water enters through the pore. The cell swells and ruptures (osmotic lysis). <span class="src" title="M5-F045">Abbas p.307</span></li>
+</ol>
+
+<figure class="diagram" id="D16">
+<svg viewBox="0 0 800 545" role="img" aria-labelledby="D16t">
+<title id="D16t">From C3 convertase to C5 convertase to membrane attack complex</title>
+<defs><marker id="arr-D16" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="400" y="28" text-anchor="middle" class="t-title">From C3 convertase to C5 convertase to MAC</text>
+<text x="20" y="60" class="t-head">1 · Add one C3b: the C3 convertase becomes a C5 convertase</text>
+<!-- row 1 -->
+<rect x="20" y="75" width="210" height="60" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="125" y="97" text-anchor="middle" class="t-head">C4b2a</text>
+<text x="125" y="114" text-anchor="middle" class="t-body">C3 convertase</text>
+<text x="125" y="129" text-anchor="middle" class="t-small">classical + lectin</text>
+<rect x="300" y="75" width="230" height="60" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="415" y="97" text-anchor="middle" class="t-head">C4b2a3b</text>
+<text x="415" y="114" text-anchor="middle" class="t-body">C5 convertase</text>
+<text x="415" y="129" text-anchor="middle" class="t-small">classical + lectin</text>
+<!-- row 2 -->
+<rect x="20" y="150" width="210" height="60" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="125" y="172" text-anchor="middle" class="t-head">C3bBb</text>
+<text x="125" y="189" text-anchor="middle" class="t-body">C3 convertase</text>
+<text x="125" y="204" text-anchor="middle" class="t-small">alternative</text>
+<rect x="300" y="150" width="230" height="60" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="415" y="172" text-anchor="middle" class="t-head">C3bBb3b</text>
+<text x="415" y="189" text-anchor="middle" class="t-body">C5 convertase</text>
+<text x="415" y="204" text-anchor="middle" class="t-small">alternative (Janeway: C3b2Bb)</text>
+<!-- C5 cleavage box -->
+<rect x="590" y="75" width="190" height="135" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="685" y="99" text-anchor="middle" class="t-head">C5 is cleaved</text>
+<text x="685" y="122" text-anchor="middle" class="t-body">C5a → released,</text>
+<text x="685" y="139" text-anchor="middle" class="t-body">anaphylatoxin</text>
+<text x="685" y="162" text-anchor="middle" class="t-body">C5b → starts</text>
+<text x="685" y="179" text-anchor="middle" class="t-body">the MAC</text>
+<text x="685" y="199" text-anchor="middle" class="t-small">enzyme: C2a or Bb</text>
+<g stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D16)">
+<line x1="230" y1="105" x2="298" y2="105"/><line x1="230" y1="180" x2="298" y2="180"/>
+<line x1="530" y1="105" x2="588" y2="120"/><line x1="530" y1="180" x2="588" y2="165"/>
+</g>
+<text x="264" y="97" text-anchor="middle" class="t-body">+ C3b</text>
+<text x="264" y="172" text-anchor="middle" class="t-body">+ C3b</text>
+<!-- section 2 -->
+<text x="20" y="245" class="t-head">2 · Build the membrane attack complex (MAC) on the target membrane</text>
+<g stroke-width="1.5">
+<rect x="20" y="260" width="140" height="70" rx="8" fill="#f5f7fa" stroke="#5b6475"/>
+<rect x="175" y="260" width="140" height="70" rx="8" fill="#f5f7fa" stroke="#5b6475"/>
+<rect x="330" y="260" width="140" height="70" rx="8" fill="#f5f7fa" stroke="#5b6475"/>
+<rect x="485" y="260" width="140" height="70" rx="8" fill="#f5f7fa" stroke="#5b6475"/>
+<rect x="640" y="260" width="140" height="70" rx="8" fill="#dfeaf6" stroke="#1f6fb2"/>
+</g>
+<text x="90" y="281" text-anchor="middle" class="t-head">C5b + C6</text>
+<text x="90" y="299" text-anchor="middle" class="t-body">C5b-6 forms</text>
+<text x="90" y="316" text-anchor="middle" class="t-body">(not inserted)</text>
+<text x="245" y="281" text-anchor="middle" class="t-head">+ C7</text>
+<text x="245" y="299" text-anchor="middle" class="t-body">C5b-7 inserts</text>
+<text x="245" y="316" text-anchor="middle" class="t-body">into the bilayer</text>
+<text x="400" y="281" text-anchor="middle" class="t-head">+ C8</text>
+<text x="400" y="299" text-anchor="middle" class="t-body">C5b-8: small,</text>
+<text x="400" y="316" text-anchor="middle" class="t-body">unstable pores</text>
+<text x="555" y="281" text-anchor="middle" class="t-head">+ C9</text>
+<text x="555" y="299" text-anchor="middle" class="t-body">first C9 binding</text>
+<text x="555" y="316" text-anchor="middle" class="t-body">is rate-limiting</text>
+<text x="710" y="281" text-anchor="middle" class="t-head">MAC = C5b-9</text>
+<text x="710" y="299" text-anchor="middle" class="t-body">poly-C9 pore</text>
+<text x="710" y="316" text-anchor="middle" class="t-body">water in → lysis</text>
+<g stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D16)">
+<line x1="160" y1="295" x2="174" y2="295"/><line x1="315" y1="295" x2="329" y2="295"/>
+<line x1="470" y1="295" x2="484" y2="295"/><line x1="625" y1="295" x2="639" y2="295"/>
+</g>
+<!-- membrane -->
+<rect x="20" y="400" width="760" height="34" rx="4" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="20" y="452" class="t-small">Target cell membrane (lipid bilayer)</text>
+<!-- col1 -->
+<circle cx="76" cy="368" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="76" y="372" text-anchor="middle" class="t-small">C5b</text>
+<circle cx="104" cy="368" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="104" y="372" text-anchor="middle" class="t-small">C6</text>
+<!-- col2 -->
+<circle cx="231" cy="360" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="231" y="364" text-anchor="middle" class="t-small">C5b</text>
+<circle cx="259" cy="360" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="259" y="364" text-anchor="middle" class="t-small">C6</text>
+<rect x="238" y="378" width="14" height="40" rx="3" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/><text x="258" y="394" class="t-small">C7</text>
+<!-- col3 -->
+<circle cx="386" cy="360" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="386" y="364" text-anchor="middle" class="t-small">C5b</text>
+<circle cx="414" cy="360" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="414" y="364" text-anchor="middle" class="t-small">C6</text>
+<rect x="380" y="378" width="12" height="42" rx="3" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/><text x="375" y="394" text-anchor="end" class="t-small">C7</text>
+<rect x="408" y="378" width="12" height="42" rx="3" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/><text x="425" y="394" class="t-small">C8</text>
+<!-- col4 -->
+<circle cx="555" cy="358" r="14" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/><text x="555" y="362" text-anchor="middle" class="t-small">C5b</text>
+<rect x="529" y="380" width="10" height="46" rx="3" fill="#1f6fb2"/>
+<rect x="545" y="380" width="10" height="46" rx="3" fill="#1f6fb2"/>
+<rect x="561" y="380" width="10" height="46" rx="3" fill="#1f6fb2"/>
+<text x="578" y="394" class="t-small">C9</text>
+<!-- col5 pore -->
+<text x="710" y="360" text-anchor="middle" class="t-small">poly-C9 pore</text>
+<rect x="676" y="374" width="18" height="72" rx="3" fill="#1f6fb2"/>
+<rect x="726" y="374" width="18" height="72" rx="3" fill="#1f6fb2"/>
+<line x1="710" y1="374" x2="710" y2="444" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D16)"/>
+<text x="750" y="392" class="t-small">H₂O in</text>
+<!-- notes -->
+<text x="20" y="484" class="t-body">• Abbas: up to 18 C9 per pore. Janeway: 10–16 C9. Same idea, different counts.</text>
+<text x="20" y="506" class="t-body">• C5b-7 and C5b-8 already enter the membrane; C9 completes the channel.</text>
+<text x="20" y="528" class="t-body">• Water and ions flow in, the cell swells and bursts (osmotic lysis).</text>
+</svg>
+<figcaption><b>D16.</b> Top: one extra C3b turns each C3 convertase into a C5 convertase. Bottom: C5b collects C6, C7, C8 and many C9 molecules to build the MAC pore. <span class="src" title="M5-F023,M5-F036,M5-F037,M5-F038,M5-F040,M5-F041,M5-F042,M5-F043,M5-F044,M5-F045">Abbas p.306; Abbas p.303; Janeway p.62; Abbas p.307; Janeway p.66</span></figcaption>
+</figure>
+
+<div class="box caution"><span class="label">Source difference</span>
+<p>The number of C9 molecules per MAC differs: Abbas gives "up to 18", Janeway gives 10–16. <span class="src" title="M5-F043,M5-F044">Abbas p.307; Janeway p.66</span> An exam will not ask for the exact number. Remember "C5b-9 with poly-C9".</p></div>
+
+<h3>How important is lysis?</h3>
+<p>MAC lysis is critical against only a few pathogens. The classic example is <i>Neisseria</i>, which has a thin cell wall. <span class="src" title="M5-F046">Abbas p.314</span> Deficiency of C5–C9 is associated with susceptibility to <i>Neisseria</i> only. <span class="src" title="M5-F047">Janeway p.66</span> → Details in <a href="M6-complement-deficiencies.html">M6</a>.</p>
+
+<h2>7. What complement does — the functions</h2>
+<h3>7.1 Opsonization (the most important job)</h3>
+<p>The most important action of complement is to help phagocytes take up and destroy pathogens. <span class="src" title="M5-F096">Janeway p.62</span> C3b and C4b bind CR1. iC3b, a cleaved form of C3b, binds CR3 (MAC-1) and CR4. <span class="src" title="M5-F048">Abbas p.313</span> By itself, CR1 is inefficient at triggering phagocytosis of C3b-coated microbes. Simultaneous IgG binding to Fcγ receptors enhances it. <span class="src" title="M5-F049">Abbas p.313</span> In contrast, iC3b binding to CR3 is sufficient on its own to trigger phagocytosis. <span class="src" title="M5-F050">Janeway p.64</span></p>
+<div class="box clinical"><span class="label">Clinical correlation</span>
+<p>IgM against capsular polysaccharides activates the classical pathway. Phagocytes then clear pneumococci and meningococci in the spleen. <span class="src" title="M5-F095">Abbas p.313</span> Therefore, people without a spleen are susceptible to disseminated pneumococcal and meningococcal septicemia. <span class="src" title="M5-F051">Abbas p.313</span></p></div>
+
+<h3>7.2 Inflammation: the anaphylatoxins C3a, C4a, C5a</h3>
+<p>C5a, C4a and C3a bind to mast cells. They cause degranulation with release of histamine and other vasoactive mediators. <span class="src" title="M5-F052">Abbas p.313</span> These peptides are called <b>anaphylatoxins</b>, because the mast cell reactions they trigger resemble anaphylaxis. <span class="src" title="M5-F053">Abbas p.313</span></p>
+<ul>
+  <li><b>Potency:</b> C5a is the most potent mediator of mast cell degranulation. C3a is about 20-fold weaker, and C4a about 2500-fold weaker. <span class="src" title="M5-F054">Abbas p.314</span></li>
+  <li><b>Neutrophils:</b> C5a stimulates motility and firm adhesion to endothelium. At high doses, it stimulates the respiratory burst. <span class="src" title="M5-F055">Abbas p.313</span></li>
+  <li><b>Eosinophils:</b> C5a is a chemoattractant for eosinophils. <span class="src" title="M5-F058">Abbas p.473</span></li>
+  <li><b>Receptor:</b> C5aR1 is a G protein-coupled receptor. It is on neutrophils, eosinophils, basophils, monocytes, macrophages, mast cells and other cells. <span class="src" title="M5-F059">Abbas p.309</span></li>
+  <li><b>Off switch:</b> plasma carboxypeptidases remove the C-terminal arginine. The des-Arg forms keep only about 10% of the activity. <span class="src" title="M5-F060">Abbas p.312</span></li>
+</ul>
+<div class="box clinical"><span class="label">Clinical correlation — allergy</span>
+<p>C3a and C5a can degranulate mast cells <i>without</i> IgE. <span class="src" title="M5-F057">Abbas p.470</span> In mouse studies of bacterial infection, alternative pathway activation releases C5a, which directly triggers mast cell degranulation. <span class="src" title="M5-F094">Abbas p.482</span> Large systemic amounts of anaphylatoxins cause circulatory collapse, a shock-like syndrome that resembles a systemic IgE-mediated allergic reaction. <span class="src" title="M5-F056">Janeway p.64</span></p></div>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>C3b is the "eat me" label that stays on the bacterium. C3a and C5a are the smoke that drifts away and sets off the fire alarm (mast cells, neutrophils, eosinophils).</p></div>
+
+<h3>7.3 Lysis</h3>
+<p>The MAC forms a pore, and water enters the cell. <span class="src" title="M5-F045">Abbas p.307</span> See section 6 and diagram D16.</p>
+
+<h3>7.4 Immune-complex clearance</h3>
+<p>CR1 on erythrocytes binds circulating immune complexes that carry C3b and C4b. Erythrocytes carry these complexes to the liver and spleen. There, phagocytes remove them. <span class="src" title="M5-F061">Abbas p.307</span></p>
+
+<h3>7.5 Help for B cells</h3>
+<p>Factor I cleaves C3b to iC3b, C3d and C3dg. These fragments do not continue the cascade, but they bind receptors on phagocytes and B cells. <span class="src" title="M5-F079">Abbas p.312</span> C3d on an antigen binds CR2 on B cells and facilitates B-cell activation. <span class="src" title="M5-F064">Abbas p.314</span> On B cells, CR2 (CD21) forms a co-receptor complex with CD19 and CD81. <span class="src" title="M5-F062">Abbas p.308</span></p>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>C3d is a "second signature" on the antigen. A B cell that sees both the antigen (with its B-cell receptor) and the C3d tag (with CR2) gets a much louder "go" signal.</p></div>
+
+<h3>Complement receptors — summary table</h3>
+<table>
+  <tr><th>Receptor</th><th>Main ligand(s)</th><th>Main cells / role</th><th>Source</th></tr>
+  <tr><td>CR1 (CD35)</td><td>C3b, C4b</td><td>Phagocytes; erythrocytes carry immune complexes; also a regulator (cofactor and decay)</td><td><span class="src" title="M5-F048,M5-F061,M5-F082">Abbas p.313; Abbas p.307; Janeway p.60</span></td></tr>
+  <tr><td>CR2 (CD21)</td><td>C3d, C3dg, iC3b</td><td>B cells (with CD19, CD81); EBV receptor</td><td><span class="src" title="M5-F062,M5-F063">Abbas p.308; Abbas p.310</span></td></tr>
+  <tr><td>CR3 (MAC-1, CD11b/CD18)</td><td>iC3b; also ICAM-1</td><td>Integrin; phagocytosis and adhesion to endothelium</td><td><span class="src" title="M5-F065,M5-F050">Abbas p.309; Janeway p.64</span></td></tr>
+  <tr><td>CR4 (CD11c/CD18)</td><td>iC3b</td><td>Integrin; CD11c marks dendritic cells</td><td><span class="src" title="M5-F066">Abbas p.309</span></td></tr>
+  <tr><td>C5aR1</td><td>C5a</td><td>G protein-coupled receptor on granulocytes, mast cells, monocytes and others</td><td><span class="src" title="M5-F059">Abbas p.309</span></td></tr>
+</table>
+<div class="box caution"><span class="label">Source difference</span>
+<p>Abbas lists iC3b as a weak CR1 ligand (C3b &gt; C4b &gt; iC3b). <span class="src" title="M5-F093">Abbas p.310</span> Janeway says iC3b binds CR2, CR3 and CR4, but not CR1. <span class="src" title="M5-F092">Janeway p.64</span> For the exam, link iC3b mainly to CR3 and CR4.</p></div>
+<p>CR3 and CR4 share the CD18 chain. Mutations in CD18 remove both receptors and cause leukocyte adhesion deficiency (LAD). <span class="src" title="M5-F067">Abbas p.315</span> → See <a href="M4-phagocytosis.html">M4</a>.</p>
+
+<h2>8. Regulators — the brakes, and where each one acts</h2>
+<p>The reactive thioester of C3b and C4b cannot tell a host cell from a microbe. <span class="src" title="M5-F098">Janeway p.68</span> Therefore host cells need brakes. Regulators act at three levels: they block C3 convertase formation, break down C3 and C5 convertases, and inhibit the MAC. <span class="src" title="M5-F097">Abbas p.311</span> Microbes lack the membrane regulators. <span class="src" title="M5-F012">Abbas p.301</span></p>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>Think of a car with several brakes. C1-INH is the hand brake at the start. DAF, factor H and C4BP pull the convertase apart (they "accelerate decay"). Factor I is the scissors, but it cuts only when a helper (cofactor) holds C3b or C4b. CD59 is the last brake, at the MAC.</p></div>
+
+<h3>8.1 At the start: C1 inhibitor (C1-INH)</h3>
+<ul>
+  <li>C1-INH is a serpin. Active C1r and C1s cleave it, it binds them covalently, and C1r2s2 dissociates from C1q. This stops the classical pathway. <span class="src" title="M5-F068">Abbas p.311</span></li>
+  <li>C1-INH also inactivates MASP2, so it dampens the lectin pathway. <span class="src" title="M5-F069">Abbas p.311</span></li>
+  <li>C1-INH also inhibits kallikrein and coagulation factor XII. Both enzymes promote bradykinin formation. <span class="src" title="M5-F070">Abbas p.311</span></li>
+</ul>
+<p><b>→ M6 link:</b> C1-INH deficiency causes hereditary angioedema (HAE), an autosomal dominant disease. <span class="src" title="M5-F071">Abbas p.311</span> The edema mediators include C2 kinin and bradykinin. <span class="src" title="M5-F072">Abbas p.311</span></p>
+
+<h3>8.2 At the convertases: plasma regulators</h3>
+<ul>
+  <li><b>Factor H</b> binds C3b, displaces Bb, and is a cofactor for factor I. <span class="src" title="M5-F073">Abbas p.310</span> It blocks only Bb, so it regulates the alternative pathway but not the classical pathway. <span class="src" title="M5-F074">Abbas p.311</span> Sialic acid-rich host surfaces favor factor H binding over factor B. <span class="src" title="M5-F075">Abbas p.311</span> <b>→ M6 link:</b> factor H is the gene most often mutated in complement-mediated hemolytic-uremic syndrome. <span class="src" title="M5-F089">Abbas p.315</span></li>
+  <li><b>C4-binding protein (C4BP)</b> binds C4b, displaces C2, and is a cofactor for factor I cleavage of C4b. <span class="src" title="M5-F076">Abbas p.310</span> <b>→ M6 link:</b> C4BP deficiency: Not covered in provided sources — needs expert input.</li>
+  <li><b>Factor I</b> is a plasma serine protease. It cleaves C3b and C4b, using factor H, MCP, C4BP or CR1 as cofactor. <span class="src" title="M5-F077">Abbas p.310</span> It circulates in active form, but cuts only C3b or C4b that is bound to a cofactor. <span class="src" title="M5-F078">Janeway p.68</span> <b>→ M6 link:</b> factor I deficiency depletes plasma C3 and causes pyogenic infections. <span class="src" title="M5-F088">Abbas p.315</span></li>
+</ul>
+
+<h3>8.3 At the convertases: membrane regulators</h3>
+<ul>
+  <li><b>Decay-accelerating factor (DAF, CD55)</b> displaces C2a from C4b and Bb from C3b, so it dissociates both C3 convertases. <span class="src" title="M5-F081">Abbas p.310</span> <b>→ M6 link:</b> DAF is GPI-linked; loss of GPI anchors removes DAF and CD59 and causes paroxysmal nocturnal hemoglobinuria (PNH). <span class="src" title="M5-F087">Abbas p.311</span></li>
+  <li><b>Membrane cofactor protein (MCP, CD46)</b> is on leukocytes, epithelial cells and endothelial cells. It is a cofactor for factor I cleavage of C3b and C4b. <span class="src" title="M5-F080">Abbas p.310</span> <b>→ M6 link:</b> MCP mutations also occur in complement-mediated hemolytic-uremic syndrome. <span class="src" title="M5-F089">Abbas p.315</span></li>
+  <li><b>CR1 (CD35)</b> both displaces Bb (decay) and acts as a cofactor for factor I. <span class="src" title="M5-F082">Janeway p.60</span></li>
+</ul>
+
+<h3>8.4 At the MAC</h3>
+<ul>
+  <li><b>CD59 (protectin)</b> is a GPI-linked membrane protein. It enters the assembling MAC after C5b-8 insertion and blocks the addition of C9. <span class="src" title="M5-F083,M5-F084">Abbas p.312; Janeway p.70</span> <b>→ M6 link:</b> CD59 loss contributes to hemolysis in PNH. <span class="src" title="M5-F087">Abbas p.311</span></li>
+  <li><b>S protein (vitronectin)</b> in plasma binds soluble C5b-7. It stops C5b-7 from inserting into bystander cell membranes. <span class="src" title="M5-F085,M5-F086">Abbas p.312; Janeway p.70</span></li>
+</ul>
+
+<figure class="diagram" id="D17">
+<svg viewBox="0 0 800 480" role="img" aria-labelledby="D17t">
+<title id="D17t">Complement regulators and the step where each one acts</title>
+<defs>
+<marker id="arr-D17" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker>
+<marker id="bar-D17" viewBox="0 0 4 12" refX="2" refY="6" markerWidth="4" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto"><path d="M2,0 L2,12" stroke="#b23a48" stroke-width="3"/></marker>
+</defs>
+<text x="400" y="28" text-anchor="middle" class="t-title">Where each regulator puts on the brakes</text>
+<text x="20" y="56" class="t-small">PLASMA (fluid-phase) REGULATORS</text>
+<!-- plasma row -->
+<g stroke="#c77d14" stroke-width="1.5" fill="#fbecd3">
+<rect x="20" y="65" width="140" height="70" rx="8"/><rect x="175" y="65" width="140" height="70" rx="8"/>
+<rect x="330" y="65" width="140" height="70" rx="8"/><rect x="485" y="65" width="140" height="70" rx="8"/>
+<rect x="640" y="65" width="140" height="70" rx="8"/>
+</g>
+<text x="90" y="88" text-anchor="middle" class="t-head">C1-INH</text>
+<text x="90" y="106" text-anchor="middle" class="t-body">serpin: blocks</text>
+<text x="90" y="122" text-anchor="middle" class="t-body">C1r, C1s, MASP2</text>
+<text x="245" y="88" text-anchor="middle" class="t-head">C4BP</text>
+<text x="245" y="106" text-anchor="middle" class="t-body">displaces C2a;</text>
+<text x="245" y="122" text-anchor="middle" class="t-body">factor I cofactor</text>
+<text x="400" y="88" text-anchor="middle" class="t-head">Factor H</text>
+<text x="400" y="106" text-anchor="middle" class="t-body">displaces Bb;</text>
+<text x="400" y="122" text-anchor="middle" class="t-body">factor I cofactor</text>
+<text x="555" y="88" text-anchor="middle" class="t-head">Factor I</text>
+<text x="555" y="106" text-anchor="middle" class="t-body">cuts C3b, C4b</text>
+<text x="555" y="122" text-anchor="middle" class="t-body">(needs cofactor)</text>
+<text x="710" y="88" text-anchor="middle" class="t-head">S protein</text>
+<text x="710" y="106" text-anchor="middle" class="t-body">(vitronectin)</text>
+<text x="710" y="122" text-anchor="middle" class="t-body">binds C5b-7</text>
+<!-- cascade row -->
+<g stroke="#1f6fb2" stroke-width="2" fill="#dfeaf6">
+<rect x="20" y="195" width="140" height="64" rx="8"/><rect x="175" y="195" width="140" height="64" rx="8"/>
+<rect x="330" y="195" width="140" height="64" rx="8"/><rect x="485" y="195" width="140" height="64" rx="8"/>
+<rect x="640" y="195" width="140" height="64" rx="8"/>
+</g>
+<text x="90" y="219" text-anchor="middle" class="t-head">Initiation</text>
+<text x="90" y="240" text-anchor="middle" class="t-body">C1r, C1s / MASP2</text>
+<text x="245" y="219" text-anchor="middle" class="t-head">C3 convertase</text>
+<text x="245" y="240" text-anchor="middle" class="t-body">C4b2a · C3bBb</text>
+<text x="400" y="219" text-anchor="middle" class="t-head">C3b / C4b</text>
+<text x="400" y="240" text-anchor="middle" class="t-body">on the surface</text>
+<text x="555" y="219" text-anchor="middle" class="t-head">C5 convertase</text>
+<text x="555" y="240" text-anchor="middle" class="t-body">→ C5a + C5b</text>
+<text x="710" y="219" text-anchor="middle" class="t-head">MAC</text>
+<text x="710" y="240" text-anchor="middle" class="t-body">C5b-9 pore</text>
+<g stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D17)">
+<line x1="160" y1="227" x2="174" y2="227"/><line x1="315" y1="227" x2="329" y2="227"/>
+<line x1="470" y1="227" x2="484" y2="227"/><line x1="625" y1="227" x2="639" y2="227"/>
+</g>
+<!-- membrane row -->
+<text x="90" y="345" text-anchor="middle" class="t-small">MEMBRANE</text>
+<text x="90" y="360" text-anchor="middle" class="t-small">REGULATORS</text>
+<text x="90" y="375" text-anchor="middle" class="t-small">(host cells only)</text>
+<g stroke="#2e7d5b" stroke-width="1.5" fill="#e3f1ea">
+<rect x="175" y="320" width="140" height="70" rx="8"/><rect x="330" y="320" width="140" height="70" rx="8"/>
+<rect x="485" y="320" width="140" height="70" rx="8"/><rect x="640" y="320" width="140" height="70" rx="8"/>
+</g>
+<text x="245" y="343" text-anchor="middle" class="t-head">DAF (CD55)</text>
+<text x="245" y="361" text-anchor="middle" class="t-body">GPI; speeds decay</text>
+<text x="245" y="377" text-anchor="middle" class="t-body">of C3 convertases</text>
+<text x="400" y="343" text-anchor="middle" class="t-head">MCP (CD46)</text>
+<text x="400" y="361" text-anchor="middle" class="t-body">cofactor for</text>
+<text x="400" y="377" text-anchor="middle" class="t-body">factor I</text>
+<text x="555" y="343" text-anchor="middle" class="t-head">CR1 (CD35)</text>
+<text x="555" y="361" text-anchor="middle" class="t-body">decay + cofactor</text>
+<text x="555" y="377" text-anchor="middle" class="t-body">for factor I</text>
+<text x="710" y="343" text-anchor="middle" class="t-head">CD59</text>
+<text x="710" y="361" text-anchor="middle" class="t-body">(protectin); GPI</text>
+<text x="710" y="377" text-anchor="middle" class="t-body">blocks C9 binding</text>
+<!-- inhibition lines -->
+<g stroke="#b23a48" stroke-width="2" marker-end="url(#bar-D17)">
+<line x1="90" y1="135" x2="90" y2="192"/>
+<line x1="245" y1="135" x2="245" y2="192"/>
+<line x1="400" y1="135" x2="400" y2="192"/>
+<line x1="555" y1="135" x2="452" y2="192"/>
+<line x1="710" y1="135" x2="710" y2="192"/>
+<line x1="245" y1="320" x2="245" y2="262"/>
+<line x1="400" y1="320" x2="400" y2="262"/>
+<line x1="555" y1="320" x2="452" y2="262"/>
+<line x1="710" y1="320" x2="710" y2="262"/>
+</g>
+<!-- legend -->
+<rect x="20" y="425" width="16" height="16" rx="3" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="42" y="438" class="t-body">Plasma regulator</text>
+<rect x="190" y="425" width="16" height="16" rx="3" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="212" y="438" class="t-body">Membrane regulator (absent on microbes)</text>
+<line x1="520" y1="433" x2="550" y2="433" stroke="#b23a48" stroke-width="2" marker-end="url(#bar-D17)"/>
+<text x="560" y="438" class="t-body">inhibits this step</text>
+<text x="20" y="466" class="t-small">Also: plasma carboxypeptidases inactivate C3a and C5a (des-Arg forms keep about 10% activity).</text>
+</svg>
+<figcaption><b>D17.</b> Plasma regulators (top) and host-cell membrane regulators (bottom) act at three levels: initiation, the C3b/C4b-containing convertases, and the MAC. Microbes lack the membrane regulators, so complement proceeds on them. <span class="src" title="M5-F012,M5-F068,M5-F069,M5-F076,M5-F073,M5-F077,M5-F078,M5-F085,M5-F086,M5-F081,M5-F080,M5-F082,M5-F083,M5-F084,M5-F060">Abbas p.301; Abbas p.311; Abbas p.310; Janeway p.68; Abbas p.312; Janeway p.70; Janeway p.60</span></figcaption>
+</figure>
+
+<h3>Regulators — one table to learn</h3>
+<table>
+  <tr><th>Regulator</th><th>Where</th><th>Acts on</th><th>What it does</th><th>M6 link</th></tr>
+  <tr><td>C1-INH</td><td>Plasma</td><td>C1r, C1s, MASP2</td><td>Serpin; removes C1r2s2 from C1q <span class="src" title="M5-F068,M5-F069">Abbas p.311</span></td><td>HAE <span class="src" title="M5-F071">Abbas p.311</span></td></tr>
+  <tr><td>C4BP</td><td>Plasma</td><td>C4b</td><td>Displaces C2; factor I cofactor <span class="src" title="M5-F076">Abbas p.310</span></td><td>Not covered in provided sources — needs expert input.</td></tr>
+  <tr><td>Factor H</td><td>Plasma</td><td>C3b</td><td>Displaces Bb; factor I cofactor; alternative pathway only <span class="src" title="M5-F073,M5-F074">Abbas p.310; Abbas p.311</span></td><td>Hemolytic-uremic syndrome <span class="src" title="M5-F089">Abbas p.315</span></td></tr>
+  <tr><td>Factor I</td><td>Plasma</td><td>C3b, C4b</td><td>Cleaves them; needs a cofactor <span class="src" title="M5-F077,M5-F078">Abbas p.310; Janeway p.68</span></td><td>C3 depletion, pyogenic infections <span class="src" title="M5-F088">Abbas p.315</span></td></tr>
+  <tr><td>MCP (CD46)</td><td>Membrane</td><td>C3b, C4b</td><td>Factor I cofactor <span class="src" title="M5-F080">Abbas p.310</span></td><td>Hemolytic-uremic syndrome <span class="src" title="M5-F089">Abbas p.315</span></td></tr>
+  <tr><td>DAF (CD55)</td><td>Membrane (GPI)</td><td>C4b2a, C3bBb</td><td>Dissociates C3 convertases <span class="src" title="M5-F081">Abbas p.310</span></td><td>PNH <span class="src" title="M5-F087">Abbas p.311</span></td></tr>
+  <tr><td>CR1 (CD35)</td><td>Membrane</td><td>C3b, C4b</td><td>Decay and factor I cofactor <span class="src" title="M5-F082">Janeway p.60</span></td><td>—</td></tr>
+  <tr><td>CD59 (protectin)</td><td>Membrane (GPI)</td><td>C5b-8</td><td>Blocks C9 binding; stops the MAC <span class="src" title="M5-F083,M5-F084">Abbas p.312; Janeway p.70</span></td><td>PNH <span class="src" title="M5-F087">Abbas p.311</span></td></tr>
+  <tr><td>S protein (vitronectin)</td><td>Plasma</td><td>Soluble C5b-7</td><td>Prevents bystander insertion <span class="src" title="M5-F085,M5-F086">Abbas p.312; Janeway p.70</span></td><td>—</td></tr>
+</table>
+<div class="box pearl"><span class="label">Exam pearl — decay vs cofactor</span>
+<p><b>Decay accelerators</b> pull the convertase apart: DAF, CR1, factor H (displace Bb) and C4BP (displaces C2). <b>Cofactors</b> help factor I cut C3b or C4b: MCP, CR1, factor H, C4BP. CR1 and factor H do both. <span class="src" title="M5-F082,M5-F081,M5-F076,M5-F077">Janeway p.60; Abbas p.310</span></p></div>
+
+<h2>9. How microbes escape complement (brief)</h2>
+<ul>
+  <li>Thick cell walls of Gram-positive bacteria and some fungi prevent binding of complement proteins such as the MAC. <span class="src" title="M5-F090">Abbas p.316</span></li>
+  <li>Many pathogens recruit host regulators. For example, surface sialic acid recruits factor H. <span class="src" title="M5-F091">Abbas p.316</span></li>
+</ul>
+
+<section class="keypoints"><h2>5 key points</h2><ol>
+  <li>Three pathways (classical, lectin, alternative) all lead to a C3 convertase; cleavage of C3 is the central event. <span class="src" title="M5-F007,M5-F010">Abbas p.301</span></li>
+  <li>Classical and lectin pathways share the C3 convertase C4b2a; the alternative C3 convertase is C3bBb. Adding one C3b gives the C5 convertases C4b2a3b and C3bBb3b. <span class="src" title="M5-F022,M5-F029,M5-F032,M5-F023,M5-F036">Abbas p.305; Janeway p.54; Abbas p.301; Abbas p.306; Abbas p.303</span></li>
+  <li>The alternative pathway amplifies all three pathways; properdin stabilizes C3bBb, and factor D circulates already active. <span class="src" title="M5-F033,M5-F035,M5-F034">Abbas p.301; Abbas p.302; Janeway p.61</span></li>
+  <li>C3b and iC3b opsonize (CR1, CR3, CR4); C5a is the strongest anaphylatoxin and degranulates mast cells without IgE; the MAC (C5b-9) lyses thin-walled <i>Neisseria</i>. <span class="src" title="M5-F048,M5-F054,M5-F057,M5-F046">Abbas p.313; Abbas p.314; Abbas p.470</span></li>
+  <li>Regulators act at three levels: C1-INH at C1/MASP2; DAF, MCP, CR1, factor H, C4BP and factor I at the convertases; CD59 at the MAC. <span class="src" title="M5-F068,M5-F069,M5-F082,M5-F076,M5-F077,M5-F083">Abbas p.311; Janeway p.60; Abbas p.310; Abbas p.312</span></li>
+</ol></section>
+
+<section class="traps"><h2>3 exam traps</h2><ol>
+  <li>Factor H regulates the <b>alternative</b> pathway only; it does not displace C2a from C4b. The classical-pathway plasma regulator of C4b is C4BP. <span class="src" title="M5-F074,M5-F076">Abbas p.311; Abbas p.310</span></li>
+  <li>CD59 does not block convertases. It blocks C9 binding at C5b-8. DAF is the GPI-linked regulator that dissociates the C3 convertases. <span class="src" title="M5-F083,M5-F081">Abbas p.312; Abbas p.310</span></li>
+  <li>Free circulating IgG or IgM does not activate C1. C1q needs two Fc regions on antigen-bound antibody; IgG4 does not fix complement. <span class="src" title="M5-F017,M5-F018,M5-F015">Abbas p.305</span></li>
+</ol></section>
+
+<p class="related">Practice: <a href="../quiz/quiz.html#M5">M5 questions in the quiz</a> (IDs M5-A1 … M5-K2).</p>
+<footer class="sources">Sources: Abbas, Cellular and Molecular Immunology, 11th ed., pp. 300–316 (complement), 470, 473, 482 (mast cells and anaphylatoxins); Janeway's Immunobiology, 8th ed., pp. 49–71 (complement and innate immunity). · Fact IDs refer to <code>ledger/facts.csv</code>.</footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,65 @@
+94              CHAPTER 4 Innate Immunity
+
+
+    IL-18 enhances the functions of NK cells, similar to IL-12.            entering affected tissues and also changes blood flow charac-
+Recall that the production of biologically active IL-18, like that         teristics that enhance physical interactions of circulating leuko-
+of IL-1, is dependent on inflammasomes. Also, like IL-1, IL-18             cytes with blood vessel walls. TNF, IL-1, IL-6, and chemokines,
+binds to a receptor that signals through a TIR domain. Children            all of which are produced by sentinel cells at the sites of infec-
+with gain-of-function mutations in NLRC4 have very high lev-               tion or tissue injury, have multiple effects on capillaries, venules,
+els of inflammasome-generated IL-18 produced by intestinal                 leukocytes, and bone marrow, which together increase the local
+epithelial cells and suffer from hemophagocytic lymphohistio-              delivery of cells that can fight infections and repair tissues (see
+cytosis, a systemic macrophage activation syndrome with sev-               Figs. 4.14 and 4.16; see also Fig. 3.3). Leukocyte recruitment was
+eral causes, but in this case likely due to excessive IL-18–driven         described in Chapter 3 and will be considered only briefly here.
+production of IFN-γ from NK cells (see Table 4.5).                             TNF and IL-1 act on postcapillary venule endothelial cells
+    IL-15 stimulates the growth and functions of ILC1s, NK cells,          to increase surface expression of adhesion molecules for leu-
+and some T cells. IL-15 is structurally homologous to the T-cell           kocytes. Expression of E-selectin and ligands for integrins,
+growth factor IL-2, and the heterotrimeric IL-15 receptor shares two       including intercellular adhesion molecule 1 (ICAM-1) and vas-
+subunits with the IL-2 receptor. An interesting feature of IL-15 is        cular cell adhesion molecule 1 (VCAM-1), are induced by TNF
+that it can be expressed on the cell surface bound to the α chain of its   and IL-1 activation of transcription factors, including NF-κB.
+receptor and in this form can be presented to and stimulate nearby         P-selectin stored in endothelial cell cytoplasmic granules may
+cells that express a receptor composed of the other two chains (β and      be mobilized to the cell surface in response to thrombin gener-
+γ). IL-15 presented in this way by DCs to NK cells activates signaling     ated by the coagulation cascade.
+pathways that promote NK cell IFN-γ production. IL-15 also serves              TNF and IL-1 also stimulate various cells to secrete chemo-
+as a survival factor for NK and memory CD8+ T cells.                       kines, such as CXCL8 and CCL2, which bind to receptors on neu-
+    IL-25, thymic stromal lymphopoietin (TSLP), and IL-33 are              trophils and monocytes, respectively. As discussed in Chapter
+structurally unrelated cytokines produced by epithelial barrier            3, these chemokines increase the affinity of leukocyte integrins
+cells, as well as other cell types, which stimulate ILC2s, Th2             for their ligands and stimulate directional movement of leuko-
+cells, and mast cells to produce IL-4, IL-5, and IL-13. The latter         cytes. The result of increased selectin, integrin, and chemokine
+cytokines are important for defense against helminths, but also            expression is an increase in neutrophil and monocyte adhesion to
+contribute to allergic disease (see Chapter 20). IL-33 is consti-          endothelial cells and transmigration through the vessel wall. The
+tutively expressed by barrier epithelial cells and stored in their         leukocytes accumulate in the tissues, forming an inflammatory
+nuclei. It is often called an alarmin because it is rapidly released       infiltrate. The actions of TNF on endothelium and leukocytes are
+from damaged epithelial cells and then stimulates innate and               critical for local inflammatory responses to microbes. If inade-
+adaptive responses.                                                        quate quantities of TNF are present (e.g., in patients treated with
+    In addition to the cytokines discussed here, other cyto-               drugs that block TNF or in TNF gene knockout mice), a conse-
+kines play important roles in both innate and adaptive immune              quence may be failure to contain infections.
+responses, including IL-2, IL-5, IL-17, and IFN-γ. These cyto-                 In addition, TNF, IL-1, and IL-6 produced at inflammatory
+kines will be discussed in detail in Chapters 9 and 10, when we            sites may enter the blood and be delivered to the bone marrow,
+consider helper T-cell subsets that produce them.                          where they work in concert with colony-stimulating factors to
+                                                                           enhance production of neutrophils from bone marrow progeni-
+                                                                           tors and release of mature neutrophils into the blood. In this
+Sequence of Events in Inflammation: Vascular                               way, these cytokines increase the supply of cells that can be
+Changes and Leukocyte Migration Into Tissues                               recruited to the sites of infection and replace leukocytes that are
+Acute inflammatory responses are initiated when sentinel                   consumed during inflammatory reactions (see Fig. 4.16).
+cells, including mast cells, tissue-resident macrophages,                      Typically, the leukocytes that are recruited first into sites of
+and DCs, which are present in tissues before infection, use                inflammation are neutrophils because they are the most abundant
+TLRs and cytosolic innate pattern recognition receptors to                 leukocytes in the blood and the most rapid responders to chemo-
+sense microbes and injured cells (see Fig. 4.14). Mast cells               tactic signals. Blood monocytes, which become macrophages in
+respond to PAMPs and DAMPs by secreting histamine and                      the tissue, become increasingly numerous over time and may be
+prostaglandins that cause vasodilation and increased capil-                the dominant population in some reactions because they have lon-
+lary permeability, which increases blood flow through tissues              ger lifespans than neutrophils and are capable of local proliferation.
+and increases movement of plasma proteins such as comple-                  Neutrophils and monocyte-derived macrophages phagocytose and
+ment proteins, pentraxins, collectins, and antibodies out of               kill microbes, discussed later, and these functions are enhanced by
+the blood vessels. These soluble innate effector molecules                 the opsonization of microbes by complement proteins, antibod-
+work in tandem with leukocytes that are recruited into tissue              ies, and other soluble mediators of innate immunity. Furthermore,
+from the circulation.                                                      the recruited phagocytes, especially the macrophages, respond to
+   Recruitment of large numbers of neutrophils, followed by                microbes and injured cells by secreting more inflammatory cyto-
+monocytes, from blood into tissues typically occurs as part                kines and chemokines, which promotes more leukocyte recruit-
+of the acute inflammatory response to infections and tissue                ment and amplifies the acute inflammatory response.
+injury. The vasodilation caused by mast cell–derived histamine                 Acute inflammation develops in minutes to hours and lasts
+and prostaglandins increases the number of these leukocytes                for days. Chronic inflammation is a process that takes over
+
+
+                                                             ERRNVPHGLFRVRUJ
+
+

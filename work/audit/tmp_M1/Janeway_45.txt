@@ -1,0 +1,114 @@
+The first lines of defense
+
+45
+
+include lysozyme and secretory phospholipase A,, which are secreted in tears
+and saliva and by phagocytes. Lysozyme is a glycosidase that breaks a specific
+chemical bond present in the peptidoglycan component of the bacterial
+cell wall. Peptidoglycan is an alternating polymer of N-acetylglucosamine
+(GlcNAc) and N-acetylmuramic acids (MurNAc) strengthened by cross-
+linking peptide bridges (Fig. 2.7). Lysozyme selectively cleaves the (1,4)
+linkage between these two sugars and is more effective against Gram-positive
+bacteria, in which the peptidoglycan cell wall is exposed, than against Gram-
+negative bacteria, which have an outer layer of lipopolysaccharide (LPS)
+covering the peptidoglycan (see Fig. 2.7). Lysozyme is also produced by
+Paneth cells, specialized epithelial cells in the base of the crypts in the small
+intestine that secrete many antimicrobial proteins into the gut. Paneth cells
+also produce secretory phospholipase A,, a highly basic enzyme that can
+enter the bacterial cell wall to access and hydrolyze phospholipids in the cell
+membrane, killing the bacteria.
+
+The second group of antimicrobial agents secreted by epithelial cells and
+phagocytes is the antimicrobial peptides. These represent one of the most
+ancient forms of defense against infection. Epithelial cells secrete these pep-
+tides into the fluids bathing the mucosal surface, whereas phagocytes secrete
+them in tissues. Three important classes of antimicrobial peptides in mam-
+mals are defensins, cathelicidins, and histatins.
+
+Defensins are an ancient, evolutionarily conserved class of antimicrobial
+peptides made by many eukaryotic organisms, including mammals, insects,
+and plants. They are short cationic peptides of around 30-40 amino acids
+that usually have three disulfide bonds stabilizing a common amphipathic
+structure—a positively charged region separated from a hydrophobic region.
+Defensins act within minutes to disrupt the cell membranes of bacteria, fungi,
+and the membrane envelopes of some viruses. The mechanism is thought to
+involve insertion of the hydrophobic region into the membrane bilayer and
+
+Gram-positive bacteria Gram-negative bacteria
+lipopolysaccharide — surface
+(LPS) protein
+teichoic — surface lipoteichoic
+acid protein acid
+
+fe} 6 il outer
+
+e e) membrane
+
+© 3)
+
+@ t x Lo & Co Lal @ BH ‘ 4 ‘ 4 lipoprotein
+
+peptido-
+
+[Ts Is Is TT srs)
+Lodndebodbeose
+
+SsssgsgsFesss “”"”
+
+Cytoplasm
+
+I peptidoglycan
+
+FALLEREERE car
+og BSssBssss "™™°”
+
+protein phospholipid
+
+CG lysozyme
+
+exposed
+ipid
+bilayer
+
+RRLKRRARRARRRR (RLK KKK RR RRRRLR KKK KKK Ke
+BEsSSBGBSBSSGB} |BBSBSSSSBBSBSB} |BBSBSSSSBBSBS
+
+Fig. 2.7 Lysozyme digests the
+
+cell walls of Gram-positive and
+Gram-negative bacteria. Upper panels:
+the peptidoglycan of bacterial cell walls
+is a polymer of alternating residues
+
+of B-(1,4)-linked N-acetylglucosamine
+(GIcNAc) (large turquoise hexagons) and
+N-acetylmuramic acid (MurNAc) (purple
+circles) that are cross-linked by peptide
+bridges (red bars) into a dense three-
+dimensional network. Peptidoglycan
+forms the outer layer of Gram-positive
+bacteria (upper left panel), in which other
+molecules are embedded such as teichoic
+acid and the lipoteichoic acids that link
+the peptidoglycan layer to the bacterial
+cell membrane itself. In Gram-negative
+bacteria (upper right panel), a thin inner
+wall of peptidoglycan is covered by
+
+an outer lipid membrane that contains
+proteins and lipopolysaccharide (LPS).
+Lipopolysaccharide is composed of
+
+a lipid, lipid A (turquoise circles), to
+which is attached a polysaccharide core
+(small turquoise hexagons). Lysozyme
+(lower panels) cleaves B-(1,4) linkages
+between GIcNAc and MurNAc, creating
+a defect in the peptidoglycan layer and
+exposing the underlying cell membrane
+to other antimicrobial agents. Lysozyme
+is more effective against Gram-positive
+bacteria because of the relatively greater
+accessibility of the peptidoglycan.
+
+

@@ -1,0 +1,570 @@
+{
+ "id": "V7",
+ "slug": "rapid-review",
+ "title": "10-minute exam rapid review",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "Welcome to the ten-minute rapid review of innate immunity. We cover the top pearls and traps from all six modules, then build one master map.",
+   "no_facts_reason": "Intro and orientation; no factual claim.",
+   "visual": "Title card; six module tiles appear."
+  },
+  {
+   "id": "b02",
+   "text": "Keep one rule in mind: the lost function predicts the disease. Lose an early classical component, and you often get lupus. Lose C3: pyogenic infections. Lose C5 to C9: Neisseria.",
+   "facts": [
+    "M6-F002",
+    "M6-F008",
+    "M6-F017"
+   ],
+   "visual": "Rule written; three knock-out arrows to SLE, pyogenic, Neisseria."
+  },
+  {
+   "id": "b03",
+   "text": "Module 1. Innate receptors are germline-encoded and nonclonal, with fewer than 100 types. Innate memory is limited.",
+   "facts": [
+    "M1-F017",
+    "M1-F024",
+    "M1-F023",
+    "M1-F008"
+   ],
+   "visual": "M1 header; innate vs adaptive two-column compare."
+  },
+  {
+   "id": "b04",
+   "text": "Three phases: immediate innate, zero to four hours. Early induced innate, four to ninety-six hours. Adaptive, after ninety-six hours.",
+   "facts": [
+    "M1-F060"
+   ],
+   "visual": "Timeline arrow 0–4 h, 4–96 h, >96 h."
+  },
+  {
+   "id": "b05",
+   "text": "Barriers come first: keratin, tight junctions, mucus and cilia. Paneth cells make alpha-defensins. LL-37 neutralizes LPS. In cystic fibrosis, thick mucus leads to lung infections.",
+   "say": "Barriers come first: keratin, tight junctions, mucus and cilia. Paneth cells make alpha-defensins. L L 37 neutralizes L P S. In cystic fibrosis, thick mucus leads to lung infections.",
+   "facts": [
+    "M1-F031",
+    "M1-F030",
+    "M1-F032",
+    "M1-F033",
+    "M1-F045",
+    "M1-F049",
+    "M1-F034"
+   ],
+   "visual": "Barrier wall with labels; CF in pink."
+  },
+  {
+   "id": "b06",
+   "text": "Trap: lysozyme works better on Gram-positive bacteria. In Gram-negatives, LPS covers the peptidoglycan.",
+   "say": "Trap: lysozyme works better on Gram-positive bacteria. In Gram-negatives, L P S covers the peptidoglycan.",
+   "facts": [
+    "M1-F040"
+   ],
+   "visual": "Gram+ vs Gram− wall sketch; lysozyme hits Gram+."
+  },
+  {
+   "id": "b07",
+   "text": "TNF, IL-1 and IL-6 cause fever, leukocytosis and acute-phase proteins. CRP can rise 1000-fold.",
+   "say": "T N F, I L 1 and I L 6 cause fever, leukocytosis and acute-phase proteins. C R P can rise 1000-fold.",
+   "facts": [
+    "M1-F086",
+    "M1-F089",
+    "M1-F095",
+    "M1-F096",
+    "M1-F097"
+   ],
+   "visual": "Three cytokine boxes → fever, leukocytosis, CRP ×1000."
+  },
+  {
+   "id": "b08",
+   "text": "TNF mediates much of septic shock. But trap: anti-TNF gave no benefit in sepsis trials, and TNF blockade can reactivate tuberculosis.",
+   "say": "T N F mediates much of septic shock. But trap: anti-T N F gave no benefit in sepsis trials, and T N F blockade can reactivate tuberculosis.",
+   "facts": [
+    "M3-F113",
+    "M1-F107",
+    "M1-F109",
+    "M1-F111"
+   ],
+   "visual": "TNF → septic shock; anti-TNF crossed out for sepsis; TB warning."
+  },
+  {
+   "id": "b09",
+   "text": "For allergy: epithelial IL-25, IL-33 and TSLP drive ILC2s, Th2 cells and mast cells. IL-33 is an alarmin.",
+   "say": "For allergy: epithelial I L 25, I L 33 and T S L P drive I L C 2s, T h 2 cells and mast cells. I L 33 is an alarmin.",
+   "facts": [
+    "M1-F087",
+    "M2-F095"
+   ],
+   "visual": "Epithelium releases IL-25, IL-33, TSLP → ILC2, Th2, mast cell."
+  },
+  {
+   "id": "b10",
+   "text": "Module 2, the cells. Neutrophils are the most abundant white cells, and they arrive first. Azurophilic granules hold myeloperoxidase and defensins. They also cast NETs.",
+   "say": "Module 2, the cells. Neutrophils are the most abundant white cells, and they arrive first. Azurophilic granules hold myeloperoxidase and defensins. They also cast nets.",
+   "facts": [
+    "M2-F013",
+    "M1-F083",
+    "M2-F016",
+    "M2-F020"
+   ],
+   "visual": "M2 header; neutrophil cell with granules and NET strands."
+  },
+  {
+   "id": "b11",
+   "text": "Abbas says most tissue macrophages are fetal-derived and self-renew. Janeway says they come from monocytes. CD47 binding SIRP-alpha is the don't-eat-me signal.",
+   "say": "Abbas says most tissue macrophages are fetal-derived and self-renew. Janeway says they come from monocytes. C D 47 binding SIRP-alpha is the don't-eat-me signal.",
+   "facts": [
+    "M2-F022",
+    "M2-F024",
+    "M2-F027"
+   ],
+   "visual": "Macrophage; Abbas vs Janeway note; CD47–SIRPα handshake."
+  },
+  {
+   "id": "b12",
+   "text": "Plasmacytoid DCs are the major type I interferon source. cDC1 cells cross-present to CD8 T cells.",
+   "say": "Plasmacytoid D Cs are the major type I interferon source. c D C 1 cells cross-present to C D 8 T cells.",
+   "facts": [
+    "M2-F036",
+    "M2-F037",
+    "M2-F035"
+   ],
+   "visual": "Two DC boxes: pDC → type I IFN; cDC1 → CD8+ T cell."
+  },
+  {
+   "id": "b13",
+   "text": "NK cells are CD56 positive, CD3 negative. Low MHC class I removes inhibition: missing self. CD16 binds IgG for ADCC.",
+   "say": "NK cells are C D 56 positive, C D 3 negative. Low M H C class I removes inhibition: missing self. C D 16 binds I g G for A D C C.",
+   "facts": [
+    "M2-F043",
+    "M2-F053",
+    "M2-F052"
+   ],
+   "visual": "NK balance: inhibition vs activation; missing self tips balance."
+  },
+  {
+   "id": "b14",
+   "text": "NK deficiency, for example GATA2 or CD16, gives severe herpesvirus and papillomavirus infections.",
+   "say": "NK deficiency, for example GATA 2 or C D 16, gives severe herpesvirus and papillomavirus infections.",
+   "facts": [
+    "M2-F059",
+    "M2-F060",
+    "M2-F061"
+   ],
+   "visual": "NK cell struck out → herpesvirus, papillomavirus."
+  },
+  {
+   "id": "b15",
+   "text": "Trap: tryptase, not histamine, marks mast cell activation. C3a, C5a and MRGPRX2 activate mast cells without IgE.",
+   "say": "Trap: tryptase, not histamine, marks mast cell activation. C 3 a, C 5 a and M R G P R X 2 activate mast cells without I g E.",
+   "facts": [
+    "M2-F077",
+    "M2-F074",
+    "M2-F075"
+   ],
+   "visual": "Mast cell; tryptase in yellow, histamine struck; non-IgE triggers."
+  },
+  {
+   "id": "b16",
+   "text": "Trap: eosinophils have very low FcεRI without a signalling chain. IL-5 is their key cytokine. Galectin-10 forms Charcot-Leyden crystals.",
+   "say": "Trap: eosinophils have very low F c epsilon R 1 without a signalling chain. I L 5 is their key cytokine. Galectin-10 forms Charcot-Leyden crystals.",
+   "facts": [
+    "M2-F090",
+    "M2-F089",
+    "M2-F087"
+   ],
+   "visual": "Eosinophil; IL-5 arrow; Charcot-Leyden crystal."
+  },
+  {
+   "id": "b17",
+   "text": "Module 3, sensing. Location predicts the ligand. Surface TLRs 1, 2, 4, 5 and 6 see microbial walls. Endosomal TLRs 3, 7, 8 and 9 see nucleic acids.",
+   "say": "Module 3, sensing. Location predicts the ligand. Surface T L Rs 1, 2, 4, 5 and 6 see microbial walls. Endosomal T L Rs 3, 7, 8 and 9 see nucleic acids.",
+   "facts": [
+    "M3-F009",
+    "M3-F010"
+   ],
+   "visual": "M3 header; cell with surface TLRs and endosome TLRs."
+  },
+  {
+   "id": "b18",
+   "text": "LPS binds TLR4, with MD2 and CD14. Flagellin binds TLR5. Double-stranded RNA binds TLR3. CpG DNA binds TLR9.",
+   "say": "L P S binds T L R 4, with M D 2 and C D 14. Flagellin binds T L R 5. Double-stranded RNA binds T L R 3. C p G DNA binds T L R 9.",
+   "facts": [
+    "M3-F012",
+    "M3-F020",
+    "M3-F021",
+    "M3-F013",
+    "M3-F014",
+    "M3-F015"
+   ],
+   "visual": "Ligand → TLR matching lines."
+  },
+  {
+   "id": "b19",
+   "text": "Classic trap: TLR3 is the only TLR without MyD88. Only TLR3 and TLR4 use TRIF, so TLR4 uses both.",
+   "say": "Classic trap: T L R 3 is the only T L R without My D 88. Only T L R 3 and T L R 4 use trif, so T L R 4 uses both.",
+   "facts": [
+    "M3-F025",
+    "M3-F032",
+    "M3-F033"
+   ],
+   "visual": "MyD88 vs TRIF table; TLR3 TRIF only; TLR4 both."
+  },
+  {
+   "id": "b20",
+   "text": "MyD88 or IRAK4 deficiency: early invasive pneumococcal infection with no fever, a cold infection. TLR3, UNC93B or TRIF defects: herpes simplex encephalitis.",
+   "say": "My D 88 or IRAK 4 deficiency: early invasive pneumococcal infection with no fever, a cold infection. T L R 3, U N C 93 B or trif defects: herpes simplex encephalitis.",
+   "facts": [
+    "M3-F036",
+    "M3-F037",
+    "M3-F038",
+    "M3-F040",
+    "M3-F041",
+    "M3-F042"
+   ],
+   "visual": "Two clue cards: cold pneumococcus; HSV encephalitis."
+  },
+  {
+   "id": "b21",
+   "text": "NLRP3 senses urate crystals, ATP and potassium efflux. Caspase-1 cleaves pro-IL-1β and IL-18. Gasdermin D pores cause pyroptosis, in macrophages and DCs, but not neutrophils.",
+   "say": "N L R P 3 senses urate crystals, ATP and potassium efflux. Caspase-1 cleaves pro-I L 1 beta and I L 18. Gasdermin D pores cause pyroptosis, in macrophages and D Cs, but not neutrophils.",
+   "facts": [
+    "M3-F056",
+    "M3-F057",
+    "M3-F053",
+    "M3-F054",
+    "M3-F059"
+   ],
+   "visual": "Inflammasome chain NLRP3 → caspase-1 → IL-1β; pyroptosis: neutrophil crossed."
+  },
+  {
+   "id": "b22",
+   "text": "NLRP3 gain of function causes CAPS: FCAS with cold-induced fever and urticarial rash, and Muckle-Wells with deafness. Abbas reports that IL-1 antagonists work.",
+   "say": "N L R P 3 gain of function causes caps: F C A S with cold-induced fever and urticarial rash, and Muckle-Wells with deafness. Abbas reports that I L 1 antagonists work.",
+   "facts": [
+    "M3-F067",
+    "M3-F068",
+    "M3-F069",
+    "M3-F066"
+   ],
+   "visual": "NLRP3 gain → CAPS → FCAS / Muckle-Wells; IL-1 block in orange."
+  },
+  {
+   "id": "b23",
+   "text": "Trap: weak NOD2 variants raise Crohn's disease risk. NOD2 gain of function causes Blau syndrome.",
+   "say": "Trap: weak nod 2 variants raise Crohn's disease risk. nod 2 gain of function causes Blau syndrome.",
+   "facts": [
+    "M3-F048",
+    "M3-F049"
+   ],
+   "visual": "NOD2 dial: weak → Crohn's; gain → Blau."
+  },
+  {
+   "id": "b24",
+   "text": "Module 4, phagocytes. Recruitment runs: selectin rolling on sialyl Lewis X, integrin activation, firm arrest, transmigration.",
+   "facts": [
+    "M4-F016",
+    "M4-F006"
+   ],
+   "visual": "M4 header; vessel with rolling → activation → arrest → transmigration."
+  },
+  {
+   "id": "b25",
+   "text": "LAD-1, a CD18 defect: leukocytosis, no pus, poor wound healing. LAD-2: no sialyl Lewis X, Bombay blood group. LAD-3: bleeding with normal platelets.",
+   "say": "L A D 1, a C D 18 defect: leukocytosis, no pus, poor wound healing. L A D 2: no sialyl Lewis X, Bombay blood group. L A D 3: bleeding with normal platelets.",
+   "facts": [
+    "M4-F085",
+    "M4-F086",
+    "M4-F084",
+    "M4-F088",
+    "M4-F089",
+    "M4-F090",
+    "M4-F091"
+   ],
+   "visual": "LAD-1/2/3 cards pinned to steps."
+  },
+  {
+   "id": "b26",
+   "text": "Trap: LAD means leukocytosis in blood but no pus in tissue. Do not confuse it with severe congenital neutropenia, below 0.5 times 10 to the 9 per litre.",
+   "say": "Trap: L A D means leukocytosis in blood but no pus in tissue. Do not confuse it with severe congenital neutropenia, below 0.5 times 10 to the 9 per litre.",
+   "facts": [
+    "M4-F086",
+    "M4-F084",
+    "M4-F099"
+   ],
+   "visual": "Blood full of cells vs tissue empty; SCN contrast."
+  },
+  {
+   "id": "b27",
+   "text": "Respiratory burst: NADPH oxidase makes superoxide, which becomes hydrogen peroxide. Myeloperoxidase then makes hypohalous acid.",
+   "say": "Respiratory burst: N A D P H oxidase makes superoxide, which becomes hydrogen peroxide. Myeloperoxidase then makes hypohalous acid.",
+   "facts": [
+    "M4-F051",
+    "M4-F052"
+   ],
+   "visual": "Chain O₂ → superoxide → H₂O₂ → HOCl with enzymes."
+  },
+  {
+   "id": "b28",
+   "text": "CGD breaks the oxidase; two-thirds is X-linked gp91. Expect catalase-positive Staphylococcus, granulomas, and Aspergillus, the leading cause of death. MPO deficiency is milder.",
+   "say": "CGD breaks the oxidase; two-thirds is X-linked G P 91. Expect catalase-positive Staphylococcus, granulomas, and Aspergillus, the leading cause of death. M P O deficiency is milder.",
+   "facts": [
+    "M4-F073",
+    "M4-F077",
+    "M4-F078",
+    "M4-F076",
+    "M4-F082"
+   ],
+   "visual": "Oxidase struck → CGD clue card; MPO block milder."
+  },
+  {
+   "id": "b29",
+   "text": "Chédiak-Higashi, from LYST mutations: partial albinism, silver hair, giant lysosomes, weak NK cells.",
+   "say": "Chédiak-Higashi, from list mutations: partial albinism, silver hair, giant lysosomes, weak NK cells.",
+   "facts": [
+    "M4-F094",
+    "M4-F093",
+    "M4-F098",
+    "M4-F095"
+   ],
+   "visual": "CHS card: LYST, albinism, silver hair, giant lysosomes."
+  },
+  {
+   "id": "b30",
+   "text": "Disseminated BCG or Salmonella means MSMD: the IL-12 and IFN-γ axis fails.",
+   "say": "Disseminated B C G or Salmonella means M S M D: the I L 12 and interferon gamma axis fails.",
+   "facts": [
+    "M4-F104",
+    "M4-F105",
+    "M3-F107"
+   ],
+   "visual": "IL-12 ⇄ IFN-γ loop between macrophage and NK/T; break → MSMD."
+  },
+  {
+   "id": "b31",
+   "text": "Module 5, complement. C3 cleavage is central. Classical and lectin pathways share the C3 convertase C4b2a. The alternative pathway uses C3bBb.",
+   "say": "Module 5, complement. C3 cleavage is central. Classical and lectin pathways share the C3 convertase C 4 b 2 a. The alternative pathway uses C 3 b, B b.",
+   "facts": [
+    "M5-F010",
+    "M5-F022",
+    "M5-F029",
+    "M5-F032"
+   ],
+   "visual": "Three pathways funnel into C3 → C3a + C3b."
+  },
+  {
+   "id": "b32",
+   "text": "Trap: for C2, the larger bound fragment is C2a. Factor D circulates active. Properdin stabilizes C3bBb.",
+   "say": "Trap: for C2, the larger bound fragment is C 2 a. Factor D circulates active. Properdin stabilizes C 3 b, B b.",
+   "facts": [
+    "M5-F005",
+    "M5-F034",
+    "M5-F035"
+   ],
+   "visual": "C2 → C2a (bound, big) + C2b; factor D, properdin tags."
+  },
+  {
+   "id": "b33",
+   "text": "Only antigen-bound antibody activates C1. IgM beats IgG; IgG1 and IgG3 are best, and IgG4 does not activate complement.",
+   "say": "Only antigen-bound antibody activates C1. I g M beats I g G; I g G 1 and I g G 3 are best, and I g G 4 does not activate complement.",
+   "facts": [
+    "M5-F017",
+    "M5-F018",
+    "M5-F014",
+    "M5-F015"
+   ],
+   "visual": "Ranking ladder IgM > IgG1/IgG3 > IgG4 ✗."
+  },
+  {
+   "id": "b34",
+   "text": "C5a is the most potent anaphylatoxin, and degranulates mast cells without IgE. The membrane attack complex lets water in, and the cell bursts.",
+   "say": "C 5 a is the most potent anaphylatoxin, and degranulates mast cells without I g E. The membrane attack complex lets water in, and the cell bursts.",
+   "facts": [
+    "M5-F054",
+    "M5-F057",
+    "M5-F045"
+   ],
+   "visual": "C5a > C3a bar; MAC pore with water entering."
+  },
+  {
+   "id": "b35",
+   "text": "The brakes. Factor H regulates only the alternative pathway. C4BP binds C4b. DAF dissociates both C3 convertases. CD59 blocks C9.",
+   "say": "The brakes. Factor H regulates only the alternative pathway. C 4 B P binds C 4 b. D A F dissociates both C3 convertases. C D 59 blocks C9.",
+   "facts": [
+    "M5-F074",
+    "M5-F076",
+    "M5-F081",
+    "M5-F083"
+   ],
+   "visual": "Four regulator labels attach to their targets."
+  },
+  {
+   "id": "b36",
+   "text": "Module 6. C1q, C2 or C4 deficiency gives lupus in over half; C2 deficiency is the most common. C3 or factor I deficiency gives pyogenic infections.",
+   "say": "Module 6. C 1 q, C2 or C4 deficiency gives lupus in over half; C2 deficiency is the most common. C3 or factor I deficiency gives pyogenic infections.",
+   "facts": [
+    "M6-F002",
+    "M6-F001",
+    "M6-F008",
+    "M6-F020",
+    "M6-F021"
+   ],
+   "visual": "M6 header; knock-out table rows 1–2."
+  },
+  {
+   "id": "b37",
+   "text": "C5 to C9, properdin or factor D deficiency gives Neisseria. Properdin deficiency is X-linked. MBL deficiency is mild.",
+   "say": "C5 to C9, properdin or factor D deficiency gives Neisseria. Properdin deficiency is X-linked. M B L deficiency is mild.",
+   "facts": [
+    "M6-F017",
+    "M6-F014",
+    "M6-F015",
+    "M6-F012"
+   ],
+   "visual": "Knock-out rows 3–4: Neisseria; MBL mild."
+  },
+  {
+   "id": "b38",
+   "text": "Factor H or MCP mutations cause atypical HUS. PNH lacks CD59 and DAF. Trap: the PIG-A mutation in PNH is somatic, not inherited.",
+   "say": "Factor H or M C P mutations cause atypical H U S. P N H lacks C D 59 and D A F. Trap: the pig A mutation in P N H is somatic, not inherited.",
+   "facts": [
+    "M6-F026",
+    "M6-F030",
+    "M6-F032"
+   ],
+   "visual": "Rows: aHUS; PNH with 'somatic' stamp."
+  },
+  {
+   "id": "b39",
+   "text": "Hereditary angioedema is autosomal dominant C1 inhibitor deficiency, and bradykinin causes the swelling. Clues: abdominal attacks, no wheals, no response to antihistamines.",
+   "facts": [
+    "M5-F071",
+    "M6-F052",
+    "M6-F057"
+   ],
+   "visual": "Bradykinin swelling; clue list; antihistamine struck out."
+  },
+  {
+   "id": "b40",
+   "text": "The 2017 guideline says: test C1 inhibitor function, protein, and C4. HAE type 1: low function, low protein. Type 2: low function, normal or high protein.",
+   "say": "The 2017 guideline says: test C1 inhibitor function, protein, and C4. H A E type 1: low function, low protein. Type 2: low function, normal or high protein.",
+   "facts": [
+    "M6-F059",
+    "M6-F040",
+    "M6-F041"
+   ],
+   "visual": "Lab table columns: function, protein, C4; HAE-1, HAE-2 rows."
+  },
+  {
+   "id": "b41",
+   "text": "Acquired angioedema starts later, with lymphoma or MGUS, and C1q is low in 75 percent. ACE inhibitor angioedema has normal C1 inhibitor.",
+   "say": "Acquired angioedema starts later, with lymphoma or M G U S, and C 1 q is low in 75 percent. A C E inhibitor angioedema has normal C1 inhibitor.",
+   "facts": [
+    "M6-F063",
+    "M6-F065",
+    "M6-F044"
+   ],
+   "visual": "Lab table adds AAE row (C1q low) and ACEI row."
+  },
+  {
+   "id": "b42",
+   "text": "HAE traps. C3 and CH50 are normal. Normal C1 inhibitor does not exclude HAE. C4 is not useful below 12 months. Wheals do not exclude HAE.",
+   "say": "H A E traps. C3 and C H 50 are normal. Normal C1 inhibitor does not exclude H A E. C4 is not useful below 12 months. Wheals do not exclude H A E.",
+   "facts": [
+    "M6-F061",
+    "M6-F042",
+    "M6-F072",
+    "M6-F067"
+   ],
+   "visual": "Four trap cards flip in."
+  },
+  {
+   "id": "b43",
+   "text": "Treatment follows the 2017 guideline; check the current one. Treat attacks early with C1 inhibitor, ecallantide or icatibant, not tranexamic acid or androgens.",
+   "facts": [
+    "M6-F077",
+    "M6-F078",
+    "M6-F079"
+   ],
+   "visual": "Orange drug box with 'check current guideline' banner."
+  },
+  {
+   "id": "b44",
+   "text": "For long-term prophylaxis, C1 inhibitor is first line, androgens second. Carry medication for two attacks. Avoid ACE inhibitors.",
+   "say": "For long-term prophylaxis, C1 inhibitor is first line, androgens second. Carry medication for two attacks. Avoid A C E inhibitors.",
+   "facts": [
+    "M6-F091",
+    "M6-F092",
+    "M6-F085",
+    "M6-F075"
+   ],
+   "visual": "LTP ladder; 2 attack kits; ACE inhibitor crossed."
+  },
+  {
+   "id": "b45",
+   "text": "Now the master map. Barriers fail in cystic fibrosis. Sensing fails in cold infections, herpes encephalitis and CAPS. Cells fail in severe congenital neutropenia.",
+   "say": "Now the master map. Barriers fail in cystic fibrosis. Sensing fails in cold infections, herpes encephalitis and caps. Cells fail in severe congenital neutropenia.",
+   "facts": [
+    "M1-F034",
+    "M3-F038",
+    "M3-F040",
+    "M3-F067",
+    "M4-F099"
+   ],
+   "visual": "D21 rows 1–3 build: stage, players, disease."
+  },
+  {
+   "id": "b46",
+   "text": "Effector mechanisms: phagocytosis fails in LAD, CGD and Chédiak-Higashi. Complement: lupus, Neisseria, HAE, PNH. Inflammation: septic shock, IL-1 excess. NK cells: herpesviruses.",
+   "say": "Effector mechanisms: phagocytosis fails in L A D, CGD and Chédiak-Higashi. Complement: lupus, Neisseria, H A E, P N H. Inflammation: septic shock, I L 1 excess. NK cells: herpesviruses.",
+   "facts": [
+    "M4-F084",
+    "M4-F076",
+    "M4-F093",
+    "M6-F002",
+    "M6-F017",
+    "M5-F071",
+    "M6-F030",
+    "M3-F113",
+    "M3-F063",
+    "M2-F059"
+   ],
+   "visual": "D21 row 4 with four sub-rows."
+  },
+  {
+   "id": "b47",
+   "text": "Last, the link to adaptive immunity. Antigen is signal 1. Innate responses give signal 2: costimulators like CD80 and CD86, cytokines and complement products. Failure here: MSMD.",
+   "say": "Last, the link to adaptive immunity. Antigen is signal 1. Innate responses give signal 2: costimulators like C D 80 and C D 86, cytokines and complement products. Failure here: M S M D.",
+   "facts": [
+    "M1-F112",
+    "M1-F114",
+    "M3-F035",
+    "M4-F105"
+   ],
+   "visual": "D21 row 5; whole map visible."
+  },
+  {
+   "id": "b48",
+   "text": "Five things to remember. Innate receptors are germline-encoded. Location predicts the ligand. Lost function predicts disease. HAE is bradykinin-mediated. Innate immunity gives signal 2.",
+   "say": "Five things to remember. Innate receptors are germline-encoded. Location predicts the ligand. Lost function predicts disease. H A E is bradykinin-mediated. Innate immunity gives signal 2.",
+   "facts": [
+    "M1-F017",
+    "M3-F009",
+    "M3-F010",
+    "M6-F002",
+    "M6-F052",
+    "M1-F112"
+   ],
+   "visual": "Five numbered lines appear one by one."
+  },
+  {
+   "id": "b49",
+   "text": "One last trap: TLR3 is the only TLR without MyD88. Review the master map before the exam. Good luck!",
+   "say": "One last trap: T L R 3 is the only T L R without My D 88. Review the master map before the exam. Good luck!",
+   "facts": [
+    "M3-F025"
+   ],
+   "visual": "Trap card, then full D21 map returns as the closing frame."
+  }
+ ]
+}

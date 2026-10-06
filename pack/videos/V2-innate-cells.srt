@@ -1,0 +1,459 @@
+1
+00:00:00,000 --> 00:00:02,175
+The cells of innate immunity.
+
+2
+00:00:02,225 --> 00:00:06,319
+The exam asks where each cell comes from, how NK cells
+
+3
+00:00:06,369 --> 00:00:10,770
+pick a target, and how mast cells differ from eosinophils.
+
+4
+00:00:11,133 --> 00:00:15,552
+Every blood cell starts from one haematopoietic
+
+5
+00:00:15,602 --> 00:00:19,164
+stem cell, or HSC, in the bone marrow.
+
+6
+00:00:19,214 --> 00:00:21,636
+HSCs carry CD34 and c-KIT.
+
+7
+00:00:22,000 --> 00:00:27,529
+The myeloid branch makes neutrophils, eosinophils, basophils and monocytes.
+
+8
+00:00:27,579 --> 00:00:32,364
+Most dendritic cells come from a precursor shared with monocytes.
+
+9
+00:00:32,733 --> 00:00:37,089
+Mast cells leave the marrow as progenitors and mature in the tissues.
+
+10
+00:00:37,139 --> 00:00:40,856
+Basophils mature in the marrow, from different progenitors.
+
+11
+00:00:41,233 --> 00:00:46,455
+The lymphoid branch makes T cells, B cells, and a shared precursor
+
+12
+00:00:46,505 --> 00:00:51,168
+of natural killer cells and innate lymphoid cells, or ILCs.
+
+13
+00:00:51,533 --> 00:00:58,978
+Each line has a growth factor: G-CSF for neutrophils, M-CSF for monocytes,
+
+14
+00:00:59,028 --> 00:01:06,878
+FLT3 ligand for dendritic cells, IL-5 for eosinophils, and SCF for mast cells.
+
+15
+00:01:07,233 --> 00:01:10,013
+The neutrophil is the most abundant white
+
+16
+00:01:10,063 --> 00:01:12,981
+blood cell, 40 to 60 percent of leukocytes.
+
+17
+00:01:13,031 --> 00:01:18,572
+Its nucleus has three to five lobes, so we call it a polymorphonuclear leukocyte.
+
+18
+00:01:18,933 --> 00:01:24,646
+Most granules are specific granules, with lysozyme, collagenase and elastase.
+
+19
+00:01:24,696 --> 00:01:29,959
+Azurophilic granules hold myeloperoxidase, defensins and cathelicidins.
+
+20
+00:01:30,333 --> 00:01:33,598
+Neutrophils act fast, with preformed enzymes,
+
+21
+00:01:33,648 --> 00:01:36,618
+but live only one to two days in tissues.
+
+22
+00:01:36,668 --> 00:01:41,847
+Macrophages respond more slowly, and often need new gene transcription.
+
+23
+00:01:42,200 --> 00:01:45,483
+Neutrophils can throw out their nuclear contents
+
+24
+00:01:45,533 --> 00:01:48,260
+as nets, neutrophil extracellular traps.
+
+25
+00:01:48,310 --> 00:01:52,703
+Nets trap and kill microbes, but can also damage healthy tissue.
+
+26
+00:01:53,067 --> 00:01:57,233
+Classical monocytes are 90 to 95 percent of blood monocytes.
+
+27
+00:01:57,283 --> 00:02:00,466
+They rush to infection and become macrophages.
+
+28
+00:02:00,516 --> 00:02:04,049
+But most tissue-resident macrophages come from yolk
+
+29
+00:02:04,099 --> 00:02:07,704
+sac or fetal liver precursors, and renew themselves.
+
+30
+00:02:08,067 --> 00:02:11,333
+Examples are Kupffer cells in the liver, alveolar
+
+31
+00:02:11,383 --> 00:02:14,786
+macrophages in the lung and microglia in the brain.
+
+32
+00:02:15,167 --> 00:02:16,655
+Two source conflicts.
+
+33
+00:02:16,705 --> 00:02:20,245
+Janeway says tissue macrophages mature from blood
+
+34
+00:02:20,295 --> 00:02:24,567
+monocytes, and dendritic cells also have a lymphoid origin.
+
+35
+00:02:24,617 --> 00:02:27,644
+Abbas is newer, so use Abbas for the exam.
+
+36
+00:02:28,000 --> 00:02:31,976
+Macrophages make cytokines such as TNF and IL-1.
+
+37
+00:02:32,026 --> 00:02:36,086
+They clear apoptotic cells, called efferocytosis.
+
+38
+00:02:36,136 --> 00:02:42,544
+Their receptor SIRP alpha reads CD47, a don't eat me signal on healthy cells.
+
+39
+00:02:42,900 --> 00:02:46,029
+Lipopolysaccharide and interferon gamma give
+
+40
+00:02:46,079 --> 00:02:49,208
+classical M1 macrophages that kill microbes.
+
+41
+00:02:49,258 --> 00:02:54,410
+IL-4 and IL-13 drive alternative M2 macrophages for repair and fibrosis.
+
+42
+00:02:54,460 --> 00:02:56,794
+Many macrophages fit neither box.
+
+43
+00:02:57,167 --> 00:02:59,590
+Dendritic cells are sentinels.
+
+44
+00:02:59,640 --> 00:03:04,785
+They capture antigens in tissues and carry them to lymph nodes.
+
+45
+00:03:04,835 --> 00:03:08,248
+There, they direct naive T cells to become
+
+46
+00:03:08,298 --> 00:03:11,711
+effector cells, such as Th1 or Th17 cells.
+
+47
+00:03:12,067 --> 00:03:19,892
+cDC2 cells are the most numerous, and present antigen mainly to CD4 T cells.
+
+48
+00:03:19,942 --> 00:03:27,145
+cDC1 cells cross-present antigen to naive CD8 T cells, and make IL-12.
+
+49
+00:03:27,500 --> 00:03:30,788
+Plasmacytoid DCs carry high TLR7 and TLR9.
+
+50
+00:03:30,838 --> 00:03:35,239
+They are the main source of antiviral type I interferon.
+
+51
+00:03:35,289 --> 00:03:39,849
+Langerhans cells are the dendritic cells of the epidermis.
+
+52
+00:03:40,200 --> 00:03:44,023
+Exam trap: follicular dendritic cells are stromal cells.
+
+53
+00:03:44,073 --> 00:03:49,693
+They do not come from bone marrow, and do not present protein antigens to T cells.
+
+54
+00:03:50,067 --> 00:03:54,354
+Natural killer cells are CD56 positive and CD3 negative.
+
+55
+00:03:54,404 --> 00:03:59,699
+They kill without prior activation, using germline-encoded receptors.
+
+56
+00:03:59,749 --> 00:04:05,586
+So they kill virus-infected cells before cytotoxic T cells are fully active.
+
+57
+00:04:05,967 --> 00:04:11,494
+Perforin helps granzymes enter the target, and granzymes trigger apoptosis.
+
+58
+00:04:11,544 --> 00:04:16,552
+NK cells also secrete interferon gamma, which activates macrophages.
+
+59
+00:04:16,933 --> 00:04:21,644
+Each NK cell weighs activating against inhibitory signals.
+
+60
+00:04:21,694 --> 00:04:24,352
+Think of it like a balance scale.
+
+61
+00:04:24,402 --> 00:04:29,851
+Inhibitory receptors use ITIMs, and activating receptors use ITAMs.
+
+62
+00:04:30,233 --> 00:04:35,781
+Inhibitory KIRs and CD94 NKG2A recognise MHC class I.
+
+63
+00:04:35,831 --> 00:04:44,336
+The activating receptor NKG2D binds stress proteins on infected and tumour cells.
+
+64
+00:04:44,700 --> 00:04:51,419
+A healthy cell shows MHC class I, so inhibition wins and the NK cell walks away.
+
+65
+00:04:51,800 --> 00:04:57,031
+Viruses, cell stress and many cancers reduce MHC class I.
+
+66
+00:04:57,081 --> 00:05:02,312
+The brake is gone, the scale tips, and the NK cell kills.
+
+67
+00:05:02,362 --> 00:05:05,647
+This is recognition of missing self.
+
+68
+00:05:06,000 --> 00:05:12,754
+CD16 binds IgG1 and IgG3 on a coated cell, and the NK cell kills it.
+
+69
+00:05:12,804 --> 00:05:19,058
+This is antibody-dependent cell-mediated cytotoxicity, or ADCC.
+
+70
+00:05:19,433 --> 00:05:25,397
+NK cell deficiency gives severe herpesvirus and papillomavirus infections.
+
+71
+00:05:25,447 --> 00:05:31,655
+Causes include GATA2 mutations, CD16 mutations, and Chediak-Higashi syndrome.
+
+72
+00:05:32,033 --> 00:05:36,898
+Now the allergy trio: mast cells, basophils and eosinophils.
+
+73
+00:05:36,948 --> 00:05:40,338
+All three have granules full of mediators,
+
+74
+00:05:40,388 --> 00:05:43,941
+and all three take part in allergic disease.
+
+75
+00:05:44,300 --> 00:05:46,451
+Mast cells are not in the blood.
+
+76
+00:05:46,501 --> 00:05:50,302
+They sit near vessels and nerves, and beneath epithelia.
+
+77
+00:05:50,352 --> 00:05:54,978
+Stem cell factor binds c-KIT and is essential for their development.
+
+78
+00:05:55,333 --> 00:06:00,097
+The high-affinity IgE receptor, F C epsilon R one, holds IgE so
+
+79
+00:06:00,147 --> 00:06:05,064
+tightly that most mast cells carry IgE, even in nonatopic people.
+
+80
+00:06:05,114 --> 00:06:09,877
+It is high on mast cells and basophils, but low on eosinophils.
+
+81
+00:06:10,233 --> 00:06:12,233
+Allergen cross-links the IgE.
+
+82
+00:06:12,283 --> 00:06:16,262
+The mast cell releases histamine and tryptase, then makes
+
+83
+00:06:16,312 --> 00:06:20,644
+prostaglandin D2, leukotrienes and platelet-activating factor.
+
+84
+00:06:21,000 --> 00:06:24,142
+Mast cells also fire without IgE.
+
+85
+00:06:24,192 --> 00:06:27,237
+C3a and C5a cause degranulation.
+
+86
+00:06:27,287 --> 00:06:31,880
+On skin mast cells, MRGPRX2 binds some drugs and
+
+87
+00:06:31,930 --> 00:06:36,426
+likely causes some allergy-like drug reactions.
+
+88
+00:06:36,800 --> 00:06:41,635
+Tryptase is in all human mast cells and no other known cell.
+
+89
+00:06:41,685 --> 00:06:45,299
+So serum tryptase helps diagnose anaphylaxis.
+
+90
+00:06:45,349 --> 00:06:49,451
+Systemic mastocytosis is linked to c-KIT mutations.
+
+91
+00:06:49,833 --> 00:06:55,032
+Basophils are blood granulocytes, normally absent from tissues.
+
+92
+00:06:55,082 --> 00:07:00,197
+Like mast cells, they bind IgE and fire when antigen binds it.
+
+93
+00:07:00,567 --> 00:07:04,798
+Eosinophils need IL-5 from Th2 cells and ILC2s.
+
+94
+00:07:04,848 --> 00:07:08,168
+Eotaxin binds CCR3 and recruits them.
+
+95
+00:07:08,218 --> 00:07:15,819
+Major basic protein and eosinophil cationic protein damage helminths and host cells.
+
+96
+00:07:16,200 --> 00:07:22,440
+Exam trap: the eosinophil IgE receptor is low and lacks the signalling chain.
+
+97
+00:07:22,490 --> 00:07:27,586
+There is no convincing evidence that IgE activates eosinophils.
+
+98
+00:07:27,967 --> 00:07:31,210
+Innate lymphoid cells have no T-cell receptors.
+
+99
+00:07:31,260 --> 00:07:34,503
+They secrete cytokines like helper T cells, and
+
+100
+00:07:34,553 --> 00:07:37,936
+live mainly in mucosa such as lung and intestine.
+
+101
+00:07:38,300 --> 00:07:42,418
+ILC1s use T-bet and make interferon gamma.
+
+102
+00:07:42,468 --> 00:07:46,387
+ILC2s use GATA3 and make IL-5 and IL-13.
+
+103
+00:07:46,437 --> 00:07:50,951
+ILC3s use ROR gamma t and make IL-22 or IL-17.
+
+104
+00:07:51,333 --> 00:07:58,267
+In allergy, epithelial IL-25, IL-33 and TSLP activate ILC2s.
+
+105
+00:07:58,317 --> 00:08:04,087
+ILC2s already sit in the tissue, so they can start
+
+106
+00:08:04,137 --> 00:08:09,441
+allergic inflammation before Th2 cells arrive.
+
+107
+00:08:09,800 --> 00:08:11,634
+Five things to remember.
+
+108
+00:08:11,684 --> 00:08:14,773
+One: all innate cells come from the HSC.
+
+109
+00:08:14,823 --> 00:08:19,169
+Two: most tissue macrophages come from fetal precursors.
+
+110
+00:08:19,219 --> 00:08:22,858
+Three: plasmacytoid DCs make type I interferon.
+
+111
+00:08:23,233 --> 00:08:28,549
+Four: NK cells kill when MHC class I is missing.
+
+112
+00:08:28,599 --> 00:08:33,690
+Five: ILC2s start allergic inflammation early.
+
+113
+00:08:34,067 --> 00:08:35,862
+One exam trap.
+
+114
+00:08:35,912 --> 00:08:40,608
+CD16 on NK cells binds IgG, not IgE.
+
+115
+00:08:40,658 --> 00:08:44,431
+Next: how cells sense danger.

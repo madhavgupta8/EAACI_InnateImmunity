@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explainer videos — Innate Immunity pack</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .vid { margin: 1.4rem 0 2rem; }
+  .vid h3 { margin: 0 0 .2rem; }
+  .vid p { margin: 0 0 .5rem; color: var(--muted); font-size: .9rem; }
+  .vid video { width: 100%; border-radius: 8px; background: #1E3A2F; }
+  .vid .links { font-size: .85rem; }
+</style>
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="index.html">Home</a>
+  <a href="modules/M1-foundation.html">M1 Foundation</a>
+  <a href="modules/M2-cells.html">M2 Cells</a>
+  <a href="modules/M3-prrs.html">M3 PRRs</a>
+  <a href="modules/M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="modules/M5-complement.html">M5 Complement</a>
+  <a href="modules/M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="modules/M7-summary.html">M7 Summary</a>
+  <a href="quiz/quiz.html">Quiz</a>
+  <a href="videos.html" class="current">Videos</a>
+</nav></header>
+<main>
+<h1>Explainer videos</h1>
+<p class="subtitle">Chalkboard explainers, 1080p with English subtitles (CC button). Narration is AI-generated (MiniMax TTS) from the same fact ledger as the notes.</p>
+
+<div class="box caution"><span class="label">Order</span>
+If time is short, watch V5, V6 and V7 first. HAE treatment content follows the 2017 guideline revision; check it against current guidance.</div>
+
+<div id="list"></div>
+</main>
+<script>
+const VIDEOS = [
+  ["V1", "first-4-hours", "Innate immunity: the first 4 hours", "M1-foundation"],
+  ["V2", "innate-cells", "The cells of innate immunity", "M2-cells"],
+  ["V3", "prrs-signalling", "How cells sense danger: PRRs & signalling", "M3-prrs"],
+  ["V4", "phagocytosis", "Phagocytosis & the respiratory burst", "M4-phagocytosis"],
+  ["V5", "complement", "Complement made easy", "M5-complement"],
+  ["V6", "complement-deficiencies-hae", "Complement deficiencies & HAE", "M6-complement-deficiencies"],
+  ["V7", "rapid-review", "10-minute exam rapid review", "M7-summary"],
+];
+const list = document.getElementById("list");
+for (const [id, slug, title, mod] of VIDEOS) {
+  const base = `videos/${id}-${slug}`;
+  const d = document.createElement("section");
+  d.className = "vid";
+  d.innerHTML = `<h3>${id} · ${title}</h3>
+    <p>Companion notes: <a href="modules/${mod}.html">${mod.split("-")[0]}</a> · <span class="dur"></span></p>
+    <video controls preload="metadata" src="${base}.mp4">
+      <track kind="subtitles" srclang="en" label="English" src="${base}.vtt">
+    </video>
+    <div class="links"><a href="${base}.mp4" download>MP4</a> · <a href="${base}.srt" download>SRT subtitles</a></div>`;
+  const v = d.querySelector("video");
+  v.addEventListener("loadedmetadata", () => {
+    d.querySelector(".dur").textContent = `${Math.round(v.duration / 60)} min`;
+  });
+  v.addEventListener("error", () => {
+    d.querySelector(".dur").textContent = "not rendered yet";
+  });
+  list.appendChild(d);
+}
+</script>
+</body>
+</html>

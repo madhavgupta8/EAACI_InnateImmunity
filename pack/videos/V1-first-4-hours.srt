@@ -1,0 +1,475 @@
+1
+00:00:00,000 --> 00:00:00,478
+Welcome.
+
+2
+00:00:00,528 --> 00:00:03,908
+This video is about the first hours of an infection.
+
+3
+00:00:03,958 --> 00:00:08,063
+The exam asks you to compare innate and adaptive immunity, name
+
+4
+00:00:08,113 --> 00:00:11,955
+the barrier molecules, and place each phase on a time line.
+
+5
+00:00:12,333 --> 00:00:16,520
+Innate immunity is fully functional before an infection occurs.
+
+6
+00:00:16,570 --> 00:00:18,941
+It gives continuous barrier defense.
+
+7
+00:00:18,991 --> 00:00:24,590
+It reacts to microbes in the first hours or days, before adaptive responses develop.
+
+8
+00:00:24,967 --> 00:00:28,030
+Adaptive immunity needs exposure to the microbe.
+
+9
+00:00:28,080 --> 00:00:31,921
+Lymphocyte activation and differentiation take several days.
+
+10
+00:00:31,971 --> 00:00:36,655
+So the adaptive response is slow, and innate immunity must protect first.
+
+11
+00:00:37,033 --> 00:00:40,336
+Now let's compare the two branches side by side.
+
+12
+00:00:40,386 --> 00:00:41,663
+First, specificity.
+
+13
+00:00:41,713 --> 00:00:45,575
+Innate immunity recognizes molecules shared by groups of
+
+14
+00:00:45,625 --> 00:00:49,486
+related microbes, and molecules from damaged host cells.
+
+15
+00:00:49,536 --> 00:00:52,350
+That is only about one thousand products.
+
+16
+00:00:52,400 --> 00:00:56,052
+Adaptive immunity can recognize millions of antigens.
+
+17
+00:00:56,433 --> 00:00:57,565
+Next, receptors.
+
+18
+00:00:57,615 --> 00:01:01,112
+Innate immunity uses germline-encoded, invariant
+
+19
+00:01:01,162 --> 00:01:05,102
+receptors, and there are fewer than one hundred types.
+
+20
+00:01:05,152 --> 00:01:08,057
+Adaptive immunity uses only two receptor
+
+21
+00:01:08,107 --> 00:01:11,456
+types, immunoglobulin and the T-cell receptor.
+
+22
+00:01:11,506 --> 00:01:16,184
+Each has millions of variants from somatically rearranged genes.
+
+23
+00:01:16,567 --> 00:01:18,641
+Innate receptors are nonclonal.
+
+24
+00:01:18,691 --> 00:01:22,066
+All cells of one lineage carry the same receptors.
+
+25
+00:01:22,116 --> 00:01:24,122
+Adaptive receptors are clonal.
+
+26
+00:01:24,500 --> 00:01:26,808
+Innate immunity has limited memory.
+
+27
+00:01:26,858 --> 00:01:30,177
+A repeat exposure usually gives the same kinetics,
+
+28
+00:01:30,227 --> 00:01:33,141
+magnitude and quality as the first response.
+
+29
+00:01:33,191 --> 00:01:35,095
+Adaptive immunity has memory.
+
+30
+00:01:35,145 --> 00:01:39,137
+Secondary adaptive responses are usually faster and greater.
+
+31
+00:01:39,500 --> 00:01:42,586
+Neither branch normally reacts against self.
+
+32
+00:01:42,636 --> 00:01:46,577
+Innate immunity ignores healthy cells for three reasons.
+
+33
+00:01:46,627 --> 00:01:50,925
+Normal cells lack most ligands, the receptors sit in separate
+
+34
+00:01:50,975 --> 00:01:54,845
+compartments, and regulatory proteins block activation.
+
+35
+00:01:55,200 --> 00:01:57,960
+So what does innate immunity actually see?
+
+36
+00:01:58,010 --> 00:02:01,305
+Molecules shared by classes of microbes are called
+
+37
+00:02:01,355 --> 00:02:04,584
+pathogen-associated molecular patterns, or PAMPs.
+
+38
+00:02:04,634 --> 00:02:07,795
+They are often essential for microbial survival.
+
+39
+00:02:07,845 --> 00:02:12,077
+So microbes usually cannot evade innate immunity by losing them.
+
+40
+00:02:12,433 --> 00:02:18,177
+Damaged or dying host cells release damage-associated molecular patterns, or DAMPs.
+
+41
+00:02:18,227 --> 00:02:22,226
+DAMPs also signal sterile injury, such as burns or trauma.
+
+42
+00:02:22,276 --> 00:02:26,344
+Cells that die by apoptosis generally do not release DAMPs.
+
+43
+00:02:26,394 --> 00:02:29,136
+Some DAMP cytokines are called alarmins.
+
+44
+00:02:29,500 --> 00:02:31,005
+Now to the front line.
+
+45
+00:02:31,055 --> 00:02:35,316
+The main interfaces with the environment are the skin and the
+
+46
+00:02:35,366 --> 00:02:39,485
+mucosa of the gut, the airways and the genitourinary tract.
+
+47
+00:02:39,535 --> 00:02:42,736
+Surface epithelia give three types of barrier:
+
+48
+00:02:42,786 --> 00:02:45,634
+mechanical, chemical and microbiological.
+
+49
+00:02:46,000 --> 00:02:47,536
+Think of it like a castle.
+
+50
+00:02:47,586 --> 00:02:49,549
+The wall is the physical barrier.
+
+51
+00:02:49,599 --> 00:02:52,600
+Boiling oil from the wall is the chemical barrier.
+
+52
+00:02:52,650 --> 00:02:56,016
+Friendly tenants who fill every room are the microbiota.
+
+53
+00:02:56,367 --> 00:02:58,177
+First, the physical barrier.
+
+54
+00:02:58,227 --> 00:03:03,227
+Epithelial cells form tight junctions that block microbes between the cells.
+
+55
+00:03:03,277 --> 00:03:06,948
+In the skin, the outer keratin layer blocks penetration.
+
+56
+00:03:06,998 --> 00:03:10,470
+Skin infections usually occur after a barrier breach.
+
+57
+00:03:10,833 --> 00:03:14,186
+Mucosal epithelia produce mucus, which contains
+
+58
+00:03:14,236 --> 00:03:16,937
+mucins and impairs microbial invasion.
+
+59
+00:03:16,987 --> 00:03:22,584
+In the airways, goblet cells secrete mucus, and beating cilia move it outward.
+
+60
+00:03:22,634 --> 00:03:26,131
+In the gut, peristalsis helps to remove microbes.
+
+61
+00:03:26,500 --> 00:03:28,192
+Here is the clinical link.
+
+62
+00:03:28,242 --> 00:03:31,072
+In cystic fibrosis, thick mucus or impaired
+
+63
+00:03:31,122 --> 00:03:33,885
+ciliary movement leads to lung infections.
+
+64
+00:03:33,935 --> 00:03:38,239
+The bacteria colonize the epithelial surface but do not cross it.
+
+65
+00:03:38,289 --> 00:03:43,598
+Failure of peristalsis typically leads to bacterial overgrowth in the gut lumen.
+
+66
+00:03:43,967 --> 00:03:45,988
+Second, the chemical barrier.
+
+67
+00:03:46,038 --> 00:03:51,559
+In the upper gut, stomach acid, digestive enzymes and bile salts act together.
+
+68
+00:03:51,609 --> 00:03:56,059
+Tears and saliva contain lysozyme, which cleaves peptidoglycan.
+
+69
+00:03:56,109 --> 00:04:00,630
+Lysozyme works better against Gram-positive bacteria, because an
+
+70
+00:04:00,680 --> 00:04:05,416
+LPS outer layer covers the peptidoglycan of Gram-negative bacteria.
+
+71
+00:04:05,767 --> 00:04:09,651
+Mammals have three important classes of antimicrobial
+
+72
+00:04:09,701 --> 00:04:13,289
+peptides: defensins, cathelicidins and histatins.
+
+73
+00:04:13,339 --> 00:04:16,110
+Defensins are small cationic peptides.
+
+74
+00:04:16,160 --> 00:04:19,451
+Within minutes, they disrupt the membranes of
+
+75
+00:04:19,501 --> 00:04:22,644
+bacteria, fungi and some enveloped viruses.
+
+76
+00:04:23,000 --> 00:04:28,861
+Paneth cells in the small-bowel crypts are a major source of alpha-defensins.
+
+77
+00:04:28,911 --> 00:04:34,849
+Beta-defensins come mainly from the airway, urogenital tract, skin and tongue.
+
+78
+00:04:34,899 --> 00:04:39,301
+Cathelicidin gives LL-37, which binds and neutralizes LPS.
+
+79
+00:04:39,351 --> 00:04:44,214
+Histatins from the salivary glands act against Candida albicans.
+
+80
+00:04:44,567 --> 00:04:46,884
+Third, the microbiological barrier.
+
+81
+00:04:46,934 --> 00:04:52,093
+Commensal microbes compete with pathogens for nutrients and attachment sites.
+
+82
+00:04:52,143 --> 00:04:57,641
+They make antimicrobial substances, such as lactic acid from vaginal lactobacilli.
+
+83
+00:04:57,691 --> 00:05:02,241
+They also stimulate epithelial cells to make antimicrobial peptides.
+
+84
+00:05:02,600 --> 00:05:05,444
+When antibiotics kill commensals, pathogens
+
+85
+00:05:05,494 --> 00:05:08,270
+frequently replace them and cause disease.
+
+86
+00:05:08,320 --> 00:05:11,434
+And beneath all epithelial surfaces, phagocytes
+
+87
+00:05:11,484 --> 00:05:14,462
+wait to engulf any microbe that gets through.
+
+88
+00:05:14,833 --> 00:05:17,663
+Now let's put everything on a time line.
+
+89
+00:05:17,713 --> 00:05:21,119
+The response to a new pathogen has three phases.
+
+90
+00:05:21,169 --> 00:05:25,798
+Phase one is the immediate innate phase, from zero to four hours.
+
+91
+00:05:25,848 --> 00:05:31,269
+Preformed soluble molecules act at once: lysozyme, defensins and complement.
+
+92
+00:05:31,633 --> 00:05:36,328
+Phase two is the early induced innate phase, from four to ninety-six hours.
+
+93
+00:05:36,378 --> 00:05:39,492
+Innate cells recognize PAMPs and become activated.
+
+94
+00:05:39,542 --> 00:05:44,110
+An inflammatory response often first counters the spread of the pathogen.
+
+95
+00:05:44,467 --> 00:05:49,783
+During this phase, dendritic cells carry antigen to local lymphoid tissue.
+
+96
+00:05:49,833 --> 00:05:54,352
+Phase three, the adaptive phase, starts after ninety-six hours.
+
+97
+00:05:54,402 --> 00:05:59,719
+It is late because rare specific B and T cells must first expand clonally.
+
+98
+00:06:00,100 --> 00:06:02,437
+Innate defenses act within minutes.
+
+99
+00:06:02,487 --> 00:06:05,847
+An adaptive response is necessary only when innate
+
+100
+00:06:05,897 --> 00:06:08,916
+defenses are bypassed, evaded or overwhelmed.
+
+101
+00:06:08,966 --> 00:06:12,939
+Even then, innate immunity keeps pathogen numbers in check.
+
+102
+00:06:12,989 --> 00:06:17,372
+The phase boundaries are approximate and vary between infections.
+
+103
+00:06:17,733 --> 00:06:19,665
+The two branches work together.
+
+104
+00:06:19,715 --> 00:06:24,587
+The innate response gives early danger signals that start adaptive responses.
+
+105
+00:06:24,637 --> 00:06:28,805
+In turn, adaptive responses often make innate mechanisms stronger.
+
+106
+00:06:29,167 --> 00:06:30,924
+Five things to remember.
+
+107
+00:06:30,974 --> 00:06:37,024
+One: innate immunity is fully functional before infection and has limited memory.
+
+108
+00:06:37,074 --> 00:06:42,973
+Two: it uses fewer than one hundred germline-encoded, nonclonal receptor types.
+
+109
+00:06:43,023 --> 00:06:48,395
+Three: epithelia give mechanical, chemical and microbiological barriers.
+
+110
+00:06:48,767 --> 00:06:55,104
+Four: key barrier molecules are lysozyme, defensins, cathelicidin and histatins.
+
+111
+00:06:55,154 --> 00:06:59,176
+Five: the three phases are zero to four hours, four
+
+112
+00:06:59,226 --> 00:07:03,009
+to ninety-six hours, and after ninety-six hours.
+
+113
+00:07:03,367 --> 00:07:04,604
+And one exam trap.
+
+114
+00:07:04,654 --> 00:07:08,038
+Lysozyme is more effective against Gram-positive
+
+115
+00:07:08,088 --> 00:07:10,684
+bacteria, not Gram-negative bacteria.
+
+116
+00:07:10,734 --> 00:07:15,763
+The LPS outer layer of Gram-negative bacteria covers the peptidoglycan.
+
+117
+00:07:16,133 --> 00:07:19,424
+Next: the cells of innate immunity.
+
+118
+00:07:19,474 --> 00:07:24,197
+We meet the phagocytes, dendritic cells, NK cells,
+
+119
+00:07:24,247 --> 00:07:28,970
+mast cells, eosinophils and innate lymphoid cells.

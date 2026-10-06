@@ -1,0 +1,375 @@
+{
+ "id": "V6",
+ "slug": "complement-deficiencies-hae",
+ "title": "Complement deficiencies & HAE",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "Complement deficiencies and hereditary angioedema come up in almost every allergy exam. One simple rule explains the deficiencies. Then we look closely at hereditary angioedema, or HAE.",
+   "visual": "Title card: Complement deficiencies & HAE",
+   "no_facts_reason": "intro hook",
+   "say": "Complement deficiencies and hereditary angioedema come up in almost every allergy exam. One simple rule explains the deficiencies. Then we look closely at hereditary angioedema, or H A E."
+  },
+  {
+   "id": "b02",
+   "text": "Complement has three jobs. It clears immune complexes, it tags bacteria with C3b, and it lyses some bacteria with the membrane attack complex. Lose one job, and the disease tells you which job is missing.",
+   "facts": [
+    "M6-F006",
+    "M6-F008",
+    "M6-F017"
+   ],
+   "visual": "Three job boxes; each maps to a disease",
+   "say": "Complement has three jobs. It clears immune complexes, it tags bacteria with C 3 b, and it lyses some bacteria with the membrane attack complex. Lose one job, and the disease tells you which job is missing."
+  },
+  {
+   "id": "b03",
+   "text": "Think of it like a factory with three gates: waste disposal, tagging and a shredder. Break waste disposal and the factory clogs. Break only the shredder, and thin-walled packages survive.",
+   "visual": "Factory analogy labels next to the three jobs",
+   "no_facts_reason": "analogy for the rule in b02"
+  },
+  {
+   "id": "b04",
+   "text": "Start with the early classical pathway. Genetic deficiencies of C1q, C1r, C4, C2 and C3 occur in humans. C2 deficiency is the most common human complement deficiency.",
+   "facts": [
+    "M6-F007",
+    "M6-F001"
+   ],
+   "visual": "Classical chain C1q→C1r→C4→C2→C3, C2 highlighted",
+   "say": "Start with the early classical pathway. Genetic deficiencies of C 1 q, C 1 r, C4, C2 and C3 occur in humans. C2 deficiency is the most common human complement deficiency."
+  },
+  {
+   "id": "b05",
+   "text": "More than half of patients with C1q, C2 or C4 deficiency develop systemic lupus erythematosus, or SLE. Some patients with C2 or C4 deficiency have more infections; others have no symptoms.",
+   "facts": [
+    "M6-F002",
+    "M6-F005"
+   ],
+   "visual": "Strike C1q/C4/C2 → pink SLE box, >50%",
+   "say": "More than half of patients with C 1 q, C2 or C4 deficiency develop systemic lupus erythematosus, or S L E. Some patients with C2 or C4 deficiency have more infections; others have no symptoms."
+  },
+  {
+   "id": "b06",
+   "text": "Why lupus? These components clear immune complexes and apoptotic cells. Uncleared complexes deposit in vessel walls and cause inflammation. Uncleared apoptotic bodies are a likely source of the nuclear antigens in lupus.",
+   "facts": [
+    "M6-F006",
+    "M6-F003",
+    "M6-F004"
+   ],
+   "visual": "Immune complexes deposit on vessel wall; apoptotic bodies → nuclear antigens"
+  },
+  {
+   "id": "b07",
+   "text": "Now C3. C3 deficiency causes frequent, serious pyogenic infections that can be fatal, for example with Streptococcus pneumoniae. This shows the central role of C3 in opsonization and phagocytosis.",
+   "facts": [
+    "M6-F008",
+    "M6-F009"
+   ],
+   "visual": "Bacterium loses C3b tags; phagocyte cannot grab"
+  },
+  {
+   "id": "b08",
+   "text": "The lectin pathway gives a milder picture. Janeway says MBL deficiency is relatively common, about 5% of people. It may cause more bacterial infections in early childhood.",
+   "facts": [
+    "M6-F011",
+    "M6-F012"
+   ],
+   "visual": "MBL box, ~5%, mild early childhood infections",
+   "say": "The lectin pathway gives a milder picture. Janeway says M B L deficiency is relatively common, about 5% of people. It may cause more bacterial infections in early childhood."
+  },
+  {
+   "id": "b09",
+   "text": "Next, the alternative pathway. Its defects increase the risk of meningococcal infection. Factor B and factor D deficiencies are rare. X-linked properdin deficiency is more common, and these patients are especially susceptible to Neisseria meningitidis.",
+   "facts": [
+    "M6-F013",
+    "M6-F014",
+    "M6-F016"
+   ],
+   "visual": "Factor B, D, properdin (X-linked) → Neisseria meningitidis"
+  },
+  {
+   "id": "b10",
+   "text": "The terminal components, C5 to C9, build the membrane attack complex. In their deficiency, the only consistent problem is disseminated Neisseria infection. Lysis is important against these thin-walled bacteria.",
+   "facts": [
+    "M6-F017",
+    "M6-F018"
+   ],
+   "visual": "MAC pore built from C5–C9; pore fails; Neisseria survives"
+  },
+  {
+   "id": "b11",
+   "text": "How big is the risk? In a Japanese study, the yearly meningococcal risk was about 1 in 200 with a membrane attack deficiency, versus 1 in 2 million normally.",
+   "facts": [
+    "M6-F019"
+   ],
+   "visual": "1 in 200 vs 1 in 2,000,000 → 10,000-fold"
+  },
+  {
+   "id": "b12",
+   "text": "Now the brakes. Without factor I, fluid-phase C3 convertase forms without control and uses up plasma C3. The result is a de facto C3 deficiency, with more pyogenic infections.",
+   "facts": [
+    "M6-F020",
+    "M6-F022",
+    "M6-F021"
+   ],
+   "visual": "Factor I brake struck; C3 drains; pyogenic infection"
+  },
+  {
+   "id": "b13",
+   "text": "Factor H brakes the alternative pathway only. Its deficiency causes excess activation, C3 consumption and glomerulonephritis. The autoantibody C3 nephritic factor does the same: it protects the convertase from factor H.",
+   "facts": [
+    "M6-F023",
+    "M6-F024",
+    "M6-F025"
+   ],
+   "visual": "Factor H on C3bBb; struck → C3 consumption, GN; C3NeF"
+  },
+  {
+   "id": "b14",
+   "text": "Defects in factor H, MCP or factor I can cause atypical haemolytic uraemic syndrome, or aHUS. Heterozygous mutations are enough. Children present with haemolytic anaemia, low platelets and acute renal failure.",
+   "facts": [
+    "M6-F026",
+    "M6-F028",
+    "M6-F027"
+   ],
+   "visual": "aHUS box with factor H, MCP, factor I; triad",
+   "say": "Defects in factor H, M C P or factor I can cause atypical haemolytic uraemic syndrome, or atypical H U S. Heterozygous mutations are enough. Children present with haemolytic anaemia, low platelets and acute renal failure."
+  },
+  {
+   "id": "b15",
+   "text": "Paroxysmal nocturnal haemoglobinuria, or PNH, is different. CD59 and DAF need a GPI anchor. PIG-A mutations break this anchor. Without CD59, the membrane attack complex forms on the patient's own red cells.",
+   "facts": [
+    "M6-F030",
+    "M6-F029"
+   ],
+   "visual": "Red cell with GPI anchors; anchors removed; MAC pores on RBC",
+   "say": "Paroxysmal nocturnal haemoglobinuria, or P N H, is different. C D 59 and D A F need a G P I anchor. pig A mutations break this anchor. Without C D 59, the membrane attack complex forms on the patient's own red cells."
+  },
+  {
+   "id": "b16",
+   "text": "The result is intravascular haemolysis, chronic anaemia and venous thrombosis. Exam point: the PNH mutation is not inherited. It is an acquired somatic mutation in stem cells. Abbas notes anti-C5 antibodies for PNH and aHUS.",
+   "facts": [
+    "M6-F031",
+    "M6-F032",
+    "M6-F033"
+   ],
+   "visual": "PNH consequences; somatic stamp; anti-C5 orange",
+   "say": "The result is intravascular haemolysis, chronic anaemia and venous thrombosis. Exam point: the P N H mutation is not inherited. It is an acquired somatic mutation in stem cells. Abbas notes anti C 5 antibodies for P N H and atypical H U S."
+  },
+  {
+   "id": "b17",
+   "text": "Now the most important brake for allergists: C1 inhibitor. It is a serpin. It is the major inhibitor of C1r, C1s, MASP1 and MASP2, plasma kallikrein and factor XIIa.",
+   "facts": [
+    "M6-F051",
+    "M6-F034"
+   ],
+   "visual": "C1-INH hub with brake lines to targets",
+   "say": "Now the most important brake for allergists: C1 inhibitor. It is a serpin. It is the major inhibitor of C 1 r, C 1 s, masp 1 and masp 2, plasma kallikrein and factor 12 A."
+  },
+  {
+   "id": "b18",
+   "text": "HAE type 1 and 2 is a rare autosomal dominant disease, in about 1 in 50,000 people. More than 450 SERPING1 mutations cause it. In 20 to 25% of patients, the mutation is new.",
+   "facts": [
+    "M6-F048",
+    "M6-F049",
+    "M6-F050"
+   ],
+   "visual": "Pedigree; SERPING1; de novo 20–25%",
+   "say": "H A E type 1 and 2 is a rare autosomal dominant disease, in about 1 in 50 thousand people. More than 450 serping 1 mutations cause it. In 20 to 25% of patients, the mutation is new."
+  },
+  {
+   "id": "b19",
+   "text": "Here is the swelling pathway. Factor XII autoactivates on negatively charged surfaces. Factor XIIa converts prekallikrein to plasma kallikrein. Kallikrein cleaves high-molecular-weight kininogen and releases bradykinin.",
+   "facts": [
+    "M6-F054",
+    "M6-F053"
+   ],
+   "visual": "Cascade: FXII → FXIIa → kallikrein → HMWK → bradykinin",
+   "say": "Here is the swelling pathway. Factor 12 autoactivates on negatively charged surfaces. Factor 12 A converts prekallikrein to plasma kallikrein. Kallikrein cleaves high-molecular-weight kininogen and releases bradykinin."
+  },
+  {
+   "id": "b20",
+   "text": "Bradykinin binds the B2 receptor and makes vessels leaky. ACE quickly breaks bradykinin down. C1 inhibitor normally brakes factor XIIa and kallikrein. Without it, bradykinin builds up.",
+   "facts": [
+    "M6-F056",
+    "M6-F055",
+    "M6-F054"
+   ],
+   "visual": "Bradykinin → B2 → leak; ACE degrades; brakes struck",
+   "say": "Bradykinin binds the B 2 receptor and makes vessels leaky. A C E quickly breaks bradykinin down. C1 inhibitor normally brakes factor 12 A and kallikrein. Without it, bradykinin builds up."
+  },
+  {
+   "id": "b21",
+   "text": "So bradykinin is the primary mediator of swelling in HAE. The missing brake also lets complement run. Excess C4 and C2 are cleaved, so C4 falls.",
+   "facts": [
+    "M6-F052",
+    "M6-F037",
+    "M6-F038"
+   ],
+   "visual": "Side branch: C4, C2 consumed; C4 down",
+   "say": "So bradykinin is the primary mediator of swelling in H A E. The missing brake also lets complement run. Excess C4 and C2 are cleaved, so C4 falls."
+  },
+  {
+   "id": "b22",
+   "text": "This explains a key clue. Mast cell angioedema is histamine-driven. HAE swelling is bradykinin-driven, so it does not respond to antihistamines, glucocorticoids or epinephrine.",
+   "facts": [
+    "M6-F039",
+    "M6-F057",
+    "M6-F052"
+   ],
+   "visual": "Two columns: histamine vs bradykinin",
+   "say": "This explains a key clue. Mast cell angioedema is histamine-driven. H A E swelling is bradykinin-driven, so it does not respond to antihistamines, glucocorticoids or epinephrine."
+  },
+  {
+   "id": "b23",
+   "text": "Suspect HAE in recurrent angioedema with family history, onset in childhood, painful abdominal attacks, airway swelling, prodromes and no wheals. Median onset is about 12 years. Family history may be absent in up to 25%.",
+   "facts": [
+    "M6-F057",
+    "M6-F069",
+    "M6-F058"
+   ],
+   "visual": "Red-flag checklist",
+   "say": "Suspect H A E in recurrent angioedema with family history, onset in childhood, painful abdominal attacks, airway swelling, prodromes and no wheals. Median onset is about 12 years. Family history may be absent in up to 25%."
+  },
+  {
+   "id": "b24",
+   "text": "Triggers include dental or surgical trauma, oestrogens, stress, fatigue and febrile illness. ACE inhibitors can trigger attacks, so avoid them strictly.",
+   "facts": [
+    "M6-F074",
+    "M6-F075"
+   ],
+   "visual": "Triggers list; ACE inhibitor struck",
+   "say": "Triggers include dental or surgical trauma, oestrogens, stress, fatigue and febrile illness. A C E inhibitors can trigger attacks, so avoid them strictly."
+  },
+  {
+   "id": "b25",
+   "text": "Now the lab work-up. Test every suspected patient for C1 inhibitor function, C1 inhibitor protein and C4. Repeat any low result. C3 and CH50 are usually normal, so they do not help.",
+   "facts": [
+    "M6-F059",
+    "M6-F061"
+   ],
+   "visual": "Three tests; C3/CH50 greyed out",
+   "say": "Now the lab work-up. Test every suspected patient for C1 inhibitor function, C1 inhibitor protein and C4. Repeat any low result. C3 and C H 50 are usually normal, so they do not help."
+  },
+  {
+   "id": "b26",
+   "text": "Read the pattern. HAE type 1 is about 85% of patients: low protein and low function. HAE type 2 has normal or high protein, but low function. C4 is usually low, but not specific.",
+   "facts": [
+    "M6-F060",
+    "M6-F040",
+    "M6-F041"
+   ],
+   "visual": "Lab table rows HAE-1, HAE-2",
+   "say": "Read the pattern. H A E type 1 is about 85% of patients: low protein and low function. H A E type 2 has normal or high protein, but low function. C4 is usually low, but not specific."
+  },
+  {
+   "id": "b27",
+   "text": "Acquired C1 inhibitor deficiency has the same basic profile, but C1q is low in 75%. Think of it with new angioedema after age 40 and no family history. Look for lymphoma or MGUS.",
+   "facts": [
+    "M6-F063",
+    "M6-F064",
+    "M6-F065"
+   ],
+   "visual": "AAE row with C1q low",
+   "say": "Acquired C1 inhibitor deficiency has the same basic profile, but C 1 q is low in 75%. Think of it with new angioedema after age 40 and no family history. Look for lymphoma or M gus."
+  },
+  {
+   "id": "b28",
+   "text": "HAE with normal C1 inhibitor is very rare and looks like type 1 and 2. Some patients have a factor XII mutation, but most have no known mutation. ACE inhibitor angioedema also has normal C1 inhibitor.",
+   "facts": [
+    "M6-F042",
+    "M6-F046",
+    "M6-F047",
+    "M6-F044"
+   ],
+   "visual": "nC1-INH row; ACEI-AE note",
+   "say": "H A E with normal C1 inhibitor is very rare and looks like type 1 and 2. Some patients have a factor 12 mutation, but most have no known mutation. A C E inhibitor angioedema also has normal C1 inhibitor."
+  },
+  {
+   "id": "b29",
+   "text": "Now treatment, with a warning. Everything here follows the 2017 WAO and EAACI guideline, for HAE type 1 and 2 only. Drugs and licences change, so check the current guideline before your exam.",
+   "facts": [
+    "M6-F045"
+   ],
+   "visual": "Orange warning card: 2017 guideline — check current",
+   "say": "Now treatment, with a warning. Everything here follows the 2017 W A O and E A A C I guideline, for H A E type 1 and 2 only. Drugs and licences change, so check the current guideline before your exam."
+  },
+  {
+   "id": "b30",
+   "text": "Per the 2017 guideline, treat attacks as early as possible, and always treat airway attacks. Use C1 inhibitor, ecallantide or icatibant. If none is available, use solvent detergent-treated plasma, then fresh frozen plasma.",
+   "facts": [
+    "M6-F076",
+    "M6-F077",
+    "M6-F078"
+   ],
+   "visual": "On-demand ladder"
+  },
+  {
+   "id": "b31",
+   "text": "Each drug hits the cascade at a different point. C1 inhibitor concentrate replaces the missing protein. Ecallantide inhibits plasma kallikrein. Icatibant blocks the bradykinin B2 receptor.",
+   "facts": [
+    "M6-F081",
+    "M6-F083",
+    "M6-F084"
+   ],
+   "visual": "Cascade with orange drug pins",
+   "say": "Each drug hits the cascade at a different point. C1 inhibitor concentrate replaces the missing protein. Ecallantide inhibits plasma kallikrein. Icatibant blocks the bradykinin B 2 receptor."
+  },
+  {
+   "id": "b32",
+   "text": "Tranexamic acid and androgens do not work for attacks. In progressive airway swelling, consider intubation early. Every patient carries medication for two attacks.",
+   "facts": [
+    "M6-F079",
+    "M6-F080",
+    "M6-F085"
+   ],
+   "visual": "Struck: tranexamic acid, androgens; airway; 2 doses"
+  },
+  {
+   "id": "b33",
+   "text": "For prevention, the 2017 guideline gives C1 inhibitor before procedures. For long-term prophylaxis, C1 inhibitor is first line and androgens are second line. Antifibrinolytics are not recommended.",
+   "facts": [
+    "M6-F088",
+    "M6-F091",
+    "M6-F092",
+    "M6-F094"
+   ],
+   "visual": "Prophylaxis ladder"
+  },
+  {
+   "id": "b34",
+   "text": "In children under 12, use C1 inhibitor for attacks, and avoid androgens before Tanner stage five. In pregnancy, C1 inhibitor is preferred, and androgens are contraindicated.",
+   "facts": [
+    "M6-F096",
+    "M6-F097",
+    "M6-F098"
+   ],
+   "visual": "Children and pregnancy panels",
+   "say": "In children under 12, use C1 inhibitor for attacks, and avoid androgens before Tanner stage 5. In pregnancy, C1 inhibitor is preferred, and androgens are contraindicated."
+  },
+  {
+   "id": "b35",
+   "text": "Five things to remember. One: early classical defects cause lupus-like disease. Two: C3 or factor I loss causes pyogenic infections. Three: C5 to C9 and properdin loss causes Neisseria infections. Four: HAE is bradykinin, not histamine. Five: test C1 inhibitor function, protein and C4.",
+   "facts": [
+    "M6-F002",
+    "M6-F008",
+    "M6-F021",
+    "M6-F017",
+    "M6-F016",
+    "M6-F052",
+    "M6-F059"
+   ],
+   "visual": "Numbered recap list",
+   "say": "Five things to remember. One: early classical defects cause lupus-like disease. Two: C3 or factor I loss causes pyogenic infections. Three: C5 to C9 and properdin loss causes Neisseria infections. Four: H A E is bradykinin, not histamine. Five: test C1 inhibitor function, protein and C4."
+  },
+  {
+   "id": "b36",
+   "text": "And one exam trap. Normal C1 inhibitor level and function do not exclude hereditary angioedema. With a family history, think of HAE with normal C1 inhibitor. Next: the ten-minute rapid review.",
+   "facts": [
+    "M6-F042",
+    "M6-F046"
+   ],
+   "visual": "Trap card; Next: rapid review",
+   "say": "And one exam trap. Normal C1 inhibitor level and function do not exclude hereditary angioedema. With a family history, think of H A E with normal C1 inhibitor. Next: the ten-minute rapid review."
+  }
+ ]
+}

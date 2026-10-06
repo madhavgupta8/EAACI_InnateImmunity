@@ -1,0 +1,70 @@
+90              CHAPTER 4 Innate Immunity
+
+
+recruited to extravascular sites of infection and injury, where                  immune-mediated inflammatory diseases, beginning with
+they perform the effector functions that kill microbes and                       a description of the important cytokines in innate immune
+begin to repair damaged tissue. Acute inflammatory responses                     inflammatory responses.
+begin with recognition of microbial PAMPs or DAMPs from
+injured host cells by tissue sentinel cells, mainly macro-
+phages, DCs, and mast cells, as well as by epithelial barrier                    The Major Proinflammatory Cytokines of
+cells. These sentinels respond by secreting mediators that act                   Innate Immunity
+on small blood vessels in ways that promote increased blood                      One of the earliest responses of the innate immune system to
+flow, delivery of plasma proteins, and migration of leukocytes                   infection and tissue damage is the secretion of cytokines by tis-
+into the tissues. Detailed descriptions of the various media-                    sue cells, which is critical for the acute inflammatory response.
+tors and pathologic manifestations of inflammation can be                        The cytokines of innate immunity have some important general
+found in pathology textbooks. We will focus our discussion                       properties and functions (Table 4.7):
+on particular aspects of the inflammatory process that have                      • They are produced mainly by tissue macrophages and
+broad relevance to both innate and adaptive immunity and                            DCs, although other cell types, including mast cells, some
+
+
+ TABLE 4.7 Cytokines of Innate Immunity
+ Cytokine                 Size                           Principal Cell Source              Principal Cellular Targets and Biologic Effects
+ TNF                      17 kD; 51 kD homotrimer        Macrophages, T cells               Endothelial cells: activation (inflammation, coagulation)
+                                                                                            Neutrophils: activation
+                                                                                            Liver: synthesis of acute-phase proteins
+                                                                                            Hypothalamus: fever
+                                                                                            Muscle, fat: catabolism (cachexia)
+                                                                                            Many cell types: apoptosis
+
+ IL-1                     17 kD mature form; 33 kD       Macrophages, endothelial           Endothelial cells: activation (inflammation, coagulation)
+                            precursors                    cells, some epithelial cells      Hypothalamus: fever
+                                                                                            Liver: synthesis of acute-phase proteins
+                                                                                            T cells: Th17 differentiation
+
+ Chemokines (see          8–10 kD                        Macrophages, endothelial           Leukocytes: chemotaxis, activation; migration into tissues
+  Table 3.2)                                              cells, T cells, fibroblasts,
+                                                          platelets
+
+ IL-12                    Heterodimer of 35- and         Macrophages, DCs                   T cells: Th1 differentiation
+                           40-kD subunits                                                   NK cells and T cells: IFN-γ synthesis, increased cytotoxic
+                                                                                              activity
+
+ Type I interferons       IFN-α: 15–21 kD                IFN-α: macrophages,                All cells: antiviral state, increased MHC-I expression
+   (IFN-α, IFN-β)         IFN-β: 20–25 kD                  plasmacytoid DCs                 NK cells: activation
+                                                         IFN-β: fibroblasts
+
+ IL-10                    Homodimer of 34–40 kD          Macrophages, T cells               Macrophages, DCs: inhibition of expression of IL-12,
+                           and 18-kD subunits             (mainly regulatory T cells)        costimulators and MHC-II molecules
+
+ IL-6                     19–26 kD                       Macrophages, endothelial           Liver: synthesis of acute-phase proteins
+                                                          cells, T cells                    B cells: proliferation of antibody-producing cells
+                                                                                            T cells: Th17 differentiation
+
+ IL-15                    13 kD                          Macrophages, others                NK cells: proliferation
+                                                                                            T cells: proliferation (memory CD8+ cells)
+
+ IL-18                    17 kD                          Macrophages                        NK cells and T cells: IFN-γ synthesis
+
+ IL-23                    Heterodimer of unique          Macrophages and DCs                T cells: development and maintenance of IL-17–producing
+                           19-kD subunit and 40-                                              T cells
+                           kD subunit of IL-12
+
+ IL-27                    Heterodimer of 28-kD           Macrophages and DCs                T cells: Th1 differentiation; inhibition of Th17 cells
+                           and 13-kD subunits                                               NK cells: IFN-γ synthesis
+
+ DCs, Dendritic cells; MHC, major histocompatibility complex; IFN, interferon; IL, interleukin; TNF, tumor necrosis factor. (Also see Appendix I.)
+
+
+                                                                ERRNVPHGLFRVRUJ
+
+

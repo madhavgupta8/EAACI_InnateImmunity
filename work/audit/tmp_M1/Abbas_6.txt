@@ -1,0 +1,65 @@
+6               CHAPTER 1 Overview of the Immune System
+
+
+  Burnet in 1957 to explain how the immune system could respond               responses against self (autologous) antigens, which may result
+  to a large number and variety of antigens. According to this                in disorders called autoimmune diseases. The mechanisms of
+  hypothesis, which is now a proven feature of adaptive immu-                 self-tolerance and its failure are discussed in Chapter 15.
+  nity, antigen-specific clones of lymphocytes develop before and
+  independent of exposure to an antigen. An introduced antigen                In addition to these fundamental features of adaptive immu-
+  binds to (selects) the cells of the preexisting antigen-specific clone   nity, these responses have some other important properties.
+  and activates them, leading to an immune response specific for           • Because of the ability of lymphocytes and other immune
+  that antigen. The total number of antigenic specificities of the            cells to circulate among tissues, adaptive immunity is sys-
+  lymphocytes in an individual, called the lymphocyte repertoire,             temic, meaning that even if an immune response is initiated
+  is extremely large. It is estimated that the immune system of an            at one site it can provide protection at distant sites. This fea-
+  individual can recognize and discriminate between 107 and 109               ture is, of course, essential for the success of vaccination—a
+  distinct antigenic determinants. This ability of the lymphocyte             vaccine administered in the subcutaneous or muscle tissue of
+  repertoire to recognize a very large number of antigens, called             the arm can protect from infections in any tissue.
+  diversity, is the result of variability in the structures of the anti-   • Immune responses are regulated by a system of positive
+  gen-binding sites of lymphocyte receptors for antigens. In other            feedback loops that amplify the reaction and by control
+  words, there are many different clones of lymphocytes and each              mechanisms that prevent inappropriate, overly prolonged
+  clone has a unique antigen receptor and therefore a single anti-            or pathologic reactions. When lymphocytes are activated,
+  gen specificity, contributing to a total repertoire that is extremely       they trigger mechanisms that further increase the magnitude
+  diverse. The expression of different antigen receptors in different         of the response. This positive feedback is important to enable
+  clones of T and B cells is the reason why these receptors are said          the small number of lymphocytes that are specific for any
+  to be clonally distributed. The molecular mechanisms that gen-              microbe to generate the large response needed to eradicate
+  erate such diverse antigen receptors are discussed in Chapter 8.            that infection. Many control mechanisms become active dur-
+  Diversity is essential if the immune system is to defend individu-          ing immune responses, which prevent excessive activation of
+  als against the enormous number of potential pathogens in the               lymphocytes that could cause collateral damage to normal
+  environment.                                                                tissues and also prevent responses against self antigens.
+• Memory. Exposure of the immune system to a foreign anti-
+  gen enhances its ability to respond again to that antigen.               Overview of Humoral and Cell-Mediated Immunity
+  Responses to second and subsequent exposures to the same                 There are two types of adaptive immunity, called humoral
+  antigen, called secondary immune responses, are usually                  immunity and cell-mediated immunity, which are mediated by
+  more rapid, greater in magnitude, and often qualitatively dif-           different types of lymphocytes and function to eliminate differ-
+  ferent from the first, or primary, immune response to that               ent types of microbes (Figs. 1.4 and 1.5). Humoral immunity
+  antigen (see Fig. 1.2). Immunologic memory exists because                is mediated by molecules in the blood and mucosal secretions,
+  each exposure to an antigen generates long-lived memory                  called antibodies (also called immunoglobulins), which are
+  cells specific for the antigen. Two properties of memory cells           produced by B lymphocytes. Antibodies recognize microbial
+  account for why secondary responses are typically stronger               antigens, neutralize the infectivity of the microbes, and target
+  than primary immune responses—memory cells accumu-                       microbes for elimination by phagocytes and the complement
+  late and become more numerous than the naive lympho-                     system. Humoral immunity is the principal defense mechanism
+  cytes specific for the antigen that exist at the time of initial         against microbes and their toxins located outside cells (e.g., in
+  antigen exposure, and memory cells react more rapidly and                the lumens of the gastrointestinal and respiratory tracts and in
+  vigorously to antigen challenge than do naive lymphocytes.               the blood and extracellular tissue spaces) because secreted anti-
+  Memory enables the immune system to mount heightened                     bodies can bind to these microbes and toxins, neutralize them,
+  responses to persistent or recurring exposure to the same                and assist in their elimination.
+  antigen and thus to combat infections by microbes that are                  Cell-mediated immunity, also called cellular immunity, is
+  prevalent in the environment and are encountered repeat-                 mediated by T lymphocytes. Many microbes are ingested by
+  edly. Immunologic memory is one mechanism by which vac-                  but survive within phagocytes, and some microbes, notably
+  cines confer long-lasting protection against infections.                 viruses, infect and replicate in various host cells. In these loca-
+• Nonreactivity to self (self-tolerance). One of the most remark-          tions the microbes are inaccessible to circulating antibodies.
+  able properties of every individual’s immune system is its ability       Defense against such infections is a function of cell-mediated
+  to recognize, respond to, and eliminate many foreign (nonself)           immunity, which promotes the destruction of microbes inside
+  antigens while not reacting harmfully to that individual’s own           phagocytes and the killing of infected cells to eliminate reser-
+  (self) antigens. Immunologic unresponsiveness is also called             voirs of infection.
+  tolerance. Tolerance to self antigens, or self-tolerance, is main-          Different classes of lymphocytes may be distinguished by the
+  tained by several mechanisms. These include eliminating lym-             expression of membrane proteins, many of which are designated
+  phocytes that express receptors specific for some self antigens,         by Cluster of Differentiation (CD) numbers. CD molecules are
+  inactivating self-reactive lymphocytes, or suppressing these             also involved in the functions of the lymphocytes. We will intro-
+  cells by the actions of other (regulatory) cells. Abnormalities in       duce some of the surface molecules that are used to identify lym-
+  the induction or maintenance of self-tolerance lead to immune            phocyte classes in Chapter 2 and discuss them further in later
+
+
+                                                             ERRNVPHGLFRVRUJ
+
+

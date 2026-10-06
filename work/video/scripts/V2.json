@@ -1,0 +1,420 @@
+{
+ "id": "V2",
+ "slug": "innate-cells",
+ "title": "The cells of innate immunity",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "The cells of innate immunity. The exam asks where each cell comes from, how NK cells pick a target, and how mast cells differ from eosinophils.",
+   "facts": [],
+   "no_facts_reason": "Intro and overview; facts follow in later beats.",
+   "visual": "Title card; three exam hooks appear.",
+   "say": "The cells of innate immunity. The exam asks where each cell comes from, how N K cells pick a target, and how mast cells differ from eosinophils."
+  },
+  {
+   "id": "b02",
+   "text": "Every blood cell starts from one haematopoietic stem cell, or HSC, in the bone marrow. HSCs carry CD34 and c-KIT.",
+   "facts": [
+    "M2-F001",
+    "M2-F002"
+   ],
+   "visual": "Lineage tree root: HSC in bone marrow, CD34, c-KIT.",
+   "say": "Every blood cell starts from one haematopoietic stem cell, or H S C, in the bone marrow. H S Cs carry C D 34 and C kit."
+  },
+  {
+   "id": "b03",
+   "text": "The myeloid branch makes neutrophils, eosinophils, basophils and monocytes. Most dendritic cells come from a precursor shared with monocytes.",
+   "facts": [
+    "M2-F003",
+    "M2-F004"
+   ],
+   "visual": "Myeloid branch grows: neutrophil, eosinophil, basophil, monocyte, DC."
+  },
+  {
+   "id": "b04",
+   "text": "Mast cells leave the marrow as progenitors and mature in the tissues. Basophils mature in the marrow, from different progenitors.",
+   "facts": [
+    "M2-F005",
+    "M2-F010"
+   ],
+   "visual": "Mast cell progenitor exits the marrow into tissue; basophil stays inside."
+  },
+  {
+   "id": "b05",
+   "text": "The lymphoid branch makes T cells, B cells, and a shared precursor of natural killer cells and innate lymphoid cells, or ILCs.",
+   "facts": [
+    "M2-F006"
+   ],
+   "visual": "Lymphoid branch grows: T, B, NK and ILC.",
+   "say": "The lymphoid branch makes T cells, B cells, and a shared precursor of natural killer cells and innate lymphoid cells, or I L Cs."
+  },
+  {
+   "id": "b06",
+   "text": "Each line has a growth factor: G-CSF for neutrophils, M-CSF for monocytes, FLT3 ligand for dendritic cells, IL-5 for eosinophils, and SCF for mast cells.",
+   "facts": [
+    "M2-F007",
+    "M2-F008",
+    "M2-F009",
+    "M2-F066"
+   ],
+   "visual": "Growth-factor tags pin onto the tree leaves.",
+   "say": "Each line has a growth factor: G C S F for neutrophils, M C S F for monocytes, F L T 3 ligand for dendritic cells, I L 5 for eosinophils, and S C F for mast cells."
+  },
+  {
+   "id": "b07",
+   "text": "The neutrophil is the most abundant white blood cell, 40 to 60 percent of leukocytes. Its nucleus has three to five lobes, so we call it a polymorphonuclear leukocyte.",
+   "facts": [
+    "M2-F013",
+    "M2-F012",
+    "M2-F014"
+   ],
+   "visual": "Neutrophil with multi-lobed nucleus; PMN label."
+  },
+  {
+   "id": "b08",
+   "text": "Most granules are specific granules, with lysozyme, collagenase and elastase. Azurophilic granules hold myeloperoxidase, defensins and cathelicidins.",
+   "facts": [
+    "M2-F015",
+    "M2-F016"
+   ],
+   "visual": "Two granule types with content lists."
+  },
+  {
+   "id": "b09",
+   "text": "Neutrophils act fast, with preformed enzymes, but live only one to two days in tissues. Macrophages respond more slowly, and often need new gene transcription.",
+   "facts": [
+    "M2-F019",
+    "M2-F018"
+   ],
+   "visual": "Speed comparison: neutrophil vs macrophage."
+  },
+  {
+   "id": "b10",
+   "text": "Neutrophils can throw out their nuclear contents as nets, neutrophil extracellular traps. Nets trap and kill microbes, but can also damage healthy tissue.",
+   "facts": [
+    "M2-F020"
+   ],
+   "visual": "Web of NET strands catches microbes."
+  },
+  {
+   "id": "b11",
+   "text": "Classical monocytes are 90 to 95 percent of blood monocytes. They rush to infection and become macrophages. But most tissue-resident macrophages come from yolk sac or fetal liver precursors, and renew themselves.",
+   "facts": [
+    "M2-F021",
+    "M2-F022"
+   ],
+   "visual": "Monocyte becomes macrophage; fetal origin of resident macrophages."
+  },
+  {
+   "id": "b12",
+   "text": "Examples are Kupffer cells in the liver, alveolar macrophages in the lung and microglia in the brain.",
+   "facts": [
+    "M2-F023"
+   ],
+   "visual": "Three resident macrophages: liver, lung, brain."
+  },
+  {
+   "id": "b13",
+   "text": "Two source conflicts. Janeway says tissue macrophages mature from blood monocytes, and dendritic cells also have a lymphoid origin. Abbas is newer, so use Abbas for the exam.",
+   "facts": [
+    "M2-F024",
+    "M2-F011",
+    "M2-F022",
+    "M2-F004"
+   ],
+   "visual": "Abbas vs Janeway note."
+  },
+  {
+   "id": "b14",
+   "text": "Macrophages make cytokines such as TNF and IL-1. They clear apoptotic cells, called efferocytosis. Their receptor SIRP alpha reads CD47, a don't eat me signal on healthy cells.",
+   "facts": [
+    "M2-F032",
+    "M2-F026",
+    "M2-F027"
+   ],
+   "visual": "Macrophage with three jobs; CD47 sign.",
+   "say": "Macrophages make cytokines such as T N F and I L 1. They clear apoptotic cells, called efferocytosis. Their receptor sirp alpha reads C D 47, a don't eat me signal on healthy cells."
+  },
+  {
+   "id": "b15",
+   "text": "Lipopolysaccharide and interferon gamma give classical M1 macrophages that kill microbes. IL-4 and IL-13 drive alternative M2 macrophages for repair and fibrosis. Many macrophages fit neither box.",
+   "facts": [
+    "M2-F029",
+    "M2-F028",
+    "M2-F030",
+    "M2-F031"
+   ],
+   "visual": "Fork: M1 kill vs M2 repair.",
+   "say": "Lipopolysaccharide and interferon gamma give classical M1 macrophages that kill microbes. I L 4 and I L 13 drive alternative M2 macrophages for repair and fibrosis. Many macrophages fit neither box."
+  },
+  {
+   "id": "b16",
+   "text": "Dendritic cells are sentinels. They capture antigens in tissues and carry them to lymph nodes. There, they direct naive T cells to become effector cells, such as Th1 or Th17 cells.",
+   "facts": [
+    "M2-F033",
+    "M2-F041"
+   ],
+   "visual": "DC carries antigen to lymph node; T cell to Th1/Th17.",
+   "say": "Dendritic cells are sentinels. They capture antigens in tissues and carry them to lymph nodes. There, they direct naive T cells to become effector cells, such as T H 1 or T H 17 cells."
+  },
+  {
+   "id": "b17",
+   "text": "cDC2 cells are the most numerous, and present antigen mainly to CD4 T cells. cDC1 cells cross-present antigen to naive CD8 T cells, and make IL-12.",
+   "facts": [
+    "M2-F034",
+    "M2-F035"
+   ],
+   "visual": "Subset cards: cDC2 to CD4, cDC1 to CD8.",
+   "say": "C D C 2 cells are the most numerous, and present antigen mainly to C D 4 T cells. C D C 1 cells cross-present antigen to naive C D 8 T cells, and make I L 12."
+  },
+  {
+   "id": "b18",
+   "text": "Plasmacytoid DCs carry high TLR7 and TLR9. They are the main source of antiviral type I interferon. Langerhans cells are the dendritic cells of the epidermis.",
+   "facts": [
+    "M2-F036",
+    "M2-F037",
+    "M2-F039"
+   ],
+   "visual": "pDC card; Langerhans card.",
+   "say": "Plasmacytoid D Cs carry high T L R 7 and T L R 9. They are the main source of antiviral type one interferon. Langerhans cells are the dendritic cells of the epidermis."
+  },
+  {
+   "id": "b19",
+   "text": "Exam trap: follicular dendritic cells are stromal cells. They do not come from bone marrow, and do not present protein antigens to T cells.",
+   "facts": [
+    "M2-F040"
+   ],
+   "visual": "FDC card crossed out as 'not a DC'."
+  },
+  {
+   "id": "b20",
+   "text": "Natural killer cells are CD56 positive and CD3 negative. They kill without prior activation, using germline-encoded receptors. So they kill virus-infected cells before cytotoxic T cells are fully active.",
+   "facts": [
+    "M2-F043",
+    "M2-F044",
+    "M2-F047"
+   ],
+   "visual": "NK cell with tags; timeline NK early vs CTL later.",
+   "say": "Natural killer cells are C D 56 positive and C D 3 negative. They kill without prior activation, using germline-encoded receptors. So they kill virus-infected cells before cytotoxic T cells are fully active."
+  },
+  {
+   "id": "b21",
+   "text": "Perforin helps granzymes enter the target, and granzymes trigger apoptosis. NK cells also secrete interferon gamma, which activates macrophages.",
+   "facts": [
+    "M2-F046",
+    "M2-F045"
+   ],
+   "visual": "Kill arm and IFN-gamma arm.",
+   "say": "Perforin helps granzymes enter the target, and granzymes trigger apoptosis. N K cells also secrete interferon gamma, which activates macrophages."
+  },
+  {
+   "id": "b22",
+   "text": "Each NK cell weighs activating against inhibitory signals. Think of it like a balance scale. Inhibitory receptors use ITIMs, and activating receptors use ITAMs.",
+   "facts": [
+    "M2-F049",
+    "M2-F055"
+   ],
+   "visual": "Balance scale: inhibitory vs activating pans.",
+   "say": "Each N K cell weighs activating against inhibitory signals. Think of it like a balance scale. Inhibitory receptors use I T I Ms, and activating receptors use I T A Ms."
+  },
+  {
+   "id": "b23",
+   "text": "Inhibitory KIRs and CD94 NKG2A recognise MHC class I. The activating receptor NKG2D binds stress proteins on infected and tumour cells.",
+   "facts": [
+    "M2-F054",
+    "M2-F050"
+   ],
+   "visual": "Receptors load each pan.",
+   "say": "Inhibitory K I Rs and C D 94 N K G 2 A recognise M H C class one. The activating receptor N K G 2 D binds stress proteins on infected and tumour cells."
+  },
+  {
+   "id": "b24",
+   "text": "A healthy cell shows MHC class I, so inhibition wins and the NK cell walks away.",
+   "facts": [
+    "M2-F053"
+   ],
+   "visual": "Healthy target: scale tips to inhibition.",
+   "say": "A healthy cell shows M H C class one, so inhibition wins and the N K cell walks away."
+  },
+  {
+   "id": "b25",
+   "text": "Viruses, cell stress and many cancers reduce MHC class I. The brake is gone, the scale tips, and the NK cell kills. This is recognition of missing self.",
+   "facts": [
+    "M2-F053"
+   ],
+   "visual": "MHC-I disappears; scale tips; 'missing self'.",
+   "say": "Viruses, cell stress and many cancers reduce M H C class one. The brake is gone, the scale tips, and the N K cell kills. This is recognition of missing self."
+  },
+  {
+   "id": "b26",
+   "text": "CD16 binds IgG1 and IgG3 on a coated cell, and the NK cell kills it. This is antibody-dependent cell-mediated cytotoxicity, or ADCC.",
+   "facts": [
+    "M2-F052"
+   ],
+   "visual": "IgG-coated target bound by CD16.",
+   "say": "C D 16 binds I g G 1 and I g G 3 on a coated cell, and the N K cell kills it. This is antibody-dependent cell-mediated cytotoxicity, or A D C C."
+  },
+  {
+   "id": "b27",
+   "text": "NK cell deficiency gives severe herpesvirus and papillomavirus infections. Causes include GATA2 mutations, CD16 mutations, and Chediak-Higashi syndrome.",
+   "facts": [
+    "M2-F059",
+    "M2-F060",
+    "M2-F061",
+    "M2-F062"
+   ],
+   "visual": "Pink clinical box: NK deficiency.",
+   "say": "N K cell deficiency gives severe herpesvirus and papillomavirus infections. Causes include gata 2 mutations, C D 16 mutations, and Chediak-Higashi syndrome."
+  },
+  {
+   "id": "b28",
+   "text": "Now the allergy trio: mast cells, basophils and eosinophils. All three have granules full of mediators, and all three take part in allergic disease.",
+   "facts": [
+    "M2-F107"
+   ],
+   "visual": "Three cells side by side."
+  },
+  {
+   "id": "b29",
+   "text": "Mast cells are not in the blood. They sit near vessels and nerves, and beneath epithelia. Stem cell factor binds c-KIT and is essential for their development.",
+   "facts": [
+    "M2-F063",
+    "M2-F064"
+   ],
+   "visual": "Mast cell by vessel and nerve; SCF to c-KIT.",
+   "say": "Mast cells are not in the blood. They sit near vessels and nerves, and beneath epithelia. Stem cell factor binds C kit and is essential for their development."
+  },
+  {
+   "id": "b30",
+   "text": "The high-affinity IgE receptor, F C epsilon R one, holds IgE so tightly that most mast cells carry IgE, even in nonatopic people. It is high on mast cells and basophils, but low on eosinophils.",
+   "facts": [
+    "M2-F068",
+    "M2-F067"
+   ],
+   "visual": "FcεRI with IgE; high/high/low bars.",
+   "say": "The high-affinity I g E receptor, F C epsilon R one, holds I g E so tightly that most mast cells carry I g E, even in nonatopic people. It is high on mast cells and basophils, but low on eosinophils."
+  },
+  {
+   "id": "b31",
+   "text": "Allergen cross-links the IgE. The mast cell releases histamine and tryptase, then makes prostaglandin D2, leukotrienes and platelet-activating factor.",
+   "facts": [
+    "M2-F070",
+    "M2-F071",
+    "M2-F072",
+    "M2-F073"
+   ],
+   "visual": "Cross-link; preformed vs new mediators.",
+   "say": "Allergen cross-links the I g E. The mast cell releases histamine and tryptase, then makes prostaglandin D 2, leukotrienes and platelet-activating factor."
+  },
+  {
+   "id": "b32",
+   "text": "Mast cells also fire without IgE. C3a and C5a cause degranulation. On skin mast cells, MRGPRX2 binds some drugs and likely causes some allergy-like drug reactions.",
+   "facts": [
+    "M2-F074",
+    "M2-F075"
+   ],
+   "visual": "Non-IgE triggers.",
+   "say": "Mast cells also fire without I g E. C 3 a and C 5 a cause degranulation. On skin mast cells, M R G P R X 2 binds some drugs and likely causes some allergy-like drug reactions."
+  },
+  {
+   "id": "b33",
+   "text": "Tryptase is in all human mast cells and no other known cell. So serum tryptase helps diagnose anaphylaxis. Systemic mastocytosis is linked to c-KIT mutations.",
+   "facts": [
+    "M2-F077",
+    "M2-F079"
+   ],
+   "visual": "Tryptase box; mastocytosis.",
+   "say": "Tryptase is in all human mast cells and no other known cell. So serum tryptase helps diagnose anaphylaxis. Systemic mastocytosis is linked to C kit mutations."
+  },
+  {
+   "id": "b34",
+   "text": "Basophils are blood granulocytes, normally absent from tissues. Like mast cells, they bind IgE and fire when antigen binds it.",
+   "facts": [
+    "M2-F080",
+    "M2-F081"
+   ],
+   "visual": "Basophil in vessel.",
+   "say": "Basophils are blood granulocytes, normally absent from tissues. Like mast cells, they bind I g E and fire when antigen binds it."
+  },
+  {
+   "id": "b35",
+   "text": "Eosinophils need IL-5 from Th2 cells and ILC2s. Eotaxin binds CCR3 and recruits them. Major basic protein and eosinophil cationic protein damage helminths and host cells.",
+   "facts": [
+    "M2-F089",
+    "M2-F066",
+    "M2-F088",
+    "M2-F085"
+   ],
+   "visual": "Eosinophil with IL-5, CCR3 and granules.",
+   "say": "Eosinophils need I L 5 from T H 2 cells and I L C 2s. Eotaxin binds C C R 3 and recruits them. Major basic protein and eosinophil cationic protein damage helminths and host cells."
+  },
+  {
+   "id": "b36",
+   "text": "Exam trap: the eosinophil IgE receptor is low and lacks the signalling chain. There is no convincing evidence that IgE activates eosinophils.",
+   "facts": [
+    "M2-F090"
+   ],
+   "visual": "Comparison bars; trap stamp.",
+   "say": "Exam trap: the eosinophil I g E receptor is low and lacks the signalling chain. There is no convincing evidence that I g E activates eosinophils."
+  },
+  {
+   "id": "b37",
+   "text": "Innate lymphoid cells have no T-cell receptors. They secrete cytokines like helper T cells, and live mainly in mucosa such as lung and intestine.",
+   "facts": [
+    "M2-F113",
+    "M2-F092"
+   ],
+   "visual": "ILC with 'no TCR'."
+  },
+  {
+   "id": "b38",
+   "text": "ILC1s use T-bet and make interferon gamma. ILC2s use GATA3 and make IL-5 and IL-13. ILC3s use ROR gamma t and make IL-22 or IL-17.",
+   "facts": [
+    "M2-F094"
+   ],
+   "visual": "Three-row ILC table.",
+   "say": "I L C 1s use T bet and make interferon gamma. I L C 2s use gata 3 and make I L 5 and I L 13. I L C 3s use R O R gamma t and make I L 22 or I L 17."
+  },
+  {
+   "id": "b39",
+   "text": "In allergy, epithelial IL-25, IL-33 and TSLP activate ILC2s. ILC2s already sit in the tissue, so they can start allergic inflammation before Th2 cells arrive.",
+   "facts": [
+    "M2-F098",
+    "M2-F095",
+    "M2-F099"
+   ],
+   "visual": "Epithelium releases alarmins; ILC2 first, Th2 later.",
+   "say": "In allergy, epithelial I L 25, I L 33 and T S L P activate I L C 2s. I L C 2s already sit in the tissue, so they can start allergic inflammation before T H 2 cells arrive."
+  },
+  {
+   "id": "b40",
+   "text": "Five things to remember. One: all innate cells come from the HSC. Two: most tissue macrophages come from fetal precursors. Three: plasmacytoid DCs make type I interferon.",
+   "facts": [
+    "M2-F001",
+    "M2-F022",
+    "M2-F037"
+   ],
+   "visual": "Recap items 1-3.",
+   "say": "Five things to remember. One: all innate cells come from the H S C. Two: most tissue macrophages come from fetal precursors. Three: plasmacytoid D Cs make type one interferon."
+  },
+  {
+   "id": "b41",
+   "text": "Four: NK cells kill when MHC class I is missing. Five: ILC2s start allergic inflammation early.",
+   "facts": [
+    "M2-F053",
+    "M2-F099"
+   ],
+   "visual": "Recap items 4-5.",
+   "say": "Four: N K cells kill when M H C class one is missing. Five: I L C 2s start allergic inflammation early."
+  },
+  {
+   "id": "b42",
+   "text": "One exam trap. CD16 on NK cells binds IgG, not IgE. Next: how cells sense danger.",
+   "facts": [
+    "M2-F052"
+   ],
+   "visual": "Trap card; 'Next' card.",
+   "say": "One exam trap. C D 16 on N K cells binds I g G, not I g E. Next: how cells sense danger."
+  }
+ ]
+}

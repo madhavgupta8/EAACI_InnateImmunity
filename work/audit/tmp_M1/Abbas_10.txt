@@ -1,0 +1,73 @@
+10                              CHAPTER 1 Overview of the Immune System
+
+
+
+                                    Antigen                    Lymphocyte                         Antigen              Contraction
+                                                                                                                                              Memory
+                                  recognition                   activation                      elimination           (homeostasis)
+                                                                             Effector T
+                                                      Antibody-              lymphocyte
+                                                      producing
+                                                      cell
+
+
+                                                           Differentiation
+
+
+
+                                                                                                Antibodies
+                                                                                                and effector                                  Surviving
+                                                                                                  T cells                                     memory
+                                                                                                                                              cells
+
+
+
+
+        Magnitude of response
+                                 Antigen-
+                                 presenting                     Clonal
+                                 cell                          expansion
+                                                   Naive T
+                                                   lymphocyte
+
+                                                  Naive B                                                                Apoptosis
+                                                  lymphocyte
+
+                                0                         7                                               14                                     21
+                                Days after antigen exposure
+                                  Fig. 1.7 Development of adaptive immune responses. Adaptive immune responses consist of distinct
+                                  steps, the first three being the recognition of antigen, the activation of lymphocytes, and the elimination of
+                                  the antigen (the effector phase). The response contracts (declines) as antigen-stimulated lymphocytes die by
+                                  apoptosis, restoring homeostasis, but many antigen-specific cells survive for a long time and differentiate into
+                                  memory cells. The duration of each phase may vary in different immune responses. The y-axis represents an
+                                  arbitrary measure of the magnitude of the response. These principles apply to humoral immunity (mediated
+                                  by B lymphocytes) and cell-mediated immunity (mediated by T lymphocytes).
+
+
+
+
+increase in the number of lymphocytes with identical antigen recep-                         Memory cells remain, ready to respond vigorously if the same
+tors. The population of lymphocytes derived from a single naive                             infection recurs.
+lymphocyte is called a clone. In response to antigen recognition                                The cells of the immune system interact with one another and
+(and other signals discussed in later chapters), lymphocytes pro-                           with other host cells via secreted proteins called cytokines. Such
+liferate, leading to an increase in the clone, a process called clonal                      interactions are essential during both the initiation and effector
+expansion. Concurrent with clonal expansion is the differentiation                          stages of innate and adaptive immune responses. Cytokines are
+of the antigen-stimulated lymphocytes into cells capable of elimi-                          a large group of secreted proteins with diverse structures and
+nating the antigen, called effector cells because they mediate the                          functions, which regulate and coordinate many activities of the
+ultimate effect of the immune response, and the differentiation of                          cells of innate and adaptive immunity. All cells of the immune
+some of the activated lymphocytes into memory cells that survive                            system secrete at least some cytokines and express specific signal-
+for long periods and mount strong responses upon repeat antigen                             ing receptors for several cytokines. Some of the many functions of
+encounter. Antigen elimination often requires the participation of                          cytokines we will discuss throughout this book include promot-
+other, nonlymphoid cells, such as macrophages and neutrophils,                              ing the growth and differentiation of immune cells, activating the
+which are also sometimes called effector cells. These steps in lym-                         functions of lymphocytes and phagocytes that eliminate microbes
+phocyte activation and differentiation into effector cells typically                        (called effector functions), and stimulating directed movement of
+take several days, which explains why the adaptive response is slow                         immune cells from blood into tissues and within tissues. A large
+to develop and innate immunity has to provide protection initially.                         subset of structurally related cytokines that regulate cell adhe-
+    After the adaptive immune response has eradicated the infec-                            sion and migration are called chemokines. Cytokines are also
+tion, the stimuli for lymphocyte activation dissipate and most of                           involved in immunological diseases, and some of the most effec-
+the effector cells die, resulting in the decline of the response.                           tive drugs developed to treat these diseases target cytokines. We
+
+
+                                                                            ERRNVPHGLFRVRUJ
+
+

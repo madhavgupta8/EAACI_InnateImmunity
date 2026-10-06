@@ -1,0 +1,505 @@
+[
+  {
+    "id": "M4-A1",
+    "module": "M4",
+    "type": "A",
+    "stem": "An 8-month-old boy has recurrent bacterial skin infections and a wound that heals poorly. The infected sites show no pus. His blood leukocyte count is high. Flow cytometry shows very low CD11a, CD11b and CD11c on his neutrophils. Which gene is most likely mutated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "GDP-fucose transporter",
+        "correct": false,
+        "explanation": "This causes LAD-2: sialyl Lewis X is absent, but β2 integrin (CD11/CD18) expression is not the primary defect.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "KINDLIN-3",
+        "correct": false,
+        "explanation": "This causes LAD-3: integrins are present but cannot be activated by inside-out signalling.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "CD18 (β2 integrin chain)",
+        "correct": true,
+        "explanation": "LAD-1 is caused by CD18 mutations, with absent or reduced β2 integrins (LFA-1, MAC-1, p150,95). Leukocytosis, poor wound healing and no pus fit.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "D",
+        "text": "LYST",
+        "correct": false,
+        "explanation": "LYST mutations cause Chédiak–Higashi syndrome, with giant lysosomes and partial albinism, not loss of CD11/CD18.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "E",
+        "text": "gp91 subunit of cytochrome b558",
+        "correct": false,
+        "explanation": "This causes X-linked CGD, a killing defect. Neutrophils reach tissue and integrin expression is normal.",
+        "source": "Abbas p.486"
+      }
+    ],
+    "fact_ids": [
+      "M4-F084",
+      "M4-F085",
+      "M4-F086",
+      "M4-F088",
+      "M4-F090",
+      "M4-F093",
+      "M4-F094",
+      "M4-F073"
+    ]
+  },
+  {
+    "id": "M4-A2",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 2-year-old girl has recurrent bacterial infections and a high blood leukocyte count. She also has severe mucosal bleeding that needed blood transfusions. Her platelet count is normal. Her skin, hair and eye pigmentation are normal. Neutrophil CD18 expression by flow cytometry is normal. Which mechanism best explains her disease?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Absent expression of β2 integrins on leukocytes",
+        "correct": false,
+        "explanation": "CD18 expression is normal, so LAD-1 is unlikely. LAD-1 also does not cause a bleeding disorder.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "Absence of sialyl Lewis X on leukocytes",
+        "correct": false,
+        "explanation": "LAD-2 blocks rolling and causes developmental abnormalities, not a platelet aggregation defect.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "Failure of NADPH oxidase to make superoxide",
+        "correct": false,
+        "explanation": "CGD is a killing defect with granulomas and Aspergillus infections; it does not cause bleeding or block adhesion.",
+        "source": "Abbas p.486-487"
+      },
+      {
+        "key": "D",
+        "text": "Defective intracellular trafficking of lysosomes",
+        "correct": false,
+        "explanation": "This is CHS (LYST). CHS can cause bleeding from platelet dysfunction, but it also gives partial albinism, silver hair and giant lysosomes. Her normal pigmentation, leukocytosis and normal CD18 favour LAD-3.",
+        "source": "Abbas p.488; Janeway p.540"
+      },
+      {
+        "key": "E",
+        "text": "Defective inside-out activation of integrins",
+        "correct": true,
+        "explanation": "LAD-3 (KINDLIN-3) blocks chemokine-induced integrin activation in leukocytes and platelets. Platelet counts are normal but aggregation fails, so bleeding is severe.",
+        "source": "Abbas p.488"
+      }
+    ],
+    "fact_ids": [
+      "M4-F085",
+      "M4-F088",
+      "M4-F090",
+      "M4-F091",
+      "M4-F072",
+      "M4-F094",
+      "M4-F098"
+    ]
+  },
+  {
+    "id": "M4-A3",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 4-year-old boy has a Staphylococcus aureus liver abscess. Last year he had invasive pulmonary aspergillosis. A lymph node biopsy shows granulomas. His maternal uncle died in childhood of a severe infection. Which molecular defect is most likely?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mutation in the gp91 subunit of cytochrome b558",
+        "correct": true,
+        "explanation": "About two-thirds of CGD is X-linked recessive, due to gp91 mutations. Catalase-producing Staphylococcus, Aspergillus and granulomas are typical; the maternal-uncle history fits X-linked inheritance.",
+        "source": "Abbas p.486-487"
+      },
+      {
+        "key": "B",
+        "text": "Mutation in the p47 cytosolic oxidase subunit",
+        "correct": false,
+        "explanation": "Mutations in other oxidase subunits give autosomal recessive CGD, often milder with later onset. The maternal-uncle history favours the X-linked form.",
+        "source": "Janeway p.82"
+      },
+      {
+        "key": "C",
+        "text": "Myeloperoxidase deficiency",
+        "correct": false,
+        "explanation": "MPO deficiency gives a CGD-like but less severe phenotype; it does not fit X-linked inheritance with life-threatening infections.",
+        "source": "Janeway p.536"
+      },
+      {
+        "key": "D",
+        "text": "Mutation in the CD18 gene",
+        "correct": false,
+        "explanation": "LAD-1 is autosomal recessive and causes absent pus and leukocytosis, not granulomas with intact recruitment.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "E",
+        "text": "Mutation in IFN-γ receptor 1",
+        "correct": false,
+        "explanation": "IFN-γ receptor defects cause MSMD, with mycobacterial and Salmonella infections rather than Staphylococcus and Aspergillus.",
+        "source": "Abbas p.498"
+      }
+    ],
+    "fact_ids": [
+      "M4-F073",
+      "M4-F075",
+      "M4-F076",
+      "M4-F077",
+      "M4-F078",
+      "M4-F082",
+      "M4-F084",
+      "M4-F085",
+      "M4-F104",
+      "M4-F105",
+      "M4-F054"
+    ]
+  },
+  {
+    "id": "M4-A4",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 35-year-old woman has occasional bacterial infections that respond well to treatment. Laboratory studies show that her neutrophils produce normal amounts of superoxide and hydrogen peroxide. However, her neutrophils cannot convert hydrogen peroxide into hypochlorous acid. Which enzyme is deficient?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Superoxide dismutase",
+        "correct": false,
+        "explanation": "SOD converts superoxide to hydrogen peroxide; her H2O2 production is normal.",
+        "source": "Abbas p.96"
+      },
+      {
+        "key": "B",
+        "text": "Myeloperoxidase",
+        "correct": true,
+        "explanation": "MPO uses H2O2 to convert halide ions into hypohalous acids. MPO deficiency gives a CGD-like but milder phenotype.",
+        "source": "Abbas p.96; Janeway p.536"
+      },
+      {
+        "key": "C",
+        "text": "NADPH oxidase (gp91 subunit)",
+        "correct": false,
+        "explanation": "NADPH oxidase makes superoxide; her superoxide production is normal, so CGD is excluded.",
+        "source": "Abbas p.96"
+      },
+      {
+        "key": "D",
+        "text": "Inducible nitric oxide synthase",
+        "correct": false,
+        "explanation": "iNOS converts arginine to citrulline and NO; it does not make hypochlorous acid.",
+        "source": "Abbas p.96"
+      },
+      {
+        "key": "E",
+        "text": "Neutrophil elastase",
+        "correct": false,
+        "explanation": "Elastase is a serine protease; ELA2 mutations cause severe congenital or cyclic neutropenia.",
+        "source": "Abbas p.96; Janeway p.534"
+      }
+    ],
+    "fact_ids": [
+      "M4-F051",
+      "M4-F052",
+      "M4-F060",
+      "M4-F062",
+      "M4-F082",
+      "M4-F101"
+    ]
+  },
+  {
+    "id": "M4-A5",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 3-year-old boy has recurrent pyogenic infections, silvery hair and partial oculocutaneous albinism. His blood film shows giant granules in neutrophils and lymphocytes. He now has fever, hepatosplenomegaly and hemophagocytosis. Which protein is most likely defective?",
+    "options": [
+      {
+        "key": "A",
+        "text": "GDP-fucose transporter",
+        "correct": false,
+        "explanation": "This causes LAD-2 with absent rolling and developmental delay, not giant lysosomes or albinism.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "KINDLIN-3",
+        "correct": false,
+        "explanation": "This causes LAD-3 with integrin activation failure and bleeding, not albinism.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "Neutrophil elastase (ELA2)",
+        "correct": false,
+        "explanation": "ELA2 mutations cause severe congenital or cyclic neutropenia, not giant granules or albinism.",
+        "source": "Janeway p.534"
+      },
+      {
+        "key": "D",
+        "text": "LYST (lysosomal trafficking regulator)",
+        "correct": true,
+        "explanation": "Chédiak–Higashi syndrome: LYST mutation, giant lysosomes, partial albinism, silver hair. Without transplantation, HLH usually develops.",
+        "source": "Abbas p.488; Janeway p.540"
+      },
+      {
+        "key": "E",
+        "text": "HAX1",
+        "correct": false,
+        "explanation": "HAX1 deficiency causes autosomal recessive severe congenital neutropenia, not CHS.",
+        "source": "Janeway p.534"
+      }
+    ],
+    "fact_ids": [
+      "M4-F093",
+      "M4-F094",
+      "M4-F096",
+      "M4-F098",
+      "M4-F088",
+      "M4-F090",
+      "M4-F101",
+      "M4-F102"
+    ]
+  },
+  {
+    "id": "M4-A6",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 6-year-old boy has episodes of fever and bacterial infection about every 3 weeks. Serial blood counts show neutrophil numbers that swing from near normal to almost undetectable on a roughly 21-day cycle. Which gene is most likely mutated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "HAX1",
+        "correct": false,
+        "explanation": "HAX1 deficiency causes autosomal recessive SCN with persistently low counts, not a cycle.",
+        "source": "Janeway p.534"
+      },
+      {
+        "key": "B",
+        "text": "CD18",
+        "correct": false,
+        "explanation": "CD18 mutation causes LAD-1, typically with leukocytosis, not cyclic neutropenia.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "ELA2 (neutrophil elastase)",
+        "correct": true,
+        "explanation": "Cyclic neutropenia has a cycle of about 21 days. Some ELA2 mutations cause cyclic neutropenia; ELA2 is also the most common cause of SCN.",
+        "source": "Janeway p.533-534"
+      },
+      {
+        "key": "D",
+        "text": "LYST",
+        "correct": false,
+        "explanation": "LYST mutation causes CHS with giant lysosomes and albinism.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "E",
+        "text": "IL-12Rβ1",
+        "correct": false,
+        "explanation": "IL-12Rβ1 mutations cause MSMD with mycobacterial infections, not cyclic neutropenia.",
+        "source": "Abbas p.498"
+      }
+    ],
+    "fact_ids": [
+      "M4-F099",
+      "M4-F100",
+      "M4-F101",
+      "M4-F102",
+      "M4-F085",
+      "M4-F086",
+      "M4-F094",
+      "M4-F105"
+    ]
+  },
+  {
+    "id": "M4-A7",
+    "module": "M4",
+    "type": "A",
+    "stem": "A 1-year-old girl has recurrent bacterial infections, a high blood leukocyte count, severe developmental delay and the Bombay blood group phenotype. Which step of neutrophil recruitment is primarily blocked?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selectin-mediated rolling on endothelium",
+        "correct": true,
+        "explanation": "LAD-2: a defective GDP-fucose transporter prevents synthesis of sialyl Lewis X, the selectin ligand, so leukocytes do not roll. Fucosylation failure also causes the Bombay phenotype.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "B",
+        "text": "Chemokine-induced integrin activation",
+        "correct": false,
+        "explanation": "This step fails in LAD-3 (KINDLIN-3), which also causes bleeding.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "C",
+        "text": "Integrin binding to ICAM-1 for firm arrest",
+        "correct": false,
+        "explanation": "This step fails in LAD-1 (CD18), without developmental delay or Bombay phenotype.",
+        "source": "Abbas p.488"
+      },
+      {
+        "key": "D",
+        "text": "Paracellular transmigration via CD31",
+        "correct": false,
+        "explanation": "CD31 and VE-cadherin act at transmigration; no LAD type in the sources targets this step.",
+        "source": "Abbas p.50"
+      },
+      {
+        "key": "E",
+        "text": "Phagosome fusion with lysosomes",
+        "correct": false,
+        "explanation": "This is a post-ingestion step that fails in CHS, not a recruitment step.",
+        "source": "Janeway p.536"
+      }
+    ],
+    "fact_ids": [
+      "M4-F088",
+      "M4-F089",
+      "M4-F090",
+      "M4-F091",
+      "M4-F085",
+      "M4-F016",
+      "M4-F019",
+      "M4-F097",
+      "M4-F006"
+    ]
+  },
+  {
+    "id": "M4-K1",
+    "module": "M4",
+    "type": "KPRIM",
+    "stem": "Regarding leukocyte recruitment from blood into infected tissue, which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "IL-1 and TNF induce E-selectin on endothelial cells within 1 to 2 hours.",
+        "correct": true,
+        "explanation": "Correct. E-selectin is synthesized and expressed within 1 to 2 hours after IL-1 and TNF.",
+        "source": "Abbas p.45"
+      },
+      {
+        "key": "B",
+        "text": "LFA-1 on neutrophils binds mainly VCAM-1 on endothelium.",
+        "correct": false,
+        "explanation": "Incorrect. LFA-1 binds ICAM-1; VCAM-1 is the ligand for VLA-4.",
+        "source": "Abbas p.45"
+      },
+      {
+        "key": "C",
+        "text": "Chemokine receptor signals raise integrin affinity by inside-out signalling.",
+        "correct": true,
+        "explanation": "Correct. Chemokine-induced intracellular signals change the integrin to a high-affinity form; this is inside-out signalling.",
+        "source": "Abbas p.46"
+      },
+      {
+        "key": "D",
+        "text": "Neutrophils are recruited mainly through CCR2 binding to CCL2.",
+        "correct": false,
+        "explanation": "Incorrect. Neutrophils use CXCR1 and CXCR2 (CXCL1, CXCL8); CCR2 and CCL2 recruit classical monocytes.",
+        "source": "Abbas p.50"
+      }
+    ],
+    "fact_ids": [
+      "M4-F005",
+      "M4-F011",
+      "M4-F013",
+      "M4-F014",
+      "M4-F024",
+      "M4-F025"
+    ]
+  },
+  {
+    "id": "M4-K2",
+    "module": "M4",
+    "type": "KPRIM",
+    "stem": "Regarding microbial killing by neutrophils, which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Phagocyte oxidase reduces molecular oxygen to superoxide, with NADPH as cofactor.",
+        "correct": true,
+        "explanation": "Correct. This is the first reaction of the respiratory burst.",
+        "source": "Abbas p.96"
+      },
+      {
+        "key": "B",
+        "text": "Myeloperoxidase converts superoxide into hydrogen peroxide.",
+        "correct": false,
+        "explanation": "Incorrect. Superoxide is dismutated to H2O2 (by SOD); MPO then uses H2O2 to make hypohalous acids.",
+        "source": "Abbas p.96; Janeway p.81"
+      },
+      {
+        "key": "C",
+        "text": "Catalase made by Staphylococcus destroys hydrogen peroxide, which helps explain this organism's importance in CGD.",
+        "correct": true,
+        "explanation": "Correct. Catalase destroys the H2O2 that host cells could make from residual superoxide.",
+        "source": "Abbas p.487"
+      },
+      {
+        "key": "D",
+        "text": "NET formation requires citrullination of histones by PAD4.",
+        "correct": true,
+        "explanation": "Correct. NET formation needs PAD4, elastase, myeloperoxidase and phagocyte oxidase.",
+        "source": "Abbas p.96"
+      }
+    ],
+    "fact_ids": [
+      "M4-F051",
+      "M4-F052",
+      "M4-F056",
+      "M4-F077",
+      "M4-F067"
+    ]
+  },
+  {
+    "id": "M4-K3",
+    "module": "M4",
+    "type": "KPRIM",
+    "stem": "Regarding Mendelian susceptibility to mycobacterial disease (MSMD), which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Live BCG vaccine can cause disseminated infection in affected patients.",
+        "correct": true,
+        "explanation": "Correct. In MSMD, BCG vaccine can cause disseminated mycobacterial infection.",
+        "source": "Abbas p.498"
+      },
+      {
+        "key": "B",
+        "text": "IL-12p40 deficiency removes both IL-12 and IL-23 activity.",
+        "correct": true,
+        "explanation": "Correct. p40 is shared by IL-12 and IL-23.",
+        "source": "Janeway p.538"
+      },
+      {
+        "key": "C",
+        "text": "Total absence of the IFN-γ receptor causes exaggerated granuloma formation.",
+        "correct": false,
+        "explanation": "Incorrect. Total absence of IFN-γ receptor expression markedly reduces granuloma formation.",
+        "source": "Janeway p.538"
+      },
+      {
+        "key": "D",
+        "text": "The typical severe infections are invasive Aspergillus and catalase-positive staphylococci.",
+        "correct": false,
+        "explanation": "Incorrect. That pattern fits CGD. MSMD involves weakly virulent mycobacteria and other intracellular pathogens such as Salmonella.",
+        "source": "Abbas p.487, 498"
+      }
+    ],
+    "fact_ids": [
+      "M4-F104",
+      "M4-F105",
+      "M4-F107",
+      "M4-F108",
+      "M4-F076",
+      "M4-F077"
+    ]
+  }
+]

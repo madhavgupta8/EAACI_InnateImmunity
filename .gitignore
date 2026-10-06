@@ -1,0 +1,16 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python venv and intermediate video renders/audio
+work/.menv/
+work/video/build/
+work/video/audio/
+
+# Copyrighted source material (repo is public)
+/*.pdf
+work/sources_text/
+
+# Personal
+message-to-papa.txt

@@ -1,0 +1,108 @@
+The first lines of defense
+
+Another layer of innate immunity is provided by bactericidal proteins that
+are carbohydrate-binding proteins, or lectins. C-type lectins require calcium
+for their binding activity and have a characteristic carbohydrate-recognition
+domain (CRD), stabilized by two disulfide bonds, that provides a highly vari-
+able interface for binding carbohydrate structures. In mice, the C-type lectin
+ReglIIy is produced by Paneth cells and secreted into the gut, where it binds
+to peptidoglycans in bacterial cell walls and exerts direct bactericidal activity.
+Regllly preferentially kills Gram-positive bacteria, in which the peptidoglycan
+is exposed on the outer surface and is therefore more accessible (see Fig. 2.7).
+The precise mechanism of killing is still uncertain but involves direct damage
+to bacterial cell membranes in a similar manner to the actions of defensins.
+Regllly is produced in inactive form but is cleaved by the protease trypsin,
+which removes a short amino-terminal fragment to activate the bactericidal
+potential of ReglIly within the intestinal lumen (see Fig. 2.9). The related
+human protein REG3 (also called HIH/PAP for hepatocarcinoma-intestine-
+pancreas/pancreatitis-associated protein) and several other members of the
+Reg family of secreted C-type lectins are also expressed in the intestine, sug-
+gesting that there may be a ‘lecticidin’ family of antimicrobial proteins. It is
+worth noting that it is acommon strategy for the antimicrobial proteins to be
+produced as propeptides that require cleavage by a protease to complete their
+activation. This form of activation is also a central feature of the next comp-
+onent of innate immunity that we shall consider, the complement system.
+Fig. 2.10 summarizes the strategies of innate immunity that involve epithelial
+barriers and preformed antimicrobial enzymes and peptides.
+
+Summary.
+
+For a pathogen to cause disease, it must first make contact with the host and
+then establish a focus of infection. The mammalian body is susceptible to
+infection by many pathogens, which reside and replicate in different ana-
+tomic locations. Pathogens differ greatly in their lifestyles, the structures of
+their surfaces, and their mechanisms of pathogenesis, so an equally diverse
+set of defensive responses from the host's immune system is required. The
+mammalian immune response to invading organisms proceeds in three
+phases, from immediate innate defenses, to induced innate defenses, and
+finally to adaptive immunity. The first phase of host defense consists of those
+mechanisms that are present and ready to resist an invader at any time.
+Epithelial surfaces provide a physical barrier against pathogen entry, but
+they also have specialized strategies. Mucosal surfaces have a protective bar-
+rier of mucus. Specialized epithelia protect against colonization and against
+viruses and bacteria through specialized cell-surface interactions. Defense
+mechanisms of epithelia include the prevention of pathogen adherence and
+the secretion of antimicrobial enzymes and peptides. Antimicrobial peptides
+are usually made as an inactive proprotein that requires a proteolytic step to
+complete its activation, often by generating a cationic peptide that takes on an
+amphipathic structure capable of disrupting the cell membrane of a microbe.
+Antimicrobial lectins, which recognize glycans specific to many pathogens
+and disrupt microbial cell walls, also require proteolytic cleavage for activity.
+The actions of antimicrobial enzymes and peptides described in this section
+often involve binding to the unique glycan/carbohydrate structures on the
+microbe. Thus, these soluble molecular defenses are both pattern recognition
+receptors and effector molecules at the same time, representing the simplest
+form of innate immunity.
+
+Defensins, cathelicidins, and histatins are
+activated by proteolysis to release an
+amphipathic antimicrobial peptide
+
+a-defensins
+
+cut
+—{Prseaon}* (a)
+
+B-defensins
+
+ut
+
+i
+
+Cathelicidins
+
+cut
+(catein [oY
+
+Reglll ‘lecticidins’
+
+2
+
+Fig. 2.9 Defensins, cathelicidins
+
+and Reglll proteins are activated by
+proteolysis. When a- and B-defensins
+are first synthesized, they contain a signal
+peptide (not shown), a pro-region (blue),
+which is shorter in the B-defensins, and an
+amphipathic domain (AMPH, red); the pro-
+region represses the membrane-inserting
+properties of the amphipathic domain.
+After defensins are released from the
+
+cell, or into phagosomes, they undergo
+cleavage by proteases, which releases the
+amphipathic domain in active form. Newly
+synthesized cathelicidins contain a signal
+peptide, a cathelin domain, a short pro-
+region, and an amphipathic domain; they,
+too, are activated by proteolytic cleavage.
+Reglll contains a C-type lectin domain
+(CTLD), also known as a carbohydrate
+recognition domain (CRD). After release
+of the signal peptide, further proteolytic
+cleavage of Reglll also regulates its
+antimicrobial activity.
+
+
+

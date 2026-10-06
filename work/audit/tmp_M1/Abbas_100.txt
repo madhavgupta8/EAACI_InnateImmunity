@@ -1,0 +1,70 @@
+100            CHAPTER 4 Innate Immunity
+
+
+  I IFNs is the induction of a molecule on the lymphocytes             addition to providing the initial defense against microbes,
+  called CD69, which forms a complex with, and reduces sur-            the innate immune response also sets in motion the adaptive
+  face expression of, the sphingosine 1-phosphate (S1P) recep-         immune response. The activation of lymphocytes requires two
+  tor S1PR1. Recall from Chapter 3 that lymphocyte egress              distinct signals, the first being antigen and the second being
+  from lymphoid tissues depends on S1P binding to S1PR1.               molecules that are produced during innate immune responses
+  Therefore reduced S1PR1 inhibits this egress and keeps lym-          to microbes or injured cells (Fig. 4.20). This idea is called the
+  phocytes in lymphoid organs.                                         two-signal hypothesis for lymphocyte activation. The require-
+• Type I IFNs increase the cytotoxic activity of NK cells and          ment for antigens (so-called signal 1) ensures that the ensuing
+  CD8+ CTLs and promote the differentiation of naive T cells           immune response is specific. The requirement for additional
+  to the Th1 subset of helper T cells. These effects of type I IFNs    stimuli triggered by innate immune reactions to microbes
+  enhance both innate and adaptive immunity against intracel-          (signal 2) ensures that adaptive immune responses are induced
+  lular infections, including viruses and some bacteria.               when there is a dangerous infection and not when lympho-
+• Type I IFNs upregulate the expression of MHC-I molecules             cytes recognize harmless antigens, including self antigens.
+  and thereby increase the probability that virally infected           The molecules produced during innate immune reactions that
+  cells will be recognized and killed by CD8+ CTLs. Virus-             function as second signals for lymphocyte activation include
+  specific CD8+ CTLs recognize peptides derived from viral             costimulators (for T cells), cytokines (for both T and B cells),
+  proteins bound to MHC-I molecules on the surface of                  and complement breakdown products (for B cells). We will
+  infected cells. (We will discuss the details of T-cell recogni-      return to the nature of second signals for lymphocyte activa-
+  tion of peptide-MHC and CTL killing of cells in Chapters             tion in Chapters 9 and 12.
+  6 and 11.) Therefore, by increasing the amount of MHC-I                  The second signals generated during innate immune
+  synthesized by a virally infected cell, type I IFNs increase         responses to different microbes not only enhance the magni-
+  the number of viral peptide–MHC-I complexes on the cell              tude of the subsequent adaptive immune response but also
+  surface that the CTLs can see and respond to. The end result         influence the nature of the adaptive response. A major func-
+  is increased killing of virus-infected cells and eradication of      tion of T cell–mediated immunity is to activate macrophages to
+  viral infections.                                                    kill intracellular microbes and to induce robust inflammatory
+                                                                       responses so that a sufficiently large army of phagocytes is called
+    The important role of type I IFN in combatting viral infec-        into a site of infection. When DCs or phagocytes encounter
+tions has been established by clinical and experimental evidence.      microbes, TLRs and other pattern recognition receptors stimu-
+For example, patients who develop severe COVID-19 disease              late the secretion of cytokines and induce on antigen-presenting
+caused by the SARS-CoV-2 virus often show defects in type
+I IFN. About 10% of severely ill COVID-19 patients produce
+autoantibodies against their own type I IFN (which may predate                            Antigen
+the infection), and another ~4% have inherited mutations that                             receptor                Microbial
+                                                                         Lymphocyte
+diminish type I IFN production or signaling. Knockout mice                                                        antigen
+lacking the receptor for type I IFNs are susceptible to viral infec-
+                                                                               Signal 1                                 Innate immune
+tions. IFN-α is in clinical use as an antiviral agent in certain
+                                                                                                                           response
+forms of viral hepatitis. IFN-α is also used for the treatment of                                                         to microbe
+some tumors, perhaps because it boosts CTL activity or inhibits                Signal 2
+the proliferation of some tumor cells. IFN-β is used as a therapy                                             Molecule induced by
+for multiple sclerosis, but the mechanism of its beneficial effect                                            innate response
+in this disease is not known.                                                                                 (e.g., costimulator,
+    Protection against viruses is due in part to the activation                                               complement fragment)
+of intrinsic apoptotic death pathways in infected cells and
+enhanced sensitivity to extrinsic inducers of apoptosis. Viral
+proteins synthesized in infected cells may be misfolded and                                                    Lymphocyte
+their accumulation triggers an unfolded protein response that                                                  proliferation
+may culminate in apoptosis of the infected cells if the misfolded                                            and differentiation
+protein accumulation cannot be corrected. Abundant TNF is
+made by plasmacytoid DCs and macrophages in response to
+viral infections, in addition to type I IFNs, and virally infected                                          Adaptive
+cells are hypersensitive to TNF-induced apoptosis.                                                       immune response
+                                                                       Fig. 4.20 Stimulation of adaptive immunity by innate immune
+                                                                       responses. Antigen recognition by lymphocytes provides signal 1 for
+STIMULATION OF ADAPTIVE IMMUNITY                                       the activation of the lymphocytes, and molecules induced on host cells
+                                                                       during innate immune responses to microbes provide signal 2. In this
+The innate immune response induces signals that function               illustration the lymphocytes are B cells, but the same principles apply to
+in concert with antigens to stimulate the proliferation and            T lymphocytes. The nature of second signals differs for B and T cells and
+differentiation of antigen-specific T and B lymphocytes. In            is described in later chapters.
+
+
+
+                                                          ERRNVPHGLFRVRUJ
+
+

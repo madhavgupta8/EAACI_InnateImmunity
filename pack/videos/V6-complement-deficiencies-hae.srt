@@ -1,0 +1,539 @@
+1
+00:00:00,000 --> 00:00:02,915
+Complement deficiencies and hereditary
+
+2
+00:00:02,965 --> 00:00:06,659
+angioedema come up in almost every allergy exam.
+
+3
+00:00:06,709 --> 00:00:09,936
+One simple rule explains the deficiencies.
+
+4
+00:00:09,986 --> 00:00:14,149
+Then we look closely at hereditary angioedema, or HAE.
+
+5
+00:00:14,500 --> 00:00:16,327
+Complement has three jobs.
+
+6
+00:00:16,377 --> 00:00:20,515
+It clears immune complexes, it tags bacteria with C3b, and
+
+7
+00:00:20,565 --> 00:00:24,558
+it lyses some bacteria with the membrane attack complex.
+
+8
+00:00:24,608 --> 00:00:28,962
+Lose one job, and the disease tells you which job is missing.
+
+9
+00:00:29,333 --> 00:00:34,613
+Think of it like a factory with three gates: waste disposal, tagging and a shredder.
+
+10
+00:00:34,663 --> 00:00:37,341
+Break waste disposal and the factory clogs.
+
+11
+00:00:37,391 --> 00:00:41,021
+Break only the shredder, and thin-walled packages survive.
+
+12
+00:00:41,400 --> 00:00:44,821
+Start with the early classical pathway.
+
+13
+00:00:44,871 --> 00:00:50,516
+Genetic deficiencies of C1q, C1r, C4, C2 and C3 occur in humans.
+
+14
+00:00:50,566 --> 00:00:55,944
+C2 deficiency is the most common human complement deficiency.
+
+15
+00:00:56,300 --> 00:01:01,546
+More than half of patients with C1q, C2 or C4 deficiency
+
+16
+00:01:01,596 --> 00:01:05,802
+develop systemic lupus erythematosus, or SLE.
+
+17
+00:01:05,852 --> 00:01:09,869
+Some patients with C2 or C4 deficiency have
+
+18
+00:01:09,919 --> 00:01:13,746
+more infections; others have no symptoms.
+
+19
+00:01:14,100 --> 00:01:14,794
+Why lupus?
+
+20
+00:01:14,844 --> 00:01:19,256
+These components clear immune complexes and apoptotic cells.
+
+21
+00:01:19,306 --> 00:01:24,239
+Uncleared complexes deposit in vessel walls and cause inflammation.
+
+22
+00:01:24,289 --> 00:01:30,188
+Uncleared apoptotic bodies are a likely source of the nuclear antigens in lupus.
+
+23
+00:01:30,567 --> 00:01:31,057
+Now C3.
+
+24
+00:01:31,107 --> 00:01:35,537
+C3 deficiency causes frequent, serious pyogenic infections
+
+25
+00:01:35,587 --> 00:01:40,249
+that can be fatal, for example with Streptococcus pneumoniae.
+
+26
+00:01:40,299 --> 00:01:45,424
+This shows the central role of C3 in opsonization and phagocytosis.
+
+27
+00:01:45,800 --> 00:01:48,800
+The lectin pathway gives a milder picture.
+
+28
+00:01:48,850 --> 00:01:53,810
+Janeway says MBL deficiency is relatively common, about 5% of people.
+
+29
+00:01:53,860 --> 00:01:58,022
+It may cause more bacterial infections in early childhood.
+
+30
+00:01:58,400 --> 00:02:00,521
+Next, the alternative pathway.
+
+31
+00:02:00,571 --> 00:02:04,645
+Its defects increase the risk of meningococcal infection.
+
+32
+00:02:04,695 --> 00:02:07,829
+Factor B and factor D deficiencies are rare.
+
+33
+00:02:07,879 --> 00:02:11,809
+X-linked properdin deficiency is more common, and these
+
+34
+00:02:11,859 --> 00:02:16,295
+patients are especially susceptible to Neisseria meningitidis.
+
+35
+00:02:16,667 --> 00:02:21,791
+The terminal components, C5 to C9, build the membrane attack complex.
+
+36
+00:02:21,841 --> 00:02:24,791
+In their deficiency, the only consistent
+
+37
+00:02:24,841 --> 00:02:28,090
+problem is disseminated Neisseria infection.
+
+38
+00:02:28,140 --> 00:02:32,140
+Lysis is important against these thin-walled bacteria.
+
+39
+00:02:32,500 --> 00:02:33,783
+How big is the risk?
+
+40
+00:02:33,833 --> 00:02:38,383
+In a Japanese study, the yearly meningococcal risk was about 1 in 200
+
+41
+00:02:38,433 --> 00:02:42,783
+with a membrane attack deficiency, versus 1 in 2 million normally.
+
+42
+00:02:43,133 --> 00:02:44,264
+Now the brakes.
+
+43
+00:02:44,314 --> 00:02:47,648
+Without factor I, fluid-phase C3 convertase
+
+44
+00:02:47,698 --> 00:02:51,111
+forms without control and uses up plasma C3.
+
+45
+00:02:51,161 --> 00:02:56,620
+The result is a de facto C3 deficiency, with more pyogenic infections.
+
+46
+00:02:57,000 --> 00:03:00,331
+Factor H brakes the alternative pathway only.
+
+47
+00:03:00,381 --> 00:03:06,268
+Its deficiency causes excess activation, C3 consumption and glomerulonephritis.
+
+48
+00:03:06,318 --> 00:03:09,649
+The autoantibody C3 nephritic factor does the
+
+49
+00:03:09,699 --> 00:03:13,181
+same: it protects the convertase from factor H.
+
+50
+00:03:13,533 --> 00:03:17,768
+Defects in factor H, MCP or factor I can cause
+
+51
+00:03:17,818 --> 00:03:22,052
+atypical haemolytic uraemic syndrome, or aHUS.
+
+52
+00:03:22,102 --> 00:03:25,219
+Heterozygous mutations are enough.
+
+53
+00:03:25,269 --> 00:03:32,670
+Children present with haemolytic anaemia, low platelets and acute renal failure.
+
+54
+00:03:33,033 --> 00:03:38,506
+Paroxysmal nocturnal haemoglobinuria, or PNH, is different.
+
+55
+00:03:38,556 --> 00:03:41,407
+CD59 and DAF need a GPI anchor.
+
+56
+00:03:41,457 --> 00:03:44,590
+PIG-A mutations break this anchor.
+
+57
+00:03:44,640 --> 00:03:51,984
+Without CD59, the membrane attack complex forms on the patient's own red cells.
+
+58
+00:03:52,367 --> 00:03:59,089
+The result is intravascular haemolysis, chronic anaemia and venous thrombosis.
+
+59
+00:03:59,139 --> 00:04:03,082
+Exam point: the PNH mutation is not inherited.
+
+60
+00:04:03,132 --> 00:04:07,336
+It is an acquired somatic mutation in stem cells.
+
+61
+00:04:07,386 --> 00:04:11,504
+Abbas notes anti-C5 antibodies for PNH and aHUS.
+
+62
+00:04:11,867 --> 00:04:17,029
+Now the most important brake for allergists: C1 inhibitor.
+
+63
+00:04:17,079 --> 00:04:18,377
+It is a serpin.
+
+64
+00:04:18,427 --> 00:04:22,331
+It is the major inhibitor of C1r, C1s, MASP1
+
+65
+00:04:22,381 --> 00:04:26,376
+and MASP2, plasma kallikrein and factor XIIa.
+
+66
+00:04:26,733 --> 00:04:33,812
+HAE type 1 and 2 is a rare autosomal dominant disease, in about 1 in 50,000 people.
+
+67
+00:04:33,862 --> 00:04:37,419
+More than 450 SERPING1 mutations cause it.
+
+68
+00:04:37,469 --> 00:04:41,370
+In 20 to 25% of patients, the mutation is new.
+
+69
+00:04:41,733 --> 00:04:43,738
+Here is the swelling pathway.
+
+70
+00:04:43,788 --> 00:04:47,705
+Factor XII autoactivates on negatively charged surfaces.
+
+71
+00:04:47,755 --> 00:04:51,672
+Factor XIIa converts prekallikrein to plasma kallikrein.
+
+72
+00:04:51,722 --> 00:04:56,985
+Kallikrein cleaves high-molecular-weight kininogen and releases bradykinin.
+
+73
+00:04:57,367 --> 00:05:01,664
+Bradykinin binds the B2 receptor and makes vessels leaky.
+
+74
+00:05:01,714 --> 00:05:04,333
+ACE quickly breaks bradykinin down.
+
+75
+00:05:04,383 --> 00:05:08,604
+C1 inhibitor normally brakes factor XIIa and kallikrein.
+
+76
+00:05:08,654 --> 00:05:11,121
+Without it, bradykinin builds up.
+
+77
+00:05:11,500 --> 00:05:16,250
+So bradykinin is the primary mediator of swelling in HAE.
+
+78
+00:05:16,300 --> 00:05:19,871
+The missing brake also lets complement run.
+
+79
+00:05:19,921 --> 00:05:23,408
+Excess C4 and C2 are cleaved, so C4 falls.
+
+80
+00:05:23,767 --> 00:05:25,661
+This explains a key clue.
+
+81
+00:05:25,711 --> 00:05:28,850
+Mast cell angioedema is histamine-driven.
+
+82
+00:05:28,900 --> 00:05:33,284
+HAE swelling is bradykinin-driven, so it does not respond
+
+83
+00:05:33,334 --> 00:05:37,173
+to antihistamines, glucocorticoids or epinephrine.
+
+84
+00:05:37,533 --> 00:05:43,862
+Suspect HAE in recurrent angioedema with family history, onset in childhood,
+
+85
+00:05:43,912 --> 00:05:49,569
+painful abdominal attacks, airway swelling, prodromes and no wheals.
+
+86
+00:05:49,619 --> 00:05:52,170
+Median onset is about 12 years.
+
+87
+00:05:52,220 --> 00:05:55,695
+Family history may be absent in up to 25%.
+
+88
+00:05:56,067 --> 00:05:59,242
+Triggers include dental or surgical trauma,
+
+89
+00:05:59,292 --> 00:06:02,842
+oestrogens, stress, fatigue and febrile illness.
+
+90
+00:06:02,892 --> 00:06:07,267
+ACE inhibitors can trigger attacks, so avoid them strictly.
+
+91
+00:06:07,633 --> 00:06:09,150
+Now the lab work-up.
+
+92
+00:06:09,200 --> 00:06:15,730
+Test every suspected patient for C1 inhibitor function, C1 inhibitor protein and C4.
+
+93
+00:06:15,780 --> 00:06:17,454
+Repeat any low result.
+
+94
+00:06:17,504 --> 00:06:21,527
+C3 and CH50 are usually normal, so they do not help.
+
+95
+00:06:21,900 --> 00:06:23,298
+Read the pattern.
+
+96
+00:06:23,348 --> 00:06:28,920
+HAE type 1 is about 85% of patients: low protein and low function.
+
+97
+00:06:28,970 --> 00:06:33,690
+HAE type 2 has normal or high protein, but low function.
+
+98
+00:06:33,740 --> 00:06:36,757
+C4 is usually low, but not specific.
+
+99
+00:06:37,133 --> 00:06:44,426
+Acquired C1 inhibitor deficiency has the same basic profile, but C1q is low in 75%.
+
+100
+00:06:44,476 --> 00:06:50,352
+Think of it with new angioedema after age 40 and no family history.
+
+101
+00:06:50,402 --> 00:06:52,652
+Look for lymphoma or MGUS.
+
+102
+00:06:53,033 --> 00:06:59,029
+HAE with normal C1 inhibitor is very rare and looks like type 1 and 2.
+
+103
+00:06:59,079 --> 00:07:05,420
+Some patients have a factor XII mutation, but most have no known mutation.
+
+104
+00:07:05,470 --> 00:07:10,084
+ACE inhibitor angioedema also has normal C1 inhibitor.
+
+105
+00:07:10,467 --> 00:07:12,958
+Now treatment, with a warning.
+
+106
+00:07:13,008 --> 00:07:20,073
+Everything here follows the 2017 WAO and EAACI guideline, for HAE type 1 and 2 only.
+
+107
+00:07:20,123 --> 00:07:26,427
+Drugs and licences change, so check the current guideline before your exam.
+
+108
+00:07:26,800 --> 00:07:30,554
+Per the 2017 guideline, treat attacks as early
+
+109
+00:07:30,604 --> 00:07:34,275
+as possible, and always treat airway attacks.
+
+110
+00:07:34,325 --> 00:07:37,830
+Use C1 inhibitor, ecallantide or icatibant.
+
+111
+00:07:37,880 --> 00:07:42,047
+If none is available, use solvent detergent-treated
+
+112
+00:07:42,097 --> 00:07:44,776
+plasma, then fresh frozen plasma.
+
+113
+00:07:45,133 --> 00:07:48,313
+Each drug hits the cascade at a different point.
+
+114
+00:07:48,363 --> 00:07:51,945
+C1 inhibitor concentrate replaces the missing protein.
+
+115
+00:07:51,995 --> 00:07:54,569
+Ecallantide inhibits plasma kallikrein.
+
+116
+00:07:54,619 --> 00:07:57,529
+Icatibant blocks the bradykinin B2 receptor.
+
+117
+00:07:57,900 --> 00:08:01,343
+Tranexamic acid and androgens do not work for attacks.
+
+118
+00:08:01,393 --> 00:08:05,095
+In progressive airway swelling, consider intubation early.
+
+119
+00:08:05,145 --> 00:08:08,264
+Every patient carries medication for two attacks.
+
+120
+00:08:08,633 --> 00:08:14,198
+For prevention, the 2017 guideline gives C1 inhibitor before procedures.
+
+121
+00:08:14,248 --> 00:08:20,748
+For long-term prophylaxis, C1 inhibitor is first line and androgens are second line.
+
+122
+00:08:20,798 --> 00:08:23,711
+Antifibrinolytics are not recommended.
+
+123
+00:08:24,067 --> 00:08:27,715
+In children under 12, use C1 inhibitor for attacks,
+
+124
+00:08:27,765 --> 00:08:30,978
+and avoid androgens before Tanner stage five.
+
+125
+00:08:31,028 --> 00:08:36,416
+In pregnancy, C1 inhibitor is preferred, and androgens are contraindicated.
+
+126
+00:08:36,767 --> 00:08:38,981
+Five things to remember.
+
+127
+00:08:39,031 --> 00:08:44,076
+One: early classical defects cause lupus-like disease.
+
+128
+00:08:44,126 --> 00:08:48,983
+Two: C3 or factor I loss causes pyogenic infections.
+
+129
+00:08:49,033 --> 00:08:54,927
+Three: C5 to C9 and properdin loss causes Neisseria infections.
+
+130
+00:08:54,977 --> 00:08:58,607
+Four: HAE is bradykinin, not histamine.
+
+131
+00:08:58,657 --> 00:09:03,231
+Five: test C1 inhibitor function, protein and C4.
+
+132
+00:09:03,600 --> 00:09:04,916
+And one exam trap.
+
+133
+00:09:04,966 --> 00:09:10,681
+Normal C1 inhibitor level and function do not exclude hereditary angioedema.
+
+134
+00:09:10,731 --> 00:09:15,309
+With a family history, think of HAE with normal C1 inhibitor.
+
+135
+00:09:15,359 --> 00:09:17,888
+Next: the ten-minute rapid review.

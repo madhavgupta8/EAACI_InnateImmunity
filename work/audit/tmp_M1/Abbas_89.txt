@@ -1,0 +1,65 @@
+                                                                                                    CHAPTER 4 Innate Immunity               89
+
+
+   SP-D–deficient mice have impaired abilities to resist a variety of          molecules, we can consider how these various components
+   pulmonary infections.                                                       work to protect against pathogens. The three major mechanisms
+                                                                               by which the innate immune system protects against infections
+    Ficolins are plasma proteins that are structurally similar to              are by inducing inflammation, inducing antiviral defense, and
+collectins. They possess a collagen-like domain, but instead of a              stimulating adaptive immunity.
+C-type lectin domain, they have a fibrinogen-type carbohydrate
+recognition domain (see Fig. 4.13). Ficolins have been shown to
+bind several species of bacteria, opsonizing them and activating
+                                                                               THE INFLAMMATORY RESPONSE
+complement in a manner similar to that of MBL. The ligands                     The principal way by which the innate immune system deals
+of the ficolins include N-acetylglucosamine and the lipoteichoic               with infections and tissue injury is to stimulate acute inflam-
+acid component of the cell walls of gram-positive bacteria.                    mation, which is the accumulation of leukocytes, plasma
+                                                                               proteins, and fluid derived from the blood at an extravas-
+   Now that we have discussed the properties and various                       cular tissue site of infection or injury (Fig. 4.14). Leukocytes
+components of the innate immune system, including the cells,                   and plasma proteins that are critical for innate defense
+cellular pathogen recognition receptors, and soluble effector                  against microbes normally circulate in the blood and must be
+
+
+                   1 Injury, barrier break,
+                      microbe entry
+
+
+
+
+         2 Microbes/injury                                                                                      7 Phagocytosis and
+            activate sentinel cells                                                                                 killing of microbes
+
+
+
+                                  3 Sentinel cells secrete
+                                      inflammatory mediators
+
+
+
+     4 Vasodilation and                                                                                     6 Adhesion molecules
+                                                                                                                and chemokines cause
+         increased vascular
+         permeability; fluid and                              5 Complement, antibodies,                         leukocyte migration
+                                                                  and antimicrobial proteins                    into tissue
+         proteins enter tissues
+                                                                  kill microbes
+
+
+
+                Blood vessel
+
+
+
+                  Fig. 4.14 Acute inflammatory response. Acute inflammatory responses begin when microbes transgress
+                  epithelial barriers or when tissue is injured (1), and then pathogen-associated molecular patterns and damage-
+                  associated molecular patterns activate sentinel cells, such as macrophages, dendritic cells, mast cells (2), to
+                  secrete cytokines and other mediators (3). Some of these mediators (e.g., histamine, prostaglandins) increase
+                  the permeability of capillaries (4), leading to the entry of plasma proteins (e.g., complement proteins) into the tis-
+                  sues (5), and others (interleukin-1, tumor necrosis factor) increase expression of endothelial adhesion molecules
+                  and chemokines that promote the movement of leukocytes from the postcapillary venules into the tissues (6),
+                  where the leukocytes destroy microbes, clear damaged cells (7), and promote more inflammation and repair.
+
+
+
+                                                             ERRNVPHGLFRVRUJ
+
+

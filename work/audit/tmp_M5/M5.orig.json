@@ -1,0 +1,359 @@
+[
+  {
+    "id": "M5-A1",
+    "module": "M5",
+    "type": "A",
+    "stem": "A 19-year-old male student has his second episode of meningococcal meningitis in two years. He has had no other serious infections. Complement C3 and C4 levels are normal. A defect in which complement function best explains this pattern?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Opsonization of bacteria by C3b and iC3b",
+        "correct": false,
+        "explanation": "Loss of C3b opsonization causes infections with a wide range of bacteria, not Neisseria alone; C3b/iC3b opsonize via CR1, CR3 and CR4.",
+        "source": "Abbas p.313"
+      },
+      {
+        "key": "B",
+        "text": "Mast cell activation by the anaphylatoxins C3a and C5a",
+        "correct": false,
+        "explanation": "Anaphylatoxins drive inflammation and mast cell degranulation; their loss does not explain selective Neisseria susceptibility.",
+        "source": "Abbas p.313"
+      },
+      {
+        "key": "C",
+        "text": "Osmotic lysis by the membrane attack complex (C5b-9)",
+        "correct": true,
+        "explanation": "MAC lysis is critical only against a few thin-walled pathogens such as Neisseria, and C5-C9 deficiency is linked to Neisseria infections only.",
+        "source": "Abbas p.314; Janeway p.66; Abbas p.307"
+      },
+      {
+        "key": "D",
+        "text": "Transport of immune complexes by CR1 on erythrocytes",
+        "correct": false,
+        "explanation": "CR1 on erythrocytes carries C3b/C4b-coated immune complexes to liver and spleen; this does not explain recurrent Neisseria.",
+        "source": "Abbas p.307"
+      },
+      {
+        "key": "E",
+        "text": "B-cell co-stimulation by C3d binding to CR2 (CD21)",
+        "correct": false,
+        "explanation": "C3d-CR2 enhances B-cell activation; it is not the key defense against Neisseria.",
+        "source": "Abbas p.314; Abbas p.308"
+      }
+    ],
+    "fact_ids": [
+      "M5-F045",
+      "M5-F046",
+      "M5-F047",
+      "M5-F048",
+      "M5-F052",
+      "M5-F061",
+      "M5-F062",
+      "M5-F064"
+    ]
+  },
+  {
+    "id": "M5-A2",
+    "module": "M5",
+    "type": "A",
+    "stem": "A 45-year-old woman develops flushing, hypotension and wheeze during massive complement activation. Specific IgE to all tested triggers is negative. Which complement fragment is the most potent direct inducer of mast cell degranulation in this setting?",
+    "options": [
+      {
+        "key": "A",
+        "text": "C3b",
+        "correct": false,
+        "explanation": "C3b is the large opsonin fragment that binds covalently to surfaces; it is not an anaphylatoxin.",
+        "source": "Abbas p.301; Abbas p.313"
+      },
+      {
+        "key": "B",
+        "text": "C4a",
+        "correct": false,
+        "explanation": "C4a is an anaphylatoxin, but it is about 2500-fold less potent than C5a.",
+        "source": "Abbas p.314"
+      },
+      {
+        "key": "C",
+        "text": "C3a",
+        "correct": false,
+        "explanation": "C3a degranulates mast cells, but it is about 20-fold less potent than C5a.",
+        "source": "Abbas p.314; Abbas p.470"
+      },
+      {
+        "key": "D",
+        "text": "C5b-9",
+        "correct": false,
+        "explanation": "C5b-9 is the MAC pore that lyses cells; it is not the anaphylatoxin that degranulates mast cells.",
+        "source": "Abbas p.307"
+      },
+      {
+        "key": "E",
+        "text": "C5a",
+        "correct": true,
+        "explanation": "C5a is the most potent mediator of mast cell degranulation, and C3a/C5a degranulate mast cells without IgE. Large systemic amounts cause a shock-like syndrome resembling systemic allergy.",
+        "source": "Abbas p.314; Abbas p.470; Janeway p.64"
+      }
+    ],
+    "fact_ids": [
+      "M5-F010",
+      "M5-F043",
+      "M5-F048",
+      "M5-F054",
+      "M5-F056",
+      "M5-F057"
+    ]
+  },
+  {
+    "id": "M5-A3",
+    "module": "M5",
+    "type": "A",
+    "stem": "A 32-year-old man has episodes of intravascular hemolysis. Flow cytometry shows that his erythrocytes lack GPI-anchored membrane proteins. Which pair of complement-control functions is missing on his red cells?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dissociation of C3 convertases (DAF) and blocking of C9 binding to C5b-8 (CD59)",
+        "correct": true,
+        "explanation": "DAF and CD59 are GPI-linked; DAF dissociates both C3 convertases and CD59 blocks C9 addition to C5b-8. Loss of GPI anchors removes both (PNH).",
+        "source": "Abbas p.310; Abbas p.312; Abbas p.311"
+      },
+      {
+        "key": "B",
+        "text": "Dissociation of C1r2s2 from C1q (C1-INH) and inhibition of MASP2",
+        "correct": false,
+        "explanation": "C1-INH is a plasma serpin, not a GPI-anchored membrane protein.",
+        "source": "Abbas p.311"
+      },
+      {
+        "key": "C",
+        "text": "Displacement of C2 from C4b in plasma (C4BP) and factor I cofactor activity",
+        "correct": false,
+        "explanation": "C4BP is a plasma regulator, so GPI-anchor loss does not affect it.",
+        "source": "Abbas p.310"
+      },
+      {
+        "key": "D",
+        "text": "Binding of S protein (vitronectin) to soluble C5b-7 complexes",
+        "correct": false,
+        "explanation": "S protein is a plasma protein that binds soluble C5b-7; it is not membrane-anchored.",
+        "source": "Abbas p.312; Janeway p.70"
+      },
+      {
+        "key": "E",
+        "text": "Factor H binding to sialic acid and displacement of Bb from C3b",
+        "correct": false,
+        "explanation": "Factor H is a plasma regulator; it does not depend on a GPI anchor.",
+        "source": "Abbas p.310; Abbas p.311"
+      }
+    ],
+    "fact_ids": [
+      "M5-F068",
+      "M5-F069",
+      "M5-F073",
+      "M5-F075",
+      "M5-F076",
+      "M5-F081",
+      "M5-F083",
+      "M5-F085",
+      "M5-F086",
+      "M5-F087"
+    ]
+  },
+  {
+    "id": "M5-A4",
+    "module": "M5",
+    "type": "A",
+    "stem": "A 4-year-old child has microangiopathic hemolytic anemia, thrombocytopenia and acute kidney injury. Genetic testing shows a heterozygous mutation in the factor H gene. Which normal function of factor H is most likely reduced?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Direct proteolytic cleavage of C3b into iC3b without any cofactor",
+        "correct": false,
+        "explanation": "Factor I, not factor H, is the protease; factor H is one of its cofactors.",
+        "source": "Abbas p.310; Janeway p.68"
+      },
+      {
+        "key": "B",
+        "text": "Inhibition of C1r, C1s and MASP2 by covalent binding",
+        "correct": false,
+        "explanation": "This is the function of C1-INH, a serpin.",
+        "source": "Abbas p.311"
+      },
+      {
+        "key": "C",
+        "text": "Blocking of C9 polymerization on the C5b-8 complex",
+        "correct": false,
+        "explanation": "This is the function of CD59 (protectin).",
+        "source": "Abbas p.312; Janeway p.70"
+      },
+      {
+        "key": "D",
+        "text": "Binding of C3b on host cells to displace Bb and to act as factor I cofactor",
+        "correct": true,
+        "explanation": "Factor H binds C3b, displaces Bb and is a cofactor for factor I. It is the gene most often mutated in complement-mediated hemolytic-uremic syndrome.",
+        "source": "Abbas p.310; Abbas p.315; Abbas p.311"
+      },
+      {
+        "key": "E",
+        "text": "Stabilization of the C3bBb convertase on microbial surfaces",
+        "correct": false,
+        "explanation": "Properdin stabilizes C3bBb; factor H does the opposite.",
+        "source": "Abbas p.302"
+      }
+    ],
+    "fact_ids": [
+      "M5-F035",
+      "M5-F068",
+      "M5-F069",
+      "M5-F073",
+      "M5-F075",
+      "M5-F077",
+      "M5-F078",
+      "M5-F083",
+      "M5-F084",
+      "M5-F089"
+    ]
+  },
+  {
+    "id": "M5-A5",
+    "module": "M5",
+    "type": "A",
+    "stem": "A 6-year-old boy has lobar pneumonia caused by Streptococcus pneumoniae. His serum C-reactive protein (CRP) is very high. CRP bound to the pneumococcal surface activates complement by binding which molecule?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mannose-binding lectin (MBL)",
+        "correct": false,
+        "explanation": "MBL is itself a recognition molecule of the lectin pathway; it binds mannose residues, not CRP.",
+        "source": "Abbas p.306"
+      },
+      {
+        "key": "B",
+        "text": "C1q",
+        "correct": true,
+        "explanation": "C1q binds pentraxins such as CRP and serum amyloid P, so CRP activates the classical pathway.",
+        "source": "Abbas p.305"
+      },
+      {
+        "key": "C",
+        "text": "Factor B",
+        "correct": false,
+        "explanation": "Factor B binds surface C3b in the alternative pathway; it does not bind CRP.",
+        "source": "Abbas p.301"
+      },
+      {
+        "key": "D",
+        "text": "Properdin",
+        "correct": false,
+        "explanation": "Properdin stabilizes the alternative pathway convertase C3bBb.",
+        "source": "Abbas p.302"
+      },
+      {
+        "key": "E",
+        "text": "L-ficolin",
+        "correct": false,
+        "explanation": "Ficolins are lectin-pathway sensors that bind N-acetylglucosamine-containing glycans.",
+        "source": "Abbas p.306"
+      }
+    ],
+    "fact_ids": [
+      "M5-F016",
+      "M5-F019",
+      "M5-F025",
+      "M5-F026",
+      "M5-F027",
+      "M5-F032",
+      "M5-F035"
+    ]
+  },
+  {
+    "id": "M5-K1",
+    "module": "M5",
+    "type": "KPRIM",
+    "stem": "Complement convertases. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The classical and lectin pathways form the same C3 convertase, C4b2a.",
+        "correct": true,
+        "explanation": "C4b2a is the classical C3 convertase, and the lectin pathway forms the same C4b2a.",
+        "source": "Abbas p.305; Janeway p.54"
+      },
+      {
+        "key": "B",
+        "text": "Factor D circulates as an inactive zymogen and is activated by C3b.",
+        "correct": false,
+        "explanation": "Factor D is the only activating complement protease that circulates as an active enzyme, not a zymogen.",
+        "source": "Janeway p.61"
+      },
+      {
+        "key": "C",
+        "text": "The alternative pathway C5 convertase contains one Bb and two C3b molecules.",
+        "correct": true,
+        "explanation": "Abbas describes the alternative C5 convertase as one Bb with two C3b; Janeway writes C3b2Bb.",
+        "source": "Abbas p.303; Janeway p.62"
+      },
+      {
+        "key": "D",
+        "text": "C5b binds covalently to the target membrane through a thioester bond.",
+        "correct": false,
+        "explanation": "Unlike C3b and C4b, C5b does not bind covalently to the cell surface.",
+        "source": "Janeway p.62"
+      }
+    ],
+    "fact_ids": [
+      "M5-F022",
+      "M5-F029",
+      "M5-F034",
+      "M5-F036",
+      "M5-F037",
+      "M5-F039"
+    ]
+  },
+  {
+    "id": "M5-K2",
+    "module": "M5",
+    "type": "KPRIM",
+    "stem": "Complement receptors and regulators. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "C1-INH inhibits C1r, C1s and MASP2, and it also inhibits kallikrein and factor XII.",
+        "correct": true,
+        "explanation": "C1-INH is a serpin that inactivates C1r/C1s and MASP2, and also kallikrein and coagulation factor XII.",
+        "source": "Abbas p.311"
+      },
+      {
+        "key": "B",
+        "text": "CR2 (CD21) on B cells binds C3d and forms a co-receptor complex with CD19 and CD81.",
+        "correct": true,
+        "explanation": "CR2 binds C3d, C3dg and iC3b; on B cells it forms a complex with CD19 and CD81, and C3d-CR2 facilitates B-cell activation.",
+        "source": "Abbas p.308; Abbas p.314"
+      },
+      {
+        "key": "C",
+        "text": "CD59 protects host cells by dissociating the C3 convertase C3bBb.",
+        "correct": false,
+        "explanation": "CD59 blocks C9 addition to C5b-8; DAF dissociates the C3 convertases.",
+        "source": "Abbas p.312; Abbas p.310"
+      },
+      {
+        "key": "D",
+        "text": "Factor H regulates both pathways because it displaces C2a from C4b2a.",
+        "correct": false,
+        "explanation": "Factor H blocks only Bb binding to C3b, so it regulates the alternative but not the classical pathway; C4BP and DAF displace C2/C2a.",
+        "source": "Abbas p.311; Abbas p.310"
+      }
+    ],
+    "fact_ids": [
+      "M5-F062",
+      "M5-F064",
+      "M5-F068",
+      "M5-F069",
+      "M5-F070",
+      "M5-F074",
+      "M5-F076",
+      "M5-F081",
+      "M5-F083"
+    ]
+  }
+]

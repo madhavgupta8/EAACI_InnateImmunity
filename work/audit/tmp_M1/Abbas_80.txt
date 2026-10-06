@@ -1,0 +1,65 @@
+80             CHAPTER 4 Innate Immunity
+
+
+an individual to infections. Furthermore, infection of the bar-          and proteolytic cleavage may be stimulated by inflamma-
+rier epithelial cells themselves is a frequent initial event in          tory cytokines and microbial products. The active catheli-
+the breakdown of barrier integrity and subsequent dissemi-               cidins protect against infections by multiple mechanisms,
+nated infections as well as other inflammatory disorders. We             including direct toxicity to a broad range of microorganisms
+will summarize the main features of innate defense by epithe-            and the activation of various responses in leukocytes and
+lial barriers here and discuss epithelial barrier immunity in            other cell types that promote eradication of microbes. The
+greater detail in Chapter 14.                                            C-terminal fragment, called LL-37, can bind and neutralize
+    The protective function of barrier epithelia is in large part        LPS, the toxic component of the outer wall of gram-negative
+physical. The epithelial cells form tight junctions with one             bacteria that is recognized by TLR4. LL-37 also binds other
+another, blocking the passage of microbes between the cells.             negatively charged macromolecules, including DNA, and in
+In the skin, the outer layer of keratin, which accumulates as            DNA-bound form can activate plasmacytoid dendritic cells
+keratinocytes on the surface die, serves to block microbial              to secrete type I IFNs. LL-37 may also be an autoantigen in
+penetration into deeper layers of the epidermis, and cutane-             human autoimmune diseases such as psoriasis.
+ous infections generally occur when there is a barrier breach.
+Mucus, a viscous secretion containing glycoproteins called                Barrier epithelia contain certain types of lymphocytes,
+mucins, is produced by respiratory, gastrointestinal, and uro-        including intraepithelial T lymphocytes, which recognize and
+genital epithelial cells and physically impairs microbial inva-       respond to commonly encountered microbes. Intraepithelial
+sion. The function of these barriers is enhanced by cell surface      T lymphocytes are present in the epidermis of the skin and in
+ciliary action in the bronchial tree and by peristalsis in the        mucosal epithelia. Various subsets of intraepithelial lympho-
+gut, which facilitate elimination of microbes. Although these         cytes are present in different proportions, depending on species
+physical properties alone are very important in host defense,         and tissue location. These subsets are distinguished mainly by
+other epithelial defense mechanisms have evolved to comple-           the type of antigen receptors they express. Some intraepithelial
+ment the mechanical barrier.                                          T lymphocytes express the conventional αβ form of the T-cell
+    Epithelial cells, as well as some leukocytes, produce             receptor (TCR), which is present on most T cells in lymphoid
+peptides that have antimicrobial properties. Two structur-            tissues and in the circulation. Other T cells in epithelia express a
+ally distinct families of antimicrobial peptides (sometimes           form of antigen receptor called the γδ TCR that may recognize
+called host defense peptides) are the defensins and the               peptide and nonpeptide antigens. A characteristic of intraepi-
+cathelicidins.                                                        thelial T cells is the limited diversity of their antigen receptors,
+• Defensins are peptides, 29 to 34 amino acids long, that con-        compared with T cells in blood and lymphoid tissues of the
+    tain both cationic and hydrophobic regions and three intra-       adaptive immune system. These intraepithelial T lymphocytes
+    chain disulfide bonds. Two families of human defensins,           are thought to recognize a small number of commonly encoun-
+    named α and β, are distinguished by the location of these         tered microbial structures, a typical feature of innate pattern
+    bonds. Defensins are produced by epithelial cells of muco-        recognition receptors we have described. It is also possible that
+    sal surfaces and by granule-containing leukocytes, including      these lymphocytes are activated not by antigen recognition but
+    neutrophils, NK cells, and cytotoxic T lymphocytes (CTLs).        by cytokines and other molecules produced by epithelial cells in
+    The set of defensin molecules produced differs among dif-         response to stress. Intraepithelial lymphocytes may function in
+    ferent cell types. Paneth cells within the crypts of the small    host defense by secreting cytokines, activating phagocytes, and
+    bowel are a major producer of α-defensins. Paneth cell            killing infected cells.
+    defensins are sometimes called crypticidins; their function is
+    to limit the amount of luminal microbes near the epithelial       Phagocytes
+    barrier. Defensins are also produced in the colon, in respira-    Cells that have specialized phagocytic functions, primarily mac-
+    tory mucosal cells, and in the skin. Some defensins are con-      rophages and neutrophils, eliminate microbes that breach epi-
+    stitutively produced by some cell types, but their secretion      thelial barriers. We introduced these cell types in Chapter 2, and
+    may be enhanced by cytokines and microbial products. In           we will discuss many other details of their functions in the con-
+    other cells, defensins are produced only in response to cyto-     text of the inflammatory response later in this chapter. The essen-
+    kines and microbial products. The protective actions of the       tial role that phagocytes play in innate immune defense against
+    defensins include both direct toxicity to microbes, including     microbes is demonstrated by the high rate of bacterial and fungal
+    bacteria, fungi, and enveloped viruses, and the activation        infections in patients with low blood neutrophil counts caused
+    of cells involved in the inflammatory response to microbes.       by bone marrow cancers or chemotherapy and irradiation for
+    Defensins kill microbes by a variety of mechanisms, many of       cancer (which destroys immature cells in the bone marrow) and
+    which depend on their ability to insert into and disrupt func-    in patients with inherited deficiencies in the functions of neu-
+    tions of microbial membranes.                                     trophils and macrophages. Neutrophils and monocytes are cir-
+• Cathelicidin, produced by neutrophils and barrier epithe-           culating phagocytes that are recruited into tissues in response to
+    lial cells in the skin, gastrointestinal tract, and respiratory   signals generated by innate sentinel cells. The monocytes rapidly
+    tract, is synthesized as an 18-kD precursor protein that is       differentiate into macrophages after leaving the blood. Tissue-
+    secreted and then proteolytically cleaved into two peptides,      resident macrophages are always present in most tissues under
+    each with protective functions. Both precursor synthesis          normal conditions and also serve as sentinel cells.
+
+
+                                                         ERRNVPHGLFRVRUJ
+
+

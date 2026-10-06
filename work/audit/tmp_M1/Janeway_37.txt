@@ -1,0 +1,84 @@
+Innate Immunity:
+The First Lines of Defense
+
+Microorganisms that are encountered daily in the life of a healthy individual
+cause disease only occasionally. Most are detected and destroyed within min-
+utes or hours by defense mechanisms that do not rely on the clonal expansion
+of antigen-specific lymphocytes (see Section 1-9). These are the mechanisms
+of innate immunity. To recognize pathogens, both the innate and adaptive
+immune systems can distinguish between self and nonself, but they differ in
+how they do this. Innate immunity relies on a limited number of receptors
+and secreted proteins that are encoded in the germline and that recognize
+features common to many pathogens (see Section 1-8). In contrast, adaptive
+immunity uses a process of somatic cell gene rearrangement to generate an
+enormous repertoire of antigen receptors that are capable of fine distinctions
+between closely related molecules (Section 1-12). Nonetheless, the innate
+immune system discriminates very effectively between host cells and path-
+ogens, providing initial defenses and also contributing to the induction of
+adaptive immune responses. The importance of innate immunity is shown
+by the fact that defects in its components, which are very rare, can lead to
+increased susceptibility to infection, even in the presence of an intact adap-
+tive immune system.
+
+The response to an encounter with a new pathogen occurs in three phases,
+summarized in Fig. 2.1. When a pathogen succeeds in breaching one of the
+host's anatomic barriers, some innate immune mechanisms start acting
+immediately. These first defenses include several classes of preformed solu-
+ble molecules present in blood, extracellular fluid, and epithelial secretions
+that can either kill the pathogen or weaken its effect. Antimicrobial enzymes
+such as lysozyme begin to digest bacterial cell walls; antimicrobial peptides
+such as the defensins lyse bacterial cell membranes directly; and a system of
+plasma proteins known as the complement system targets pathogens both
+for lysis and for phagocytosis by cells of the innate immune system such as
+macrophages. In the second phase of the response, these innate immune
+cells sense the presence of a pathogen by recognizing molecules typical of a
+microbe and not shared by host cells—pathogen-associated molecular pat-
+terns (PAMPs)—and become activated, setting in train several different effec-
+tor mechanisms to eliminate the infection. By themselves, neither the soluble
+nor the cellular components of innate immunity generate long-term protec-
+tive immunological memory. Only if an infectious organism breaches these
+first two lines of defense will mechanisms be engaged to induce an adaptive
+immune response—the third phase of the response to a pathogen. This leads
+
+37
+
+Fig. 2.1 The response to an initial
+infection occurs in three phases. These
+are the innate phase, the early induced
+innate response, and the adaptive
+immune response. The first two phases
+rely on the recognition of pathogens
+
+by germline-encoded receptors of the
+innate immune system, whereas adaptive
+immunity uses variable antigen-specific
+receptors that are produced as a result of
+gene segment rearrangements. Adaptive
+immunity occurs late, because the
+
+rare B cells and T cells specific for the
+invading pathogen must first undergo
+clonal expansion before they differentiate
+into effector cells that migrate to the site
+of infection and clear the infection. The
+effector mechanisms that remove the
+infectious agent are similar or identical
+
+in each phase.
+
+Innate immunity Infection eee ieigtesh _ Removal of
+(immediate: 0-4 hours) broadly specific effectors infectious agent
+Early induced Recruitment Recognition of PAMPS. Ravel afi
+
+innate response Infection of effector Activation of effector meenatelanent
+
+(early: 4-96 hours) cells cells and inflammation 9
+
+Adaptive immune Transport of Recognition Clonal expansion Renewal af
+
+response Infection antigen to by naive and differentiation raeciatetanent
+
+(late: >96 hours) lymphoid organs B and T cells to effector cells 9
+
+
+

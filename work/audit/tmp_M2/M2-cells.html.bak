@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M2 Cellular components — Innate Immunity</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="../index.html">Home</a>
+  <a href="M1-foundation.html">M1 Foundation</a>
+  <a href="M2-cells.html" class="current">M2 Cells</a>
+  <a href="M3-prrs.html">M3 PRRs</a>
+  <a href="M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="M5-complement.html">M5 Complement</a>
+  <a href="M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="M7-summary.html">M7 Summary</a>
+  <a href="../quiz/quiz.html">Quiz</a>
+</nav></header>
+<main>
+<h1>M2 · Cellular components of innate immunity</h1>
+<p class="subtitle">Innate immunity lecture pack · EAACI/UEMS Knowledge Exam preparation</p>
+<section class="objectives"><h2>After this module you can</h2><ul>
+  <li>Place each innate cell on the myeloid or lymphoid branch of haematopoiesis and name its key growth factor.</li>
+  <li>Compare neutrophils and macrophages, and describe classical (M1) and alternative (M2) macrophage activation.</li>
+  <li>Distinguish conventional and plasmacytoid dendritic cells and explain how dendritic cells link innate and adaptive immunity.</li>
+  <li>Explain "missing self" and the balance of activating and inhibitory receptors on natural killer (NK) cells.</li>
+  <li>Compare mast cells, basophils and eosinophils (receptors, granules, mediators, disease relevance in allergy).</li>
+  <li>Match ILC1, ILC2 and ILC3 to their transcription factors, cytokines and functions, and describe the role of ILC2s in allergy.</li>
+</ul></section>
+
+<dl class="abbr">
+  <dt>ADCC</dt><dd>antibody-dependent cell-mediated cytotoxicity</dd>
+  <dt>CGD</dt><dd>chronic granulomatous disease</dd>
+  <dt>cDC / pDC</dt><dd>conventional / plasmacytoid dendritic cell</dd>
+  <dt>CTL</dt><dd>cytotoxic T lymphocyte</dd>
+  <dt>DC</dt><dd>dendritic cell</dd>
+  <dt>ECP</dt><dd>eosinophil cationic protein</dd>
+  <dt>FcεRI</dt><dd>high-affinity Fc receptor for IgE (Fcε receptor type I)</dd>
+  <dt>FLT3L</dt><dd>FLT3 ligand</dd>
+  <dt>G-CSF / GM-CSF / M-CSF</dt><dd>granulocyte / granulocyte-macrophage / monocyte colony-stimulating factor</dd>
+  <dt>HSC</dt><dd>haematopoietic stem cell</dd>
+  <dt>IFN</dt><dd>interferon</dd>
+  <dt>ILC</dt><dd>innate lymphoid cell</dd>
+  <dt>ITAM / ITIM</dt><dd>immunoreceptor tyrosine-based activation / inhibition motif</dd>
+  <dt>KIR</dt><dd>killer cell immunoglobulin-like receptor</dd>
+  <dt>LAD</dt><dd>leukocyte adhesion deficiency</dd>
+  <dt>MAIT</dt><dd>mucosa-associated invariant T cell</dd>
+  <dt>MBP</dt><dd>major basic protein</dd>
+  <dt>MHC-I</dt><dd>major histocompatibility complex class I</dd>
+  <dt>MPO</dt><dd>myeloperoxidase</dd>
+  <dt>NCR</dt><dd>natural cytotoxicity receptor</dd>
+  <dt>NET</dt><dd>neutrophil extracellular trap</dd>
+  <dt>NK</dt><dd>natural killer (cell)</dd>
+  <dt>iNKT</dt><dd>invariant natural killer T cell</dd>
+  <dt>PAF</dt><dd>platelet-activating factor</dd>
+  <dt>PAMP</dt><dd>pathogen-associated molecular pattern</dd>
+  <dt>PGD2 / LTC4</dt><dd>prostaglandin D2 / leukotriene C4</dd>
+  <dt>PMN</dt><dd>polymorphonuclear leukocyte</dd>
+  <dt>SCF</dt><dd>stem cell factor (c-KIT ligand)</dd>
+  <dt>SM</dt><dd>systemic mastocytosis</dd>
+  <dt>TLR</dt><dd>Toll-like receptor</dd>
+  <dt>TSLP</dt><dd>thymic stromal lymphopoietin</dd>
+</dl>
+
+<h2 id="origin">1. Where innate cells come from</h2>
+<p>All blood cells come from one haematopoietic stem cell (HSC) in the bone marrow. This includes granulocytes, monocytes, dendritic cells (DCs), mast cells, lymphocytes and innate lymphoid cells (ILCs). <span class="src" title="M2-F001">Abbas p.30</span> HSCs express CD34 and c-KIT and do not express lineage markers. <span class="src" title="M2-F002">Abbas p.30</span></p>
+<p>Two branches follow:</p>
+<ul>
+  <li><b>Myeloid branch.</b> Common myeloid-megakaryocyte-erythroid progenitors make the granulocytes (neutrophils, eosinophils, basophils) and monocytes. <span class="src" title="M2-F003">Abbas p.32</span> Most DCs come from a precursor that also makes monocytes. <span class="src" title="M2-F004">Abbas p.32</span> Mast cell progenitors come from a granulocyte/monocyte precursor, leave the marrow, and mature in the tissues. <span class="src" title="M2-F005">Abbas p.32</span> Basophils mature in the marrow from progenitors that are different from mast cell progenitors. <span class="src" title="M2-F010">Abbas p.20</span></li>
+  <li><b>Lymphoid branch.</b> The common lymphoid progenitor makes T cells, B cells and a shared precursor of natural killer (NK) cells and ILCs. <span class="src" title="M2-F006">Abbas p.30</span></li>
+</ul>
+<p>Key growth factors: G-CSF and GM-CSF drive neutrophil production <span class="src" title="M2-F007">Abbas p.14</span>; M-CSF drives the monocyte-macrophage lineage <span class="src" title="M2-F008">Abbas p.15</span>; all DC subsets need FLT3 ligand (FLT3L) and express CD11c. <span class="src" title="M2-F009">Abbas p.20</span> In normal blood, neutrophils are 40–60%, eosinophils 1–4%, basophils &lt;1% and monocytes 2–8% of leukocytes. <span class="src" title="M2-F012">Abbas p.14</span></p>
+
+<figure class="diagram" id="D4">
+<svg viewBox="0 0 800 610" role="img" aria-labelledby="D4t">
+<title id="D4t">Lineage tree of innate immune cells: HSC to myeloid and lymphoid progenitors, then to mature innate cells with their key growth factors</title>
+<defs><marker id="arr-D4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="400" y="26" class="t-title" text-anchor="middle">Where innate cells come from</text>
+<!-- HSC -->
+<rect x="20" y="300" width="120" height="80" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="80" y="328" class="t-head" text-anchor="middle">HSC</text>
+<text x="80" y="348" class="t-small" text-anchor="middle">CD34+ c-KIT+</text>
+<text x="80" y="364" class="t-small" text-anchor="middle">bone marrow</text>
+<!-- progenitors -->
+<text x="170" y="190" class="t-head" fill="#2e7d5b" style="fill:#2e7d5b">Myeloid lineage</text>
+<rect x="170" y="200" width="170" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="255" y="224" class="t-body" text-anchor="middle">Common myeloid</text>
+<text x="255" y="242" class="t-body" text-anchor="middle">progenitor</text>
+<text x="170" y="432" class="t-head" style="fill:#6a4c93">Lymphoid lineage</text>
+<rect x="170" y="440" width="170" height="56" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="255" y="464" class="t-body" text-anchor="middle">Common lymphoid</text>
+<text x="255" y="482" class="t-body" text-anchor="middle">progenitor</text>
+<!-- intermediate precursors -->
+<rect x="380" y="145" width="170" height="52" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="465" y="167" class="t-body" text-anchor="middle">Granulocyte /</text>
+<text x="465" y="185" class="t-body" text-anchor="middle">monocyte precursors</text>
+<rect x="380" y="300" width="170" height="44" rx="8" fill="#dfeaf6" stroke="#1f5f8b" stroke-width="1.5"/>
+<text x="465" y="318" class="t-body" text-anchor="middle">DC precursor</text>
+<text x="465" y="334" class="t-small" text-anchor="middle">shared with monocytes</text>
+<rect x="380" y="472" width="170" height="46" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="465" y="492" class="t-body" text-anchor="middle">NK / ILC precursor</text>
+<text x="465" y="508" class="t-small" text-anchor="middle">Id2 (ILC precursor)</text>
+<!-- mature cells: myeloid -->
+<g>
+<rect x="590" y="60" width="190" height="38" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="600" y="76" class="t-body">Neutrophil</text><text x="600" y="91" class="t-small">G-CSF, GM-CSF</text>
+<rect x="590" y="104" width="190" height="38" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="600" y="120" class="t-body">Eosinophil</text><text x="600" y="135" class="t-small">IL-5, IL-3, GM-CSF</text>
+<rect x="590" y="148" width="190" height="38" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="600" y="164" class="t-body">Basophil</text><text x="600" y="179" class="t-small">IL-3; own progenitor</text>
+<rect x="590" y="192" width="190" height="38" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="600" y="208" class="t-body">Mast cell</text><text x="600" y="223" class="t-small">SCF/c-KIT; in tissue</text>
+<rect x="590" y="236" width="190" height="38" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="600" y="252" class="t-body">Monocyte → macrophage</text><text x="600" y="267" class="t-small">M-CSF</text>
+<rect x="590" y="290" width="190" height="38" rx="8" fill="#dfeaf6" stroke="#1f5f8b" stroke-width="1.5"/>
+<text x="600" y="306" class="t-body">cDC1 · cDC2</text><text x="600" y="321" class="t-small">FLT3L; present to T cells</text>
+<rect x="590" y="334" width="190" height="38" rx="8" fill="#dfeaf6" stroke="#1f5f8b" stroke-width="1.5"/>
+<text x="600" y="350" class="t-body">pDC</text><text x="600" y="365" class="t-small">FLT3L; type I IFN</text>
+</g>
+<!-- mature cells: lymphoid -->
+<g>
+<rect x="590" y="410" width="190" height="38" rx="8" fill="#f5f7fa" stroke="#5b6475" stroke-width="1.5"/>
+<text x="600" y="426" class="t-body">T cell · B cell</text><text x="600" y="441" class="t-small">adaptive (for comparison)</text>
+<rect x="590" y="454" width="190" height="38" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="470" class="t-body">NK cell</text><text x="600" y="485" class="t-small">IL-15 growth factor</text>
+<rect x="590" y="498" width="190" height="38" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="514" class="t-body">ILC1 · ILC2 · ILC3</text><text x="600" y="529" class="t-small">T-BET · GATA3 · RORγt</text>
+</g>
+<!-- arrows -->
+<g stroke="#1d2433" stroke-width="1.5" fill="none" marker-end="url(#arr-D4)">
+<line x1="140" y1="325" x2="168" y2="234"/>
+<line x1="140" y1="355" x2="168" y2="462"/>
+<line x1="340" y1="220" x2="378" y2="176"/>
+<line x1="340" y1="240" x2="378" y2="318"/>
+<line x1="550" y1="171" x2="588" y2="79"/>
+<line x1="550" y1="171" x2="588" y2="123"/>
+<line x1="550" y1="171" x2="588" y2="167"/>
+<line x1="550" y1="171" x2="588" y2="211"/>
+<line x1="550" y1="171" x2="588" y2="255"/>
+<line x1="550" y1="322" x2="588" y2="309"/>
+<line x1="550" y1="322" x2="588" y2="353"/>
+<line x1="340" y1="460" x2="588" y2="429"/>
+<line x1="340" y1="480" x2="378" y2="495"/>
+<line x1="550" y1="495" x2="588" y2="473"/>
+<line x1="550" y1="495" x2="588" y2="517"/>
+</g>
+<!-- fetal origin -->
+<rect x="170" y="552" width="610" height="46" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="182" y="571" class="t-body">Separate fetal origin: yolk sac and fetal liver precursors</text>
+<text x="182" y="589" class="t-small">→ most tissue-resident macrophages (e.g., microglia) and Langerhans cells</text>
+</svg>
+<figcaption><b>D4.</b> Lineage tree of innate cells. Myeloid cells (green, amber, red, blue) and lymphoid cells (purple) come from one HSC. Mast cells leave the marrow as progenitors and mature in tissues. Most tissue-resident macrophages and Langerhans cells come from fetal precursors, not from adult monocytes. Fact IDs M2-F001, M2-F002, M2-F003, M2-F004, M2-F005, M2-F010, M2-F006, M2-F007, M2-F008, M2-F009, M2-F082, M2-F066, M2-F048, M2-F093, M2-F094, M2-F022, M2-F039. <span class="src">Abbas p.30</span> <span class="src">Abbas p.32</span> <span class="src">Abbas p.20</span> <span class="src">Abbas p.466</span> <span class="src">Abbas p.81</span></figcaption>
+</figure>
+
+<div class="box caution"><span class="label">Source difference</span>
+<p>Abbas (11th ed.) states that most DCs come from a myeloid precursor shared with monocytes. <span class="src" title="M2-F004">Abbas p.32</span> Janeway (8th ed.) states that DCs come from both myeloid and lymphoid progenitors. <span class="src" title="M2-F011">Janeway p.77</span> Janeway also describes tissue macrophages as cells that mature continuously from monocytes. <span class="src" title="M2-F024">Janeway p.76</span> Abbas (newer) states that most tissue-resident macrophages come from yolk sac or fetal liver precursors. <span class="src" title="M2-F022">Abbas p.15</span> Use the Abbas version for the exam.</p></div>
+
+<h2 id="neutrophils">2. Neutrophils</h2>
+<p>Neutrophils are the most abundant circulating white blood cells and the principal cell of acute inflammation. <span class="src" title="M2-F013">Abbas p.14</span> The nucleus has three to five lobes. For this reason, neutrophils are also called polymorphonuclear leukocytes (PMNs). <span class="src" title="M2-F014">Abbas p.14</span></p>
+<p>Neutrophils have two types of granules:</p>
+<ul>
+  <li><b>Specific granules</b> (the majority): lysozyme, collagenase and elastase. <span class="src" title="M2-F015">Abbas p.14</span></li>
+  <li><b>Azurophilic granules</b>: myeloperoxidase (MPO), defensins and cathelicidins. <span class="src" title="M2-F016">Abbas p.14</span></li>
+</ul>
+<p>Human neutrophil markers include CD11b, CD18, CD15, CD66b and CD10. <span class="src" title="M2-F017">Abbas p.15</span> Neutrophils live only 1–2 days in tissues. <span class="src" title="M2-F018">Abbas p.15</span> They respond fast because they activate preformed enzymes. Macrophages respond more slowly, and often need new gene transcription. <span class="src" title="M2-F019">Abbas p.15</span> Neutrophils can also extrude their nuclear contents as neutrophil extracellular traps (NETs). NETs immobilize and kill extracellular microbes, but they can also damage healthy tissue. <span class="src" title="M2-F020">Abbas p.15</span></p>
+<div class="box clinical"><span class="label">Clinical correlation</span>
+<p>Defects of neutrophil killing and migration cause recurrent bacterial and fungal infections. Chronic granulomatous disease (CGD) is caused by defective phagocyte oxidase and reactive oxygen species. <span class="src" title="M2-F105">Abbas p.487</span> Leukocyte adhesion deficiency type 1 (LAD-1) is caused by mutations in CD18, the β chain of β2 integrins. <span class="src" title="M2-F106">Abbas p.487</span> Module M4 covers these defects in detail.</p></div>
+
+<h2 id="macrophages">3. Monocytes and macrophages</h2>
+<h3>Two origins</h3>
+<p>Classical (inflammatory) monocytes make up 90–95% of human blood monocytes. They are rapidly recruited to sites of infection or injury, where they become macrophages. <span class="src" title="M2-F021">Abbas p.15-16</span> Most tissue-resident macrophages have a different origin. They come from yolk sac or fetal liver precursors, live for a long time and renew themselves. <span class="src" title="M2-F022">Abbas p.15</span> Examples are Kupffer cells (liver), alveolar macrophages (lung) and microglia (brain). <span class="src" title="M2-F023">Abbas p.15</span> Human macrophage markers include CD11b, CD14, CD68, CD16, CD64 and CCR5. <span class="src" title="M2-F025">Abbas p.15</span></p>
+<h3>Functions</h3>
+<ul>
+  <li>Cytokine production: activated macrophages make TNF, IL-1, IL-6 and IL-12. <span class="src" title="M2-F032">Abbas p.19</span> (Phagocytosis and killing: see M4.)</li>
+  <li>Removal of apoptotic cells before they release their contents (efferocytosis). <span class="src" title="M2-F026">Abbas p.16</span></li>
+  <li>Protection of healthy cells: the inhibitory receptor SIRPα binds CD47, a "don't eat me" signal on healthy cells. <span class="src" title="M2-F027">Abbas p.19</span></li>
+</ul>
+<h3>Classical (M1) versus alternative (M2) activation</h3>
+<p>Microbial products such as lipopolysaccharide and NK cell-derived interferon-γ (IFN-γ) activate macrophages. <span class="src" title="M2-F029">Abbas p.19</span> Classical activation gives microbicidal M1 macrophages. Alternative activation gives M2 macrophages, which promote tissue remodeling and repair. <span class="src" title="M2-F028">Abbas p.19</span> In Abbas Fig. 2.4, cytokines such as IL-4 and IL-13 drive collagen and angiogenic-factor production, which leads to repair and fibrosis. <span class="src" title="M2-F030">Abbas p.19</span> Many macrophage subsets do not fit neatly into M1 or M2. <span class="src" title="M2-F031">Abbas p.19</span></p>
+<table>
+<thead><tr><th></th><th>M1 (classical)</th><th>M2 (alternative)</th></tr></thead>
+<tbody>
+<tr><td>Typical stimuli</td><td>IFN-γ, microbial products (e.g., lipopolysaccharide) <span class="src" title="M2-F029">Abbas p.19</span></td><td>IL-4, IL-13 (Abbas Fig. 2.4) <span class="src" title="M2-F030">Abbas p.19</span></td></tr>
+<tr><td>Main job</td><td>Kill microbes; inflammation <span class="src" title="M2-F028">Abbas p.19</span></td><td>Tissue remodeling, repair, fibrosis <span class="src" title="M2-F028,M2-F030">Abbas p.19</span></td></tr>
+</tbody></table>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>An M1 macrophage is a soldier that destroys invaders. An M2 macrophage is a builder that repairs the damage after the fight.</p></div>
+<p>Not covered in provided sources — needs expert input: specific surface markers used to tell M1 from M2 macrophages in humans (Abbas refers to Chapter 10, which is not in the source set).</p>
+
+<h2 id="dcs">4. Dendritic cells: the bridge to adaptive immunity</h2>
+<p>DCs are sentinels in epithelia and tissues. They capture antigens and carry them to lymph nodes, where naive T cells circulate. In this way they link innate and adaptive immunity. <span class="src" title="M2-F033">Abbas p.20</span> DCs activated by pathogen-associated molecular patterns (PAMPs) express costimulators. They also direct naive T cells to become effector subsets such as Th1 or Th17 cells. <span class="src" title="M2-F041">Abbas p.81</span></p>
+<table>
+<thead><tr><th>Subset</th><th>Key features</th><th>Main role</th></tr></thead>
+<tbody>
+<tr><td>cDC2</td><td>Most numerous DC <span class="src" title="M2-F034">Abbas p.21</span></td><td>Presents antigen mainly to CD4+ T cells <span class="src" title="M2-F034">Abbas p.21</span></td></tr>
+<tr><td>cDC1</td><td>IRF8, BATF3; CD141, CLEC9A, XCR1; makes IL-12 <span class="src" title="M2-F035">Abbas p.21-23</span></td><td>Cross-presents antigen to naive CD8+ T cells; induces Th1 responses <span class="src" title="M2-F035">Abbas p.21-23</span></td></tr>
+<tr><td>Plasmacytoid DC (pDC)</td><td>BDCA-2 (CD303), CD123; high TLR7 and TLR9; transcription factor E2-2 <span class="src" title="M2-F036">Abbas p.23</span></td><td>Main source of antiviral type I IFN <span class="src" title="M2-F037">Abbas p.22</span></td></tr>
+<tr><td>Langerhans cell</td><td>Epidermis; Birbeck granules; langerin (CD207); embryonic origin like tissue macrophages <span class="src" title="M2-F039">Abbas p.22</span></td><td>Antigen presentation to CD4+ T cells or tolerance <span class="src" title="M2-F039">Abbas p.22</span></td></tr>
+</tbody></table>
+<p>pDCs can make up to 1000 times more type I IFN than other cell types. <span class="src" title="M2-F038">Janeway p.111</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>Follicular dendritic cells are NOT dendritic cells in the immunological sense. They are stromal cells, they do not come from bone marrow, and they do not present protein antigens to T cells. <span class="src" title="M2-F040">Abbas p.22</span></p></div>
+
+<h2 id="nk">5. Natural killer (NK) cells</h2>
+<h3>Identity</h3>
+<p>NK cells are 5–20% of lymphocytes in blood and spleen. They are abundant in liver and placenta. <span class="src" title="M2-F042">Abbas p.82</span> In blood they are CD56-positive and CD3-negative, and most express CD16. <span class="src" title="M2-F043">Abbas p.82</span> NK cells kill without prior activation and use germline-encoded receptors, not clonal antigen receptors. <span class="src" title="M2-F044">Abbas p.82</span></p>
+<h3>Two effector functions</h3>
+<ol class="steps">
+  <li>The NK cell kills an infected or stressed cell. Perforin helps granzymes enter the target cell. Granzymes then trigger apoptosis. <span class="src" title="M2-F046">Abbas p.82</span></li>
+  <li>The NK cell secretes IFN-γ. IFN-γ activates macrophages to destroy the microbes that they have phagocytosed. <span class="src" title="M2-F045">Abbas p.82</span></li>
+</ol>
+<p>NK cells act early. They kill virus-infected cells before antigen-specific cytotoxic T lymphocytes (CTLs) become fully active after 5–7 days. <span class="src" title="M2-F047">Abbas p.82</span> IL-12, IL-15, IL-18 and type I IFNs increase NK killing and IFN-γ secretion. IL-15 is also an NK growth factor. <span class="src" title="M2-F048">Abbas p.85</span></p>
+
+<h3>The balance: activating versus inhibitory receptors</h3>
+<p>Each NK cell adds up signals from activating and inhibitory receptors. The balance decides the outcome. <span class="src" title="M2-F049">Abbas p.83</span></p>
+<ul>
+  <li><b>Inhibitory receptors</b> recognise MHC class I (MHC-I). Inhibitory KIRs bind classical MHC-I molecules. The CD94/NKG2A heterodimer binds HLA-E, which displays peptides from other MHC-I molecules. <span class="src" title="M2-F054">Abbas p.85</span> Inhibitory receptors carry ITIMs, which recruit phosphatases that block activating signals. <span class="src" title="M2-F055">Abbas p.85</span></li>
+  <li><b>Activating receptors</b> signal through ITAMs. <span class="src" title="M2-F055">Abbas p.85</span> NKG2D binds the stress proteins MIC-A, MIC-B and ULBP on infected and tumour cells, and signals through DAP10. <span class="src" title="M2-F050">Abbas p.83</span> The natural cytotoxicity receptors (NCRs) NKp30, NKp44 and NKp46 are also activating. <span class="src" title="M2-F051">Janeway p.117</span></li>
+  <li><b>Same family, opposite signals.</b> Inhibitory KIRs (KIR-2DL, KIR-3DL) have long tails with ITIMs. Activating KIRs (KIR-2DS, KIR-3DS) have short tails and pair with DAP12. <span class="src" title="M2-F056">Janeway p.115-116</span> NKG2A is inhibitory, but NKG2C pairs with DAP12 and is activating. <span class="src" title="M2-F057">Janeway p.116</span></li>
+</ul>
+<p><b>Missing self.</b> Viruses, cell stress and many cancers reduce MHC-I on the cell surface. The NK cell then loses its inhibitory signal and is activated. This is called recognition of missing self. <span class="src" title="M2-F053">Abbas p.85</span> Interferons increase MHC-I on uninfected cells and so protect them from NK cells. <span class="src" title="M2-F058">Janeway p.115</span></p>
+
+<figure class="diagram" id="D6">
+<svg viewBox="0 0 800 550" role="img" aria-labelledby="D6t">
+<title id="D6t">NK cell balance: a healthy cell with MHC-I inhibits the NK cell; an infected cell that lost MHC-I and expresses stress ligands activates killing</title>
+<text x="400" y="26" class="t-title" text-anchor="middle">NK cell decision: a balance of signals</text>
+<!-- Panel A -->
+<rect x="10" y="44" width="380" height="262" rx="8" fill="#f5f7fa" stroke="#d9dee7" stroke-width="1.5"/>
+<text x="24" y="68" class="t-head">A · Healthy cell → no killing</text>
+<rect x="24" y="84" width="96" height="150" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="72" y="108" class="t-head" text-anchor="middle">NK cell</text>
+<text x="72" y="200" class="t-small" text-anchor="middle">ITIM →</text>
+<text x="72" y="214" class="t-small" text-anchor="middle">phosphatase</text>
+<rect x="280" y="84" width="96" height="150" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="328" y="108" class="t-head" text-anchor="middle">Healthy</text>
+<text x="328" y="136" class="t-body" text-anchor="middle">MHC-I</text>
+<text x="328" y="152" class="t-body" text-anchor="middle">present</text>
+<text x="328" y="190" class="t-small" text-anchor="middle">no stress</text>
+<text x="328" y="204" class="t-small" text-anchor="middle">ligands</text>
+<line x1="120" y1="135" x2="280" y2="135" stroke="#b23a48" stroke-width="4"/>
+<text x="200" y="126" class="t-small" text-anchor="middle">KIR · CD94/NKG2A</text>
+<text x="200" y="152" class="t-small" text-anchor="middle">bind MHC-I / HLA-E</text>
+<line x1="120" y1="190" x2="280" y2="190" stroke="#2e7d5b" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="200" y="182" class="t-small" text-anchor="middle">NKG2D: no ligand</text>
+<rect x="24" y="248" width="352" height="46" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="200" y="267" class="t-body" text-anchor="middle">Inhibitory signal wins</text>
+<text x="200" y="285" class="t-small" text-anchor="middle">NK cell spares the healthy cell</text>
+<!-- Panel B -->
+<rect x="410" y="44" width="380" height="262" rx="8" fill="#f5f7fa" stroke="#d9dee7" stroke-width="1.5"/>
+<text x="424" y="68" class="t-head">B · Infected or tumour cell → killing</text>
+<rect x="424" y="84" width="96" height="150" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="472" y="108" class="t-head" text-anchor="middle">NK cell</text>
+<text x="472" y="200" class="t-small" text-anchor="middle">perforin +</text>
+<text x="472" y="214" class="t-small" text-anchor="middle">granzymes</text>
+<rect x="680" y="84" width="96" height="150" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="728" y="108" class="t-head" text-anchor="middle">Infected</text>
+<text x="728" y="136" class="t-body" text-anchor="middle">MHC-I</text>
+<text x="728" y="152" class="t-body" text-anchor="middle">lost</text>
+<text x="728" y="190" class="t-small" text-anchor="middle">MIC-A/B,</text>
+<text x="728" y="204" class="t-small" text-anchor="middle">ULBP ↑</text>
+<line x1="520" y1="135" x2="680" y2="135" stroke="#5b6475" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="600" y="126" class="t-small" text-anchor="middle">KIR: nothing to bind</text>
+<text x="600" y="152" class="t-small" text-anchor="middle">= missing self</text>
+<line x1="520" y1="190" x2="680" y2="190" stroke="#2e7d5b" stroke-width="4"/>
+<text x="600" y="182" class="t-small" text-anchor="middle">NKG2D binds ligand</text>
+<rect x="424" y="248" width="352" height="46" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="600" y="267" class="t-body" text-anchor="middle">Activating signal wins</text>
+<text x="600" y="285" class="t-small" text-anchor="middle">perforin + granzymes → apoptosis of target</text>
+<!-- Receptor lists -->
+<rect x="10" y="322" width="380" height="186" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="24" y="346" class="t-head" style="fill:#2e7d5b">Activating receptors (ITAM or DAP10)</text>
+<text x="24" y="374" class="t-body">NKG2D (DAP10) → MIC-A, MIC-B, ULBP</text>
+<text x="24" y="398" class="t-body">NCRs: NKp30, NKp44, NKp46</text>
+<text x="24" y="422" class="t-body">KIR-2DS / KIR-3DS: short tail, DAP12</text>
+<text x="24" y="446" class="t-body">CD94/NKG2C (DAP12)</text>
+<text x="24" y="470" class="t-body">CD16 (FcγRIIIA) → IgG1, IgG3 = ADCC</text>
+<rect x="410" y="322" width="380" height="186" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="424" y="346" class="t-head" style="fill:#b23a48">Inhibitory receptors (ITIM)</text>
+<text x="424" y="374" class="t-body">KIR-2DL / KIR-3DL: long tail, ITIM</text>
+<text x="424" y="398" class="t-body">→ classical MHC-I molecules</text>
+<text x="424" y="422" class="t-body">CD94/NKG2A → HLA-E</text>
+<text x="424" y="446" class="t-body">HLA-E reports overall MHC-I</text>
+<text x="424" y="470" class="t-body">ITIM → phosphatases block signals</text>
+<text x="424" y="494" class="t-body">IFN raises MHC-I → protects healthy cells</text>
+<text x="400" y="534" class="t-small" text-anchor="middle">IL-12, IL-15, IL-18 and type I IFN increase NK killing and IFN-γ release.</text>
+</svg>
+<figcaption><b>D6.</b> NK cell "missing self". The NK cell integrates activating and inhibitory signals. Loss of MHC-I removes inhibition; stress ligands add activation. CD16 lets NK cells kill IgG-coated cells (ADCC). Fact IDs M2-F049, M2-F054, M2-F055, M2-F050, M2-F051, M2-F056, M2-F057, M2-F052, M2-F053, M2-F058, M2-F046, M2-F048. <span class="src">Abbas p.83</span> <span class="src">Abbas p.85</span> <span class="src">Janeway p.115-116</span> <span class="src">Janeway p.117</span></figcaption>
+</figure>
+
+<h3>CD16 and ADCC</h3>
+<p>CD16 (FcγRIIIA) is a low-affinity receptor for IgG. It binds IgG1 and IgG3 on antibody-coated cells. The NK cell then kills the coated cell. This is antibody-dependent cell-mediated cytotoxicity (ADCC). <span class="src" title="M2-F052">Abbas p.84</span></p>
+<div class="box clinical"><span class="label">Clinical correlation: NK cell deficiency</span>
+<p>Patients with numerical or functional NK cell deficiency have severe herpesvirus and papillomavirus infections. <span class="src" title="M2-F059">Abbas p.488</span> Autosomal dominant GATA2 mutations cause loss of NK cells, together with low monocytes, DCs and B cells. <span class="src" title="M2-F060">Abbas p.488</span> Autosomal recessive CD16 mutations cause a functional NK cell deficiency. <span class="src" title="M2-F061">Abbas p.488</span> In Chédiak-Higashi syndrome, NK function is poor because the cytotoxic granules are abnormal. <span class="src" title="M2-F062">Abbas p.488</span></p></div>
+
+<h2 id="granulocytes">6. Mast cells, basophils and eosinophils</h2>
+<p>These three myeloid cells all have granules full of inflammatory mediators. All three take part in defence against helminths and in allergic disease. <span class="src" title="M2-F107">Abbas p.20</span> They differ in location, life span, receptors and mediators. <span class="src" title="M2-F065,M2-F067">Abbas p.466</span></p>
+<table>
+<thead><tr><th>Feature</th><th>Mast cell</th><th>Basophil</th><th>Eosinophil</th></tr></thead>
+<tbody>
+<tr><td>Where</td><td>Tissues; near vessels, nerves, under epithelia; not in blood <span class="src" title="M2-F063">Abbas p.465</span></td><td>Blood (0.5% or less of leukocytes); recruited to tissues <span class="src" title="M2-F080">Abbas p.465</span></td><td>Blood; normally also in respiratory, gut and genitourinary mucosa <span class="src" title="M2-F084">Abbas p.20</span></td></tr>
+<tr><td>Life span <span class="src" title="M2-F065">Abbas p.466</span></td><td>Weeks to months</td><td>Days</td><td>Days to weeks</td></tr>
+<tr><td>Main growth factor <span class="src" title="M2-F066">Abbas p.466</span></td><td>SCF, IL-3</td><td>IL-3</td><td>IL-5</td></tr>
+<tr><td>FcεRI <span class="src" title="M2-F067">Abbas p.466</span></td><td>High (αβγ2)</td><td>High (αβγ2)</td><td>Low (αγ2), no proven IgE activation <span class="src" title="M2-F069,M2-F090">Abbas p.467; Abbas p.473</span></td></tr>
+<tr><td>Main granule contents</td><td colspan="2">Histamine; heparin and/or chondroitin sulfate; neutral proteases (tryptase and/or chymase) <span class="src" title="M2-F072">Abbas p.467</span></td><td>MBP, ECP, eosinophil peroxidase <span class="src" title="M2-F085,M2-F086">Abbas p.473</span></td></tr>
+<tr><td>New mediators</td><td colspan="2">PGD2, leukotrienes C4/D4/E4, PAF; cytokines <span class="src" title="M2-F073">Abbas p.467</span></td><td>Galectin-10 (Charcot-Leyden crystals) <span class="src" title="M2-F087">Abbas p.473</span></td></tr>
+</tbody></table>
+
+<h3>Mast cells</h3>
+<p>Stem cell factor (SCF) binds c-KIT on mast cell precursors and is essential for mast cell development. <span class="src" title="M2-F064">Abbas p.465</span> FcεRI binds IgE with very high affinity. As a result, most mast cells carry IgE even in nonatopic people. <span class="src" title="M2-F068">Abbas p.466</span> On mast cells and basophils, FcεRI is an αβγ2 tetramer. <span class="src" title="M2-F069">Abbas p.467</span></p>
+<p>IgE-mediated activation follows this sequence:</p>
+<ol class="steps">
+  <li>Multivalent allergen binds IgE that sits on FcεRI. <span class="src" title="M2-F070">Abbas p.468</span></li>
+  <li>The allergen cross-links the FcεRI molecules. <span class="src" title="M2-F070">Abbas p.468</span></li>
+  <li>The mast cell releases preformed granule contents (degranulation). <span class="src" title="M2-F071">Abbas p.468</span></li>
+  <li>The mast cell makes new lipid mediators and cytokines. <span class="src" title="M2-F071">Abbas p.468</span></li>
+</ol>
+<p>Mast cells can also be activated without IgE. Complement fragments C3a and C5a (the anaphylatoxins) cause degranulation. TLR ligands, ATP and cytokines such as SCF and IL-33 also activate mast cells. <span class="src" title="M2-F074">Abbas p.470</span> The receptor MRGPRX2 on skin mast cells binds some antibiotics, anaesthetic drugs and venom components. It is a likely mediator of some allergy-like drug reactions. <span class="src" title="M2-F075">Abbas p.470</span></p>
+<div class="box clinical"><span class="label">Clinical correlation: tryptase and mastocytosis</span>
+<p>Tryptase is present in all human mast cells and in no other known cell type. For this reason, serum tryptase is a marker of mast cell activation and is used to diagnose anaphylaxis. <span class="src" title="M2-F077">Abbas p.471</span> Human mast cell subsets contain tryptase only, or tryptase and chymase. <span class="src" title="M2-F078">Abbas p.465</span> Systemic mastocytosis (SM) is a clonal mast cell disorder associated with c-KIT mutations and increased mediator release, including tryptase. <span class="src" title="M2-F079">Abbas p.470-471</span></p></div>
+
+<h3>Basophils</h3>
+<p>Basophils are blood granulocytes. They are normally absent from tissues but can be recruited to inflammatory sites. <span class="src" title="M2-F080">Abbas p.465</span> Like mast cells, basophils express FcεRI, bind IgE and are triggered when antigen binds the IgE. <span class="src" title="M2-F081">Abbas p.465</span></p>
+
+<h3>Eosinophils</h3>
+<p>GM-CSF, IL-3 and IL-5 promote eosinophil maturation from myeloid precursors. <span class="src" title="M2-F082">Abbas p.20</span> Eosinophils carry Fc receptors for IgA and IgG, TLRs and IL-5 receptors. <span class="src" title="M2-F083">Abbas p.20</span> IL-5 from Th2 cells and ILC2s increases eosinophil production and activates mature eosinophils. <span class="src" title="M2-F089">Abbas p.473</span> Eotaxin (CCL11) binds CCR3 on eosinophils and recruits them into tissue. <span class="src" title="M2-F088">Abbas p.473</span></p>
+<p>Major basic protein (MBP) and eosinophil cationic protein (ECP) damage helminths, bacteria and host cells. <span class="src" title="M2-F085">Abbas p.473</span> Eosinophil peroxidase is different from neutrophil MPO. It makes hypochlorous or hypobromous acid. <span class="src" title="M2-F086">Abbas p.473</span> Eosinophils make large amounts of galectin-10. Galectin-10 forms Charcot-Leyden crystals at sites of chronic type 2 inflammation, such as asthmatic bronchi. <span class="src" title="M2-F087">Abbas p.473</span></p>
+<p>In the late-phase reaction, neutrophils, Th2 cells and eosinophils enter the tissue a few hours to 2 days after allergen exposure. <span class="src" title="M2-F091">Abbas p.465</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>Eosinophils have very little FcεRI, and their receptor lacks the signalling β chain. There is no convincing evidence that allergen bound to IgE activates eosinophils. <span class="src" title="M2-F069,M2-F090">Abbas p.467; Abbas p.473</span> The cells that respond directly to IgE cross-linking are mast cells and basophils. <span class="src" title="M2-F067,M2-F081">Abbas p.466; Abbas p.465</span></p></div>
+<p>Not covered in provided sources — needs expert input: basophil activation markers used in the basophil activation test, and eosinophil surface markers other than CCR3 and IL-5 receptor.</p>
+
+<h2 id="ilc">7. Innate lymphoid cells (ILCs)</h2>
+<p>ILCs are lymphoid cells without T-cell receptors. They secrete cytokines like those of helper T cells. They live mainly in mucosal tissues such as lung and intestine, and are rare in blood. <span class="src" title="M2-F092">Abbas p.30</span> A common ILC precursor is identified by the transcription factor Id2. <span class="src" title="M2-F093">Abbas p.81</span></p>
+<table>
+<thead><tr><th>Subset</th><th>Transcription factor <span class="src" title="M2-F094">Abbas p.81</span></th><th>Activated by <span class="src" title="M2-F095">Abbas p.81</span></th><th>Main cytokines <span class="src" title="M2-F094">Abbas p.81</span></th><th>Function <span class="src" title="M2-F096">Abbas p.81-82</span></th></tr></thead>
+<tbody>
+<tr><td>ILC1</td><td>T-BET</td><td>IL-12, IL-15, IL-18</td><td>IFN-γ</td><td>Defence against intracellular microbes</td></tr>
+<tr><td>ILC2</td><td>GATA3</td><td>IL-25, IL-33, TSLP</td><td>IL-5, IL-13</td><td>Defence against helminths; allergic disease</td></tr>
+<tr><td>ILC3</td><td>RORγt</td><td>IL-1, IL-23</td><td>IL-22 and/or IL-17</td><td>Defence against extracellular fungi and bacteria; epithelial barrier</td></tr>
+</tbody></table>
+<p>NK cells resemble ILC1s because both secrete IFN-γ. However, ILC1s are not cytotoxic. <span class="src" title="M2-F097">Abbas p.82</span></p>
+<h3>ILC2s in allergy</h3>
+<ol class="steps">
+  <li>Injured or stressed epithelial cells release IL-25, IL-33 and TSLP. IL-33 is an alarmin stored in epithelial nuclei. <span class="src" title="M2-F098">Abbas p.94</span></li>
+  <li>These cytokines stimulate ILC2s, Th2 cells and mast cells to make IL-4, IL-5 and IL-13. <span class="src" title="M2-F098">Abbas p.94</span></li>
+  <li>ILC2s already sit in the tissue. Their cytokines can start allergic inflammation before Th2 cells arrive. <span class="src" title="M2-F099">Abbas p.465</span></li>
+  <li>Later, ILC2s work together with Th2 cells to sustain the inflammation. <span class="src" title="M2-F099">Abbas p.465</span></li>
+</ol>
+<div class="box analogy"><span class="label">Analogy</span>
+<p>ILC2s are the local fire brigade that is already in the building. Th2 cells are the reinforcements that arrive days later with more equipment.</p></div>
+
+<h2 id="ill">8. Innate-like lymphocytes</h2>
+<p>Some T and B cells have rearranged antigen receptors of limited diversity. These include invariant natural killer T (iNKT) cells, γδ T cells, mucosa-associated invariant T (MAIT) cells and B-1 cells. They behave more like innate cells than adaptive cells. <span class="src" title="M2-F100">Abbas p.85-86</span></p>
+<ul>
+  <li><b>MAIT cells</b> recognise bacterial riboflavin metabolites. They make up almost 50% of liver lymphocytes. <span class="src" title="M2-F101">Abbas p.24</span></li>
+  <li><b>iNKT cells</b> recognise glycolipids presented by CD1. They rapidly secrete IL-4, IL-10 and IFN-γ. <span class="src" title="M2-F102">Janeway p.119</span></li>
+  <li><b>Intraepithelial γδ T cells</b> recognise target molecules directly, not as peptide on MHC. <span class="src" title="M2-F103">Janeway p.119</span></li>
+  <li><b>B-1 cells</b> make IgM against polysaccharides within 48 hours, without T-cell help. In mice, they protect against <i>Streptococcus pneumoniae</i>. <span class="src" title="M2-F104">Janeway p.119</span></li>
+</ul>
+
+<h2 id="idcards">9. Cell ID cards</h2>
+<figure class="diagram" id="D5">
+<svg viewBox="0 0 800 530" role="img" aria-labelledby="D5t">
+<title id="D5t">ID cards of innate cells: markers, granules or products, main function and key disease for nine cell types</title>
+<text x="400" y="26" class="t-title" text-anchor="middle">Innate cell ID cards</text>
+<g><rect x="12" y="44" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#2e7d5b" stroke-width="1.5"/>
+<rect x="12" y="44" width="250" height="30" rx="8" fill="#2e7d5b"/><rect x="12" y="59" width="250" height="15" fill="#2e7d5b"/>
+<text x="22" y="65" class="t-head t-white">Neutrophil</text>
+<text x="22" y="96" class="t-body">CD11b, CD18, CD15, CD66b</text>
+<text x="22" y="116" class="t-body">Azurophilic: MPO, defensins</text>
+<text x="22" y="136" class="t-body">Specific: lysozyme, elastase</text>
+<text x="22" y="156" class="t-body">Fast phagocyte; NETs; 1–2 d</text>
+<text x="22" y="176" class="t-body">Disease: CGD, LAD-1 (→ M4)</text>
+</g>
+<g><rect x="275" y="44" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#2e7d5b" stroke-width="1.5"/>
+<rect x="275" y="44" width="250" height="30" rx="8" fill="#2e7d5b"/><rect x="275" y="59" width="250" height="15" fill="#2e7d5b"/>
+<text x="285" y="65" class="t-head t-white">Macrophage</text>
+<text x="285" y="96" class="t-body">CD14, CD68, CD64, CD16, CCR5</text>
+<text x="285" y="116" class="t-body">Makes TNF, IL-1, IL-6, IL-12</text>
+<text x="285" y="136" class="t-body">M1: microbicidal (IFN-γ, LPS)</text>
+<text x="285" y="156" class="t-body">M2: repair, fibrosis (IL-4/13)</text>
+<text x="285" y="176" class="t-body">SIRPα–CD47: “don’t eat me”</text>
+</g>
+<g><rect x="538" y="44" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#1f5f8b" stroke-width="1.5"/>
+<rect x="538" y="44" width="250" height="30" rx="8" fill="#1f5f8b"/><rect x="538" y="59" width="250" height="15" fill="#1f5f8b"/>
+<text x="548" y="65" class="t-head t-white">Dendritic cell</text>
+<text x="548" y="96" class="t-body">All: CD11c; need FLT3L</text>
+<text x="548" y="116" class="t-body">cDC1: CD141, XCR1 → CD8 T</text>
+<text x="548" y="136" class="t-body">cDC2: most numerous → CD4 T</text>
+<text x="548" y="156" class="t-body">pDC: CD123, TLR7/9 → type I IFN</text>
+<text x="548" y="176" class="t-body">Disease: ↓ in GATA2 deficiency</text>
+</g>
+<g><rect x="12" y="206" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#6a4c93" stroke-width="1.5"/>
+<rect x="12" y="206" width="250" height="30" rx="8" fill="#6a4c93"/><rect x="12" y="221" width="250" height="15" fill="#6a4c93"/>
+<text x="22" y="227" class="t-head t-white">NK cell</text>
+<text x="22" y="258" class="t-body">CD56+ CD3−; most CD16+</text>
+<text x="22" y="278" class="t-body">Perforin + granzymes</text>
+<text x="22" y="298" class="t-body">KIR, NKG2A, NKG2D, NCRs</text>
+<text x="22" y="318" class="t-body">Kills infected/tumour cells</text>
+<text x="22" y="338" class="t-body">Disease: GATA2, CD16, CHS</text>
+</g>
+<g><rect x="275" y="206" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#c77d14" stroke-width="1.5"/>
+<rect x="275" y="206" width="250" height="30" rx="8" fill="#c77d14"/><rect x="275" y="221" width="250" height="15" fill="#c77d14"/>
+<text x="285" y="227" class="t-head t-white">Mast cell</text>
+<text x="285" y="258" class="t-body">FcεRI high; c-KIT; MRGPRX2</text>
+<text x="285" y="278" class="t-body">Histamine, heparin, tryptase</text>
+<text x="285" y="298" class="t-body">Makes PGD2, LTC4, PAF</text>
+<text x="285" y="318" class="t-body">Tissue-resident; weeks–months</text>
+<text x="285" y="338" class="t-body">Disease: anaphylaxis, SM</text>
+</g>
+<g><rect x="538" y="206" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#c77d14" stroke-width="1.5"/>
+<rect x="538" y="206" width="250" height="30" rx="8" fill="#c77d14"/><rect x="538" y="221" width="250" height="15" fill="#c77d14"/>
+<text x="548" y="227" class="t-head t-white">Basophil</text>
+<text x="548" y="258" class="t-body">FcεRI high; IL-3</text>
+<text x="548" y="278" class="t-body">Histamine, chondroitin sulfate</text>
+<text x="548" y="298" class="t-body">Blood: &lt;1% of leukocytes</text>
+<text x="548" y="318" class="t-body">Life span: days</text>
+<text x="548" y="338" class="t-body">Recruited to inflamed sites</text>
+</g>
+<g><rect x="12" y="368" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#b23a48" stroke-width="1.5"/>
+<rect x="12" y="368" width="250" height="30" rx="8" fill="#b23a48"/><rect x="12" y="383" width="250" height="15" fill="#b23a48"/>
+<text x="22" y="389" class="t-head t-white">Eosinophil</text>
+<text x="22" y="420" class="t-body">IL-5R, CCR3; FcεRI very low</text>
+<text x="22" y="440" class="t-body">MBP, ECP, eosinophil peroxidase</text>
+<text x="22" y="460" class="t-body">Galectin-10 → Charcot-Leyden</text>
+<text x="22" y="480" class="t-body">Anti-helminth; late phase</text>
+<text x="22" y="500" class="t-body">Disease: allergic asthma</text>
+</g>
+<g><rect x="275" y="368" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#6a4c93" stroke-width="1.5"/>
+<rect x="275" y="368" width="250" height="30" rx="8" fill="#6a4c93"/><rect x="275" y="383" width="250" height="15" fill="#6a4c93"/>
+<text x="285" y="389" class="t-head t-white">ILC1 · ILC2 · ILC3</text>
+<text x="285" y="420" class="t-body">No TCR; mucosal tissues</text>
+<text x="285" y="440" class="t-body">ILC1: T-BET → IFN-γ</text>
+<text x="285" y="460" class="t-body">ILC2: GATA3 → IL-5, IL-13</text>
+<text x="285" y="480" class="t-body">ILC3: RORγt → IL-17, IL-22</text>
+<text x="285" y="500" class="t-body">ILC2 ← IL-25, IL-33, TSLP</text>
+</g>
+<g><rect x="538" y="368" width="250" height="150" rx="8" fill="#f5f7fa" stroke="#6a4c93" stroke-width="1.5"/>
+<rect x="538" y="368" width="250" height="30" rx="8" fill="#6a4c93"/><rect x="538" y="383" width="250" height="15" fill="#6a4c93"/>
+<text x="548" y="389" class="t-head t-white">Innate-like lymphocytes</text>
+<text x="548" y="420" class="t-body">γδ T, iNKT, MAIT, B-1 cells</text>
+<text x="548" y="440" class="t-body">Low-diversity TCR or BCR</text>
+<text x="548" y="460" class="t-body">MAIT: riboflavin metabolites</text>
+<text x="548" y="480" class="t-body">iNKT: glycolipid on CD1</text>
+<text x="548" y="500" class="t-body">B-1: fast IgM, no T-cell help</text>
+</g>
+</svg>
+<figcaption><b>D5.</b> Innate cell "ID cards". Each card lists markers or receptors, granules or products, main job and a key disease. SM = systemic mastocytosis; CHS = Chédiak-Higashi syndrome. Fact IDs M2-F017, M2-F016, M2-F015, M2-F020, M2-F018, M2-F105, M2-F106, M2-F025, M2-F032, M2-F028, M2-F029, M2-F030, M2-F027, M2-F009, M2-F035, M2-F034, M2-F036, M2-F060, M2-F043, M2-F046, M2-F054, M2-F050, M2-F051, M2-F045, M2-F061, M2-F062, M2-F067, M2-F064, M2-F075, M2-F072, M2-F077, M2-F073, M2-F065, M2-F066, M2-F079, M2-F012, M2-F083, M2-F088, M2-F090, M2-F085, M2-F086, M2-F087, M2-F091, M2-F092, M2-F094, M2-F095, M2-F100, M2-F101, M2-F102, M2-F104. <span class="src">Abbas p.15</span> <span class="src">Abbas p.21-23</span> <span class="src">Abbas p.82</span> <span class="src">Abbas p.467</span> <span class="src">Abbas p.473</span> <span class="src">Abbas p.81</span> <span class="src">Abbas p.85-86</span> <span class="src">Janeway p.119</span></figcaption>
+</figure>
+
+<section class="keypoints"><h2>5 key points</h2><ol>
+  <li>All innate cells come from the HSC. Granulocytes, monocytes/macrophages, DCs and mast cells are myeloid; NK cells and ILCs are lymphoid. <span class="src" title="M2-F001,M2-F003,M2-F006">Abbas p.30; Abbas p.32</span></li>
+  <li>Most tissue-resident macrophages come from fetal precursors. Classical (M1) activation kills microbes; alternative (M2) activation repairs tissue. <span class="src" title="M2-F022,M2-F028">Abbas p.15; Abbas p.19</span></li>
+  <li>pDCs are the main source of type I IFN; cDC1s cross-present to CD8+ T cells; cDC2s present to CD4+ T cells. <span class="src" title="M2-F037,M2-F035,M2-F034">Abbas p.22; Abbas p.21-23; Abbas p.21</span></li>
+  <li>NK cells kill when activating signals win. Loss of MHC-I ("missing self") removes the inhibition by KIRs and CD94/NKG2A. <span class="src" title="M2-F049,M2-F053,M2-F054">Abbas p.83; Abbas p.85</span></li>
+  <li>Mast cells and basophils have high FcεRI; eosinophils have low FcεRI. ILC2s (GATA3; IL-5, IL-13) respond to IL-25, IL-33 and TSLP and start allergic inflammation early. <span class="src" title="M2-F067,M2-F094,M2-F098,M2-F099">Abbas p.466; Abbas p.81; Abbas p.94; Abbas p.465</span></li>
+</ol></section>
+
+<section class="traps"><h2>3 exam traps</h2><ol>
+  <li>Tryptase, not histamine, is the mast cell activation marker: tryptase is in all human mast cells and no other known cell. Chymase is only in some mast cells. <span class="src" title="M2-F077,M2-F078">Abbas p.471; Abbas p.465</span></li>
+  <li>CD16 on NK cells binds IgG (IgG1, IgG3), not IgE. The IgE receptors that trigger allergy are FcεRI on mast cells and basophils. <span class="src" title="M2-F052,M2-F067">Abbas p.84; Abbas p.466</span></li>
+  <li>Follicular dendritic cells are stromal cells and do not present protein antigens to T cells. Do not confuse them with conventional DCs. <span class="src" title="M2-F040">Abbas p.22</span></li>
+</ol></section>
+
+<p class="related">Practice: <a href="../quiz/quiz.html#M2">M2 questions in the quiz</a> (IDs M2-A1 … M2-K2).</p>
+<footer class="sources">Sources: Abbas, Cellular and Molecular Immunology, 11th ed., pp. 14–24, 30–32, 81–86, 94, 101, 465–473, 487–488; Janeway's Immunobiology, 8th ed., pp. 76–77, 111, 113–119. · Fact IDs refer to <code>ledger/facts.csv</code>.</footer>
+</main>
+</body>
+</html>

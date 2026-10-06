@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M6 Complement deficiencies &amp; HAE — Innate Immunity</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="../index.html">Home</a>
+  <a href="M1-foundation.html">M1 Foundation</a>
+  <a href="M2-cells.html">M2 Cells</a>
+  <a href="M3-prrs.html">M3 PRRs</a>
+  <a href="M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="M5-complement.html">M5 Complement</a>
+  <a href="M6-complement-deficiencies.html" class="current">M6 Deficiencies &amp; HAE</a>
+  <a href="M7-summary.html">M7 Summary</a>
+  <a href="../quiz/quiz.html">Quiz</a>
+</nav></header>
+<main>
+<h1>M6 · Complement deficiencies, regulator defects and hereditary angioedema</h1>
+<p class="subtitle">Innate immunity lecture pack · EAACI/UEMS Knowledge Exam preparation</p>
+
+<section class="objectives"><h2>After this module you can</h2><ul>
+  <li>Link each complement deficiency to its typical phenotype and explain why the phenotype follows from the lost function.</li>
+  <li>Read a complement and C1 inhibitor (C1-INH) laboratory profile and separate HAE-1, HAE-2, HAE with normal C1-INH and acquired C1-INH deficiency.</li>
+  <li>Explain the bradykinin pathway of hereditary angioedema (HAE) and why antihistamines, glucocorticoids and adrenaline do not work.</li>
+  <li>Choose on-demand treatment, short-term prophylaxis and long-term prophylaxis according to the 2017 WAO/EAACI guideline.</li>
+  <li>Recognise PNH and aHUS as diseases of defective complement regulators.</li>
+</ul></section>
+
+<dl class="abbr">
+  <dt>AAE-C1-INH</dt><dd>acquired angioedema due to C1-INH deficiency</dd>
+  <dt>ACE / ACEI-AE</dt><dd>angiotensin-converting enzyme / ACE inhibitor-induced angioedema</dd>
+  <dt>aHUS</dt><dd>atypical haemolytic uraemic syndrome</dd>
+  <dt>C1-INH</dt><dd>C1 inhibitor</dd>
+  <dt>C3NeF</dt><dd>C3 nephritic factor</dd>
+  <dt>CH50</dt><dd>total classical pathway haemolytic activity</dd>
+  <dt>CSU</dt><dd>chronic spontaneous urticaria</dd>
+  <dt>DAF</dt><dd>decay-accelerating factor (CD55)</dd>
+  <dt>FFP / SDP</dt><dd>fresh frozen plasma / solvent detergent-treated plasma</dd>
+  <dt>FXII</dt><dd>coagulation factor XII</dd>
+  <dt>GPI</dt><dd>glycosylphosphatidylinositol</dd>
+  <dt>HAE</dt><dd>hereditary angioedema (HAE-1, HAE-2, HAE nC1-INH)</dd>
+  <dt>HMWK</dt><dd>high-molecular-weight kininogen</dd>
+  <dt>LTP / STP</dt><dd>long-term prophylaxis / short-term (pre-procedural) prophylaxis</dd>
+  <dt>MAC</dt><dd>membrane attack complex</dd>
+  <dt>MASP</dt><dd>MBL-associated serine protease</dd>
+  <dt>MBL</dt><dd>mannose-binding lectin</dd>
+  <dt>MCP</dt><dd>membrane cofactor protein (CD46)</dd>
+  <dt>MGUS</dt><dd>monoclonal gammopathy of undetermined significance</dd>
+  <dt>pdC1-INH / rhC1-INH</dt><dd>plasma-derived / recombinant human C1-INH</dd>
+  <dt>PNH</dt><dd>paroxysmal nocturnal haemoglobinuria</dd>
+  <dt>SLE</dt><dd>systemic lupus erythematosus</dd>
+</dl>
+
+<h2>1. The rule: the lost function predicts the disease</h2>
+<p>In <a href="M5-complement.html">M5</a> you learned three jobs of complement: clear immune complexes, opsonize bacteria with C3b, and lyse some bacteria with the membrane attack complex (MAC). You also learned that regulators protect host cells. Each deficiency removes one job. The disease shows which job is missing.</p>
+<ol class="steps">
+  <li>Loss of an early classical component (C1q, C1r, C4, C2) → poor clearance of immune complexes and apoptotic cells → SLE-like immune-complex disease.<span class="src" title="M6-F006">Janeway p.532</span></li>
+  <li>Loss of C3 (or C3 depletion) → poor opsonization → severe pyogenic infections.<span class="src" title="M6-F008,M6-F020">Abbas p.315</span></li>
+  <li>Loss of a terminal component (C5–C9), properdin or factor D → <i>Neisseria</i> infections.<span class="src" title="M6-F015,M6-F018">Janeway p.532</span></li>
+  <li>Loss of a regulator → uncontrolled activation → C3 consumption, aHUS, PNH or (for C1-INH) bradykinin angioedema.<span class="src" title="M6-F024,M6-F026,M6-F030">Abbas p.315</span><span class="src" title="M6-F052">HAE-GL p.6</span></li>
+</ol>
+
+<div class="box analogy"><span class="label">Analogy</span>
+<p>Think of complement as a factory line with three output gates: "waste disposal" (immune complexes), "tagging" (C3b) and "shredder" (MAC). Break the waste-disposal gate and the factory clogs (SLE). Break the tagging station and nothing is labelled for the phagocyte (pyogenic infection). Break only the shredder and only thin-walled packages survive (<i>Neisseria</i>). Break the brakes and the line runs out of control.</p>
+</div>
+
+<h2>2. Deficiency → phenotype map</h2>
+
+<figure class="diagram" id="D18">
+<svg viewBox="0 0 800 620" role="img" aria-labelledby="D18t">
+<title id="D18t">Heat-map of complement deficiencies and their main clinical phenotypes</title>
+<text x="400" y="28" text-anchor="middle" class="t-title" fill="#1d2433">Deficiency → disease heat-map</text>
+<!-- column headers -->
+<g>
+  <rect x="226" y="52" width="111" height="54" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+  <text x="281" y="74" text-anchor="middle" class="t-body" fill="#1d2433">Immune</text>
+  <text x="281" y="94" text-anchor="middle" class="t-body" fill="#1d2433">complex / SLE</text>
+  <rect x="341" y="52" width="111" height="54" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+  <text x="396" y="74" text-anchor="middle" class="t-body" fill="#1d2433">Pyogenic</text>
+  <text x="396" y="94" text-anchor="middle" class="t-body" fill="#1d2433">infection</text>
+  <rect x="456" y="52" width="111" height="54" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+  <text x="511" y="84" text-anchor="middle" class="t-body" fill="#1d2433" font-style="italic">Neisseria</text>
+  <rect x="571" y="52" width="111" height="54" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+  <text x="626" y="84" text-anchor="middle" class="t-body" fill="#1d2433">Angioedema</text>
+  <rect x="686" y="52" width="104" height="54" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+  <text x="738" y="74" text-anchor="middle" class="t-body" fill="#1d2433">Haemolysis</text>
+  <text x="738" y="94" text-anchor="middle" class="t-body" fill="#1d2433">aHUS / GN</text>
+</g>
+<!-- group labels -->
+<g class="t-small" fill="#5b6475">
+  <text x="12" y="138">Early classical</text>
+  <text x="12" y="258">Central</text>
+  <text x="12" y="288">Lectin</text>
+  <text x="12" y="318">Alternative</text>
+  <text x="12" y="378">Terminal</text>
+  <text x="12" y="408">Regulators</text>
+</g>
+<!-- row labels -->
+<g class="t-body" fill="#1d2433">
+  <text x="110" y="138">C1q</text>
+  <text x="110" y="168">C1r / C1</text>
+  <text x="110" y="198">C4</text>
+  <text x="110" y="228">C2 (commonest)</text>
+  <text x="110" y="258">C3</text>
+  <text x="110" y="288">MBL / MASP2</text>
+  <text x="110" y="318">Factor B, D</text>
+  <text x="110" y="348">Properdin (X)</text>
+  <text x="110" y="378">C5–C9</text>
+  <text x="110" y="408">Factor I</text>
+  <text x="110" y="438">Factor H</text>
+  <text x="110" y="468">MCP (CD46)</text>
+  <text x="110" y="498">DAF + CD59</text>
+  <text x="110" y="528">C1-INH</text>
+</g>
+<!-- group separators -->
+<g stroke="#d9dee7" stroke-width="1.5">
+  <line x1="10" y1="244" x2="790" y2="244"/>
+  <line x1="10" y1="274" x2="790" y2="274"/>
+  <line x1="10" y1="304" x2="790" y2="304"/>
+  <line x1="10" y1="364" x2="790" y2="364"/>
+  <line x1="10" y1="394" x2="790" y2="394"/>
+</g>
+<!-- strong cells -->
+<g stroke-width="1.5">
+  <rect x="226" y="120" width="111" height="24" rx="6" fill="#6a4c93"/>
+  <rect x="226" y="150" width="111" height="24" rx="6" fill="#6a4c93"/>
+  <rect x="226" y="180" width="111" height="24" rx="6" fill="#6a4c93"/>
+  <rect x="226" y="210" width="111" height="24" rx="6" fill="#6a4c93"/>
+  <rect x="341" y="240" width="111" height="24" rx="6" fill="#c77d14"/>
+  <rect x="456" y="300" width="111" height="24" rx="6" fill="#b23a48"/>
+  <rect x="456" y="330" width="111" height="24" rx="6" fill="#b23a48"/>
+  <rect x="456" y="360" width="111" height="24" rx="6" fill="#b23a48"/>
+  <rect x="341" y="390" width="111" height="24" rx="6" fill="#c77d14"/>
+  <rect x="686" y="420" width="104" height="24" rx="6" fill="#2e7d5b"/>
+  <rect x="686" y="450" width="104" height="24" rx="6" fill="#2e7d5b"/>
+  <rect x="686" y="480" width="104" height="24" rx="6" fill="#2e7d5b"/>
+  <rect x="571" y="510" width="111" height="24" rx="6" fill="#1f6fb2"/>
+</g>
+<g class="t-small t-white" fill="#ffffff" text-anchor="middle">
+  <text x="281" y="136">SLE &gt;50%</text>
+  <text x="281" y="166">IC disease</text>
+  <text x="281" y="196">SLE &gt;50%</text>
+  <text x="281" y="226">SLE &gt;50%</text>
+  <text x="396" y="256">severe, fatal</text>
+  <text x="511" y="316">meningococcal</text>
+  <text x="511" y="346">meningococcal</text>
+  <text x="511" y="376">only phenotype</text>
+  <text x="396" y="406">C3 depleted</text>
+  <text x="738" y="436">GN, aHUS</text>
+  <text x="738" y="466">aHUS</text>
+  <text x="738" y="496">PNH</text>
+  <text x="626" y="526">HAE</text>
+</g>
+<!-- light cells (some patients) -->
+<g stroke-width="1.5">
+  <rect x="341" y="180" width="111" height="24" rx="6" fill="#fbecd3" stroke="#c77d14"/>
+  <rect x="341" y="210" width="111" height="24" rx="6" fill="#fbecd3" stroke="#c77d14"/>
+  <rect x="226" y="240" width="111" height="24" rx="6" fill="#ece5f5" stroke="#6a4c93"/>
+  <rect x="456" y="240" width="111" height="24" rx="6" fill="#f7e1e4" stroke="#b23a48"/>
+  <rect x="341" y="270" width="111" height="24" rx="6" fill="#fbecd3" stroke="#c77d14"/>
+  <rect x="686" y="390" width="104" height="24" rx="6" fill="#e3f1ea" stroke="#2e7d5b"/>
+</g>
+<g class="t-small" fill="#1d2433" text-anchor="middle">
+  <text x="396" y="196">some</text>
+  <text x="396" y="226">some</text>
+  <text x="281" y="256">sometimes</text>
+  <text x="511" y="256">also</text>
+  <text x="396" y="286">mild, infancy</text>
+  <text x="738" y="406">aHUS</text>
+</g>
+<!-- legend -->
+<rect x="20" y="560" width="760" height="48" rx="8" fill="#f5f7fa" stroke="#d9dee7" stroke-width="1.5"/>
+<rect x="36" y="574" width="34" height="20" rx="5" fill="#1d2433"/>
+<text x="80" y="589" class="t-small" fill="#1d2433">dark cell = main phenotype</text>
+<rect x="262" y="574" width="34" height="20" rx="5" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="306" y="589" class="t-small" fill="#1d2433">light cell = some patients</text>
+<text x="490" y="589" class="t-small" fill="#5b6475">(X) = X-linked · GN = glomerulonephritis</text>
+</svg>
+<figcaption><b>D18.</b> Pathway heat-map. Early classical components → immune-complex (SLE-like) disease; C3 → pyogenic infection; alternative and terminal components → <i>Neisseria</i>; regulators → C3 consumption, aHUS, PNH and HAE. <span class="src" title="M6-F001,M6-F002,M6-F005,M6-F006,M6-F008,M6-F010,M6-F012,M6-F013,M6-F014,M6-F017">Abbas p.315</span> <span class="src" title="M6-F010,M6-F015,M6-F018,M6-F022,M6-F028">Janeway p.532–533</span></figcaption>
+</figure>
+
+<h3>2.1 Early classical components: C1q, C1r, C4, C2 → immune-complex disease</h3>
+<p>Genetic deficiencies of C1q, C1r, C4, C2 and C3 occur in humans.<span class="src" title="M6-F007">Abbas p.315</span> C2 deficiency is the most common human complement deficiency.<span class="src" title="M6-F001">Abbas p.315</span> More than 50% of patients with C1q, C2 or C4 deficiency develop SLE.<span class="src" title="M6-F002">Abbas p.315</span></p>
+<p><b>Why?</b> Early classical components mainly process immune complexes and clear apoptotic cells. Their loss causes immune-complex disease.<span class="src" title="M6-F006">Janeway p.532</span> Uncleared immune complexes deposit in vessel walls and tissues and cause inflammation.<span class="src" title="M6-F003">Abbas p.315</span> Apoptotic bodies that are not cleared are a likely source of the nuclear autoantigens of lupus.<span class="src" title="M6-F004">Abbas p.315</span> Some patients with C2 or C4 deficiency also have more infections; others have no symptoms.<span class="src" title="M6-F005">Abbas p.315</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>Young patient with SLE-like disease + early classical deficiency → think C1q, C4 or C2. C2 is the most common deficiency overall.<span class="src" title="M6-F001,M6-F002">Abbas p.315</span></p>
+</div>
+<p>Separate data for C1s deficiency are not given. Not covered in provided sources — needs expert input.</p>
+
+<h3>2.2 C3 and the lectin pathway → pyogenic infection</h3>
+<p>C3 deficiency causes frequent, serious pyogenic infections that can be fatal. This shows the central role of C3 in opsonization and phagocytosis.<span class="src" title="M6-F008">Abbas p.315</span> Defects in C3 or in C3 activation increase susceptibility to pyogenic bacteria, including <i>Streptococcus pneumoniae</i>.<span class="src" title="M6-F009">Janeway p.532</span> Janeway also lists <i>Neisseria</i> infection and, sometimes, immune-complex disease in C3 deficiency.<span class="src" title="M6-F010">Janeway p.532</span></p>
+<p>Mannose-binding lectin (MBL) deficiency is relatively common (about 5% of the population).<span class="src volatile" title="M6-F011">Janeway p.533</span> It may cause a mild immunodeficiency with more bacterial infections in early childhood. MASP2 defects give a similar phenotype.<span class="src" title="M6-F012">Janeway p.533</span></p>
+
+<h3>2.3 Alternative and terminal components → <i>Neisseria</i></h3>
+<p>Deficiencies of alternative pathway components increase susceptibility to meningococcal infections.<span class="src" title="M6-F013">Abbas p.315</span> Factor B and factor D deficiencies are rare. X-linked recessive properdin deficiency is more common.<span class="src" title="M6-F014">Abbas p.315</span> Properdin-deficient patients are particularly susceptible to <i>Neisseria meningitidis</i>.<span class="src" title="M6-F016">Janeway p.59</span></p>
+<p>In C5, C6, C7, C8 or C9 deficiency, the only consistent clinical problem is disseminated <i>Neisseria</i> infection. MAC lysis is important against these thin-walled bacteria.<span class="src" title="M6-F017">Abbas p.315</span> Defects in factor D and properdin give a similar <i>Neisseria</i> susceptibility.<span class="src" title="M6-F015,M6-F018">Janeway p.532</span> In a Japanese population study, the yearly risk of meningococcal infection was about 1 in 200 with an inherited MAC protein deficiency, versus 1 in 2,000,000 in normal people (10,000-fold).<span class="src volatile" title="M6-F019">Janeway p.533</span></p>
+<div class="box clinical"><span class="label">Clinical correlation</span>
+<p>Recurrent or disseminated <i>Neisseria</i> infection → screen for terminal component or alternative pathway deficiency. A male patient with an affected maternal relative suggests X-linked properdin deficiency.<span class="src" title="M6-F014,M6-F017">Abbas p.315</span></p>
+</div>
+
+<h3>2.4 Regulator deficiencies → uncontrolled activation</h3>
+<p><b>Factor I.</b> Without factor I, fluid-phase C3 convertase forms without control and depletes plasma C3.<span class="src" title="M6-F020">Abbas p.315</span> The result is a de facto C3 deficiency.<span class="src" title="M6-F022">Janeway p.533</span> The patient therefore has more pyogenic infections, like a patient with C3 deficiency.<span class="src" title="M6-F021">Abbas p.315</span></p>
+<p><b>Factor H.</b> Factor H displaces Bb from C3b. It regulates the alternative pathway but not the classical pathway.<span class="src" title="M6-F023">Abbas p.311</span> Factor H deficiency is rare. It causes excess alternative pathway activation, C3 consumption and glomerulonephritis.<span class="src" title="M6-F024">Abbas p.315</span> The autoantibody C3 nephritic factor (C3NeF) has a similar effect: it stabilizes C3bBb against factor H and consumes C3. Patients often have glomerulonephritis.<span class="src" title="M6-F025">Abbas p.315</span> The term "C3 glomerulopathy" is not used in the sources. Not covered in provided sources — needs expert input.</p>
+<p><b>MCP, factor H, factor I → aHUS.</b> See section 5.<span class="src" title="M6-F026,M6-F028">Abbas p.315</span></p>
+<p><b>DAF and CD59 → PNH.</b> See section 5.<span class="src" title="M6-F030">Abbas p.315</span></p>
+<p><b>C1-INH → HAE.</b> See section 4.<span class="src" title="M6-F034">Abbas p.311</span></p>
+
+<table>
+<thead><tr><th>Lost protein</th><th>Function lost (M5)</th><th>Main phenotype</th><th>Source</th></tr></thead>
+<tbody>
+<tr><td>C1q, C1r, C4, C2</td><td>Clearance of immune complexes and apoptotic cells</td><td>SLE-like disease (&gt;50% for C1q, C2, C4); some infections</td><td><span class="src" title="M6-F002,M6-F005,M6-F006">Abbas p.315; Janeway p.532</span></td></tr>
+<tr><td>C3</td><td>Opsonization (C3b)</td><td>Severe pyogenic infections</td><td><span class="src" title="M6-F008,M6-F009">Abbas p.315; Janeway p.532</span></td></tr>
+<tr><td>MBL / MASP2</td><td>Lectin pathway start</td><td>Mild; bacterial infections in early childhood</td><td><span class="src" title="M6-F012">Janeway p.533</span></td></tr>
+<tr><td>Factor B, D, properdin (X-linked)</td><td>Alternative pathway amplification</td><td>Meningococcal infection</td><td><span class="src" title="M6-F013,M6-F014,M6-F015">Abbas p.315; Janeway p.532</span></td></tr>
+<tr><td>C5–C9</td><td>MAC lysis</td><td><i>Neisseria</i> only</td><td><span class="src" title="M6-F017,M6-F018">Abbas p.315; Janeway p.532</span></td></tr>
+<tr><td>Factor I</td><td>Cleavage of C3b</td><td>Secondary C3 depletion → pyogenic infections</td><td><span class="src" title="M6-F020,M6-F021">Abbas p.315</span></td></tr>
+<tr><td>Factor H</td><td>Alternative pathway brake</td><td>C3 consumption, glomerulonephritis; aHUS</td><td><span class="src" title="M6-F024,M6-F026">Abbas p.315</span></td></tr>
+<tr><td>DAF + CD59 (GPI anchor, PIG-A)</td><td>Protection of host cells</td><td>PNH</td><td><span class="src" title="M6-F030">Abbas p.315</span></td></tr>
+<tr><td>C1-INH</td><td>Brake on C1r/C1s, MASP, kallikrein, FXIIa</td><td>HAE (bradykinin)</td><td><span class="src" title="M6-F051,M6-F052">HAE-GL p.6</span></td></tr>
+</tbody>
+</table>
+
+<h2>3. Laboratory work-up</h2>
+<p>The sources give a clear algorithm for suspected C1-INH deficiency. They do not explain how to use CH50 or AH50 to screen for single component deficiencies. Not covered in provided sources — needs expert input.</p>
+<ol class="steps">
+  <li>Suspect HAE in recurrent angioedema without wheals, especially with family history, onset in childhood, abdominal attacks or upper airway swelling.<span class="src" title="M6-F057">HAE-GL p.6</span></li>
+  <li>Measure C1-INH function, C1-INH protein and C4 in every suspected patient.<span class="src volatile" title="M6-F059">HAE-GL p.6</span></li>
+  <li>Repeat any abnormally low result to confirm the diagnosis.<span class="src volatile" title="M6-F059">HAE-GL p.6</span></li>
+  <li>Do not rely on C3 and CH50. They are expected to be normal in HAE and are usually not helpful.<span class="src" title="M6-F061">HAE-GL p.6–7</span></li>
+  <li>Measure C1q when acquired deficiency is possible, especially new-onset angioedema after age 40 with no family history.<span class="src" title="M6-F064">HAE-GL p.7</span></li>
+</ol>
+
+<figure class="diagram" id="D19">
+<svg viewBox="0 0 800 600" role="img" aria-labelledby="D19t">
+<title id="D19t">Decision tree for the laboratory work-up of suspected C1-INH deficiency</title>
+<defs><marker id="arr-D19" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<rect x="240" y="16" width="320" height="40" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="400" y="41" text-anchor="middle" class="t-head" fill="#1d2433">Recurrent angioedema, no wheals</text>
+<line x1="400" y1="56" x2="400" y2="80" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="200" y="82" width="400" height="58" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="400" y="106" text-anchor="middle" class="t-body" fill="#1d2433">C1-INH function + C1-INH protein + C4</text>
+<text x="400" y="126" text-anchor="middle" class="t-small" fill="#5b6475">repeat low results (Rec. 1)</text>
+<!-- branches -->
+<line x1="300" y1="140" x2="140" y2="180" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<line x1="400" y1="140" x2="400" y2="180" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<line x1="500" y1="140" x2="660" y2="180" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="20" y="182" width="240" height="56" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="140" y="205" text-anchor="middle" class="t-body" fill="#1d2433">Function ↓  Protein ↓</text>
+<text x="140" y="226" text-anchor="middle" class="t-small" fill="#5b6475">C4 usually ↓</text>
+<rect x="280" y="182" width="240" height="56" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="400" y="205" text-anchor="middle" class="t-body" fill="#1d2433">Function ↓  Protein N or ↑</text>
+<text x="400" y="226" text-anchor="middle" class="t-small" fill="#5b6475">C4 usually ↓</text>
+<rect x="540" y="182" width="240" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="660" y="214" text-anchor="middle" class="t-body" fill="#1d2433">Function N  Protein N</text>
+<!-- left: C1q -->
+<line x1="140" y1="238" x2="140" y2="268" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="20" y="270" width="240" height="64" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="140" y="292" text-anchor="middle" class="t-body" fill="#1d2433">Measure C1q</text>
+<text x="140" y="310" text-anchor="middle" class="t-small" fill="#5b6475">esp. onset after age 40</text>
+<text x="140" y="325" text-anchor="middle" class="t-small" fill="#5b6475">and no family history</text>
+<line x1="90" y1="334" x2="78" y2="372" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<line x1="190" y1="334" x2="202" y2="372" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="20" y="374" width="116" height="120" rx="8" fill="#6a4c93" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="78" y="396" text-anchor="middle" class="t-small t-white" fill="#ffffff">C1q normal</text>
+<text x="78" y="418" text-anchor="middle" class="t-head t-white" fill="#ffffff">HAE-1</text>
+<text x="78" y="440" text-anchor="middle" class="t-small t-white" fill="#ffffff">~85% of HAE</text>
+<text x="78" y="458" text-anchor="middle" class="t-small t-white" fill="#ffffff">young onset</text>
+<rect x="144" y="374" width="116" height="120" rx="8" fill="#c77d14" stroke="#c77d14" stroke-width="1.5"/>
+<text x="202" y="396" text-anchor="middle" class="t-small t-white" fill="#ffffff">C1q low (75%)</text>
+<text x="202" y="418" text-anchor="middle" class="t-head t-white" fill="#ffffff">AAE-C1-INH</text>
+<text x="202" y="440" text-anchor="middle" class="t-small t-white" fill="#ffffff">lymphoma</text>
+<text x="202" y="458" text-anchor="middle" class="t-small t-white" fill="#ffffff">MGUS</text>
+<text x="202" y="476" text-anchor="middle" class="t-small t-white" fill="#ffffff">autoantibodies</text>
+<!-- middle -->
+<line x1="400" y1="238" x2="400" y2="268" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="300" y="270" width="200" height="64" rx="8" fill="#6a4c93" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="400" y="296" text-anchor="middle" class="t-head t-white" fill="#ffffff">HAE-2</text>
+<text x="400" y="318" text-anchor="middle" class="t-small t-white" fill="#ffffff">dysfunctional C1-INH</text>
+<!-- right -->
+<line x1="660" y1="238" x2="660" y2="268" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D19)"/>
+<rect x="540" y="270" width="240" height="132" rx="8" fill="#f5f7fa" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="660" y="292" text-anchor="middle" class="t-body" fill="#1d2433">Consider:</text>
+<text x="556" y="314" class="t-body" fill="#1d2433">• HAE nC1-INH (FXII,</text>
+<text x="570" y="332" class="t-body" fill="#1d2433">ANGPT1, PLG, UNK)</text>
+<text x="556" y="352" class="t-body" fill="#1d2433">• ACEI-AE</text>
+<text x="556" y="372" class="t-body" fill="#1d2433">• Mast cell-mediated AE</text>
+<text x="556" y="392" class="t-body" fill="#1d2433">• Idiopathic AE</text>
+<!-- side notes -->
+<rect x="300" y="420" width="480" height="70" rx="8" fill="#f5f7fa" stroke="#d9dee7" stroke-width="1.5"/>
+<text x="316" y="444" class="t-body" fill="#1d2433">C3 and CH50: expected normal in HAE → not helpful</text>
+<text x="316" y="466" class="t-body" fill="#1d2433">C1q: nearly always normal in HAE</text>
+<text x="316" y="482" class="t-small" fill="#5b6475">may be normal in AAE on anabolic androgens</text>
+<rect x="20" y="506" width="760" height="76" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="36" y="530" class="t-body" fill="#1d2433">Caveats: C4 not useful under 12 months; cord blood gives falsely low values;</text>
+<text x="36" y="550" class="t-body" fill="#1d2433">C1-INH falls in normal pregnancy → repeat after delivery.</text>
+<text x="36" y="570" class="t-small" fill="#5b6475">CH50 / AH50 screening for single-component deficiency: not in provided sources.</text>
+</svg>
+<figcaption><b>D19.</b> Laboratory decision tree for suspected C1-INH deficiency. <span class="src" title="M6-F040,M6-F041,M6-F042,M6-F059,M6-F060,M6-F061">HAE-GL p.5–7</span> <span class="src" title="M6-F063,M6-F064,M6-F065,M6-F066">HAE-GL p.7</span> <span class="src" title="M6-F072,M6-F073">HAE-GL p.11–12</span></figcaption>
+</figure>
+
+<table>
+<thead><tr><th>Condition</th><th>C1-INH function</th><th>C1-INH protein</th><th>C4</th><th>C1q</th><th>Clues</th></tr></thead>
+<tbody>
+<tr><td>HAE-1 (~85%)</td><td>↓</td><td>↓</td><td>usually ↓</td><td>normal</td><td>Family history (absent in up to 25%); onset in childhood</td></tr>
+<tr><td>HAE-2</td><td>↓</td><td>N or ↑</td><td>usually ↓</td><td>normal</td><td>As HAE-1</td></tr>
+<tr><td>AAE-C1-INH</td><td>↓</td><td>↓</td><td>↓</td><td>↓ in 75%</td><td>Later onset; lymphoma, MGUS, B symptoms; autoantibodies to C1-INH</td></tr>
+<tr><td>HAE nC1-INH</td><td>N</td><td>N</td><td colspan="2">not stated in sources</td><td>Family history; FXII, ANGPT1, PLG or unknown mutation</td></tr>
+</tbody>
+</table>
+<p>Sources for the table: HAE-1 has low antigenic and functional C1-INH.<span class="src" title="M6-F040">HAE-GL p.5</span> HAE-2 has normal or high antigenic but low functional C1-INH.<span class="src" title="M6-F041">HAE-GL p.5</span> HAE-1 is about 85% of patients. C4 is usually low, but its sensitivity and specificity are limited.<span class="src" title="M6-F060">HAE-GL p.6</span> A family history may be absent in up to 25% of patients.<span class="src" title="M6-F058">HAE-GL p.6</span> AAE-C1-INH has the same basic profile as HAE-1. It differs by later onset, underlying lymphoma or MGUS, occasional B symptoms and often low C1q.<span class="src" title="M6-F063">HAE-GL p.7</span> C1q is nearly always normal in HAE and low in 75% of AAE-C1-INH.<span class="src" title="M6-F065">HAE-GL p.7</span> Many AAE-C1-INH patients have autoantibodies that inactivate C1-INH.<span class="src" title="M6-F066">HAE-GL p.7</span></p>
+<p>SERPING1 sequencing can support the diagnosis, including prenatal diagnosis. Biochemical C1-INH testing is effective and cheaper, and sequencing can miss some mutations.<span class="src" title="M6-F062">HAE-GL p.7</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>
+<p>Low C4 is a screening clue, not proof. The diagnosis rests on C1-INH protein and function, repeated.<span class="src volatile" title="M6-F059,M6-F060">HAE-GL p.6</span> Low C1q in a 60-year-old with new angioedema points to acquired deficiency.<span class="src" title="M6-F063,M6-F064">HAE-GL p.7</span></p>
+</div>
+
+<h2>4. Hereditary angioedema in depth</h2>
+
+<div class="box caution"><span class="label">Check the current guideline</span>
+<p>All treatment recommendations below follow the WAO/EAACI guideline, <b>2017 revision</b> (Allergy 2018). A 2021 revision exists and is not in the provided sources. Check every drug, licence, age limit and first-line choice against the current guideline before the exam. Volatile statements are marked with a dashed citation.</p>
+</div>
+
+<h3>4.1 Definition and types</h3>
+<p>Angioedema can be mediated by bradykinin and/or by mast cell mediators such as histamine.<span class="src" title="M6-F039">HAE-GL p.5</span> The guideline names these hereditary and acquired forms:</p>
+<ul>
+  <li><b>HAE-1</b>: C1-INH deficiency; low antigenic and low functional C1-INH.<span class="src" title="M6-F040">HAE-GL p.5</span></li>
+  <li><b>HAE-2</b>: C1-INH dysfunction; normal or high antigenic but low functional C1-INH.<span class="src" title="M6-F041">HAE-GL p.5</span></li>
+  <li><b>HAE nC1-INH</b>: HAE with normal C1-INH — HAE-FXII, HAE-ANGPT1, HAE-PLG and HAE-UNK.<span class="src" title="M6-F042">HAE-GL p.6</span></li>
+  <li><b>AAE-C1-INH</b>: angioedema due to acquired C1-INH deficiency.<span class="src" title="M6-F043">HAE-GL p.5</span></li>
+  <li><b>ACEI-AE</b>: acquired, bradykinin-mediated angioedema with normal C1-INH.<span class="src" title="M6-F044">HAE-GL p.6</span></li>
+</ul>
+<p>HAE nC1-INH is very rare and clinically resembles HAE-1/2. Bradykinin seems to play a major role mainly in patients with an FXII mutation.<span class="src" title="M6-F046">HAE-GL p.6</span> In most patients with HAE nC1-INH, no gene mutation is found.<span class="src" title="M6-F047">HAE-GL p.6</span> The 2017 guideline recommendations apply only to HAE-1/2.<span class="src" title="M6-F045">HAE-GL p.6</span></p>
+<div class="box pearl"><span class="label">Exam pearl — "type III"</span>
+<p>Older texts and the EAACI sample question call HAE with normal C1-INH "type III". The 2017 guideline uses "HAE nC1-INH". Typical vignette: recurrent swelling, affected relative, normal C1-INH level and function.<span class="src" title="M6-F042,M6-F046">HAE-GL p.6</span></p>
+</div>
+
+<h3>4.2 Genetics</h3>
+<p>HAE-1/2 is a rare autosomal dominant condition that affects about 1 in 50,000 people.<span class="src volatile" title="M6-F048">HAE-GL p.6</span> More than 450 different mutations in SERPING1, the gene for C1-INH, cause it.<span class="src volatile" title="M6-F049">HAE-GL p.6</span> In about 20–25% of patients, a de novo SERPING1 mutation causes the disease.<span class="src volatile" title="M6-F050">HAE-GL p.6</span> A family history may be absent in up to 25% of patients.<span class="src" title="M6-F058">HAE-GL p.6</span> Each child of an affected parent has a 50% chance of inheriting HAE.<span class="src" title="M6-F071">HAE-GL p.11</span></p>
+
+<h3>4.3 Pathophysiology: bradykinin, not histamine</h3>
+<p>C1-INH is a serine protease inhibitor (serpin). It is the major inhibitor of C1r, C1s, MASP1 and MASP2, plasma kallikrein and factor XIIa. It is a minor inhibitor of plasmin.<span class="src" title="M6-F051">HAE-GL p.6</span> In complement terms (M5), C1-INH controls the classical and lectin pathways.<span class="src" title="M6-F034">Abbas p.311</span> It also inhibits kallikrein and factor XII, which both promote bradykinin formation.<span class="src" title="M6-F036">Abbas p.311</span></p>
+<ol class="steps">
+  <li>Factor XII autoactivates on contact with negatively charged surfaces.<span class="src" title="M6-F054">HAE-GL p.6</span></li>
+  <li>Factor XIIa converts prekallikrein to plasma kallikrein. C1-INH normally inhibits both enzymes.<span class="src" title="M6-F054">HAE-GL p.6</span></li>
+  <li>Plasma kallikrein cleaves high-molecular-weight kininogen (HMWK) and releases bradykinin, a nonapeptide.<span class="src" title="M6-F053">HAE-GL p.6</span></li>
+  <li>Bradykinin binds the bradykinin B2 receptor and increases vascular permeability.<span class="src" title="M6-F056">HAE-GL p.6</span></li>
+  <li>Metalloproteases, including ACE, rapidly degrade bradykinin.<span class="src" title="M6-F055">HAE-GL p.6</span></li>
+</ol>
+<p>Bradykinin is the primary mediator of swelling in HAE-1/2.<span class="src" title="M6-F052">HAE-GL p.6</span> The missing brake also lets complement run: spontaneous activation produces excess cleaved C4 and C2.<span class="src" title="M6-F037">Janeway p.67</span> When C1-INH protein falls below 20–30% of normal, C4 and C2 breakdown increases.<span class="src" title="M6-F038">Abbas p.311</span> These changes fit the low C4 of HAE.<span class="src" title="M6-F060">HAE-GL p.6</span> Abbas also names a C2 fragment, "C2 kinin", as a mediator.<span class="src" title="M6-F035">Abbas p.311</span></p>
+
+<figure class="diagram" id="D20">
+<svg viewBox="0 0 800 560" role="img" aria-labelledby="D20t">
+<title id="D20t">Bradykinin cascade in HAE with drug target pins</title>
+<defs>
+<marker id="arr-D20" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker>
+<marker id="arrb-D20" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6475"/></marker>
+</defs>
+<text x="400" y="28" text-anchor="middle" class="t-title" fill="#1d2433">HAE: bradykinin cascade and drug targets</text>
+<!-- C1-INH brake -->
+<rect x="20" y="50" width="330" height="54" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="2"/>
+<text x="185" y="72" text-anchor="middle" class="t-head" fill="#1d2433">C1-INH (SERPING1)</text>
+<text x="185" y="92" text-anchor="middle" class="t-small" fill="#5b6475">low or dysfunctional in HAE-1/2</text>
+<!-- inhibition lines -->
+<line x1="90" y1="104" x2="90" y2="150" stroke="#1f6fb2" stroke-width="2"/>
+<line x1="78" y1="150" x2="102" y2="150" stroke="#1f6fb2" stroke-width="3"/>
+<line x1="245" y1="104" x2="245" y2="150" stroke="#1f6fb2" stroke-width="2"/>
+<line x1="233" y1="150" x2="257" y2="150" stroke="#1f6fb2" stroke-width="3"/>
+<!-- cascade -->
+<rect x="20" y="156" width="140" height="62" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="90" y="182" text-anchor="middle" class="t-body" fill="#1d2433">Factor XII</text>
+<text x="90" y="202" text-anchor="middle" class="t-body" fill="#1d2433">→ FXIIa</text>
+<rect x="175" y="156" width="140" height="62" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="245" y="182" text-anchor="middle" class="t-body" fill="#1d2433">Prekallikrein</text>
+<text x="245" y="202" text-anchor="middle" class="t-body" fill="#1d2433">→ kallikrein</text>
+<rect x="330" y="156" width="140" height="62" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="400" y="182" text-anchor="middle" class="t-body" fill="#1d2433">HMWK</text>
+<text x="400" y="202" text-anchor="middle" class="t-body" fill="#1d2433">→ bradykinin</text>
+<rect x="485" y="156" width="140" height="62" rx="8" fill="#f5f7fa" stroke="#1d2433" stroke-width="1.5"/>
+<text x="555" y="182" text-anchor="middle" class="t-body" fill="#1d2433">B2 receptor</text>
+<text x="555" y="202" text-anchor="middle" class="t-small" fill="#5b6475">endothelium</text>
+<rect x="640" y="156" width="140" height="62" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="710" y="182" text-anchor="middle" class="t-body" fill="#1d2433">↑ permeability</text>
+<text x="710" y="202" text-anchor="middle" class="t-body" fill="#1d2433">angioedema</text>
+<line x1="160" y1="187" x2="173" y2="187" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D20)"/>
+<line x1="315" y1="187" x2="328" y2="187" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D20)"/>
+<line x1="470" y1="187" x2="483" y2="187" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D20)"/>
+<line x1="625" y1="187" x2="638" y2="187" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D20)"/>
+<text x="22" y="236" class="t-small" fill="#5b6475">autoactivates on</text>
+<text x="22" y="250" class="t-small" fill="#5b6475">negative surfaces</text>
+<!-- positive feedback -->
+<path d="M 232 218 C 232 254, 152 254, 152 222" fill="none" stroke="#5b6475" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#arrb-D20)"/>
+<text x="196" y="272" text-anchor="middle" class="t-small" fill="#5b6475">positive feedback</text>
+<!-- ACE degradation -->
+<line x1="400" y1="218" x2="400" y2="262" stroke="#5b6475" stroke-width="1.5" marker-end="url(#arrb-D20)"/>
+<rect x="316" y="264" width="168" height="54" rx="8" fill="#f5f7fa" stroke="#5b6475" stroke-width="1.5"/>
+<text x="400" y="286" text-anchor="middle" class="t-body" fill="#1d2433">ACE degrades</text>
+<text x="400" y="306" text-anchor="middle" class="t-small" fill="#5b6475">ACE inhibitors: avoid</text>
+<!-- complement side -->
+<rect x="400" y="50" width="380" height="54" rx="8" fill="#f5f7fa" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="590" y="72" text-anchor="middle" class="t-body" fill="#1d2433">Also inhibits C1r, C1s, MASP1/2</text>
+<text x="590" y="92" text-anchor="middle" class="t-small" fill="#5b6475">→ C4 and C2 consumed → low C4</text>
+<line x1="350" y1="77" x2="398" y2="77" stroke="#1f6fb2" stroke-width="1.5" stroke-dasharray="4 3"/>
+<!-- drug pins -->
+<text x="20" y="352" class="t-head" fill="#1d2433">Drug pins</text>
+<!-- C1-INH concentrate pin -->
+<circle cx="168" cy="140" r="9" fill="#2e7d5b"/>
+<text x="168" y="144" text-anchor="middle" class="t-small t-white" fill="#ffffff">1</text>
+<!-- ecallantide pin -->
+<circle cx="300" cy="140" r="9" fill="#b23a48"/>
+<text x="300" y="144" text-anchor="middle" class="t-small t-white" fill="#ffffff">2</text>
+<!-- icatibant pin -->
+<circle cx="610" cy="140" r="9" fill="#b23a48"/>
+<text x="610" y="144" text-anchor="middle" class="t-small t-white" fill="#ffffff">3</text>
+<rect x="20" y="364" width="370" height="104" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<circle cx="40" cy="386" r="9" fill="#2e7d5b"/>
+<text x="40" y="390" text-anchor="middle" class="t-small t-white" fill="#ffffff">1</text>
+<text x="58" y="390" class="t-body" fill="#1d2433">C1-INH concentrate (pd or rh)</text>
+<text x="36" y="412" class="t-small" fill="#1d2433">replaces C1-INH: blocks FXIIa + kallikrein</text>
+<text x="36" y="430" class="t-small" fill="#1d2433">on-demand (pd, rh) · STP and LTP (pd)</text>
+<text x="36" y="448" class="t-small" fill="#1d2433">first line: children &lt;12, pregnancy</text>
+<rect x="410" y="364" width="370" height="104" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<circle cx="430" cy="386" r="9" fill="#b23a48"/>
+<text x="430" y="390" text-anchor="middle" class="t-small t-white" fill="#ffffff">2</text>
+<text x="448" y="390" class="t-body" fill="#1d2433">Ecallantide: kallikrein inhibitor</text>
+<text x="426" y="410" class="t-small" fill="#1d2433">on-demand · USA only · age 12+ · HCP gives</text>
+<circle cx="430" cy="430" r="9" fill="#b23a48"/>
+<text x="430" y="434" text-anchor="middle" class="t-small t-white" fill="#ffffff">3</text>
+<text x="448" y="434" class="t-body" fill="#1d2433">Icatibant: B2 receptor blocker</text>
+<text x="426" y="454" class="t-small" fill="#1d2433">on-demand · self-injected · adults (2017)</text>
+<rect x="20" y="484" width="760" height="60" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="36" y="506" class="t-body" fill="#1d2433">Not histamine: antihistamines, glucocorticoids and adrenaline do not stop HAE attacks.</text>
+<text x="36" y="528" class="t-small" fill="#5b6475">Androgens: LTP second line. Tranexamic acid: not recommended for LTP. Their mechanism is not in the sources.</text>
+</svg>
+<figcaption><b>D20.</b> Bradykinin cascade with drug target pins (green = on-demand and prophylaxis; red = on-demand only). Licences follow the 2017 guideline. <span class="src" title="M6-F051,M6-F052,M6-F053,M6-F054,M6-F055,M6-F056">HAE-GL p.6</span> <span class="src volatile" title="M6-F081,M6-F082,M6-F083,M6-F084">HAE-GL p.8</span> <span class="src volatile" title="M6-F091,M6-F092,M6-F094">HAE-GL p.9–10</span></figcaption>
+</figure>
+
+<div class="box clinical"><span class="label">Why the anaphylaxis drugs fail</span>
+<p>A failure to respond to antihistamines, glucocorticoids or epinephrine is one of the clues that raise suspicion of HAE.<span class="src" title="M6-F057">HAE-GL p.6</span> These drugs act against mast cell mediators. HAE swelling comes from bradykinin acting on the B2 receptor.<span class="src" title="M6-F052,M6-F056">HAE-GL p.6</span></p>
+</div>
+
+<h3>4.4 Clinical features and triggers</h3>
+<p>Suspect HAE-1/2 in recurrent angioedema with: a positive family history, onset in childhood or adolescence, recurrent painful abdominal attacks, upper airway edema, no response to antihistamines, glucocorticoids or epinephrine, prodromal signs, and no wheals.<span class="src" title="M6-F057">HAE-GL p.6</span> Symptoms usually start in childhood or adolescence. The median age of onset is about 12 years. Subcutaneous edema is the most common and earliest symptom.<span class="src" title="M6-F069">HAE-GL p.10</span> Abbas describes edema of skin and mucosa with abdominal pain, vomiting, diarrhoea and possible airway obstruction.<span class="src" title="M6-F103">Abbas p.311</span></p>
+<p>Erythema marginatum is a prodromal sign in 42–58% of paediatric cases. It is often mistaken for urticaria.<span class="src" title="M6-F070">HAE-GL p.11</span> Wheals do not exclude HAE, because CSU can coexist. The absence of wheals does not exclude mast cell-mediated angioedema.<span class="src" title="M6-F067">HAE-GL p.7</span></p>
+<p>Triggers include trauma (dental, medical, surgical), oestrogen-containing contraceptives and hormone replacement, psychological stress, fatigue, febrile illness and menstruation. Most attacks are unpredictable.<span class="src" title="M6-F074">HAE-GL p.14</span> ACE inhibitors can increase or precipitate attacks; avoid them strictly.<span class="src" title="M6-F075">HAE-GL p.14</span> Procedures with mechanical impact on the upper aerodigestive tract (dental work, intubation, bronchoscopy, endoscopy) can trigger swelling, usually within 48 hours.<span class="src" title="M6-F087">HAE-GL p.9</span></p>
+<div class="box clinical"><span class="label">Clinical correlation</span>
+<p>Mast cell-mediated angioedema is far more common than HAE-1/2. When the diagnosis is not yet clear and the history does not fit HAE, give antihistamines and, if needed, epinephrine and corticosteroids.<span class="src" title="M6-F068">HAE-GL p.7</span></p>
+</div>
+
+<h3>4.5 Diagnosis recommendations</h3>
+<ul>
+  <li><b>Rec. 1</b>: test C1-INH function, C1-INH protein and C4 in all suspected patients; repeat low results.<span class="src volatile" title="M6-F059">HAE-GL p.6</span></li>
+  <li><b>Rec. 13</b>: test children from HAE families as soon as possible, including all offspring of an affected parent.<span class="src volatile" title="M6-F095">HAE-GL p.11</span></li>
+  <li><b>Rec. 20</b>: screen family members, because the first attack can affect the airway and be fatal.<span class="src volatile" title="M6-F102">HAE-GL p.15</span></li>
+</ul>
+
+<h3>4.6 On-demand treatment</h3>
+<ul>
+  <li><b>Rec. 2</b>: consider every attack for on-demand treatment. Treat any attack that affects, or may affect, the upper airway.<span class="src volatile" title="M6-F076">HAE-GL p.7</span></li>
+  <li><b>Rec. 3</b>: treat attacks as early as possible. Early treatment shortens the time to resolution and the attack duration.<span class="src volatile" title="M6-F077">HAE-GL p.7</span></li>
+  <li><b>Rec. 4</b>: treat attacks with C1-INH, ecallantide or icatibant. If none is available, use SDP; if SDP is not available, use FFP.<span class="src volatile" title="M6-F078">HAE-GL p.7–8</span></li>
+  <li><b>Rec. 5</b>: consider intubation or a surgical airway early in progressive upper airway edema. Laryngeal attacks are emergencies.<span class="src volatile" title="M6-F080">HAE-GL p.8</span></li>
+  <li><b>Rec. 6</b>: every patient has on-demand medication for two attacks and carries it at all times.<span class="src volatile" title="M6-F085">HAE-GL p.8</span></li>
+</ul>
+<p>Do not use tranexamic acid or androgens for attacks. They show no or minimal effect on-demand.<span class="src volatile" title="M6-F079">HAE-GL p.8</span></p>
+<table>
+<thead><tr><th>Agent (2017)</th><th>Target</th><th>Key facts</th><th>Source</th></tr></thead>
+<tbody>
+<tr><td>pdC1-INH (Berinert, Cinryze)</td><td>Replaces C1-INH</td><td>Half-life &gt;30 h; negligible allergy risk; licensed for self-administration</td><td><span class="src volatile" title="M6-F081,M6-F086">HAE-GL p.7–8</span></td></tr>
+<tr><td>rhC1-INH (Ruconest)</td><td>Replaces C1-INH</td><td>From transgenic rabbit milk; half-life ~3 h; adults and adolescents; contraindicated in rabbit allergy</td><td><span class="src volatile" title="M6-F082">HAE-GL p.8</span></td></tr>
+<tr><td>Ecallantide</td><td>Plasma kallikrein</td><td>USA only; age 12+; anaphylaxis 3–4% → healthcare professional gives it</td><td><span class="src volatile" title="M6-F083">HAE-GL p.8</span></td></tr>
+<tr><td>Icatibant</td><td>Bradykinin B2 receptor</td><td>Synthetic peptide antagonist; self-administered; adults; half-life 1–2 h</td><td><span class="src volatile" title="M6-F084">HAE-GL p.8</span></td></tr>
+</tbody>
+</table>
+
+<h3>4.7 Short-term (pre-procedural) prophylaxis</h3>
+<p><b>Rec. 7</b>: give short-term prophylaxis before procedures that can induce an attack. Use C1-INH concentrate as close as possible to the start of the procedure; most experts give 1000 U or 20 U/kg pdC1-INH.<span class="src volatile" title="M6-F088">HAE-GL p.9</span> Attenuated androgens (5 days before and 2–3 days after) are an older alternative. Most experts do not recommend tranexamic acid for this purpose. Breakthrough attacks can occur, so on-demand treatment must be available.<span class="src volatile" title="M6-F089">HAE-GL p.9</span></p>
+
+<h3>4.8 Long-term prophylaxis</h3>
+<p><b>Rec. 8–9</b>: consider prophylaxis before life events with high disease activity. Evaluate every patient for long-term prophylaxis at every visit.<span class="src volatile" title="M6-F090">HAE-GL p.9</span></p>
+<table>
+<thead><tr><th>Line (2017)</th><th>Agent</th><th>Notes</th><th>Source</th></tr></thead>
+<tbody>
+<tr><td>First line (Rec. 10)</td><td>C1-INH (pdC1-INH)</td><td>Twice weekly, IV or subcutaneous (40 or 60 U/kg)</td><td><span class="src volatile" title="M6-F091">HAE-GL p.9–10</span></td></tr>
+<tr><td>Second line (Rec. 11)</td><td>Attenuated androgens (e.g., danazol)</td><td>Many side effects (virilization, menstrual disorders, weight gain, acne); semiannual blood/urine tests and yearly liver ultrasound; dose by clinical response, not by C4 or C1-INH level</td><td><span class="src volatile" title="M6-F092,M6-F093">HAE-GL p.10</span></td></tr>
+<tr><td>Not recommended</td><td>Antifibrinolytics (tranexamic acid)</td><td>Used mainly when C1-INH is unavailable and androgens are contraindicated</td><td><span class="src volatile" title="M6-F094">HAE-GL p.10</span></td></tr>
+</tbody>
+</table>
+
+<h3>4.9 Special populations</h3>
+<p><b>Children.</b> <b>Rec. 14</b>: use C1-INH for attacks in children under 12. In 2017, pdC1-INH was the only approved on-demand drug in childhood.<span class="src volatile" title="M6-F096">HAE-GL p.11</span> Do not use androgens for long-term prophylaxis before Tanner stage V. If C1-INH is unavailable, tranexamic acid is preferred.<span class="src volatile" title="M6-F097">HAE-GL p.12</span> C4 is not useful below 12 months of age. Cord blood gives falsely low values. Repeat early tests after age 1.<span class="src" title="M6-F072">HAE-GL p.11</span></p>
+<p><b>Pregnancy and lactation.</b> C1-INH levels fall in normal pregnancy. Interpret tests with caution and repeat them after delivery.<span class="src" title="M6-F073">HAE-GL p.12</span> <b>Rec. 15</b>: C1-INH is the preferred therapy in pregnancy and lactation. Androgens are contraindicated because they cross the placenta.<span class="src volatile" title="M6-F098">HAE-GL p.13</span></p>
+
+<h3>4.10 Self-administration and action plan</h3>
+<ul>
+  <li><b>Rec. 16</b>: every patient has an individual action plan and carries an HAE identification card.<span class="src volatile" title="M6-F099">HAE-GL p.13</span></li>
+  <li><b>Rec. 18</b>: teach self-administration to every patient who has an on-demand drug licensed for it. IV self-administration is possible from age 8.<span class="src volatile" title="M6-F100">HAE-GL p.14</span></li>
+  <li>All C1-INH concentrates and icatibant are licensed for self-administration; indications vary by country.<span class="src volatile" title="M6-F086">HAE-GL p.7</span></li>
+  <li>With upper airway swelling: self-treat, then go to emergency care. Swelling can progress or rebound.<span class="src" title="M6-F101">HAE-GL p.14</span></li>
+</ul>
+
+<h2>5. PNH and aHUS: diseases of regulator defects</h2>
+<h3>5.1 Paroxysmal nocturnal haemoglobinuria (PNH)</h3>
+<p>CD59 is GPI-linked. It blocks the addition of C9 to C5b-8 and so prevents MAC formation on host cells.<span class="src" title="M6-F029">Abbas p.312</span> Mutations in PIG-A cause PNH through defective GPI anchors for CD59 and DAF.<span class="src" title="M6-F030">Abbas p.315</span> The mutation is not inherited. It is an acquired somatic mutation in haematopoietic stem cells.<span class="src" title="M6-F032">Abbas p.312</span> Recurrent intravascular haemolysis causes chronic haemolytic anaemia and venous thrombosis.<span class="src" title="M6-F031">Abbas p.312</span></p>
+<div class="box caution"><span class="label">Source inconsistency</span>
+<p>One summary sentence in Abbas (p.315) groups DAF deficiency with C1-INH deficiency as a cause of HAE. Elsewhere, Abbas and Janeway link loss of DAF and CD59 to PNH, not to angioedema.<span class="src" title="M6-F030">Abbas p.315</span> Do not use that sentence for HAE.</p>
+</div>
+<h3>5.2 Atypical haemolytic uraemic syndrome (aHUS)</h3>
+<p>aHUS involves defective complement regulation. The most common mutations are in the factor H gene, then in the MCP gene.<span class="src" title="M6-F026">Abbas p.315</span> Children present with microangiopathic haemolytic anaemia, thrombocytopenia and acute renal failure. Mutant factor H or MCP binds C3b and C4b on endothelium less well.<span class="src" title="M6-F027">Abbas p.315</span> Deficiencies in MCP, factor I or factor H can cause aHUS. Heterozygous mutations are enough to predispose.<span class="src" title="M6-F028">Janeway p.70</span> Anti-C5 antibodies are approved for PNH and aHUS.<span class="src volatile" title="M6-F033">Abbas p.316</span> Detailed treatment of PNH and aHUS is not covered in provided sources — needs expert input.</p>
+
+<section class="keypoints"><h2>5 key points</h2><ol>
+  <li>Early classical deficiency (C1q, C4, C2) → SLE-like immune-complex disease; C2 deficiency is the most common.<span class="src" title="M6-F001,M6-F002">Abbas p.315</span></li>
+  <li>C3 deficiency, or C3 depletion from factor I deficiency → severe pyogenic infections.<span class="src" title="M6-F008,M6-F020,M6-F021">Abbas p.315</span></li>
+  <li>C5–C9, properdin (X-linked) and factor D/B deficiency → <i>Neisseria</i> infections.<span class="src" title="M6-F013,M6-F014,M6-F017">Abbas p.315</span></li>
+  <li>HAE-1/2 is autosomal dominant (SERPING1) and bradykinin-mediated. Diagnose with C1-INH function, C1-INH protein and C4; use C1q to find acquired deficiency.<span class="src" title="M6-F048,M6-F052,M6-F063">HAE-GL p.6–7</span></li>
+  <li>2017 guideline: treat attacks early with C1-INH, ecallantide or icatibant; C1-INH is first-line LTP; androgens are second-line LTP.<span class="src volatile" title="M6-F077,M6-F078,M6-F091,M6-F092">HAE-GL p.7–10</span></li>
+</ol></section>
+
+<section class="traps"><h2>3 exam traps</h2><ol>
+  <li>Normal C1-INH level and function do not exclude HAE. Think of HAE nC1-INH ("type III") in a patient with a family history.<span class="src" title="M6-F042,M6-F046">HAE-GL p.6</span></li>
+  <li>Adrenaline, antihistamines, glucocorticoids, tranexamic acid and androgens do not treat an acute HAE attack.<span class="src volatile" title="M6-F057,M6-F079">HAE-GL p.6–8</span></li>
+  <li>PNH is not an inherited complement deficiency: the PIG-A mutation is somatic.<span class="src" title="M6-F032">Abbas p.312</span> DAF and CD59 loss causes haemolysis, not angioedema.<span class="src" title="M6-F030">Abbas p.315</span></li>
+</ol></section>
+
+<p class="related">Practice: <a href="../quiz/quiz.html#M6">M6 questions in the quiz</a> (IDs M6-A1 … M6-K3).</p>
+<footer class="sources">Sources: Abbas, Cellular and Molecular Immunology 11th ed., pp. 311, 312, 315, 316; Janeway's Immunobiology 8th ed., pp. 59, 67, 70, 532, 533; WAO/EAACI HAE guideline 2017 revision (Allergy 2018), pp. 5–15 · Fact IDs refer to <code>ledger/facts.csv</code>.</footer>
+</main>
+</body>
+</html>

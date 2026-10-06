@@ -1,0 +1,75 @@
+                                                                                             CHAPTER 4 Innate Immunity                           79
+
+
+  to binding of their ligands, these dectins induce signaling             discussed in Chapter 3, are made by host cells. FPR1 and all
+  events in DCs and macrophages that activate a variety of                other chemoattractant receptors belong to the seven-transmem-
+  immune functions. The cytoplasmic tail of Dectin-1 has an               brane, guanosine triphosphate (GTP)–binding (G) protein–
+  immunoreceptor tyrosine-based activation motif (ITAM),                  coupled receptor (GPCR) superfamily. These receptors initiate
+  which engages tyrosine kinases that transduce signals leading           intracellular responses through associated trimeric G proteins
+  to gene transcription. Dectin-2 and Mincle rely on an asso-             (see Chapter 7). The G proteins stimulate many types of cellular
+  ciated ITAM-bearing signaling partner protein called FcRγ.              responses, including cytoskeletal changes that are responsible
+  ITAMs are used by many different cell-activating receptors              for the increased cell motility.
+  in the immune system; their mechanism of signaling will
+  be discussed in Chapter 7. In response to ligand binding
+  to Dectin-1, Dectin-2, or Mincle, DCs produce cytokines                 CELLULAR COMPONENTS OF THE INNATE
+  and other proteins that promote inflammation and enhance
+  adaptive immune responses. Some of the induced cytokines
+                                                                          IMMUNE SYSTEM
+  promote the development of a type of effector T cell called             The three main functions of the cells of the innate immune sys-
+  Th17, which is particularly effective in defense against fungal         tem are to serve as barriers against infections, act as sentinels to
+  and some bacterial infections (see Chapter 10).                         detect microbes and damaged cells in tissues, and perform effec-
+• Langerin (CD207) and DC-SIGN (CD209) are two other lec-                 tor functions that eliminate microorganisms. Innate immune
+  tins expressed on DCs, both of which bind mannose and have              cells express the various pattern recognition receptors we have
+  roles in immune responses to various microbes. Langerin is              just discussed, and after recognizing PAMPs and DAMPs, they
+  expressed by epidermal Langerhans cells and other subsets               respond by producing inflammatory cytokines and antiviral
+  of DCs in the skin and other epithelial barriers. DC-SIGN is            proteins and kill microbes or infected host cells. In addition,
+  expressed on the majority of DCs as well as on macrophages              some of the cells of innate immunity are critical for stimulating
+  and sinusoidal endothelial cells. DC-SIGN binds to envelope             subsequent adaptive immune responses.
+  glycoproteins of the hepatitis C virus and HIV-1 and may play
+  a pathogenic role in disseminating infection by these viruses.          Epithelial Barriers
+                                                                          Intact epithelial surfaces form physical barriers between
+Scavenger Receptors                                                       microbes in the external environment and host tissue (Fig. 4.7).
+Scavenger receptors comprise a structurally and functionally diverse      The main interfaces between the environment and the mam-
+collection of cell surface proteins that were originally grouped on the   malian host are the skin and the mucosal surfaces of the
+basis of the common characteristic of mediating the uptake (“scav-        gastrointestinal, respiratory, and genitourinary tracts. These
+enging”) of oxidized lipoproteins into cells. Some of these scaven-       interfaces are lined by continuous layers of specialized epi-
+ger receptors, including scavenger receptor A (SR-A) and CD36, are        thelial cells that serve many physiologic functions, includ-
+expressed on macrophages and mediate the phagocytosis of micro-           ing preventing the entry of microbes. Loss of the integrity of
+organisms. In addition, CD36 functions as a coreceptor in TLR2/6          these epithelial layers by trauma or other reasons predisposes
+recognition and response to bacterially derived lipoteichoic acid and
+diacylated lipopeptides. A wide range of molecular structures bind
+to each scavenger receptor, including LPS, lipoteichoic acid, nucleic
+acids, β-glucan, and proteins. The significance of scavenger receptors
+                                                                                  Physical barrier
+in innate immunity is highlighted by increased susceptibility to infec-
+                                                                                    to infection
+tion in gene knockout mice lacking these receptors and by the obser-
+vation that several microbial pathogens express virulence factors that
+block scavenger receptor–mediated recognition and phagocytosis.
+                                                                                Killing of microbes Peptide
+                                                                                                    antibiotics
+Formyl-Peptide Receptors
+                                                                                by locally produced
+The formyl peptide receptor-1 (FPR1), expressed on leukocytes,
+                                                                                      antibiotics
+recognizes bacterial peptides containing N-formylmethionyl
+                                                                                     (defensins,
+residues and stimulates directed movement of the cells. Because
+                                                                                   cathelicidins)
+synthesis of all bacterial proteins and few mammalian proteins                                                Intraepithelial
+(only those synthesized within mitochondria) is initiated by                                                  lymphocyte
+N-formylmethionine, FPR1 enables phagocytes to detect and                       Killing of microbes
+respond preferentially to bacterial proteins. The bacterial pep-                and infected cells
+tide ligands that bind this receptor are some of the most potent                 by intraepithelial
+known chemoattractants for leukocytes. Microbial chemoat-                           lymphocytes
+tractants include several types of diffusible molecules, often
+                                                                          Fig. 4.7 Epithelial barriers. Epithelia at the portals of entry of microbes
+produced at sites of infection, that bind to specific receptors on        provide physical barriers, produce antimicrobial peptides including
+cells and direct their movement toward the source of the che-             defensins and cathelicidins, and harbor intraepithelial lymphocytes that
+moattractant. Other chemoattractants, such as the chemokines              are believed to kill microbes and infected cells.
+
+
+
+                                                           ERRNVPHGLFRVRUJ
+
+

@@ -1,0 +1,65 @@
+88             CHAPTER 4 Innate Immunity
+
+
+cells. CRP, SAP, and PTX3 all activate the classical pathway of             contains a collagen-like tail connected by a neck region to a
+complement by binding C1q.                                                  calcium-dependent (C-type) lectin head. Three members of this
+    Plasma concentrations of CRP are very low in healthy indi-              family serve as soluble effector molecules in the innate immune
+viduals but can increase up to 1000-fold during infections and              system; these are MBL and pulmonary surfactant proteins SP-A
+in response to other inflammatory stimuli. The increased CRP                and SP-D.
+levels result from increased synthesis by liver cells induced               • MBL, which is a soluble pattern recognition receptor that
+by the cytokines IL-6, IL-1, and TNF, which are produced by                    binds carbohydrates with terminal mannose and fucose, was
+phagocytes and DCs as part of the innate immune response to                    discussed earlier in relation to the lectin pathway of comple-
+infections or injury. Liver synthesis and plasma levels of several             ment activation (Fig. 4.13). MBL also functions as an opso-
+other proteins, including SAP and some unrelated to the pen-                   nin by binding to and enhancing phagocytosis of microbes.
+traxins, also increase in response to IL-1, IL-6, and TNF. All of              Recall that opsonins simultaneously bind microbes and a
+these plasma proteins are called acute-phase proteins because                  surface receptor on phagocyte membranes, and in the case of
+they are elevated in the blood during acute inflammatory reac-                 MBL, the surface receptor is called the C1q receptor because
+tions, and their increased production is part of the acute-phase               it also binds C1q. This receptor mediates the internalization
+response to infection and other insults.                                       of microbes that are opsonized by MBL. The gene encoding
+    PTX3 is produced by several cell types, including DCs, mac-                MBL is polymorphic, and certain alleles are associated with
+rophages, and endothelial cells, in response to TLR ligands and                impaired hexamer formation and reduced blood levels. Low
+inflammatory cytokines, such as TNF, and may be considered an                  MBL levels result in increased susceptibility to a variety of
+acute-phase reactant. PTX3 is also stored in neutrophil granules               infections, especially in individuals who have other immune
+and released as neutrophils die. PTX3 recognizes various mol-                  defects.
+ecules on fungi, certain bacteria, and viruses, as well as apoptotic        • Surfactant protein A (SP-A) and D (SP-D) are collectins with
+cells, and activates the classical complement pathway. Studies with            lipophilic properties shared by other surfactants. They are found
+knockout mice reveal that PTX3 provides protection against sev-                in the alveoli of the lungs, and their major functions are to main-
+eral microbes, including the fungus Aspergillus fumigatus and the              tain the ability of alveoli to expand upon inhalation by reducing
+influenza virus.                                                               the surface tension of alveolar fluid, and as mediators of innate
+                                                                               immune responses in the lung. They bind to various microorgan-
+Collectins and Ficolins                                                        isms and act as opsonins, facilitating ingestion of the microbes
+The collectins are a family of homo trimeric protein that                      by alveolar macrophages. SP-A and SP-D can also directly inhibit
+dimerize to form hexameric complexes, each subunit of which                    bacterial growth and they may activate macrophages. SP-A– and
+
+
+                                          C1q                       Mannose-                          Ficolin
+                                                                     binding
+                                                                      lectin
+                                                            MASP1                        MASP1
+                                                            MASP2                       MASP2
+                         C1r2s2
+
+                                      s         r
+                           H                            H
+
+                                  H                 H
+
+
+
+
+                          Microbial IgM antibody                    Mannose                   N-Acetylglucosamine
+                          surface                                   on microbe                on bacterial cell wall
+                          antigen                                   surface
+                  Fig. 4.13 C1, mannose-binding lectin, and ficolin. These three homologous hexameric proteins can all
+                  initiate complement activation on binding to their ligands on cell surfaces. C-type lectin–like globular heads
+                  (H) at the end of collagenous-like stalks in the C1q and mannose-binding lectin proteins bind the Fc regions of
+                  immunoglobulin M (IgM) or mannose on the surface of microbes, respectively. Fibrinogen-like globular heads
+                  on ficolin bind N-acetylglucosamine on the surface of microbes. Binding results in conformational changes
+                  that activate the serine protease activity of C1r and C1s, associated with C1q, or mannose-associated serine
+                  protease 1 (MASP1) and MASP2, associated with mannose-binding lectin and ficolin.
+
+
+
+                                                              ERRNVPHGLFRVRUJ
+
+

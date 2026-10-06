@@ -1,0 +1,311 @@
+{
+ "id": "V5",
+ "slug": "complement",
+ "title": "Complement made easy",
+ "beats": [
+  {
+   "id": "b01",
+   "text": "Complement looks like alphabet soup. But it follows a few simple rules. Learn them, and complement questions become easy.",
+   "facts": [],
+   "no_facts_reason": "Hook; facts follow in later beats.",
+   "visual": "Title card, then a jumble of C-letters that sorts into five topic words."
+  },
+  {
+   "id": "b02",
+   "text": "Complement is a major effector mechanism of antibody immunity and of innate immunity. Its proteases circulate as inactive zymogens. A zymogen becomes active only when another protease cleaves it.",
+   "facts": [
+    "M5-F001",
+    "M5-F002"
+   ],
+   "visual": "Two arrows from 'Complement' to 'antibody immunity' and 'innate immunity'; a grey zymogen turns yellow when cut."
+  },
+  {
+   "id": "b03",
+   "text": "Each active protease cleaves many molecules of the next zymogen. So the signal amplifies at every step. Think of it like falling dominoes.",
+   "facts": [
+    "M5-F003"
+   ],
+   "visual": "Amplification tree: 1 enzyme to 3 to 9 to 27 dots."
+  },
+  {
+   "id": "b04",
+   "text": "Two naming rules help. The larger fragment gets b, and the smaller gets a. C2 is the exception: the large C2a stays attached. And the numbers follow discovery, not action. So the classical sequence is C1, C4, C2, C3, then C5 to C9.",
+   "say": "Two naming rules help. The larger fragment gets b, and the smaller gets a. C 2 is the exception: the large C 2 a stays attached. And the numbers follow discovery, not action. So the classical sequence is C 1, C 4, C 2, C 3, then C 5 to C 9.",
+   "facts": [
+    "M5-F004",
+    "M5-F005",
+    "M5-F006"
+   ],
+   "visual": "C3 splits into small C3a and big C3b; C2 split shown with swapped labels; sequence C1→C4→C2→C3→C5…C9."
+  },
+  {
+   "id": "b05",
+   "text": "Three pathways start complement. The classical pathway starts on antibody bound to antigen. The lectin pathway starts when lectins bind microbial sugars. The alternative pathway starts on microbial surfaces without antibody. Janeway notes that all three can start without antibody.",
+   "facts": [
+    "M5-F007",
+    "M5-F009"
+   ],
+   "visual": "D15 starts: three pathway boxes with their triggers on the left."
+  },
+  {
+   "id": "b06",
+   "text": "All three lead to one central event. A C3 convertase cleaves C3 into C3a and C3b. C3b binds covalently to the target surface. If it finds no surface nearby, its thioester is hydrolyzed and C3b becomes inactive.",
+   "say": "All three lead to one central event. A C 3 convertase cleaves C 3 into C 3 a and C 3 b. C 3 b binds covalently to the target surface. If it finds no surface nearby, its thioester is hydrolyzed and C 3 b becomes inactive.",
+   "facts": [
+    "M5-F010",
+    "M5-F011"
+   ],
+   "visual": "Three arrows merge on 'C3 convertase'; C3 splits; C3b sticks to a membrane; a second C3b misses and fades."
+  },
+  {
+   "id": "b07",
+   "text": "Host cells carry regulatory proteins that inhibit complement. Microbes lack them. So activation proceeds on microbes, not on our own cells.",
+   "facts": [
+    "M5-F012"
+   ],
+   "visual": "Host cell with green regulator shields beside a bacterium covered in C3b."
+  },
+  {
+   "id": "b08",
+   "text": "Now the classical pathway. C1q binds antibody, and C1r and C1s are serine proteases. C1q binds the CH2 domain of IgG or the CH3 domain of IgM. It must bind at least two heavy chains, so free antibody cannot activate C1.",
+   "say": "Now the classical pathway. C 1 q binds antibody, and C 1 r and C 1 s are serine proteases. C 1 q binds the C H 2 domain of I g G or the C H 3 domain of I g M. It must bind at least two heavy chains, so free antibody cannot activate C 1.",
+   "facts": [
+    "M5-F016",
+    "M5-F013",
+    "M5-F017"
+   ],
+   "visual": "Bacterium with two bound antibodies; C1q 'tulip' docks on two Fc stems; C1r and C1s labels."
+  },
+  {
+   "id": "b09",
+   "text": "One antigen-bound IgM can bind two or more C1q, so IgM fixes complement better than IgG. IgG1 and IgG3 are efficient, IgG2 is weak, and IgG4 does not activate complement.",
+   "say": "One antigen-bound I g M can bind two or more C 1 q, so I g M fixes complement better than I g G. I g G 1 and I g G 3 are efficient, I g G 2 is weak, and I g G 4 does not activate complement.",
+   "facts": [
+    "M5-F018",
+    "M5-F014",
+    "M5-F015"
+   ],
+   "visual": "Ranking ladder: IgM > IgG1, IgG3 > IgG2 > IgG4 (struck); side note CRP, SAP, apoptotic bodies."
+  },
+  {
+   "id": "b10",
+   "text": "C1q activates C1r, and C1r activates C1s. C1s cleaves C4, and C4b binds the surface. C2 binds C4b, and C1s cleaves it. C4b2a forms, the classical pathway C3 convertase.",
+   "say": "C 1 q activates C 1 r, and C 1 r activates C 1 s. C 1 s cleaves C 4, and C 4 b binds the surface. C 2 binds C 4 b, and C 1 s cleaves it. C 4 b 2 a forms, the classical pathway C 3 convertase.",
+   "facts": [
+    "M5-F020",
+    "M5-F021",
+    "M5-F022"
+   ],
+   "visual": "Chain C1q → C1r → C1s → C4 → C4b on membrane; C2a joins; label 'C4b2a = C3 convertase'."
+  },
+  {
+   "id": "b11",
+   "text": "The lectin pathway is the classical pathway's twin. Mannose-binding lectin, or MBL, and ficolins bind microbial sugars. MASP2 then cleaves C4 and C2, just like C1s. So the lectin pathway forms the same C3 convertase, C4b2a.",
+   "say": "The lectin pathway is the classical pathway's twin. Mannose-binding lectin, or M B L, and ficolins bind microbial sugars. MASP 2 then cleaves C 4 and C 2, just like C 1 s. So the lectin pathway forms the same C 3 convertase, C 4 b 2 a.",
+   "facts": [
+    "M5-F025",
+    "M5-F028",
+    "M5-F029"
+   ],
+   "visual": "Two columns: C1q/C1r/C1s vs MBL-ficolin/MASP1/MASP2 converge on the same C4b2a box."
+  },
+  {
+   "id": "b12",
+   "text": "The alternative pathway never fully sleeps. Plasma C3 is cleaved spontaneously, about 1 to 2 percent per hour. This is C3 tick-over. The product, C3(H2O), binds factor B, and factor D cleaves it. A short-lived fluid-phase C3 convertase forms. Factor D is the only activating complement protease that circulates already active.",
+   "say": "The alternative pathway never fully sleeps. Plasma C 3 is cleaved spontaneously, about 1 to 2 percent per hour. This is C 3 tick-over. The product, C 3 H 2 O, binds factor B, and factor D cleaves it. A short-lived fluid-phase C 3 convertase forms. Factor D is the only activating complement protease that circulates already active.",
+   "facts": [
+    "M5-F030",
+    "M5-F031",
+    "M5-F034"
+   ],
+   "visual": "Pilot-light flame; C3 → C3(H2O) + factor B; factor D scissors; fluid-phase convertase C3(H2O)Bb."
+  },
+  {
+   "id": "b13",
+   "text": "On a surface, C3b binds factor B, and factor D cleaves it. Bb stays, and C3bBb is the alternative pathway C3 convertase. Properdin stabilizes C3bBb, mainly on microbial surfaces. Note the twins: C3 is homologous to C4, and factor B to C2.",
+   "say": "On a surface, C 3 b binds factor B, and factor D cleaves it. B b stays, and C 3 b, B b is the alternative pathway C 3 convertase. Properdin stabilizes C 3 b, B b, mainly on microbial surfaces. Note the twins: C 3 is homologous to C 4, and factor B to C 2.",
+   "facts": [
+    "M5-F032",
+    "M5-F035",
+    "M5-F024"
+   ],
+   "visual": "C3b on membrane + B → Bb stays, Ba floats off; properdin clamp; twin pairs C4b2a ↔ C3bBb."
+  },
+  {
+   "id": "b14",
+   "text": "Each C3bBb makes more C3b, and each new C3b builds more C3bBb. So this loop amplifies complement started by any pathway. Think of it like a pilot light. On a bacterium, nothing blows it out, so it becomes a fire.",
+   "say": "Each C 3 b, B b makes more C 3 b, and each new C 3 b builds more C 3 b, B b. So this loop amplifies complement started by any pathway. Think of it like a pilot light. On a bacterium, nothing blows it out, so it becomes a fire.",
+   "facts": [
+    "M5-F032",
+    "M5-F033"
+   ],
+   "visual": "Circular amplification loop C3bBb → C3b → C3bBb, fed by arrows from all three pathways."
+  },
+  {
+   "id": "b15",
+   "text": "Add one more C3b to a C3 convertase, and you get a C5 convertase. Classical and lectin: C4b2a3b. Alternative: one Bb with two C3b, which Janeway writes C3b2Bb. C2a or Bb then cleaves C5.",
+   "say": "Add one more C 3 b to a C 3 convertase, and you get a C 5 convertase. Classical and lectin: C 4 b 2 a 3 b. Alternative: one B b with two C 3 b, which Janeway writes C 3 b 2 B b. C 2 a or B b then cleaves C 5.",
+   "facts": [
+    "M5-F023",
+    "M5-F036",
+    "M5-F037",
+    "M5-F038"
+   ],
+   "visual": "Table of convertases: C3 convertase + C3b = C5 convertase for both rows."
+  },
+  {
+   "id": "b16",
+   "text": "C5b starts the membrane attack complex, or MAC. Unlike C3b, C5b does not bind covalently to the surface. C5b binds C6 and C7, and C5b-7 inserts into the membrane. C8 joins and makes small pores. Binding of the first C9 is the rate-limiting step.",
+   "say": "C 5 b starts the membrane attack complex, or MAC. Unlike C 3 b, C 5 b does not bind covalently to the surface. C 5 b binds C 6 and C 7, and C 5 b to 7 inserts into the membrane. C 8 joins and makes small pores. Binding of the first C 9 is the rate-limiting step.",
+   "facts": [
+    "M5-F039",
+    "M5-F040",
+    "M5-F041",
+    "M5-F042"
+   ],
+   "visual": "D16: membrane; blocks C5b, C6, C7, C8 stack and dip into the bilayer; first C9 flashes 'rate-limiting'."
+  },
+  {
+   "id": "b17",
+   "text": "More C9 molecules polymerize to finish the pore, C5b-9. Abbas says up to 18 C9 molecules; Janeway says 10 to 16. Water enters, and the cell swells and bursts. But lysis matters against only a few pathogens, such as thin-walled Neisseria.",
+   "say": "More C 9 molecules polymerize to finish the pore, C 5 b to 9. Abbas says up to 18 C 9 molecules; Janeway says 10 to 16. Water enters, and the cell swells and bursts. But lysis matters against only a few pathogens, such as thin-walled Neisseria.",
+   "facts": [
+    "M5-F043",
+    "M5-F044",
+    "M5-F045",
+    "M5-F046"
+   ],
+   "visual": "Ring of C9 forms a pore; water arrows enter; cell swells and pops; note 'Neisseria'."
+  },
+  {
+   "id": "b18",
+   "text": "The most important job of complement is to help phagocytes take up pathogens. C3b and C4b bind complement receptor 1, CR1. iC3b, a cleaved form of C3b, binds CR3 and CR4. CR1 alone triggers phagocytosis inefficiently. But iC3b on CR3 is enough on its own.",
+   "say": "The most important job of complement is to help phagocytes take up pathogens. C 3 b and C 4 b bind complement receptor 1, C R 1. i C 3 b, a cleaved form of C 3 b, binds C R 3 and C R 4. C R 1 alone triggers phagocytosis inefficiently. But i C 3 b on C R 3 is enough on its own.",
+   "facts": [
+    "M5-F096",
+    "M5-F048",
+    "M5-F079",
+    "M5-F049",
+    "M5-F050"
+   ],
+   "visual": "Phagocyte with CR1 and CR3 receptors grabbing a C3b/iC3b-coated bacterium."
+  },
+  {
+   "id": "b19",
+   "text": "A clinical link. IgM against capsules activates the classical pathway, and the spleen clears pneumococci and meningococci. So people without a spleen risk disseminated pneumococcal and meningococcal septicemia.",
+   "say": "A clinical link. I g M against capsules activates the classical pathway, and the spleen clears pneumococci and meningococci. So people without a spleen risk disseminated pneumococcal and meningococcal septicemia.",
+   "facts": [
+    "M5-F095",
+    "M5-F051"
+   ],
+   "visual": "Spleen outline clearing encapsulated bacteria; then spleen struck in pink → septicemia."
+  },
+  {
+   "id": "b20",
+   "text": "The small fragments C3a, C4a and C5a degranulate mast cells and release histamine. We call them anaphylatoxins. C5a is the most potent. C3a is about 20-fold weaker, and C4a about 2500-fold weaker.",
+   "say": "The small fragments C 3 a, C 4 a and C 5 a degranulate mast cells and release histamine. We call them anaphylatoxins. C 5 a is the most potent. C 3 a is about 20-fold weaker, and C 4 a about 2500-fold weaker.",
+   "facts": [
+    "M5-F052",
+    "M5-F053",
+    "M5-F054"
+   ],
+   "visual": "Mast cell releases granules; potency bars C5a > C3a (÷20) > C4a (÷2500)."
+  },
+  {
+   "id": "b21",
+   "text": "C3a and C5a can degranulate mast cells without IgE. C5a also attracts eosinophils and stimulates neutrophil motility. Large systemic amounts of anaphylatoxins cause a shock-like syndrome, similar to a systemic allergic reaction.",
+   "say": "C 3 a and C 5 a can degranulate mast cells without I g E. C 5 a also attracts eosinophils and stimulates neutrophil motility. Large systemic amounts of anaphylatoxins cause a shock-like syndrome, similar to a systemic allergic reaction.",
+   "facts": [
+    "M5-F057",
+    "M5-F058",
+    "M5-F055",
+    "M5-F056"
+   ],
+   "visual": "C5a in the centre with arrows to mast cell (no IgE), eosinophil, neutrophil; pink 'shock' box."
+  },
+  {
+   "id": "b22",
+   "text": "Complement also helps adaptive immunity. CR1 on red cells carries immune complexes to the liver and spleen for clearance. And C3d on an antigen binds CR2 on B cells and helps B-cell activation.",
+   "say": "Complement also helps adaptive immunity. C R 1 on red cells carries immune complexes to the liver and spleen for clearance. And C 3 d on an antigen binds C R 2 on B cells and helps B-cell activation.",
+   "facts": [
+    "M5-F061",
+    "M5-F064"
+   ],
+   "visual": "Red cell carrying immune complex to liver/spleen; antigen with C3d tag binding B cell via CR2."
+  },
+  {
+   "id": "b23",
+   "text": "Now the brakes. C3b cannot tell a host cell from a pathogen, so our cells need regulators. They act at three levels: C3 convertase formation, the convertases themselves, and the MAC.",
+   "say": "Now the brakes. C 3 b cannot tell a host cell from a pathogen, so our cells need regulators. They act at three levels: C 3 convertase formation, the convertases themselves, and the MAC.",
+   "facts": [
+    "M5-F098",
+    "M5-F097"
+   ],
+   "visual": "D17 skeleton: Start → Convertases → MAC, with three brake slots."
+  },
+  {
+   "id": "b24",
+   "text": "At the start sits C1 inhibitor, or C1-INH, a serpin. It removes C1r and C1s from C1q, and it inactivates MASP2. It also inhibits kallikrein and factor XII, which promote bradykinin formation. C1-INH deficiency causes hereditary angioedema.",
+   "say": "At the start sits C 1 inhibitor, a serpin. It removes C 1 r and C 1 s from C 1 q, and it inactivates MASP 2. It also inhibits kallikrein and factor 12, which promote bradykinin formation. C 1 inhibitor deficiency causes hereditary angioedema.",
+   "facts": [
+    "M5-F068",
+    "M5-F069",
+    "M5-F070",
+    "M5-F071"
+   ],
+   "visual": "C1-INH brake on C1 and MASP2, plus a side arrow to kallikrein / factor XII → bradykinin → HAE."
+  },
+  {
+   "id": "b25",
+   "text": "At the convertases, decay accelerators pull the enzyme apart. DAF, or CD55, dissociates both C3 convertases. Factor H displaces Bb, and C4-binding protein displaces C2. Factor I is the scissors. It cuts C3b and C4b only with a cofactor: factor H, MCP, C4-binding protein or CR1.",
+   "say": "At the convertases, decay accelerators pull the enzyme apart. D A F, or C D 55, dissociates both C 3 convertases. Factor H displaces B b, and C 4-binding protein displaces C 2. Factor I is the scissors. It cuts C 3 b and C 4 b only with a cofactor: factor H, M C P, C 4-binding protein or C R 1.",
+   "facts": [
+    "M5-F081",
+    "M5-F073",
+    "M5-F076",
+    "M5-F077",
+    "M5-F078"
+   ],
+   "visual": "Two columns: 'Decay' (DAF, factor H, C4BP) and 'Factor I + cofactor' (H, MCP, C4BP, CR1)."
+  },
+  {
+   "id": "b26",
+   "text": "At the MAC, CD59, or protectin, joins the complex after C5b-8 and blocks C9. In plasma, S protein binds soluble C5b-7 and protects bystander cells. Loss of GPI anchors removes DAF and CD59 and causes paroxysmal nocturnal hemoglobinuria.",
+   "say": "At the MAC, C D 59, or protectin, joins the complex after C 5 b to 8 and blocks C 9. In plasma, S protein binds soluble C 5 b to 7 and protects bystander cells. Loss of G P I anchors removes D A F and C D 59 and causes paroxysmal nocturnal hemoglobinuria.",
+   "facts": [
+    "M5-F083",
+    "M5-F084",
+    "M5-F085",
+    "M5-F087"
+   ],
+   "visual": "MAC on membrane; CD59 wedge blocks incoming C9; GPI anchor struck → PNH."
+  },
+  {
+   "id": "b27",
+   "text": "Five things to remember. One: three pathways converge on C3 cleavage. Two: classical and lectin make C4b2a, and the alternative pathway makes C3bBb. Three: the alternative loop amplifies everything. Four: C3b opsonizes, C5a is the strongest anaphylatoxin, and the MAC lyses Neisseria. Five: regulators act at three levels.",
+   "say": "Five things to remember. One: three pathways converge on C 3 cleavage. Two: classical and lectin make C 4 b 2 a, and the alternative pathway makes C 3 b, B b. Three: the alternative loop amplifies everything. Four: C 3 b opsonizes, C 5 a is the strongest anaphylatoxin, and the MAC lyses Neisseria. Five: regulators act at three levels.",
+   "facts": [
+    "M5-F010",
+    "M5-F022",
+    "M5-F029",
+    "M5-F032",
+    "M5-F033",
+    "M5-F048",
+    "M5-F054",
+    "M5-F046",
+    "M5-F097"
+   ],
+   "visual": "Numbered list of five points, written one at a time."
+  },
+  {
+   "id": "b28",
+   "text": "One exam trap. Factor H regulates only the alternative pathway. It does not displace C2a from C4b. The plasma brake for C4b is C4-binding protein. Next: complement deficiencies and hereditary angioedema.",
+   "say": "One exam trap. Factor H regulates only the alternative pathway. It does not displace C 2 a from C 4 b. The plasma brake for C 4 b is C 4-binding protein. Next: complement deficiencies and hereditary angioedema.",
+   "facts": [
+    "M5-F074",
+    "M5-F076"
+   ],
+   "visual": "Trap card: 'Factor H → C4b2a' struck in pink; 'C4BP' in green; then 'Next: V6'."
+  }
+ ]
+}

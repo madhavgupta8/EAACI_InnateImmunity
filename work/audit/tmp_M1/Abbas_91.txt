@@ -1,0 +1,65 @@
+                                                                                              CHAPTER 4 Innate Immunity                 91
+
+
+    fibroblasts, endothelial cells, and epithelial cells, can also         Tumor Necrosis Factor
+    produce them.                                                          Tumor necrosis factor (TNF) is a mediator of the acute inflam-
+•   Most of these cytokines act on cells close to their cell of ori-       matory response to bacteria and other infectious microbes. The
+    gin (paracrine action). In some severe infections, enough of           name of this cytokine derives from its original identification
+    the cytokines may be produced so that significant amounts              as a serum substance (factor) that caused necrosis of tumors,
+    enter the circulation and act at a distance (endocrine action).        now known to be the result of inflammation and thrombosis of
+•   Different cytokines may share similar actions but some                 tumor blood vessels. TNF is also called TNF-α to distinguish
+    actions may be unique to one cytokine. One cytokine may                it from the closely related TNF-β, which is also called lympho-
+    stimulate the production of others, thus setting up cascades           toxin. In innate immune responses, TNF is produced mainly by
+    that amplify the reaction or induce new reactions.                     macrophages, and also by other cell types, including DCs, mast
+•   The cytokines of innate immunity serve several roles: induc-           cells, and ILCs. In macrophages, it is synthesized as a homotri-
+    ing inflammation, inhibiting viral replication, promoting              meric nonglycosylated type II membrane protein that is able
+    T-cell responses, and regulating innate immune responses.              to bind to one form of TNF receptor. The membrane form of
+    These functions are described next and later in the chapter.           TNF is cleaved by a membrane-associated metalloproteinase,
+•   Many cytokines that are produced by innate immune cells,               releasing a polypeptide fragment, and three of these polypep-
+    such as TNF, IL-17, IL-5, and IFN-γ, are also produced by T            tide chains polymerize to form a triangular pyramid-shaped
+    lymphocytes in adaptive immune responses.                              circulating TNF protein (Fig. 4.15). The receptor-binding sites
+•   Three of the most important proinflammatory cytokines of               are at the base of the pyramid, allowing simultaneous binding of
+    the innate immune system are TNF, IL-1 (both of which we               the cytokine to three receptor molecules. TNF is a member of a
+    have mentioned several times), and IL-6. We will discuss the           large family of homologous proteins called the TNF superfam-
+    major features of these cytokines, focusing mainly on TNF              ily, all of which share the feature of forming homotrimers (see
+    and IL-1, before describing their role in acute inflammation.          Appendix II).
+
+
+
+
+                     A                Top view                   B                    Side view
+
+                         TNFR II
+
+
+
+
+                                                       TNFR II
+
+
+
+                          TNFR II
+                                                                                                               TNFR II
+                                                                               TNFR II
+                                                                                                 TNFR II
+
+
+
+
+                                                                  Cell membrane
+
+
+
+                  Fig. 4.15 Structure of the TNF receptor with bound TNF. The ribbon structure depicts a top view (A) and
+                  a side view (B) of a complex of three type II TNF receptors (TNFR II) and one molecule of bound trimeric
+                  TNF, revealed by x-ray crystallography. The three TNFR II molecules, colored blue, together bind one homotri-
+                  mer of TNF, colored green, with each receptor molecule interacting with two different TNF monomers in the
+                  homotrimer complex. The binding regions of one of the three TNFR II molecules to two TNF monomers are
+                  highlighted in the side view by orange ovals. Modified from Mukai Y, Nakamura T, Yoshikawa M, et al. Solution
+                  of the structure of the TNF-TNFR2 complex. Sci Signal. 2010;3:ra83.
+
+
+
+                                                          ERRNVPHGLFRVRUJ
+
+

@@ -1,0 +1,73 @@
+64              CHAPTER 4 Innate Immunity
+
+
+ TABLE 4.1        Specificity of Innate and Adaptive Immunity
+                                  Innate Immunity                                                 Adaptive Immunity
+ Specificity                      For structures shared by classes of microbes (pathogen-         For structural detail of microbial molecules
+                                   associated molecular patterns)                                  (antigens); may recognize nonmicrobial
+                                                                                                   antigens
+                                  Different
+                                  microbes                                                        Different
+                                                                                                  microbes
+                                  Identical
+                                  Toll-like
+                                  receptors
+                                                                                                   Distinct
+                                                                                                   antibody
+                                                                                                   molecules
+
+ Number of microbial              About 1000 molecular patterns (estimated)                       >107 antigens
+  molecules recognized
+
+ Receptors                        Encoded in germline; limited diversity (pattern recognition     Encoded by genes produced by somatic
+                                   receptors)                                                      recombination of gene segments; greater
+                                                                                                   diversity
+
+
+
+
+                                                                                                                     Ig
+
+
+                                                                                                                      TCR
+
+                                  Toll-like          N-Formyl
+                                                               Mannose Scavenger
+                                  receptor           methionyl
+                                                               receptor receptor
+                                                     receptor
+
+ Number and types of              <100 different types of invariant receptors                     Only two types of receptors (Ig and TCR), with
+  receptors                                                                                        millions of variations of each
+
+ Distribution of receptors        Nonclonal: identical receptors on all cells of the same         Clonal: clones of lymphocytes with distinct
+                                   lineage                                                         specificities express different receptors
+
+ Genes encoding receptors         Germline encoded, in all cells (inherited)                      Formed by somatic recombination of gene
+                                                                                                   segments only in B and T cells (functional
+                                                                                                   genes not inherited)
+
+ Discrimination of self and       Yes; healthy host cells are not recognized or they may          Yes; based on elimination or inactivation of
+  nonself                          express molecules that prevent innate immune reactions          self-reactive lymphocytes; may be imperfect
+                                                                                                   (giving rise to autoimmunity)
+
+ Ig, Immunoglobulin; TCR, T-cell antigen receptor.
+
+
+
+
+   To recognize PAMPs and DAMPs, the innate immune sys-                         phagocytic vesicles, and in the cytosol of various cell types, all
+tem uses several types of cellular receptors, present in differ-                of which are cellular compartments where microbes or their
+ent locations in cells, and soluble molecules in the blood and                  products may be present (Fig. 4.1). When these cell-associated
+mucosal secretions (Table 4.3). The cellular receptors for patho-               pattern recognition receptors bind to PAMPs and DAMPs, they
+gen- and damage-associated molecular patterns are called pat-                   activate signal transduction pathways that promote the anti-
+tern recognition receptors. They are expressed in phagocytes                    microbial and proinflammatory functions of the cells in which
+(primarily macrophages and neutrophils), DCs, epithelial cells                  they are expressed. In addition, many proteins present in the
+that form the barrier interface between the body and the exter-                 blood and extracellular fluids recognize PAMPs (see Table 4.3).
+nal environment, mast cells, and many other types of cells that                 These soluble molecules are responsible for facilitating the
+reside in tissues. These receptors are located on the surfaces, in              clearance of microbes from the blood and extracellular fluids
+
+
+                                                              ERRNVPHGLFRVRUJ
+
+

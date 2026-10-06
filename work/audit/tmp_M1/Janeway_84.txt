@@ -1,0 +1,95 @@
+84
+
+Chapter 3: The Induced Responses of Innate Immunity
+
+Fig. 3.7 Monocytes circulating in
+
+the blood migrate into infected and
+inflamed tissues. Adhesion molecules
+on the endothelial cells of the blood
+vessel wall first capture the monocyte
+and cause it to adhere to the vascular
+endothelium. Chemokines bound to
+
+the vascular endothelium then signal
+
+the monocyte to migrate across the
+endothelium into the underlying tissue.
+The monocyte, now differentiating into a
+macrophage, continues to migrate, under
+the influence of chemokines released
+during inflammatory responses, toward
+the site of infection. Monocytes leaving
+the blood are also able to differentiate into
+dendritic cells (not shown), depending on
+the signals that they receive from their
+environment.
+
+The monocyte
+migrates into the
+surrounding tissue
+
+Monocyte binds adhesion molecules on
+vascular endothelium near site of infection
+and receives chemokine signal
+
+Monocyte differentiates into
+a macrophage and migrates
+to the site of infection
+
+Blood vessel lumen
+
+chemokine
+
+receptor molecules
+
+=
+
+O#O
+
+chemokine.
+
+Tissue
+
+pathways that degrade membrane phospholipids. Their actions are followed
+by those of the chemokines and cytokines that are synthesized and secreted
+by macrophages in response to pathogens. The cytokine tumor necrosis fac-
+tor-o (TNF-a, also known simply as TNF), for example, is a potent activator
+of endothelial cells. We describe TNF-o and related cytokines in more detail
+in Section 3-17.
+
+Besides stimulating the respiratory burst in phagocytes and acting as achemo-
+attractant for neutrophils and monocytes (see Section 3-2), C5a also promotes
+inflammation by increasing vascular permeability and inducing the expres-
+sion of certain adhesion molecules on endothelium. C5a also activates local
+mast cells (see Section 1-3), which are stimulated to release their granules
+containing the small inflammatory molecule histamine and TNF-« as well as
+cathelicidins.
+
+If wounding has occurred, the injury to blood vessels immediately triggers
+two protective enzyme cascades. One is the kinin system of plasma proteases
+that is triggered by tissue damage, and is a protease cascade similar to the
+complement system, in which the enzymes are initially in an inactive or
+zymogen form. Tissue injury triggers an enzymatic cascade in which one
+active protease cleaves and activates the next protease, resulting in the
+production of several inflammatory mediators including the vasoactive
+peptide bradykinin. Bradykinin causes an increase in vascular permeability
+that promotes the influx of plasma proteins to the site of tissue injury. It also
+causes pain, which, although unpleasant to the victim, draws attention to the
+problem and leads to immobilization of the affected part of the body, which
+helps to limit the spread of the infection.
+
+The coagulation system is another protease cascade that is triggered in the
+blood after damage to blood vessels. Its activation leads to the formation of a
+fibrin clot, whose normal role is to prevent blood loss. With regard to innate
+immunity, however, the clot physically encases the infectious microorgan-
+isms and prevents their entry into the bloodstream. The kinin cascade and
+the blood coagulation cascade are also triggered by activated endothelial
+cells, and so they can have important roles in the inflammatory response to
+pathogens even if wounding or gross tissue injury has not occurred. Thus,
+within minutes of the penetration of tissues by a pathogen, the inflammatory
+response causes an influx of proteins and cells that may control the infection.
+It also forms a physical barrier in the form of blood clots to limit the spread of
+infection and makes the host fully aware of the local infection.
+
+

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "M3-A1",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 2-year-old boy has his second episode of invasive pneumococcal infection (pneumonia with bacteraemia). His parents report that he hardly had a fever during either episode, and the local signs of inflammation were mild. He has had several common viral infections without complications. Which defect best explains this picture?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Loss-of-function mutation in TLR3",
+        "correct": false,
+        "explanation": "TLR3 loss of function gives recurrent herpes simplex encephalitis, not invasive pyogenic infection.",
+        "source": "Abbas p.489"
+      },
+      {
+        "key": "B",
+        "text": "Mutation in the IL-12 receptor β1 chain",
+        "correct": false,
+        "explanation": "IL-12Rβ1 mutations give susceptibility to Salmonella and mycobacteria, not pneumococcal 'cold' infection.",
+        "source": "Abbas p.93"
+      },
+      {
+        "key": "C",
+        "text": "Autosomal recessive IRAK4 deficiency",
+        "correct": true,
+        "explanation": "MyD88/IRAK4 deficiency gives severe invasive bacterial (especially pneumococcal) infections early in life with little fever or inflammation; viral susceptibility is not increased.",
+        "source": "Abbas p.489; Janeway p.92, 535"
+      },
+      {
+        "key": "D",
+        "text": "Gain-of-function mutation in NLRP3",
+        "correct": false,
+        "explanation": "NLRP3 gain of function (CAPS) gives excess IL-1 with fever and rash, the opposite of a fever-poor picture.",
+        "source": "Abbas p.74-75"
+      },
+      {
+        "key": "E",
+        "text": "Homozygous mutation in UNC93B",
+        "correct": false,
+        "explanation": "UNC93B deficiency impairs endosomal TLRs and type I IFN and predisposes to herpes simplex encephalitis.",
+        "source": "Abbas p.489"
+      }
+    ],
+    "fact_ids": [
+      "M3-F036",
+      "M3-F037",
+      "M3-F038",
+      "M3-F039",
+      "M3-F119",
+      "M3-F040",
+      "M3-F107",
+      "M3-F067",
+      "M3-F042"
+    ]
+  },
+  {
+    "id": "M3-A2",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 6-year-old girl is admitted with her second episode of herpes simplex virus-1 encephalitis. She has no history of severe bacterial, fungal or other viral infections. Immunoglobulins and lymphocyte subsets are normal. A defect in which pathway is most likely?",
+    "options": [
+      {
+        "key": "A",
+        "text": "MyD88–IRAK4 signalling to NF-κB",
+        "correct": false,
+        "explanation": "MyD88/IRAK4 defects give invasive pyogenic bacterial infections; IRAK4 deficiency adds no viral susceptibility.",
+        "source": "Abbas p.489; Janeway p.92"
+      },
+      {
+        "key": "B",
+        "text": "TLR5 recognition of bacterial flagellin",
+        "correct": false,
+        "explanation": "TLR5 is a surface receptor for flagellin of motile bacteria and has no role in herpes simplex encephalitis in the sources.",
+        "source": "Abbas p.67"
+      },
+      {
+        "key": "C",
+        "text": "NOD2 recognition of muramyl dipeptide",
+        "correct": false,
+        "explanation": "NOD2 senses bacterial peptidoglycan (MDP); its variants relate to Crohn's disease and Blau syndrome.",
+        "source": "Abbas p.72"
+      },
+      {
+        "key": "D",
+        "text": "Lectin pathway initiation by MBL",
+        "correct": false,
+        "explanation": "Low MBL increases risk of various infections mainly when other immune defects coexist; it does not cause isolated HSE.",
+        "source": "Abbas p.88"
+      },
+      {
+        "key": "E",
+        "text": "Endosomal TLR3–TRIF signalling to type I IFN",
+        "correct": true,
+        "explanation": "Defects in TLR3, UNC93B, TRIF, TRAF3 or TBK1 impair type I IFN downstream of TLR3 and cause herpes simplex encephalitis without broad viral susceptibility.",
+        "source": "Abbas p.489"
+      }
+    ],
+    "fact_ids": [
+      "M3-F040",
+      "M3-F041",
+      "M3-F042",
+      "M3-F036",
+      "M3-F039",
+      "M3-F013",
+      "M3-F046",
+      "M3-F048",
+      "M3-F049",
+      "M3-F099",
+      "M3-F033"
+    ]
+  },
+  {
+    "id": "M3-A3",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 34-year-old man has had attacks since childhood of fever, urticarial rash, joint pain and conjunctivitis. The attacks start a few hours after cold exposure. His father has the same attacks. Which mechanism best explains his disease?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gain-of-function NLRP3 mutation with excess inflammasome-generated IL-1β",
+        "correct": true,
+        "explanation": "Dominant NLRP3 (cryopyrin) mutations cause CAPS; in FCAS cold exposure triggers fever, urticarial rash, joint pain and conjunctivitis.",
+        "source": "Abbas p.74; Janeway p.537"
+      },
+      {
+        "key": "B",
+        "text": "MEFV mutation with dysregulated pyrin inflammasome",
+        "correct": false,
+        "explanation": "FMF (MEFV/pyrin) presents with fever, serositis and arthritis, without cold-induced urticarial rash.",
+        "source": "Abbas p.74-75"
+      },
+      {
+        "key": "C",
+        "text": "TNFRSF1A mutation affecting TNF receptor I",
+        "correct": false,
+        "explanation": "TRAPS gives periodic fever, myalgia and rash; cold triggering is not a feature in the sources.",
+        "source": "Janeway p.536-537"
+      },
+      {
+        "key": "D",
+        "text": "Gain-of-function NOD2 mutation with excess NF-κB",
+        "correct": false,
+        "explanation": "NOD2 gain of function causes Blau syndrome with spontaneous inflammation of joints, eyes and skin.",
+        "source": "Abbas p.72; Janeway p.93"
+      },
+      {
+        "key": "E",
+        "text": "Partial loss of mevalonate kinase activity",
+        "correct": false,
+        "explanation": "HIDS gives fever from infancy with high serum IgD and lymphadenopathy.",
+        "source": "Janeway p.537"
+      }
+    ],
+    "fact_ids": [
+      "M3-F065",
+      "M3-F068",
+      "M3-F053",
+      "M3-F072",
+      "M3-F073",
+      "M3-F049",
+      "M3-F050",
+      "M3-F074"
+    ]
+  },
+  {
+    "id": "M3-A4",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 58-year-old man has a third attack of acute monoarthritis of the first toe. Joint aspirate shows monosodium urate crystals. He does not respond to conventional anti-inflammatory drugs, and the rheumatologist proposes IL-1 blockade. Which innate mechanism explains why IL-1 blockade is effective?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Urate crystals bind TLR4 and signal through MyD88 alone",
+        "correct": false,
+        "explanation": "TLR4 recognizes LPS (with MD2) and heat shock proteins; the sources link urate crystals to the inflammasome, not to TLR4.",
+        "source": "Abbas p.67, 74"
+      },
+      {
+        "key": "B",
+        "text": "Cytosolic DNA from crystals activates cGAS–STING",
+        "correct": false,
+        "explanation": "cGAS–STING senses cytosolic dsDNA and induces type I IFN, not IL-1β.",
+        "source": "Abbas p.76"
+      },
+      {
+        "key": "C",
+        "text": "NOD2 in Paneth cells recognizes urate and activates RIP2",
+        "correct": false,
+        "explanation": "NOD2 recognizes muramyl dipeptide from bacterial peptidoglycan and activates NF-κB through RIP2.",
+        "source": "Abbas p.72"
+      },
+      {
+        "key": "D",
+        "text": "Phagocytosed crystals damage lysosomes and activate NLRP3–caspase-1",
+        "correct": true,
+        "explanation": "Urate crystals damage lysosomes and activate the NLRP3 inflammasome; caspase-1 then generates active IL-1β. IL-1 antagonists treat severe resistant gout.",
+        "source": "Abbas p.72, 74"
+      },
+      {
+        "key": "E",
+        "text": "Cytosolic urate activates caspase-4 and caspase-5 directly",
+        "correct": false,
+        "explanation": "The noncanonical caspase-4/5 pathway is activated by cytosolic LPS, not by urate.",
+        "source": "Abbas p.74"
+      }
+    ],
+    "fact_ids": [
+      "M3-F062",
+      "M3-F056",
+      "M3-F057",
+      "M3-F053",
+      "M3-F020",
+      "M3-F117",
+      "M3-F083",
+      "M3-F084",
+      "M3-F046",
+      "M3-F047",
+      "M3-F060"
+    ]
+  },
+  {
+    "id": "M3-A5",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 45-year-old woman with gram-negative urosepsis has a plasma CRP that rises steeply over 48 hours. Which group of cytokines, produced after TLR4 recognition of LPS, mainly drives this hepatic CRP synthesis?",
+    "options": [
+      {
+        "key": "A",
+        "text": "IL-12 and IL-18",
+        "correct": false,
+        "explanation": "IL-12 and IL-18 mainly drive IFN-γ production and NK cell function, not acute-phase protein synthesis.",
+        "source": "Abbas p.93-94"
+      },
+      {
+        "key": "B",
+        "text": "IL-6, IL-1 and TNF",
+        "correct": true,
+        "explanation": "IL-6, IL-1 and TNF induce hepatocytes to make acute-phase proteins; CRP can rise up to 1000-fold.",
+        "source": "Abbas p.88, 97"
+      },
+      {
+        "key": "C",
+        "text": "IFN-α and IFN-β",
+        "correct": false,
+        "explanation": "Type I IFNs induce an antiviral state and more MHC class I; they are not the drivers of CRP synthesis.",
+        "source": "Abbas p.90"
+      },
+      {
+        "key": "D",
+        "text": "IL-33 released as an alarmin",
+        "correct": false,
+        "explanation": "IL-33 is an epithelial alarmin released from damaged cells; it is not the hepatic acute-phase signal.",
+        "source": "Abbas p.94"
+      },
+      {
+        "key": "E",
+        "text": "CXCL8 and CCL2",
+        "correct": false,
+        "explanation": "These chemokines recruit neutrophils and monocytes; they do not induce hepatic acute-phase proteins.",
+        "source": "Abbas p.94"
+      }
+    ],
+    "fact_ids": [
+      "M3-F112",
+      "M3-F097",
+      "M3-F105",
+      "M3-F106",
+      "M3-F108",
+      "M3-F109",
+      "M3-F114",
+      "M3-F111",
+      "M3-F012"
+    ]
+  },
+  {
+    "id": "M3-A6",
+    "module": "M3",
+    "type": "A",
+    "stem": "A 5-month-old girl has recurrent fever, skin lesions due to cutaneous vasculopathy, and tachypnoea. Chest CT shows interstitial lung disease. Infection screening is negative. Which mechanism is most likely?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gain-of-function NLRP3 with excess IL-1β",
+        "correct": false,
+        "explanation": "CAPS gives fever, neutrophilic rash, bony lesions and CNS inflammation, not vasculopathy with interstitial lung disease.",
+        "source": "Abbas p.75"
+      },
+      {
+        "key": "B",
+        "text": "Loss-of-function TLR3 with low type I IFN",
+        "correct": false,
+        "explanation": "TLR3 loss of function gives herpes simplex encephalitis, not a sterile inflammatory disease.",
+        "source": "Abbas p.489"
+      },
+      {
+        "key": "C",
+        "text": "Loss-of-function MyD88 with absent NF-κB signalling",
+        "correct": false,
+        "explanation": "MyD88 deficiency gives invasive pyogenic infections with little inflammation.",
+        "source": "Abbas p.489"
+      },
+      {
+        "key": "D",
+        "text": "Gain-of-function NOD2 with excess NF-κB signalling",
+        "correct": false,
+        "explanation": "NOD2 gain of function causes Blau syndrome with inflammation of joints, eyes and skin.",
+        "source": "Abbas p.72; Janeway p.93"
+      },
+      {
+        "key": "E",
+        "text": "Gain-of-function STING with excess type I IFN",
+        "correct": true,
+        "explanation": "STING gain of function causes SAVI, an interferonopathy with cutaneous vasculopathy, fever and interstitial lung disease.",
+        "source": "Abbas p.75, 77"
+      }
+    ],
+    "fact_ids": [
+      "M3-F085",
+      "M3-F086",
+      "M3-F084",
+      "M3-F067",
+      "M3-F040",
+      "M3-F036",
+      "M3-F038",
+      "M3-F049",
+      "M3-F050"
+    ]
+  },
+  {
+    "id": "M3-K1",
+    "module": "M3",
+    "type": "KPRIM",
+    "stem": "Toll-like receptors. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "TLR9 sits in endosomes and recognizes unmethylated CpG DNA.",
+        "correct": true,
+        "explanation": "TLR9 is endosomal and binds unmethylated CpG motifs, common in prokaryotic DNA but rare in vertebrate DNA.",
+        "source": "Abbas p.67, 69"
+      },
+      {
+        "key": "B",
+        "text": "For LPS recognition, the accessory protein MD2 binds lipid A and the complex engages TLR4.",
+        "correct": true,
+        "explanation": "MD2 binds the lipid A component of LPS and the complex interacts with TLR4; CD14 is also needed for efficient signalling.",
+        "source": "Abbas p.69"
+      },
+      {
+        "key": "C",
+        "text": "TLR5 sits in endosomes and recognizes viral single-stranded RNA.",
+        "correct": false,
+        "explanation": "TLR5 is a plasma membrane TLR that binds bacterial flagellin; TLR7 and TLR8 bind ssRNA.",
+        "source": "Abbas p.67, 69"
+      },
+      {
+        "key": "D",
+        "text": "TLR3 depends on MyD88 to induce IFN-β.",
+        "correct": false,
+        "explanation": "TLR3 is the only TLR that does not use MyD88; it signals only through TRIF.",
+        "source": "Abbas p.69"
+      }
+    ],
+    "fact_ids": [
+      "M3-F015",
+      "M3-F010",
+      "M3-F020",
+      "M3-F021",
+      "M3-F013",
+      "M3-F009",
+      "M3-F014",
+      "M3-F025",
+      "M3-F033"
+    ]
+  },
+  {
+    "id": "M3-K2",
+    "module": "M3",
+    "type": "KPRIM",
+    "stem": "NOD-like receptors and inflammasomes. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Caspase-1 cleaves gasdermin D, and the N-terminal fragment forms pores in the plasma membrane.",
+        "correct": true,
+        "explanation": "The gasdermin D N-terminal fragment polymerizes into pores through which IL-1β leaves the cell.",
+        "source": "Abbas p.72"
+      },
+      {
+        "key": "B",
+        "text": "Neutrophils are the main cell type that dies by pyroptosis.",
+        "correct": false,
+        "explanation": "Pyroptosis affects macrophages and dendritic cells, not neutrophils.",
+        "source": "Abbas p.74"
+      },
+      {
+        "key": "C",
+        "text": "NOD2 recognizes muramyl dipeptide, and some NOD2 polymorphisms increase the risk of Crohn's disease.",
+        "correct": true,
+        "explanation": "NOD2 senses MDP from gram-negative and gram-positive peptidoglycan; some variants raise Crohn's risk.",
+        "source": "Abbas p.72"
+      },
+      {
+        "key": "D",
+        "text": "In humans, cytosolic LPS can activate caspase-4 or caspase-5 and cause pyroptosis.",
+        "correct": true,
+        "explanation": "This is the noncanonical inflammasome pathway (caspase-11 in rodents).",
+        "source": "Abbas p.74"
+      }
+    ],
+    "fact_ids": [
+      "M3-F054",
+      "M3-F059",
+      "M3-F046",
+      "M3-F048",
+      "M3-F060"
+    ]
+  },
+  {
+    "id": "M3-K3",
+    "module": "M3",
+    "type": "KPRIM",
+    "stem": "Soluble PRRs and cytosolic nucleic-acid sensors. Which of the following statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "CRP binds phosphorylcholine and activates the classical complement pathway by binding C1q.",
+        "correct": true,
+        "explanation": "CRP binds phosphorylcholine; CRP, SAP and PTX3 activate the classical pathway through C1q.",
+        "source": "Abbas p.87-88"
+      },
+      {
+        "key": "B",
+        "text": "Ficolins recognize carbohydrates through a C-type lectin domain, like MBL.",
+        "correct": false,
+        "explanation": "Ficolins have a fibrinogen-type recognition domain instead of a C-type lectin domain.",
+        "source": "Abbas p.89"
+      },
+      {
+        "key": "C",
+        "text": "RIG-I recognizes viral RNA with a 5′-triphosphate, which capped host mRNA lacks.",
+        "correct": true,
+        "explanation": "RIG-I only recognizes RNA with a 5′-triphosphate; host mRNA carries a 7-methylguanosine cap.",
+        "source": "Abbas p.75-76"
+      },
+      {
+        "key": "D",
+        "text": "MAVS is an endoplasmic reticulum adaptor that binds cGAMP.",
+        "correct": false,
+        "explanation": "STING is the ER adaptor that binds cGAMP; MAVS is on the outer mitochondrial membrane and serves RIG-I and MDA5.",
+        "source": "Abbas p.76"
+      }
+    ],
+    "fact_ids": [
+      "M3-F095",
+      "M3-F096",
+      "M3-F102",
+      "M3-F099",
+      "M3-F077",
+      "M3-F084",
+      "M3-F079"
+    ]
+  }
+]

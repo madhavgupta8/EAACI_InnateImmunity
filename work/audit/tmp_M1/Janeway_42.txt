@@ -1,0 +1,67 @@
+42
+
+Chapter 2: Innate Immunity: The First Lines of Defense
+
+before the microbe has had time to infect someone else. In short, we have
+adapted to live with our enemies, and they with us. Nevertheless, the recent
+concern about highly pathogenic strains of avian influenza, and the episode
+in 2002-2003 of SARS (severe acute respiratory syndrome), caused by a coro-
+navirus from bats that caused severe pneumonia in humans, remind us that
+new and deadly infections can transfer to humans from animal reservoirs.
+These are known as zoonotic infections—and we must be on the alert at all
+times for the emergence of new pathogens and new threats to health. The
+human immunodeficiency virus that causes AIDS (discussed in Chapter 13)
+serves as a warning that we remain constantly vulnerable.
+
+2-2 Infectious agents must overcome innate host defenses to establish
+a focus of infection.
+
+Our bodies are constantly exposed to microorganisms present in our environ-
+ment, including infectious agents that have been shed from other infected
+individuals. Contact with these microorganisms may occur through external
+or internal epithelial surfaces. For a microorganism to invade the body, it must
+first bind to or cross an epithelium. The epithelium lining the respiratory tract
+provides a route of entry into tissues for airborne microorganisms, and the
+lining of the gastrointestinal tract does the same for microorganisms ingested
+in food and water. The intestinal pathogens Salmonella typhi, which causes
+typhoid fever, and Vibrio cholerae, which causes cholera, are spread through
+fecally contaminated food and water, respectively. Insect bites and wounds
+allow microorganisms to penetrate the skin, and direct contact between indi-
+viduals offers opportunities for infection through the skin, the gut, and the
+reproductive tract (see Fig. 2.2). The microorganisms normally inhabiting
+the healthy intestine—the commensal microbiota—provide a first defense
+against microorganisms invading through the gut by competing with patho-
+gens for nutrients and epithelial attachment sites. Commensal microorgan-
+isms also provoke responses that help strengthen epithelial barrier function.
+Immune responses that occur in the specialized mucosal immune system,
+such as that of the gut, will be described in greater detail in Chapter 12.
+
+In spite of this exposure, infectious disease is fortunately quite infrequent.
+The epithelial surfaces of the body serve as an effective barrier against most
+microorganisms, and they are rapidly repaired if wounded. Furthermore,
+most of the microorganisms that do succeed in crossing an epithelial surface
+are efficiently removed by innate immune mechanisms that function in the
+underlying tissues. Thus, in most cases these defenses prevent infection from
+becoming established. It is difficult to know how many infections are repelled
+in this way, because they cause no symptoms and pass undetected. It is clear,
+however, that the microorganisms that a normal human being inhales or
+ingests, or that enter through minor wounds, are mostly held at bay or elimi-
+nated, because they seldom cause clinical disease.
+
+Disease occurs when a microorganism succeeds in evading or overwhelming
+innate host defenses to establish a local site of infection, and then replicates
+there to allowits further transmission within our bodies. In general, pathogenic
+microorganisms are distinguished from the mass of microorganisms in the
+environment by having special adaptations that help them do this (some
+of the ways in which pathogens evade the immune system are described in
+Chapter 13). In some cases, such as the fungal disease athlete's foot, the initial
+infection remains local and does not cause significant pathology. In other
+cases, the infectious agent causes significant damage and serious illness as
+it spreads through the lymphatics or the bloodstream, invades and destroys
+tissues, or disrupts the body's workings with its toxins, as in the case of the
+tetanus bacterium (Clostridium tetani), which secretes a powerful neurotoxin.
+
+In the second, induced, phase of the innate immune response, the spread
+of a pathogen is often initially countered by an inflammatory response that
+
+

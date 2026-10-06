@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M3 PRRs &amp; signalling — Innate Immunity</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="topbar"><nav>
+  <a href="../index.html">Home</a>
+  <a href="M1-foundation.html">M1 Foundation</a>
+  <a href="M2-cells.html">M2 Cells</a>
+  <a href="M3-prrs.html" class="current">M3 PRRs</a>
+  <a href="M4-phagocytosis.html">M4 Phagocytosis</a>
+  <a href="M5-complement.html">M5 Complement</a>
+  <a href="M6-complement-deficiencies.html">M6 Deficiencies &amp; HAE</a>
+  <a href="M7-summary.html">M7 Summary</a>
+  <a href="../quiz/quiz.html">Quiz</a>
+</nav></header>
+<main>
+<h1>M3 · Pattern recognition receptors &amp; signalling</h1>
+<p class="subtitle">Innate immunity lecture pack · EAACI/UEMS Knowledge Exam preparation</p>
+
+<section class="objectives"><h2>After this module you can</h2><ul>
+<li>Define PAMPs and DAMPs and give typical examples.</li>
+<li>Place each PRR family in its cell compartment: cell surface, endosome, cytosol or plasma.</li>
+<li>Name the ligand and location of each human Toll-like receptor, including TLR9 and CpG DNA.</li>
+<li>Follow TLR4 signalling through MyD88 to NF-κB and through TRIF to IRF3 and IFN-β.</li>
+<li>Explain the two-signal NLRP3 inflammasome, pyroptosis and the IL-1-driven autoinflammatory syndromes.</li>
+<li>Describe cytosolic RNA and DNA sensing (RIG-I, MDA5, MAVS, cGAS–STING, AIM2).</li>
+<li>Match inborn errors of PRR signalling to their clinical phenotype.</li>
+</ul></section>
+
+<dl class="abbr">
+<dt>AIM2</dt><dd>absent in melanoma-2</dd>
+<dt>ASC</dt><dd>apoptosis-associated speck-like protein containing a CARD</dd>
+<dt>CAPS</dt><dd>cryopyrin-associated periodic syndromes</dd>
+<dt>CARD</dt><dd>caspase recruitment domain</dd>
+<dt>cGAS / cGAMP</dt><dd>cyclic GMP-AMP synthase / cyclic GMP-AMP</dd>
+<dt>CLR</dt><dd>C-type lectin-like receptor</dd>
+<dt>CRP</dt><dd>C-reactive protein</dd>
+<dt>DAMP</dt><dd>damage-associated molecular pattern</dd>
+<dt>DC / pDC</dt><dd>dendritic cell / plasmacytoid dendritic cell</dd>
+<dt>FPR1</dt><dd>formyl peptide receptor 1</dd>
+<dt>HSE</dt><dd>herpes simplex encephalitis</dd>
+<dt>IFN</dt><dd>interferon</dd>
+<dt>IKK</dt><dd>inhibitor of NF-κB kinase</dd>
+<dt>IRAK</dt><dd>IL-1 receptor-associated kinase</dd>
+<dt>IRF</dt><dd>interferon regulatory factor</dd>
+<dt>LPS</dt><dd>lipopolysaccharide</dd>
+<dt>LTA</dt><dd>lipoteichoic acid</dd>
+<dt>MAVS</dt><dd>mitochondrial antiviral-signalling protein</dd>
+<dt>MBL</dt><dd>mannose-binding lectin</dd>
+<dt>MDA5</dt><dd>melanoma differentiation-associated gene 5</dd>
+<dt>MyD88</dt><dd>myeloid differentiation factor 88</dd>
+<dt>MAL</dt><dd>MyD88-adaptor-like</dd>
+<dt>NEMO</dt><dd>NF-κB essential modulator (IKKγ)</dd>
+<dt>NF-κB</dt><dd>nuclear factor kappa B</dd>
+<dt>NLR</dt><dd>NOD-like receptor</dd>
+<dt>NOD</dt><dd>nucleotide oligomerization domain</dd>
+<dt>PAMP</dt><dd>pathogen-associated molecular pattern</dd>
+<dt>PRR</dt><dd>pattern recognition receptor</dd>
+<dt>RIG-I / RLR</dt><dd>retinoic acid-inducible gene I / RIG-like receptor</dd>
+<dt>SAP</dt><dd>serum amyloid P</dd>
+<dt>STING</dt><dd>stimulator of IFN genes</dd>
+<dt>TBK1</dt><dd>TANK-binding kinase 1</dd>
+<dt>TIR</dt><dd>Toll/IL-1 receptor domain</dd>
+<dt>TLR</dt><dd>Toll-like receptor</dd>
+<dt>TRAF</dt><dd>TNF receptor-associated factor</dd>
+<dt>TRIF / TRAM</dt><dd>TIR domain-containing adaptor inducing IFN-β / TRIF-related adaptor molecule</dd>
+</dl>
+
+<h2>1. What the innate system recognizes: PAMPs and DAMPs</h2>
+<p>Innate cells do not recognize single microbial species. They recognize molecular patterns that whole classes of microbes share. These are pathogen-associated molecular patterns (PAMPs).<span class="src" title="M3-F001">Abbas p.63</span> Typical PAMPs are double-stranded RNA of replicating viruses, unmethylated CpG DNA of bacteria, proteins that start with N-formylmethionine, lipopolysaccharide (LPS), lipoteichoic acid (LTA) and oligosaccharides with terminal mannose.<span class="src" title="M3-F002">Abbas p.63</span></p>
+<p>Damaged and dying host cells release endogenous molecules that also start innate responses. These are damage-associated molecular patterns (DAMPs). DAMPs can signal sterile injury, for example burns, trauma or loss of blood supply.<span class="src" title="M3-F003">Abbas p.63</span> Examples are heat shock proteins, monosodium urate crystals, extracellular ATP and formylated mitochondrial peptides, extracellular HMGB1, histones and cytoplasmic dsDNA.<span class="src" title="M3-F004">Abbas p.65</span></p>
+<p>The cellular receptors for PAMPs and DAMPs are pattern recognition receptors (PRRs). They sit on the cell surface, in endosomes (phagocytic vesicles) and in the cytosol. Soluble recognition molecules circulate in blood and secretions.<span class="src" title="M3-F005">Abbas p.64</span></p>
+<div class="box analogy"><span class="label">Analogy</span>Think of PRRs as smoke detectors in different rooms of a house. A detector on the outside wall (cell surface) sees bacterial walls. A detector in the waste room (endosome) sees nucleic acids from digested microbes. A detector in the living room (cytosol) sees invaders that have already broken in.</div>
+
+<h2>2. The PRR map</h2>
+<figure class="diagram" id="D7">
+<svg viewBox="0 0 800 560" role="img" aria-labelledby="D7t">
+<title id="D7t">Location map of pattern recognition receptors: cell surface, endosome, cytosol and soluble</title>
+<text x="20" y="30" class="t-title" fill="#1d2433">Where the PRRs sit</text>
+<text x="28" y="56" class="t-small">Cell surface (outside the plasma membrane)</text>
+<!-- surface receptors -->
+<rect x="28" y="64" width="108" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="82" y="83" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">TLR1/2/6</text>
+<text x="82" y="99" text-anchor="middle" class="t-small">lipopeptides,</text>
+<text x="82" y="113" text-anchor="middle" class="t-small">LTA</text>
+<rect x="142" y="64" width="108" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="196" y="83" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">TLR4 + MD2</text>
+<text x="196" y="99" text-anchor="middle" class="t-small">LPS</text>
+<rect x="256" y="64" width="108" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="310" y="83" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">TLR5</text>
+<text x="310" y="99" text-anchor="middle" class="t-small">flagellin</text>
+<rect x="370" y="64" width="108" height="56" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="424" y="83" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">CLRs</text>
+<text x="424" y="99" text-anchor="middle" class="t-small">dectin-1,</text>
+<text x="424" y="113" text-anchor="middle" class="t-small">mannose R</text>
+<rect x="484" y="64" width="108" height="56" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="538" y="83" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">CD36 · FPR1</text>
+<text x="538" y="99" text-anchor="middle" class="t-small">scavenger;</text>
+<text x="538" y="113" text-anchor="middle" class="t-small">fMet peptides</text>
+<!-- cell -->
+<rect x="20" y="128" width="580" height="414" rx="24" fill="#f5f7fa" stroke="#5b6475" stroke-width="2"/>
+<text x="40" y="152" class="t-small">Plasma membrane</text>
+<!-- endosome -->
+<rect x="44" y="170" width="250" height="150" rx="40" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="169" y="196" text-anchor="middle" class="t-head" fill="#1f6fb2">Endosome</text>
+<text x="169" y="228" text-anchor="middle" class="t-body" fill="#1d2433">TLR3 · dsRNA</text>
+<text x="169" y="254" text-anchor="middle" class="t-body" fill="#1d2433">TLR7, TLR8 · ssRNA</text>
+<text x="169" y="280" text-anchor="middle" class="t-body" fill="#1d2433">TLR9 · CpG DNA</text>
+<text x="169" y="304" text-anchor="middle" class="t-small">delivered by UNC93B</text>
+<!-- cytosol receptors -->
+<rect x="314" y="170" width="266" height="62" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="447" y="195" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">NOD1 · DAP; NOD2 · MDP</text>
+<text x="447" y="218" text-anchor="middle" class="t-small">bacterial peptidoglycan → NF-κB</text>
+<rect x="314" y="244" width="266" height="76" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="447" y="268" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">NLRP3 inflammasome</text>
+<text x="447" y="288" text-anchor="middle" class="t-small">crystals, ATP, K+ efflux, ROS</text>
+<text x="447" y="306" text-anchor="middle" class="t-small">→ caspase-1 → IL-1β, IL-18</text>
+<rect x="44" y="340" width="250" height="84" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="169" y="364" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">RIG-I · 5′-ppp RNA</text>
+<text x="169" y="386" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">MDA5 · long dsRNA</text>
+<text x="169" y="410" text-anchor="middle" class="t-small">→ MAVS on mitochondria</text>
+<rect x="314" y="340" width="266" height="84" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="447" y="364" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">cGAS · dsDNA</text>
+<text x="447" y="386" text-anchor="middle" class="t-small">→ cGAMP → STING (ER)</text>
+<text x="447" y="410" text-anchor="middle" class="t-small">AIM2 · dsDNA → inflammasome</text>
+<text x="44" y="456" class="t-head" fill="#5b6475">Cytosol</text>
+<text x="44" y="480" class="t-small">Endosomal and cytosolic sensors → type I IFN</text>
+<text x="44" y="500" class="t-small">Surface TLRs, NODs, NLRP3 → inflammation</text>
+<!-- soluble -->
+<rect x="612" y="64" width="172" height="478" rx="8" fill="#ffffff" stroke="#1f6fb2" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="698" y="92" text-anchor="middle" class="t-head" fill="#1f6fb2">Soluble PRRs</text>
+<text x="698" y="110" text-anchor="middle" class="t-small">plasma, alveoli</text>
+<text x="628" y="150" class="t-body" font-weight="700" fill="#1d2433">Pentraxins</text>
+<text x="628" y="170" class="t-body" fill="#1d2433">CRP, SAP, PTX3</text>
+<text x="628" y="220" class="t-body" font-weight="700" fill="#1d2433">Collectins</text>
+<text x="628" y="240" class="t-body" fill="#1d2433">MBL (plasma)</text>
+<text x="628" y="260" class="t-body" fill="#1d2433">SP-A, SP-D (lung)</text>
+<text x="628" y="310" class="t-body" font-weight="700" fill="#1d2433">Ficolins</text>
+<text x="628" y="330" class="t-body" fill="#1d2433">GlcNAc, LTA</text>
+<text x="628" y="380" class="t-body" font-weight="700" fill="#1d2433">Complement</text>
+<text x="628" y="400" class="t-body" fill="#1d2433">see M5</text>
+<text x="628" y="460" class="t-small">Opsonize microbes;</text>
+<text x="628" y="478" class="t-small">activate complement</text>
+</svg>
+<figcaption><b>D7.</b> PRR location map. Surface TLRs and lectin-type receptors see the outside of microbes; endosomal TLRs see nucleic acids of ingested microbes; cytosolic sensors see microbes or damage inside the cell; soluble PRRs act in plasma and alveolar fluid. <span class="src" title="M3-F005, M3-F009, M3-F010, M3-F012, M3-F013, M3-F014, M3-F015, M3-F022, M3-F045, M3-F046, M3-F056, M3-F053, M3-F077, M3-F076, M3-F079, M3-F083, M3-F084, M3-F088, M3-F089, M3-F090, M3-F092, M3-F093, M3-F094, M3-F099, M3-F101, M3-F102">Abbas p.64–89</span></figcaption>
+</figure>
+
+<table>
+<thead><tr><th>Family</th><th>Location</th><th>Examples</th><th>Main ligands</th><th>Main output</th></tr></thead>
+<tbody>
+<tr><td>TLRs</td><td>Plasma membrane; endosome</td><td>TLR1–TLR10</td><td>LPS, lipopeptides, flagellin, viral and bacterial nucleic acids</td><td>NF-κB (inflammation); IRF (type I IFN)</td></tr>
+<tr><td>NLRs</td><td>Cytosol</td><td>NOD1, NOD2; NLRP3</td><td>Peptidoglycan fragments; crystals, ATP, K+ efflux</td><td>NF-κB; inflammasome → IL-1β, IL-18</td></tr>
+<tr><td>RLRs</td><td>Cytosol</td><td>RIG-I, MDA5</td><td>Viral RNA</td><td>Type I IFN</td></tr>
+<tr><td>Cytosolic DNA sensors</td><td>Cytosol</td><td>cGAS–STING; AIM2</td><td>Microbial or damaged-self dsDNA</td><td>Type I IFN; inflammasome</td></tr>
+<tr><td>CLRs</td><td>Plasma membrane of phagocytes and DCs</td><td>Mannose receptor, dectin-1</td><td>Terminal mannose/fucose; β-glucan</td><td>Phagocytosis; NF-κB, Th17</td></tr>
+<tr><td>Scavenger receptors</td><td>Plasma membrane of macrophages</td><td>SR-A, CD36</td><td>Diverse microbial molecules</td><td>Phagocytosis; TLR2/6 co-receptor</td></tr>
+<tr><td>Formyl peptide receptor</td><td>Plasma membrane of leukocytes</td><td>FPR1</td><td>N-formylmethionyl peptides</td><td>Chemotaxis</td></tr>
+<tr><td>Soluble PRRs</td><td>Plasma; alveoli</td><td>CRP, SAP, PTX3; MBL, SP-A, SP-D; ficolins</td><td>Microbial surface molecules</td><td>Opsonization; complement</td></tr>
+</tbody></table>
+<p class="related"><span class="src" title="M3-F005, M3-F009, M3-F010, M3-F023, M3-F024, M3-F045, M3-F046, M3-F051, M3-F075, M3-F082, M3-F088, M3-F089, M3-F090, M3-F091, M3-F092, M3-F093, M3-F094, M3-F099, M3-F102">Abbas p.64–89</span></p>
+
+<h2>3. Toll-like receptors</h2>
+<p>Humans have 10 functional Toll-like receptors (TLRs), TLR1 to TLR10.<span class="src" title="M3-F006">Abbas p.65</span> The cytoplasmic tail of each TLR contains a Toll/IL-1 receptor (TIR) domain. The same domain is present in the receptors for IL-1, IL-18 and IL-33, so these cytokines use similar signalling.<span class="src" title="M3-F008">Abbas p.67</span> The function of TLR10 is poorly understood; it may be anti-inflammatory.<span class="src" title="M3-F007">Abbas p.67</span></p>
+
+<h3>3.1 Ligand and location of each TLR</h3>
+<table>
+<thead><tr><th>TLR</th><th>Location</th><th>Ligand (source)</th><th>Adaptor</th></tr></thead>
+<tbody>
+<tr><td>TLR1:TLR2</td><td>Cell surface</td><td>Triacyl lipopeptides (bacteria)</td><td>MyD88 + MAL</td></tr>
+<tr><td>TLR2:TLR6</td><td>Cell surface</td><td>Diacyl lipopeptides; LTA (gram-positive)</td><td>MyD88 + MAL</td></tr>
+<tr><td>TLR2</td><td>Cell surface</td><td>Peptidoglycan, LTA (gram-positive)</td><td>MyD88 + MAL</td></tr>
+<tr><td>TLR4 (+ MD2, CD14)</td><td>Cell surface</td><td>LPS (gram-negative); also heat shock proteins (DAMP)</td><td>MyD88 + MAL <b>and</b> TRIF + TRAM</td></tr>
+<tr><td>TLR5</td><td>Cell surface</td><td>Flagellin (motile bacteria)</td><td>MyD88 only</td></tr>
+<tr><td>TLR3</td><td>Endosome</td><td>dsRNA (viruses)</td><td>TRIF only</td></tr>
+<tr><td>TLR7, TLR8</td><td>Endosome</td><td>ssRNA (viruses)</td><td>MyD88</td></tr>
+<tr><td>TLR9</td><td>Endosome</td><td>Unmethylated CpG DNA (bacteria, herpesviruses)</td><td>MyD88</td></tr>
+<tr><td>TLR10</td><td>—</td><td>Unknown; possibly anti-inflammatory</td><td>—</td></tr>
+</tbody></table>
+<p class="related"><span class="src" title="M3-F009, M3-F010, M3-F012, M3-F013, M3-F014, M3-F015, M3-F019, M3-F020, M3-F021, M3-F025, M3-F027, M3-F007">Abbas p.67–69</span> <span class="src" title="M3-F019, M3-F017, M3-F027">Janeway p.86–90</span></p>
+
+<p>TLR1, TLR2, TLR4, TLR5 and TLR6 are on the plasma membrane. They recognize bacterial and fungal PAMPs outside the cell.<span class="src" title="M3-F009">Abbas p.69</span> TLR3, TLR7, TLR8 and TLR9 are mainly on endosomal membranes and detect nucleic acids.<span class="src" title="M3-F010">Abbas p.69</span> Host RNA is not normally present in endosomes. Thus the endosomal location lets these TLRs tell microbial nucleic acids from self nucleic acids.<span class="src" title="M3-F011">Abbas p.69</span> The protein UNC93B moves these TLRs from the endoplasmic reticulum to the endosome.<span class="src" title="M3-F022">Abbas p.69</span></p>
+
+<h3>3.2 TLR9 and CpG DNA</h3>
+<p>TLR9 binds unmethylated CpG motifs. These motifs are common in prokaryotic DNA but rare in vertebrate genomes.<span class="src" title="M3-F015">Abbas p.67</span> In mammalian DNA, methyltransferases heavily methylate the cytosine of CpG dinucleotides. In bacteria and many viruses, CpG stays unmethylated and so acts as a PAMP.<span class="src" title="M3-F016">Janeway p.88</span> TLR9 is expressed by plasmacytoid dendritic cells (pDCs), B cells, eosinophils and basophils.<span class="src" title="M3-F017">Janeway p.86</span> TLR9-deficient pDCs cannot make type I IFN in response to herpes simplex virus.<span class="src" title="M3-F018">Janeway p.112</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>"Unmethylated CpG" → TLR9 → endosome. "Methylated CpG" is the host pattern and does not activate TLR9. TLR9 signals through MyD88 to IRF7, so pDCs answer CpG DNA with IFN-α.<span class="src" title="M3-F015, M3-F016, M3-F031">Abbas p.67 · Janeway p.88, 92</span></div>
+<div class="box caution"><span class="label">Not covered in provided sources — needs expert input</span>The therapeutic use of CpG / immunostimulatory sequences (for example as adjuvants coupled to allergens in allergen immunotherapy) is not described in the provided sources. Add from a current reference if the exam syllabus requires it.</div>
+
+<h3>3.3 How TLR4 sees LPS</h3>
+<ol class="steps">
+<li>LPS binds soluble LPS-binding protein in blood or tissue fluid.<span class="src" title="M3-F020">Abbas p.69</span></li>
+<li>CD14 helps to deliver LPS for efficient signalling.<span class="src" title="M3-F021">Abbas p.69</span></li>
+<li>The accessory protein MD2 binds the lipid A part of LPS.<span class="src" title="M3-F020">Abbas p.69</span></li>
+<li>The LPS–MD2 complex engages TLR4 and starts signalling.<span class="src" title="M3-F020">Abbas p.69</span></li>
+</ol>
+<p>TLRs also respond to DAMPs. For example, heat shock proteins bind TLR4 and HMGB1 binds TLR2.<span class="src" title="M3-F117">Abbas p.67</span></p>
+
+<h2>4. TLR signalling: MyD88 → NF-κB versus TRIF → IRF3</h2>
+<p>Ligand binding causes TLR dimerization. The TIR domains then recruit TIR-containing adaptors. Mammalian TLRs use four adaptors: MyD88, MAL, TRIF and TRAM.<span class="src" title="M3-F026">Janeway p.90</span> All TLRs except TLR3 use MyD88. Only TLR3 and TLR4 use TRIF.<span class="src" title="M3-F025">Abbas p.69</span> TLR4 is the only TLR that uses both adaptor pairs, MyD88/MAL and TRIF/TRAM.<span class="src" title="M3-F027">Janeway p.90</span></p>
+<div class="box caution"><span class="label">Terminology</span>Janeway uses the name MAL for the adaptor that pairs with MyD88. The alternative name TIRAP, used in the module plan, does not appear in the provided sources — needs expert input to confirm the synonym.</div>
+
+<figure class="diagram" id="D8">
+<svg viewBox="0 0 800 560" role="img" aria-labelledby="D8t">
+<title id="D8t">TLR4 signalling: MyD88 pathway to NF-kappa-B and TRIF pathway to IRF3 and IFN-beta</title>
+<defs><marker id="arr-D8" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="20" y="30" class="t-title" fill="#1d2433">TLR4: two adaptors, two outputs</text>
+<rect x="290" y="44" width="220" height="40" rx="8" fill="#ffffff" stroke="#5b6475" stroke-width="1.5"/>
+<text x="400" y="69" text-anchor="middle" class="t-body" fill="#1d2433">LPS → LBP → CD14 → MD2</text>
+<line x1="400" y1="84" x2="400" y2="110" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<line x1="30" y1="136" x2="770" y2="136" stroke="#5b6475" stroke-width="3"/>
+<text x="766" y="128" text-anchor="end" class="t-small">plasma membrane</text>
+<text x="34" y="128" class="t-small">outside</text>
+<text x="34" y="156" class="t-small">cytosol</text>
+<rect x="310" y="112" width="180" height="46" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="2"/>
+<text x="400" y="141" text-anchor="middle" class="t-head" fill="#1d2433">TLR4 dimer</text>
+<line x1="360" y1="158" x2="230" y2="186" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<line x1="440" y1="158" x2="570" y2="186" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<!-- left branch -->
+<text x="90" y="182" class="t-small">inflammatory branch</text>
+<rect x="90" y="190" width="220" height="40" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="200" y="215" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">MyD88 + MAL</text>
+<line x1="200" y1="230" x2="200" y2="248" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="90" y="250" width="220" height="40" rx="8" fill="#ffffff" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="200" y="275" text-anchor="middle" class="t-body" fill="#1d2433">IRAK4 → IRAK1</text>
+<line x1="200" y1="290" x2="200" y2="308" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="90" y="310" width="220" height="40" rx="8" fill="#ffffff" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="200" y="335" text-anchor="middle" class="t-body" fill="#1d2433">TRAF6 → TAK1</text>
+<line x1="200" y1="350" x2="200" y2="368" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="90" y="370" width="220" height="40" rx="8" fill="#ffffff" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="200" y="395" text-anchor="middle" class="t-body" fill="#1d2433">IKK (with NEMO) → p-IκB</text>
+<line x1="200" y1="410" x2="200" y2="440" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<!-- right branch -->
+<text x="710" y="182" text-anchor="end" class="t-small">antiviral branch</text>
+<rect x="490" y="190" width="220" height="40" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="215" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">TRIF + TRAM</text>
+<line x1="600" y1="230" x2="600" y2="248" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="490" y="250" width="220" height="40" rx="8" fill="#ffffff" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="275" text-anchor="middle" class="t-body" fill="#1d2433">TBK1 / IKKε</text>
+<line x1="600" y1="290" x2="600" y2="308" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="490" y="310" width="220" height="40" rx="8" fill="#ffffff" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="335" text-anchor="middle" class="t-body" fill="#1d2433">phosphorylate IRF3</text>
+<line x1="600" y1="350" x2="600" y2="440" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<!-- nucleus -->
+<rect x="30" y="424" width="740" height="124" rx="16" fill="#f5f7fa" stroke="#5b6475" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="400" y="444" text-anchor="middle" class="t-small">nucleus: gene transcription</text>
+<rect x="110" y="444" width="180" height="36" rx="8" fill="#2e7d5b" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="200" y="467" text-anchor="middle" class="t-head t-white" fill="#ffffff">NF-κB</text>
+<rect x="510" y="444" width="180" height="36" rx="8" fill="#6a4c93" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="467" text-anchor="middle" class="t-head t-white" fill="#ffffff">IRF3 (+ IRF7)</text>
+<line x1="200" y1="480" x2="200" y2="496" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<line x1="600" y1="480" x2="600" y2="496" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D8)"/>
+<rect x="50" y="498" width="320" height="40" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="210" y="523" text-anchor="middle" class="t-body" fill="#1d2433">TNF · pro-IL-1β · IL-6 · CXCL8, CCL2</text>
+<rect x="450" y="498" width="300" height="40" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="600" y="523" text-anchor="middle" class="t-body" fill="#1d2433">IFN-β (type I IFN) → antiviral</text>
+</svg>
+<figcaption><b>D8.</b> TLR4 is the TLR that uses both adaptor pairs. MyD88/MAL drives NF-κB and inflammatory genes; TRIF/TRAM drives IRF3 and IFN-β. TLR3 uses only the right branch; most other TLRs use only the left branch. <span class="src" title="M3-F020, M3-F021, M3-F027, M3-F028, M3-F029, M3-F023, M3-F032, M3-F034, M3-F024">Abbas p.69 · Janeway p.90–92</span></figcaption>
+</figure>
+
+<h3>4.1 MyD88 pathway to NF-κB (steps)</h3>
+<ol class="steps">
+<li>The TIR domain of MyD88 binds the TIR domain of the TLR.<span class="src" title="M3-F028">Janeway p.91</span></li>
+<li>The MyD88 death domain recruits and activates the kinases IRAK4 and IRAK1.<span class="src" title="M3-F028">Janeway p.91</span></li>
+<li>The IRAK complex recruits TRAF6, which leads to activation of the kinase TAK1.<span class="src" title="M3-F029">Janeway p.91</span></li>
+<li>TAK1 activates the IKK complex (IKKα, IKKβ and IKKγ, also called NEMO).<span class="src" title="M3-F029">Janeway p.91</span></li>
+<li>IKK phosphorylates IκB. IκB releases NF-κB, which moves into the nucleus.<span class="src" title="M3-F029">Janeway p.91</span></li>
+<li>NF-κB induces TNF, IL-1, IL-6, chemokines (CCL2, CXCL8) and E-selectin.<span class="src" title="M3-F023, M3-F029">Abbas p.69 · Janeway p.91</span></li>
+</ol>
+<p>TLR activation also induces the co-stimulatory molecules CD80 and CD86 on dendritic cells and macrophages. These molecules are necessary to start the adaptive immune response.<span class="src" title="M3-F035">Janeway p.96</span></p>
+
+<h3>4.2 TRIF and endosomal pathways to type I IFN</h3>
+<p>IRF3 and IRF7, together with NF-κB, induce the type I interferons IFN-α and IFN-β.<span class="src" title="M3-F024">Abbas p.69</span> TLR3 signals only through TRIF, which activates NF-κB and IRF3.<span class="src" title="M3-F033">Abbas p.69</span> TRIF activates the kinases TBK1 and IKKε. These kinases phosphorylate IRF3, which induces IFN-β.<span class="src" title="M3-F034">Janeway p.92</span> Cell-surface TLR4 uses both MyD88 and TRIF, so it gives both inflammatory and antiviral responses.<span class="src" title="M3-F032">Abbas p.69</span></p>
+<p>The endosomal TLR7, TLR8 and TLR9 also use MyD88, but here MyD88 signalling activates IRFs and type I IFN.<span class="src" title="M3-F030">Abbas p.69</span> In endosomes, MyD88 binds IRF7 directly. Thus TLR7 and TLR9 make pDCs produce IFN-α and IFN-β.<span class="src" title="M3-F031">Janeway p.92</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>"Every TLR except TLR3 uses MyD88." "TLR3 and TLR4 use TRIF." "TLR4 uses both." These three sentences answer most adaptor questions.<span class="src" title="M3-F025, M3-F027">Abbas p.69 · Janeway p.90</span></div>
+
+<h2>5. NOD-like receptors: NOD1 and NOD2</h2>
+<p>NOD1 and NOD2 are cytosolic NOD-like receptors (NLRs) that sense fragments of bacterial cell wall peptidoglycan. NOD1 recognizes diaminopimelic acid (DAP), mainly from gram-negative bacteria.<span class="src" title="M3-F045">Abbas p.72</span> NOD2 recognizes muramyl dipeptide (MDP) from both gram-negative and gram-positive bacteria.<span class="src" title="M3-F046">Abbas p.72</span> Activated NODs recruit the kinase RIP2, which activates NF-κB.<span class="src" title="M3-F047">Abbas p.72</span></p>
+<div class="box clinical"><span class="label">Clinical correlation</span>
+<p>Some NOD2 polymorphisms increase the risk of Crohn's disease, probably because the variants sense intestinal microbes poorly.<span class="src" title="M3-F048">Abbas p.72</span></p>
+<p>Gain-of-function NOD2 mutations cause Blau syndrome.<span class="src" title="M3-F049">Abbas p.72</span> Blau syndrome gives spontaneous inflammation of the joints, eyes and skin.<span class="src" title="M3-F050">Janeway p.93</span></p></div>
+
+<h2>6. The NLRP3 inflammasome</h2>
+<p>Inflammasomes are multiprotein complexes. They form in the cytosol in response to infection or cell injury and generate active caspase-1.<span class="src" title="M3-F051">Abbas p.72</span> The main function of caspase-1 is to cut the inactive precursors of IL-1β and IL-18 into active cytokines.<span class="src" title="M3-F053">Abbas p.72</span></p>
+<p>IL-1β production needs two signals. Signal 1 comes from TLR, NLR or RLR signalling through NF-κB and makes the precursor pro-IL-1β. Signal 2 activates the inflammasome, which cleaves the precursor.<span class="src" title="M3-F055">Abbas p.93</span></p>
+
+<figure class="diagram" id="D9">
+<svg viewBox="0 0 800 560" role="img" aria-labelledby="D9t">
+<title id="D9t">NLRP3 inflammasome two-step activation: signal 1 transcription, signal 2 assembly, caspase-1, IL-1 beta, IL-18 and pyroptosis</title>
+<defs><marker id="arr-D9" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="40" y="34" class="t-head" fill="#2e7d5b">Signal 1: make the precursor</text>
+<text x="460" y="34" class="t-head" fill="#c77d14">Signal 2: build the inflammasome</text>
+<!-- signal 1 -->
+<rect x="40" y="56" width="300" height="44" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="190" y="83" text-anchor="middle" class="t-body" fill="#1d2433">PAMP (e.g., LPS) → TLR / NLR / RLR</text>
+<line x1="190" y1="100" x2="190" y2="128" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<rect x="40" y="130" width="300" height="40" rx="8" fill="#2e7d5b" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="190" y="155" text-anchor="middle" class="t-head t-white" fill="#ffffff">NF-κB</text>
+<line x1="190" y1="170" x2="190" y2="198" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<rect x="40" y="200" width="300" height="56" rx="8" fill="#ffffff" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="190" y="224" text-anchor="middle" class="t-body" fill="#1d2433">Transcription of inactive</text>
+<text x="190" y="244" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">pro-IL-1β, pro-IL-18</text>
+<!-- signal 2 -->
+<rect x="460" y="50" width="300" height="76" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="610" y="72" text-anchor="middle" class="t-body" fill="#1d2433">K+ efflux · extracellular ATP · ROS</text>
+<text x="610" y="92" text-anchor="middle" class="t-body" fill="#1d2433">Crystals: urate, alum, silica,</text>
+<text x="610" y="112" text-anchor="middle" class="t-body" fill="#1d2433">cholesterol (lysosome damage)</text>
+<line x1="610" y1="126" x2="610" y2="146" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<rect x="460" y="148" width="300" height="36" rx="8" fill="#ffffff" stroke="#c77d14" stroke-width="1.5"/>
+<text x="610" y="171" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">NLRP3 oligomer</text>
+<line x1="610" y1="184" x2="610" y2="202" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<rect x="460" y="204" width="300" height="36" rx="8" fill="#ffffff" stroke="#c77d14" stroke-width="1.5"/>
+<text x="610" y="227" text-anchor="middle" class="t-body" fill="#1d2433">+ adaptor ASC (filaments)</text>
+<line x1="610" y1="240" x2="610" y2="258" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<rect x="460" y="260" width="300" height="40" rx="8" fill="#c77d14" stroke="#c77d14" stroke-width="1.5"/>
+<text x="610" y="285" text-anchor="middle" class="t-body t-white" font-weight="700" fill="#ffffff">procaspase-1 → active caspase-1</text>
+<!-- outputs -->
+<line x1="190" y1="256" x2="190" y2="338" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<line x1="540" y1="300" x2="300" y2="338" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<line x1="660" y1="300" x2="660" y2="338" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<text x="400" y="314" text-anchor="middle" class="t-small">cleaves</text>
+<rect x="40" y="340" width="340" height="56" rx="8" fill="#ffffff" stroke="#1d2433" stroke-width="1.5"/>
+<text x="210" y="364" text-anchor="middle" class="t-body" fill="#1d2433">pro-IL-1β / pro-IL-18</text>
+<text x="210" y="384" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">→ active IL-1β / IL-18</text>
+<rect x="440" y="340" width="320" height="56" rx="8" fill="#ffffff" stroke="#1d2433" stroke-width="1.5"/>
+<text x="600" y="364" text-anchor="middle" class="t-body" fill="#1d2433">gasdermin D</text>
+<text x="600" y="384" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">→ N-terminal pores in membrane</text>
+<line x1="210" y1="396" x2="210" y2="424" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<line x1="600" y1="396" x2="600" y2="424" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D9)"/>
+<line x1="500" y1="396" x2="330" y2="424" stroke="#1d2433" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arr-D9)"/>
+<rect x="40" y="426" width="340" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="1.5"/>
+<text x="210" y="450" text-anchor="middle" class="t-body" fill="#1d2433">IL-1β leaves via pores →</text>
+<text x="210" y="470" text-anchor="middle" class="t-body" fill="#1d2433">fever, acute inflammation</text>
+<rect x="440" y="426" width="320" height="56" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="600" y="450" text-anchor="middle" class="t-body" font-weight="700" fill="#1d2433">Pyroptosis</text>
+<text x="600" y="470" text-anchor="middle" class="t-body" fill="#1d2433">of macrophages and DCs</text>
+<rect x="40" y="500" width="720" height="44" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="400" y="527" text-anchor="middle" class="t-body" fill="#1d2433">NLRP3 gain of function → CAPS (FCAS, Muckle-Wells, CINCA) → IL-1 blockade works</text>
+</svg>
+<figcaption><b>D9.</b> NLRP3 inflammasome in two steps. Signal 1 (NF-κB) supplies inactive pro-IL-1β; signal 2 assembles NLRP3, ASC and caspase-1. Caspase-1 activates IL-1β/IL-18 and cleaves gasdermin D, whose pores release IL-1β and can cause pyroptosis. <span class="src" title="M3-F055, M3-F056, M3-F057, M3-F052, M3-F053, M3-F054, M3-F059, M3-F104, M3-F065, M3-F066">Abbas p.72–74, 93</span></figcaption>
+</figure>
+
+<h3>6.1 Assembly and output (steps)</h3>
+<ol class="steps">
+<li>A trigger changes the cytosol. Common triggers are reduced cytosolic K+ (K+ efflux) and reactive oxygen species. Crystals may act by damaging lysosomal membranes.<span class="src" title="M3-F057">Abbas p.74</span></li>
+<li>NLRP3 molecules oligomerize. Each NLRP3 binds the adaptor ASC.<span class="src" title="M3-F052">Abbas p.72</span></li>
+<li>ASC forms filaments that recruit procaspase-1. Clustering converts it to active caspase-1.<span class="src" title="M3-F052">Abbas p.72</span></li>
+<li>Caspase-1 cleaves pro-IL-1β and pro-IL-18 into active cytokines.<span class="src" title="M3-F053">Abbas p.72</span></li>
+<li>Caspase-1 also cleaves gasdermin D. The N-terminal fragment forms membrane pores. IL-1β lacks a signal peptide and leaves the cell through these pores.<span class="src" title="M3-F054">Abbas p.72</span></li>
+</ol>
+<p>NLRP3 senses uric acid crystals, alum, cholesterol crystals, extracellular ATP, silica, some streptococcal and staphylococcal toxins and influenza virus.<span class="src" title="M3-F056">Abbas p.74</span> The adjuvant effect of alum depends on NLRP3.<span class="src" title="M3-F058">Janeway p.94</span> Other inflammasome sensors are NLRC4 (cytosolic flagellin), NLRP1 (anthrax lethal toxin), AIM2 (dsDNA) and pyrin.<span class="src" title="M3-F061">Abbas p.72–74</span></p>
+
+<h3>6.2 Pyroptosis and the noncanonical pathway</h3>
+<p>Pyroptosis is an inflammatory programmed cell death of macrophages and dendritic cells. It does not occur in neutrophils. Gasdermin D pores let fluid in; the cell swells and its plasma membrane fails.<span class="src" title="M3-F059">Abbas p.74</span> In the noncanonical pathway, cytosolic LPS activates caspase-4 or caspase-5 in humans (caspase-11 in rodents). These caspases cleave gasdermin D and cause pyroptosis.<span class="src" title="M3-F060">Abbas p.74</span></p>
+
+<h3>6.3 Gout and the inflammasomopathies</h3>
+<p>Phagocytosed monosodium urate crystals damage lysosomes and activate inflammasomes. IL-1 antagonists are used for severe gout that does not respond to conventional anti-inflammatory drugs.<span class="src volatile" title="M3-F062">Abbas p.74</span></p>
+<p>Gain-of-function mutations in inflammasome components cause excess IL-1. The result is recurrent fever with inflammation of skin, joints and abdomen. These disorders are inflammasomopathies, a subgroup of the autoinflammatory syndromes.<span class="src" title="M3-F063">Abbas p.74</span> Autoinflammatory diseases are different from autoimmune diseases, which self-reactive antibodies or T cells cause.<span class="src" title="M3-F064">Abbas p.74</span></p>
+<table>
+<thead><tr><th>Disease</th><th>Gene (protein)</th><th>Key features</th></tr></thead>
+<tbody>
+<tr><td>CAPS: familial cold autoinflammatory syndrome (FCAS)</td><td><i>NLRP3</i> (cryopyrin), dominant</td><td>Fever induced by cold, urticarial rash, joint pain, conjunctivitis</td></tr>
+<tr><td>CAPS: Muckle-Wells syndrome</td><td><i>NLRP3</i>, dominant</td><td>Periodic fever, urticarial rash, joint pain, conjunctivitis, progressive deafness</td></tr>
+<tr><td>CAPS: CINCA</td><td><i>NLRP3</i></td><td>Neonatal-onset fever, urticarial rash, chronic arthropathy, neurological disease</td></tr>
+<tr><td>Familial Mediterranean fever (FMF)</td><td><i>MEFV</i> (pyrin)</td><td>Fever, serositis, arthritis</td></tr>
+<tr><td>TNF receptor-associated periodic syndrome (TRAPS)</td><td><i>TNFRSF1A</i> (TNF receptor I)</td><td>Periodic fever, myalgia, rash; responds to TNF blockade</td></tr>
+<tr><td>Hyper-IgD syndrome (HIDS)</td><td><i>MVK</i> (mevalonate kinase)</td><td>Fever from infancy, high serum IgD, lymphadenopathy</td></tr>
+<tr><td>Blau syndrome</td><td><i>NOD2</i>, gain of function</td><td>Spontaneous inflammation of joints, eyes and skin</td></tr>
+</tbody></table>
+<p class="related"><span class="src" title="M3-F065, M3-F067, M3-F072">Abbas p.74–75</span> <span class="src" title="M3-F068, M3-F069, M3-F070, M3-F073, M3-F074, M3-F050">Janeway p.93, 536–537</span></p>
+<p>Mutations in NLRP3 (cryopyrin) cause the cryopyrin-associated periodic syndromes (CAPS).<span class="src" title="M3-F065">Abbas p.74</span> CAPS gives fever, neutrophilic rash, bony lesions and central nervous system inflammation.<span class="src" title="M3-F067">Abbas p.75</span> Muckle-Wells syndrome and FCAS are dominantly inherited NLRP3 disorders; in FCAS, cold exposure triggers the fever.<span class="src" title="M3-F068">Janeway p.537</span></p>
+<div class="box caution"><span class="label">Volatile — check current guidance</span>Patients with CAPS can be treated successfully with IL-1 antagonists.<span class="src volatile" title="M3-F066">Abbas p.74</span> Muckle-Wells syndrome responds dramatically to anakinra, an IL-1 receptor antagonist.<span class="src volatile" title="M3-F071">Janeway p.537</span> TRAPS responds to TNF blockade.<span class="src volatile" title="M3-F073">Janeway p.536</span> Check drug choice and licensing against current guidance.</div>
+<div class="box caution"><span class="label">Source conflict</span>Abbas (Table 4.5) lists the <i>MEFV</i> defect in FMF as "gain of function, dysregulated inflammasome activation". Janeway (8th ed.) describes an absence of functional pyrin and autosomal recessive inheritance. Follow Abbas (newer) for mechanism questions.<span class="src" title="M3-F072">Abbas p.75</span> <span class="src" title="M3-F120">Janeway p.536–537</span></div>
+
+<h2>7. Cytosolic sensing of viral RNA and DNA</h2>
+<h3>7.1 RIG-like receptors and MAVS</h3>
+<p>RIG-like receptors (RLRs) are cytosolic sensors of viral RNA that induce type I IFN. The best known RLRs are RIG-I and MDA5.<span class="src" title="M3-F075">Abbas p.75</span> RIG-I recognizes RNA with a 5′-triphosphate. Host cytosolic mRNA has a 7-methylguanosine cap and does not carry this signal.<span class="src" title="M3-F077">Abbas p.75</span> MDA5 recognizes long dsRNA (1–6 kb).<span class="src" title="M3-F076">Abbas p.75</span> RIG-I-deficient mice are susceptible to several ssRNA viruses but not to picornaviruses; MDA5-deficient mice are susceptible to picornaviruses.<span class="src" title="M3-F081">Janeway p.95</span></p>
+<ol class="steps">
+<li>RIG-I or MDA5 binds viral RNA in the cytosol.<span class="src" title="M3-F075">Abbas p.75</span></li>
+<li>The receptor binds MAVS on the outer mitochondrial membrane. MAVS polymerizes and recruits TRAF proteins.<span class="src" title="M3-F079">Abbas p.76</span></li>
+<li>TRAFs activate TBK1 and IKK.<span class="src" title="M3-F079">Abbas p.76</span></li>
+<li>TBK1 activates IRF3 and IRF7; IKK activates NF-κB. Together they induce type I IFN.<span class="src" title="M3-F080">Abbas p.76</span></li>
+</ol>
+<div class="box pearl"><span class="label">Exam pearl</span>The SARS-CoV-2 mRNA vaccines contain pseudouridine instead of uridine. This change reduces detection by innate RNA sensors.<span class="src" title="M3-F078">Abbas p.76</span></div>
+
+<h3>7.2 Cytosolic DNA sensors: cGAS–STING and AIM2</h3>
+<p>Cytosolic DNA sensors detect dsDNA from microbes or from damaged host cells (micronuclei, mitochondria). They induce type I IFN and autophagy.<span class="src" title="M3-F082">Abbas p.76</span></p>
+<ol class="steps">
+<li>Cytosolic dsDNA activates the enzyme cGAS.<span class="src" title="M3-F083">Abbas p.76</span></li>
+<li>cGAS makes the second messenger cyclic GMP-AMP (cGAMP).<span class="src" title="M3-F083">Abbas p.76</span></li>
+<li>cGAMP binds STING in the endoplasmic reticulum. STING moves to the Golgi.<span class="src" title="M3-F084">Abbas p.76</span></li>
+<li>STING activates TBK1. TBK1 activates IRF3 and IRF7, and NF-κB is also activated.<span class="src" title="M3-F084">Abbas p.76</span></li>
+<li>IRFs and NF-κB induce type I IFN genes.<span class="src" title="M3-F084">Abbas p.76</span></li>
+</ol>
+<p>STING also senses the bacterial second messengers cyclic di-GMP and cyclic di-AMP directly.<span class="src" title="M3-F121">Abbas p.77</span></p>
+<p>AIM2 is a different cytosolic DNA sensor. It binds dsDNA and forms an inflammasome that generates IL-1β.<span class="src" title="M3-F088">Abbas p.78</span></p>
+
+<figure class="diagram" id="D10">
+<svg viewBox="0 0 800 520" role="img" aria-labelledby="D10t">
+<title id="D10t">Cytosolic nucleic acid sensing: RIG-I and MDA5 via MAVS, and cGAS via STING, converge on IRF3/IRF7 and type I interferon</title>
+<defs><marker id="arr-D10" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<text x="210" y="34" text-anchor="middle" class="t-head" fill="#1f6fb2">Viral RNA in cytosol</text>
+<text x="600" y="34" text-anchor="middle" class="t-head" fill="#6a4c93">dsDNA in cytosol</text>
+<text x="600" y="52" text-anchor="middle" class="t-small">microbe or damaged self</text>
+<!-- RNA side -->
+<rect x="40" y="70" width="160" height="56" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="120" y="94" text-anchor="middle" class="t-head" fill="#1d2433">RIG-I</text>
+<text x="120" y="114" text-anchor="middle" class="t-small">5′-triphosphate RNA</text>
+<rect x="220" y="70" width="160" height="56" rx="8" fill="#dfeaf6" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="300" y="94" text-anchor="middle" class="t-head" fill="#1d2433">MDA5</text>
+<text x="300" y="114" text-anchor="middle" class="t-small">long dsRNA</text>
+<line x1="120" y1="126" x2="190" y2="164" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<line x1="300" y1="126" x2="230" y2="164" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="90" y="166" width="240" height="56" rx="8" fill="#ffffff" stroke="#1f6fb2" stroke-width="2"/>
+<text x="210" y="190" text-anchor="middle" class="t-head" fill="#1d2433">MAVS</text>
+<text x="210" y="210" text-anchor="middle" class="t-small">outer mitochondrial membrane</text>
+<line x1="210" y1="222" x2="210" y2="250" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="90" y="252" width="240" height="40" rx="8" fill="#ffffff" stroke="#1f6fb2" stroke-width="1.5"/>
+<text x="210" y="277" text-anchor="middle" class="t-body" fill="#1d2433">TRAF → TBK1 + IKK</text>
+<!-- DNA side -->
+<rect x="440" y="70" width="160" height="56" rx="8" fill="#ece5f5" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="520" y="94" text-anchor="middle" class="t-head" fill="#1d2433">cGAS</text>
+<text x="520" y="114" text-anchor="middle" class="t-small">binds dsDNA</text>
+<rect x="616" y="70" width="160" height="56" rx="8" fill="#ffffff" stroke="#6a4c93" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="696" y="94" text-anchor="middle" class="t-body" fill="#1d2433">c-di-GMP,</text>
+<text x="696" y="114" text-anchor="middle" class="t-body" fill="#1d2433">c-di-AMP (bacteria)</text>
+<line x1="520" y1="126" x2="580" y2="164" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<text x="520" y="152" text-anchor="end" class="t-small">cGAMP</text>
+<line x1="696" y1="126" x2="640" y2="164" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="490" y="166" width="240" height="56" rx="8" fill="#ffffff" stroke="#6a4c93" stroke-width="2"/>
+<text x="610" y="190" text-anchor="middle" class="t-head" fill="#1d2433">STING</text>
+<text x="610" y="210" text-anchor="middle" class="t-small">ER → Golgi</text>
+<line x1="610" y1="222" x2="610" y2="250" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="490" y="252" width="240" height="40" rx="8" fill="#ffffff" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="610" y="277" text-anchor="middle" class="t-body" fill="#1d2433">TBK1 (+ IKK)</text>
+<!-- merge -->
+<line x1="210" y1="292" x2="330" y2="338" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<line x1="610" y1="292" x2="470" y2="338" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="250" y="340" width="300" height="40" rx="8" fill="#6a4c93" stroke="#6a4c93" stroke-width="1.5"/>
+<text x="400" y="365" text-anchor="middle" class="t-head t-white" fill="#ffffff">IRF3 / IRF7 + NF-κB</text>
+<line x1="400" y1="380" x2="400" y2="406" stroke="#1d2433" stroke-width="1.5" marker-end="url(#arr-D10)"/>
+<rect x="250" y="408" width="300" height="56" rx="8" fill="#e3f1ea" stroke="#2e7d5b" stroke-width="2"/>
+<text x="400" y="432" text-anchor="middle" class="t-head" fill="#1d2433">Type I IFN (IFN-α, IFN-β)</text>
+<text x="400" y="452" text-anchor="middle" class="t-small">antiviral state in neighbouring cells</text>
+<!-- side notes -->
+<rect x="30" y="408" width="200" height="56" rx="8" fill="#f7e1e4" stroke="#b23a48" stroke-width="1.5"/>
+<text x="130" y="432" text-anchor="middle" class="t-body" fill="#1d2433">STING gain of function</text>
+<text x="130" y="452" text-anchor="middle" class="t-small">→ SAVI (interferonopathy)</text>
+<rect x="570" y="408" width="200" height="56" rx="8" fill="#fbecd3" stroke="#c77d14" stroke-width="1.5"/>
+<text x="670" y="432" text-anchor="middle" class="t-body" fill="#1d2433">AIM2 also binds dsDNA</text>
+<text x="670" y="452" text-anchor="middle" class="t-small">→ inflammasome → IL-1β</text>
+<text x="400" y="500" text-anchor="middle" class="t-small">Endosomal TLR3, TLR7, TLR8, TLR9 add type I IFN from ingested nucleic acids (D8)</text>
+</svg>
+<figcaption><b>D10.</b> Cytosolic nucleic-acid sensing. RNA sensors (RIG-I, MDA5) signal through MAVS; DNA sensing by cGAS signals through cGAMP and STING. Both routes activate TBK1, IRF3/IRF7 and NF-κB to induce type I IFN. <span class="src" title="M3-F077, M3-F076, M3-F079, M3-F080, M3-F083, M3-F084, M3-F121, M3-F085, M3-F088, M3-F024, M3-F118">Abbas p.69–97</span></figcaption>
+</figure>
+
+<div class="box clinical"><span class="label">Clinical correlation: interferonopathies</span>
+<p>Gain-of-function STING mutations cause a type I IFN-driven systemic inflammatory disease of skin and lung.<span class="src" title="M3-F085">Abbas p.77</span> This is STING-associated vasculopathy with onset in infancy (SAVI): cutaneous vasculopathy, fever and interstitial lung disease.<span class="src" title="M3-F086">Abbas p.75</span></p>
+<p>Aicardi-Goutières syndrome is caused by loss-of-function mutations in nucleases such as TREX1 and SAMHD1. Excess DNA and RNA then reach the nucleic acid sensors.<span class="src" title="M3-F087">Abbas p.75</span></p></div>
+
+<h2>8. Other cell-surface PRRs</h2>
+<h3>8.1 C-type lectin receptors</h3>
+<p>The mannose receptor (CD206) on macrophages mediates phagocytosis of microbes whose glycans end in mannose, fucose or N-acetylglucosamine. Host cell glycans usually end in galactose and sialic acid.<span class="src" title="M3-F089">Abbas p.78</span> Dectin-1 (CD369) binds β-glucan of fungal cell walls. It is required for immunity to <i>Candida</i>, <i>Aspergillus</i> and <i>Pneumocystis</i>.<span class="src" title="M3-F090">Abbas p.78</span> Dectin-1 and Dectin-2 signal through an ITAM–SYK–CARD9 pathway to NF-κB and promote Th17 responses and antifungal immunity.<span class="src" title="M3-F091">Abbas p.78</span></p>
+<h3>8.2 Scavenger receptors and formyl peptide receptors</h3>
+<p>Scavenger receptors such as SR-A and CD36 on macrophages mediate phagocytosis. CD36 is also a co-receptor for TLR2/6.<span class="src" title="M3-F092">Abbas p.79</span> Formyl peptide receptor 1 (FPR1) on leukocytes recognizes peptides that start with N-formylmethionine. Bacteria and mitochondria make such peptides, and FPR1 directs the movement of phagocytes towards them.<span class="src" title="M3-F093">Abbas p.79</span></p>
+
+<h2>9. Soluble PRRs (brief — lectin pathway in M5)</h2>
+<ul>
+<li><b>Pentraxins.</b> Short pentraxins are CRP and serum amyloid P (SAP); the long pentraxin is PTX3.<span class="src" title="M3-F094">Abbas p.87</span> CRP binds phosphorylcholine; SAP binds phosphatidylethanolamine.<span class="src" title="M3-F095">Abbas p.87</span> All three bind C1q and activate the classical complement pathway.<span class="src" title="M3-F096">Abbas p.88</span> Plasma CRP can rise up to 1000-fold in infection, because IL-6, IL-1 and TNF increase hepatic synthesis.<span class="src" title="M3-F097">Abbas p.88</span> PTX3 is stored in neutrophil granules and protects mice against <i>Aspergillus fumigatus</i> and influenza.<span class="src" title="M3-F098">Abbas p.88</span></li>
+<li><b>Collectins.</b> MBL binds terminal mannose and fucose and acts as an opsonin. Low MBL levels increase infection risk, mainly in patients with other immune defects.<span class="src" title="M3-F099">Abbas p.88</span> MBL starts the lectin pathway of complement.<span class="src" title="M3-F100">Abbas p.86</span> The lung collectins SP-A and SP-D opsonize microbes for alveolar macrophages.<span class="src" title="M3-F101">Abbas p.88</span></li>
+<li><b>Ficolins.</b> Ficolins have a fibrinogen-type recognition domain, not a C-type lectin domain. They bind N-acetylglucosamine and LTA, opsonize bacteria and activate complement like MBL.<span class="src" title="M3-F102">Abbas p.89</span></li>
+</ul>
+
+<h2>10. What PRR signalling produces: innate cytokines</h2>
+<table>
+<thead><tr><th>Cytokine</th><th>Main effects</th></tr></thead>
+<tbody>
+<tr><td>TNF</td><td>Endothelial and neutrophil activation; acute-phase proteins; fever; cachexia; apoptosis. Main mediator of septic shock.</td></tr>
+<tr><td>IL-1 (IL-1β)</td><td>Endothelial activation; fever; acute-phase proteins; Th17 differentiation. Needs the inflammasome.</td></tr>
+<tr><td>IL-6</td><td>Acute-phase reactants in the liver; Th17 differentiation.</td></tr>
+<tr><td>IL-12</td><td>IFN-γ from ILC1s, NK cells and T cells; Th1 differentiation.</td></tr>
+<tr><td>IL-18</td><td>Enhances NK cell function; needs the inflammasome.</td></tr>
+<tr><td>Type I IFN (IFN-α, IFN-β)</td><td>Antiviral state, mainly in uninfected neighbouring cells; more MHC class I; NK cell activation. pDCs are the main IFN-α source.</td></tr>
+<tr><td>Chemokines (CXCL8, CCL2)</td><td>Recruit neutrophils (CXCL8) and monocytes (CCL2).</td></tr>
+</tbody></table>
+<p class="related"><span class="src" title="M3-F103, M3-F113, M3-F104, M3-F055, M3-F105, M3-F106, M3-F108, M3-F109, M3-F118, M3-F110, M3-F111">Abbas p.90–98</span></p>
+<p>TNF, IL-1 and IL-6 make hepatocytes produce acute-phase proteins such as CRP, SAP and fibrinogen.<span class="src" title="M3-F112">Abbas p.97</span> Septic shock is mediated in large part by TNF.<span class="src" title="M3-F113">Abbas p.92</span> Patients with IL-12 receptor β1 mutations are highly susceptible to <i>Salmonella</i> and mycobacteria.<span class="src" title="M3-F107">Abbas p.93</span></p>
+
+<h2>11. Inborn errors of PRR signalling</h2>
+<table>
+<thead><tr><th>Defect</th><th>Pathway hit</th><th>Clinical clue</th></tr></thead>
+<tbody>
+<tr><td>MyD88 or IRAK4 deficiency (autosomal recessive)</td><td>MyD88 pathway of most TLRs and the IL-1 receptor</td><td>Severe invasive pyogenic infections early in life, especially pneumococcal; little fever or inflammation ("cold" infection); better with age; no extra viral susceptibility</td></tr>
+<tr><td>TLR3, UNC93B, TRIF, TRAF3 or TBK1 defects</td><td>TLR3–TRIF → type I IFN</td><td>Herpes simplex encephalitis; other viral infections not clearly increased</td></tr>
+<tr><td>NEMO (IKKγ) deficiency, X-linked (EDA-ID)</td><td>NF-κB downstream of all TLRs (and CD40)</td><td>Ectodermal dysplasia plus pyogenic, mycobacterial, viral and <i>Pneumocystis</i> infections</td></tr>
+</tbody></table>
+<p class="related"><span class="src" title="M3-F119, M3-F036, M3-F037, M3-F040, M3-F041, M3-F042, M3-F044">Abbas p.489, 498</span> <span class="src" title="M3-F038, M3-F039, M3-F043">Janeway p.92, 535</span></p>
+<p>The MyD88–IRAK4–IRAK1 pathway lies downstream of most TLRs and of the IL-1 receptor.<span class="src" title="M3-F119">Abbas p.489</span> Patients with MyD88 or IRAK4 mutations have severe invasive bacterial infections early in life, especially pneumococcal pneumonia. Infections become less severe later.<span class="src" title="M3-F036">Abbas p.489</span> These patients usually cannot mount a fever during illness.<span class="src" title="M3-F037">Abbas p.489</span> The infections cause little inflammation and are called "cold" infections.<span class="src" title="M3-F038">Janeway p.535</span> IRAK4 deficiency does not add susceptibility to viral infections.<span class="src" title="M3-F039">Janeway p.92</span></p>
+<p>Loss-of-function TLR3 mutations cause recurrent herpes simplex encephalitis (HSE).<span class="src" title="M3-F040">Abbas p.489</span> Autosomal recessive TRIF mutations and autosomal dominant TRAF3 or TBK1 mutations give the same susceptibility.<span class="src" title="M3-F041">Abbas p.489</span> Homozygous UNC93B mutations reduce type I IFN production and also predispose to HSE.<span class="src" title="M3-F042">Abbas p.489</span> NEMO deficiency blocks NF-κB downstream of all TLRs, so it affects innate and adaptive immunity.<span class="src" title="M3-F043">Janeway p.535</span></p>
+<div class="box pearl"><span class="label">Exam pearl</span>Invasive pneumococcal infection with little fever or local inflammation → think MyD88/IRAK4. Isolated HSE in an otherwise healthy child → think TLR3 pathway. The two phenotypes do not overlap.<span class="src" title="M3-F036, M3-F037, M3-F038, M3-F039, M3-F040">Abbas p.489 · Janeway p.92, 535</span></div>
+
+<h2>12. Links to allergy</h2>
+<p>Mast cells express TLRs.<span class="src" title="M3-F115">Abbas p.86</span> IL-33 is stored in the nuclei of barrier epithelial cells. When damaged cells release it, IL-33 acts as an alarmin.<span class="src" title="M3-F114">Abbas p.94</span></p>
+<div class="box caution"><span class="label">Source conflict</span>Abbas chapter 4 states that TLR ligands can induce mast cell degranulation.<span class="src" title="M3-F115">Abbas p.86</span> Abbas chapter 20 lists TLR ligands among stimuli that make mast cells produce lipid mediators, cytokines and chemokines without degranulation.<span class="src" title="M3-F116">Abbas p.470</span> Avoid absolute answers on this point.</div>
+
+<section class="keypoints"><h2>5 key points</h2><ol>
+<li>Surface TLRs (1, 2, 4, 5, 6) see bacterial walls; endosomal TLRs (3, 7, 8, 9) see nucleic acids; TLR9 sees unmethylated CpG DNA.<span class="src" title="M3-F009, M3-F010, M3-F015">Abbas p.67–69</span></li>
+<li>All TLRs except TLR3 use MyD88 → NF-κB; TLR3 and TLR4 use TRIF → IRF3 → IFN-β.<span class="src" title="M3-F025, M3-F033, M3-F034">Abbas p.69 · Janeway p.92</span></li>
+<li>IL-1β needs two signals: NF-κB makes pro-IL-1β; the NLRP3–ASC–caspase-1 inflammasome cleaves it and gasdermin D pores release it.<span class="src" title="M3-F055, M3-F052, M3-F054">Abbas p.72, 93</span></li>
+<li>Cytosolic RNA (RIG-I, MDA5 → MAVS) and DNA (cGAS → STING) sensing converge on TBK1–IRF3/IRF7 and type I IFN.<span class="src" title="M3-F079, M3-F080, M3-F084">Abbas p.76</span></li>
+<li>MyD88/IRAK4 deficiency → cold pyogenic infections; TLR3-pathway defects → HSE; NLRP3 gain of function → CAPS, treated with IL-1 blockade.<span class="src" title="M3-F036, M3-F038, M3-F040, M3-F065, M3-F066">Abbas p.74, 489 · Janeway p.535</span></li>
+</ol></section>
+
+<section class="traps"><h2>3 exam traps</h2><ol>
+<li>TLR4 is a surface TLR but still uses TRIF. TLR3 is the only TLR that does not use MyD88.<span class="src" title="M3-F025, M3-F027">Abbas p.69 · Janeway p.90</span></li>
+<li>Pyroptosis affects macrophages and dendritic cells, not neutrophils.<span class="src" title="M3-F059">Abbas p.74</span></li>
+<li>NOD2 loss-of-function variants raise Crohn's risk, but NOD2 gain of function causes Blau syndrome. Do not mix the direction of the mutation.<span class="src" title="M3-F048, M3-F049">Abbas p.72</span></li>
+</ol></section>
+
+<p class="related">Practice: <a href="../quiz/quiz.html#M3">M3 questions in the quiz</a> (IDs M3-A1 … M3-K3).</p>
+<footer class="sources">Sources: Abbas, Cellular and Molecular Immunology, 11th ed., pp. 63–98 (ch. 4), 470 (ch. 20), 487–498 (ch. 21); Janeway's Immunobiology, 8th ed., pp. 86–96, 112 (ch. 3), 535–537 (ch. 13). · Fact IDs refer to <code>ledger/facts.csv</code>.</footer>
+</main>
+</body>
+</html>

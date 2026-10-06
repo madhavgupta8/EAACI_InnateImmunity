@@ -1,0 +1,73 @@
+                                                                                             CHAPTER 4 Innate Immunity                      95
+
+
+                Microbes bind to phagocyte receptors                       Ingestion and Killing of Microbes by Activated
+                          C3b receptor IgGFc                               Phagocytes
+                  Lectin               receptor                            Neutrophils and macrophages that are recruited into sites of
+                  receptor
+                                                                           infections ingest microbes into vesicles by the process of phago-
+                                                                           cytosis and destroy these microbes (Fig. 4.17). Phagocytosis is
+                                                                           an active, energy-dependent process of engulfment of large par-
+                                                                           ticles (greater than 0.5 μm in diameter) into vesicles. Phagocytic
+                                                                           vesicles fuse with lysosomes and the ingested particles are
+       Phagocyte                                       Lysosome            destroyed by lysosomal enzymes. In this way, the mechanisms
+       membrane                                                            of killing, which could potentially injure the phagocyte, are iso-
+       zips up around                                                      lated from the rest of the cell.
+       microbe
+                                                                               Neutrophils and macrophages express receptors that specifi-
+                                                                           cally recognize microbes; binding of microbes to these receptors
+                                       Microbe ingested                    is the first step in phagocytosis. Some of these receptors are pat-
+                                        in phagosome                       tern recognition receptors, including C-type lectins and scav-
+                              Phagosome                                    enger receptors, which we discussed earlier. Pattern recognition
+                              with ingested                                receptors can contribute to phagocytosis only of organisms
+                              microbe                                      that express particular molecular patterns, such as mannose
+                                                                           for the mannose receptor. Phagocytes also have high-affinity
+                       Fusion of                                           receptors for certain opsonins, including antibody molecules,
+                                                     Lysosome              complement proteins, and plasma lectins; these receptors are
+                       phagosome                    with enzymes
+                       with lysosome                                       critical for phagocytosis of many different microbes that are
+                                                                           coated with the opsonins. Coating microbes with antibodies is
+                     Activation of                                         one of the most efficient systems for opsonization. Phagocytes
+                      phagocyte                          Citrulline        express a high-affinity Fc receptor called FcγRI, specific for one
+                                          Arginine                         type of antibody called IgG (see Chapters 5 and 13). Thus, if
+                                                       iNOS
+                    Phago-                                                 an individual responds to an infection by making IgG antibod-
+                    lysosome                                               ies against microbial antigens, the IgG molecules bind to these
+                                                                           antigens, the Fc ends of the bound antibodies can interact with
+                                                                           FcγRI on phagocytes, and the end result is efficient phagocytosis
+                                                            NO             of the microbes. Antibody-dependent phagocytosis illustrates a
+                                                                           link between innate and adaptive immunity—antibodies are a
+                     Killing of                  O2
+                                                        ROS                product of the adaptive immune system (B lymphocytes) that
+                    microbes by
+                   ROS, NO, and                                            engages innate immune system effector cells (phagocytes) to
+                    lysosomal                                              perform their protective functions.
+                    enzymes in                        Phagocyte                Once a microbe or particle binds to receptors on a phago-
+                  phagolysosomes                      oxidase              cyte, the plasma membrane in the region of the receptors begins
+                                                                           to invaginate and extends a cup-shaped projection around the
+Fig. 4.17 Phagocytosis and intracellular destruction of microbes.          microbe. When the protruding membrane cup extends beyond
+Microbes may be ingested by different membrane receptors of                the diameter of the particle, the top of the cup closes over and
+phagocytes; some directly bind microbes and others bind opsonized          pinches off the interior of the cup to form an inside-out intracel-
+microbes. The microbes are internalized into phagosomes, which fuse
+with lysosomes to form phagolysosomes, where the microbes are
+                                                                           lular vesicle (see Fig. 4.17). This vesicle, called a phagosome, con-
+killed by reactive oxygen and nitrogen species and proteolytic enzymes.    tains the ingested foreign particle. It breaks away from the plasma
+IgG, Immunoglobulin G; iNOS, inducible nitric oxide synthase; NO, nitric   membrane and fuses with a lysosome, where the next step in the
+oxide; ROS, reactive oxygen species.                                       process, the destruction of the ingested particle, occurs.
+                                                                               Activated neutrophils and macrophages kill phagocytosed
+                                                                           microbes by the action of microbicidal molecules in phagolyso-
+from acute inflammation if the infection is not eliminated                 somes (see Fig. 4.17). Signals from various receptors, including
+or the tissue injury is prolonged. It usually involves recruit-            pattern recognition receptors (such as TLRs), opsonin receptors
+ment and activation of monocytes and lymphocytes. Chronic                  (such as Fc and C3b receptors), receptors for cytokines (mainly
+inflammatory sites also often undergo tissue remodeling, with              IFN-γ), and CD40, function cooperatively to activate phago-
+angiogenesis and fibrosis. Although innate immune stimuli                  cytes to kill ingested microbes. The fusion of phagocytic vacu-
+contribute to chronic inflammation, the adaptive immune                    oles (phagosomes) with lysosomes results in the formation of
+system is usually also involved and cytokines produced by                  phagolysosomes, where most of the microbicidal mechanisms
+T cells are powerful inducers of chronic inflammation (see                 are concentrated. Three classes of microbicidal molecules are
+Chapter 10).                                                               known to be the most important.
+
+
+
+                                                           ERRNVPHGLFRVRUJ
+
+

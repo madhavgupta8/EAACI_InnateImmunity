@@ -1,0 +1,91 @@
+The first lines of defense
+
+43
+
+tissue macrophage __ tissue dendritic cell
+
+Wound healing induced
+Antimicrobial proteins and peptides,
+phagocytes, and complement destroy
+
+invading microorganisms
+
+Normal flora
+Local chemical factors
+Phagocytes (especially in lung)
+
+infection
+
+Complement, cytokines, chemokines
+Phagocytes, NK cells
+Activation of macrophages
+Dendritic cells migrate to lymph nodes
+to initiate adaptive immunity
+Blood clotting helps limit spread of
+
+Infection cleared by specific antibody,
+T-cell dependent macrophage
+activation and cytotoxic T cells
+
+recruits more effector cells and molecules of the innate immune system out
+of the blood and into the tissues (Fig. 2.5), while inducing clotting in small
+blood vessels further downstream so that the microbe cannot spread through
+the circulation. The induced responses of innate immunity act over several
+days, during which time an adaptive immune response is also getting under
+way in response to pathogen antigens delivered to local lymphoid tissue by
+dendritic cells (see Section 1-15). An adaptive immune response differs from
+innate immunity in its ability to target structures that are specific to particular
+strains and variants of pathogens. This response will usually clear the infect-
+ion, and protect the host against reinfection with the same pathogen, by
+producing effector cells and antibodies against the pathogen and by generat-
+ing immunological memory of that pathogen.
+
+2-3 Epithelial surfaces of the body provide the first line of defense
+against infection.
+
+Our body surfaces are defended by epithelia, which impose a physical barrier
+between the internal milieu and the external world that contains pathogens
+(Fig. 2.6). Epithelia comprise the skin and the linings of the body’s tubular
+
+Skin Gut Lungs Eyes/nose/oral cavity
+
+Epithelial cells joined by tight junctions
+
+Ftd ‘i A Movement of Tears
+Longitudinal flow of air or fluid mucus by cilia Nasal cilia
+Pulmonary .
+Fatty acids one sume aes sala
+S (lysozyme)
+Enzymes (pepsin)
+7 a-defensins
+Peete (cryptdins) a-defensins Histatins
+Cathelicidin Reglll (lecticidins) Cathelicidin B-defensins
+Cathelicidin
+
+Normal microbiota
+
+Fig. 2.5 An infection and the response
+to it can be divided into a series of
+stages. These are illustrated here for an
+infectious microorganism entering through
+a wound in the skin. The infectious agent
+must first adhere to the epithelial cells and
+then cross the epithelium. A local immune
+response may prevent the infection from
+becoming established. If not, it helps to
+contain the infection and also delivers
+
+the infectious agent, carried in lymph
+
+and inside dendritic cells, to local lymph
+nodes. This initiates the adaptive immune
+response and eventual clearance of the
+infection.
+
+Fig. 2.6 Many barriers prevent
+pathogens from crossing epithelia and
+colonizing tissues. Surface epithelia
+provide mechanical, chemical, and
+microbiological barriers to infection.
+
+

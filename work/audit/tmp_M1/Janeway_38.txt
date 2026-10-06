@@ -1,0 +1,62 @@
+38
+
+Chapter 2: Innate Immunity: The First Lines of Defense
+
+to the expansion of antigen-specific lymphocytes that target the pathogen
+specifically and to the formation of memory cells that provide long-lasting
+specific immunity.
+
+In this chapter we consider the first phase of an immune response—the innate
+immune response. In the first part of the chapter we describe the anatomic
+barriers that protect the host against infection and examine the immediate
+innate defenses provided by various secreted soluble proteins. The anatomic
+barriers are fixed defenses against infection comprising the epithelia that
+line the internal and external surfaces of the body and the phagocytes that
+lie beneath all epithelial surfaces and that engulf and digest invading micro-
+organisms. Epithelia are also protected by many kinds of chemical defenses,
+including antimicrobial enzymes and peptides. The phagocytes residing
+beneath the epithelia act both in the direct killing of microorganisms and in
+the next phase of the innate immune response: the induction of an inflam-
+matory response that recruits new phagocytic cells and circulating effector
+molecules to the site of infection. The last part of the chapter is devoted to the
+complement system. This important element of innate immunity interacts
+with microorganisms to promote their removal by phagocytic cells. The com-
+plement system, and other soluble circulating defensive proteins, are some-
+times referred to as humoral innate immunity, from the old word ‘humor’ for
+body fluids. In Chapter 3 we will examine the cellular components of innate
+immunity and the system of pattern recognition receptors that regulate cell-
+ular responses when they are triggered by pathogens.
+
+The first lines of defense.
+
+Microorganisms that cause disease in humans and animals enter the body
+at different sites and produce disease symptoms by a variety of mechanisms.
+Many different infectious agents can cause disease and damage to tissues, or
+pathology, and are referred to as pathogenic microorganisms or pathogens.
+In vertebrates, microbial invasion is initially countered by innate defenses
+that preexist in all individuals and begin to act within minutes of encounter
+with the infectious agent. Only when the innate host defenses have been
+bypassed, evaded, or overwhelmed is an adaptive immune response required.
+Innate immunity is sufficient to prevent the body from being routinely
+overwhelmed by the vast number of microorganisms that live on and in it.
+Pathogens are microorganisms that have evolved ways of overcoming the
+body's innate defenses more effectively than other microorganisms. Once
+they have gained a hold, they require the concerted efforts of both innate and
+adaptive immune responses to clear them from the body. Even in these cases,
+the innate immune system performs a valuable delaying function, keeping
+pathogen numbers in check while the adaptive immune system gears up for
+action. In the first part of this chapter we will describe briefly the different
+types of pathogens and their invasive strategies, and then examine the innate
+defenses that, in most cases, prevent microorganisms from establishing an
+infection. We will examine the defense functions of the epithelial surfaces of
+the body, the role of antimicrobial peptides and proteins, and the defense of
+body tissues by phagocytic cells—the macrophages and neutrophils—which
+bind to and ingest invading microorganisms.
+
+2-1 Infectious diseases are caused by diverse living agents that replicate
+in their hosts.
+
+The agents that cause disease fall into five groups: viruses, bacteria, fungi,
+protozoa, and helminths (worms). Protozoa and worms are usually grouped
+
+

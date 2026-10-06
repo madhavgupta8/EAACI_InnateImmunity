@@ -1,0 +1,65 @@
+                                                                                         CHAPTER 4 Innate Immunity                   63
+
+
+ancestors long ago in evolution. For example, peptides that are         structures include nucleic acids that are unique to or more
+toxic to bacteria and fungi, called defensins, are found in plants      abundant in microbes than in host cells, such as long dou-
+and mammals and have essentially the same tertiary structure in         ble-stranded RNA found in replicating viruses and unmeth-
+both life forms. A family of receptors that we will discuss in detail   ylated CpG DNA sequences found in bacteria; features of
+later in this chapter, called Toll-like receptors, recognize patho-     proteins that are found in microbes, such as initiation by
+genic microbes and activate antimicrobial defense mechanisms.           N-formylmethionine, which is typical of bacterial proteins;
+Toll-like receptors are found in every life form in the evolution-      and complex lipids and carbohydrates that are synthesized by
+ary tree, from insects up to mammals. The major signal trans-           microbes but not by mammalian cells, such as lipopolysac-
+duction pathway that Toll-like receptors engage to activate cells,      charide (LPS) in gram-negative bacteria, lipoteichoic acid in
+called the NF-κB (nuclear factor kappa B) pathway in mammals,           gram-positive bacteria, and oligosaccharides with terminal
+also shows remarkable evolutionary conservation. In fact, most          mannose residues found in microbial but not in mammalian
+of the mechanisms of innate immune defense that we will discuss         glycoproteins.
+in this chapter appeared very early in evolution, when the first            The innate immune system detects the presence of infec-
+multicellular organisms appeared, about 750 million years ago.          tion but not the specific pathogens. By recognizing PAMPs,
+An adaptive immune system, in contrast, is clearly recognizable         which are produced by broad classes of microbes, and prod-
+only in vertebrates that developed about 350 to 500 million years       ucts of cell damage that is often but not necessarily induced
+ago. A testament to the importance of innate immunity is that           by pathogens, the innate immune system triggers host defense
+the human genome contains approximately 850 genes that are              regardless of the particular species of microbe. In contrast,
+directly related to innate immune responses, compared to about          the adaptive immune system is capable of recognizing many
+575 for adaptive immunity.                                              more and diverse foreign substances (antigens). These may be
+                                                                        unique to different individual microbial species and even vari-
+   We begin our discussion of the innate immune system by               ants of a single species or they may be unrelated to microbial
+describing how it recognizes microbes and damaged host cells.           infection or tissue injury.
+We will then proceed to the individual components of innate                 The innate immune system recognizes microbial prod-
+immunity and their functions in host defense.                           ucts that are often essential for survival of the microbes.
+                                                                        This evolutionary adaptation of innate immune recognition
+                                                                        is important because it ensures that microbes usually can-
+RECOGNITION OF MICROBES AND DAMAGED                                     not evade innate immunity by eliminating molecules that
+                                                                        may be recognized by the host. An example of a target of
+TISSUE BY THE INNATE IMMUNE SYSTEM                                      innate immunity that is indispensable for microbes is dou-
+The specificities of innate immune recognition have evolved to          ble-stranded viral RNA, which is an essential intermediate in
+combat microbes and are different from the specificities of the         the life cycle of many viruses. Similarly, LPS and lipoteichoic
+adaptive immune system in several respects (Table 4.1).                 acid are structural components of bacterial cell walls that are
+• The innate immune response is activated by recognition of             recognized by innate immune receptors; both are required
+   a relatively limited set of molecular structures that either         for bacterial survival. Nonetheless, some microbes, espe-
+   are products of microbes or are expressed by injured or              cially viruses, have evolved mechanisms to alter PAMPs in
+   dead host cells. It is estimated that the innate immune sys-         ways that diminish innate immune recognition. In contrast,
+   tem recognizes only about 1000 products of microbes and              as we will see in Chapter 16, in response to the selective pres-
+   damaged cells. By contrast, the adaptive immune system               sures of adaptive immunity, microbes often lose expression
+   potentially can recognize millions of different microbial            of the antigens that are recognized by antibodies and T cells,
+   antigens and can also recognize nonmicrobial environmen-             thereby evading host defense without compromising their
+   tal antigens as well as self antigens that are normally present      own survival.
+   in healthy tissues.                                                      The innate immune system also recognizes endogenous
+• The innate immune system uses germline-encoded invariant              molecules that are produced by or released from damaged and
+   receptors to recognize microbial and other products. By con-         dying cells. These substances are called damage-associated
+   trast, the adaptive immune system uses highly variable and           molecular patterns (DAMPs) (see Table 4.2). DAMPs may be
+   diverse receptors encoded by somatically rearranged genes            produced as a result of cell damage caused by infections, but
+   to recognize foreign antigens. The specificity and receptors         they may also indicate sterile injury to cells caused by any of
+   of innate immunity are described later.                              many insults, such as chemical toxins, burns, trauma, or loss
+                                                                        of blood supply. DAMPs are generally not released from cells
+   The innate immune system recognizes molecular struc-                 dying by apoptosis. In some cases, endogenous molecules,
+tures that are produced by microbial pathogens. The micro-              including some cytokines, that are produced by healthy cells are
+bial substances that stimulate innate immunity are often                released when the cells are damaged or die, and they then stim-
+shared by classes of microbes and are called pathogen-                  ulate innate responses. These cytokines are a subset of DAMPs
+associated molecular patterns (PAMPs). Different types of               and are sometimes called alarmins because their presence out-
+microbes (e.g., viruses, gram-negative bacteria, gram-positive          side cells sends an alarm to the immune system that something
+bacteria, fungi) express different PAMPs (Table 4.2). These             is causing cell damage or death.
+
+
+                                                         ERRNVPHGLFRVRUJ
+
+

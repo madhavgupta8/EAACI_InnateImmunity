@@ -1,0 +1,65 @@
+44
+
+Chapter 2: Innate Immunity: The First Lines of Defense
+
+structures—the gastrointestinal, respiratory, and urogenital tracts. Epithelial
+cells are held together by tight junctions, which effectively form a seal against
+the external environment. Infections occur only when a pathogen colonizes
+or crosses these barriers, and because the dry tough outer layer of the skin
+is a formidable barrier when not broken, pathogen entry most often occurs
+through the vast area of epithelial surface inside the body. The importance
+of epithelia in protection against infection is obvious when the barrier is
+breached, as in wounds, burns, and loss of the integrity of the body’s internal
+epithelia, in which cases infection is a major cause of mortality and morbidity.
+In the absence of wounding or disruption, pathogens can set up an infect-
+ion by specifically adhering to and colonizing epithelial surfaces, using the
+attachment to avoid being dislodged by the flow of air or fluid across the sur-
+face. Some pathogens can also use surface molecules on the epithelial cells as
+footholds to invade the cells or get into the underlying tissues.
+
+The internal epithelia are known as mucosal epithelia because they secrete
+a viscous fluid called mucus, which contains many glycoproteins called
+mucins. Mucus has a number of protective functions. Microorganisms
+coated in mucus may be prevented from adhering to the epithelium, and in
+the respiratory tract, microorganisms can be expelled in the outward flow of
+mucus driven by the beating of cilia on the mucosal epithelium. The efficacy
+of mucus flow in clearing infection is illustrated by people with abnormally
+thick mucus secretion or inhibition of ciliary movement, as occurs in the
+inherited disease cystic fibrosis. Such individuals frequently develop lung
+infections caused by bacteria that colonize the epithelial surface but do not
+cross it. In the gut, peristalsis is an important mechanism for keeping both
+food and infectious agents moving through the body. Failure of peristalsis is
+typically accompanied by the overgrowth of pathogenic bacteria within the
+lumen of the gut.
+
+Most healthy epithelial surfaces are also associated with a with a large popu-
+lation of normally nonpathogenic bacteria, known as commensal bacteria or
+the microbiota, that compete with pathogenic microorganisms for nutrients
+and for attachment sites on epithelial cells. This microbiota can also produce
+antimicrobial substances, such as the lactic acid produced by vaginal lacto-
+bacilli, some strains of which also produce antimicrobial peptides (bacteri-
+ocins). Commensals also help to strengthen the barrier functions of epithelia
+by stimulating the epithelial cells to produce antimicrobial peptides. When
+commensal microorganisms are killed by antibiotic treatment, pathogens fre-
+quently replace them and cause disease (see Fig. 12.23). Under some circum-
+stances commensal microbes themselves can cause disease if their growth is
+not kept in check or if the immune system is compromised. The survival of
+commensal microorganisms on our body surfaces is regulated by a balance
+between bacterial growth and their elimination by the mechanisms of innate
+and adaptive immunity (discussed in Chapter 12); failures in this regulation,
+such as those caused by inherited deficiencies of proteins of innate immunity
+that we discuss in Chapter 15, can allow normally nonpathogenic bacteria to
+grow excessively and cause disease.
+
+2-4 Epithelial cells and phagocytes produce several kinds of
+antimicrobial proteins.
+
+Our surface epithelia are more than mere physical barriers to infection; they
+also produce a wide variety of chemical substances that are microbicidal or
+that inhibit microbial growth. For example, the acid pH of the stomach and the
+digestive enzymes, bile salts, fatty acids, and lysolipids present in the upper
+gastrointestinal tract create a substantial chemical barrier to infection. One
+important group of antimicrobial proteins comprises enzymes that attack
+chemical features specific to bacterial cell walls. Such antibacterial enzymes
+
+

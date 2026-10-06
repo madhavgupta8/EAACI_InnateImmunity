@@ -1,0 +1,69 @@
+                                                                                            CHAPTER 4 Innate Immunity                    65
+
+
+ TABLE 4.2 Examples of Pathogen-Associated                                 (immunoglobulins [Igs] and T-cell receptors), each with mil-
+ Molecular Patterns and Damage-Associated                                  lions of variations that recognize a vast number of antigens.
+ Molecular Patterns                                                            The innate immune system does not react against nor-
+                                                                           mal healthy cells and tissues. This characteristic is, of course,
+ Pathogen-Associated Molecular Patterns                                    essential for the health of the organism. The failure to recog-
+ Nucleic acids                          ssRNA: viruses                     nize healthy self is due to three main mechanisms: normal cells
+                                                                           do not produce ligands for most innate immune receptors, the
+                                        dsRNA: viruses                     receptors are located in cellular compartments where they do
+                                                                           not encounter host molecules they could recognize, and regu-
+                                        Unmethylated CpG: viruses,
+                                         bacteria                          latory proteins expressed by normal cells prevent activation of
+                                                                           various components of innate immunity. We will discuss exam-
+ Proteins                               Pilin: bacteria                    ples of such regulation later in this chapter.
+                                                                               With this introduction, we can proceed to a discussion of the
+                                        Flagellin: motile bacteria         large variety of molecules in the body that are capable of recog-
+ Cell wall lipids                       LPS: gram-negative bacteria        nizing PAMPs and DAMPs, focusing on their specificity, loca-
+                                                                           tion, and functions. We will begin with cell-associated receptors
+                                        Lipoteichoic acid: gram-           expressed on membranes or in the cytosol of cells. The soluble
+                                          positive bacteria                recognition and effector molecules of innate immunity, found
+                                                                           in the blood and extracellular fluids, are described later.
+ Carbohydrates                          Mannan: fungi, bacteria
+
+                                        Glucans: fungi                     CELLULAR PATTERN RECOGNITION
+ Damage-Associated Molecular Patterns                                      RECEPTORS
+ Stress-induced proteins                HSPs
+                                                                           Most cell types express pattern recognition receptors and there-
+ Crystals                               Monosodium urate                   fore are capable of participating in innate immune responses.
+ Proteolytically cleaved                Proteoglycan peptides              Phagocytes, especially macrophages, and DCs express the wid-
+  extracellular matrix                                                     est variety and greatest number of these receptors. This is in
+                                                                           keeping with the fundamental role of phagocytes in detecting
+ Mitochondrial components               Extracellular formylated           microbes and damaged cells and ingesting them for destruction
+  found outside mitochondria             peptides and ATP                  and the role of DCs in reacting to microbes in ways that elicit
+                                                                           inflammation and subsequent adaptive immunity. Pattern rec-
+ Nuclear proteins or nucleic            Extracellular HMGB1,
+  acids found outside nucleus            histones, cytoplasmic
+                                                                           ognition receptors are linked to intracellular signal transduc-
+                                         dsDNA                             tion pathways that activate various cellular responses, including
+                                                                           the production of molecules that promote inflammation and
+ ATP, Adenosine triphosphate; CpG, cytosine-guanine–rich                   molecules that destroy microbes.
+ oligonucleotide; dsRNA, double-stranded RNA; HMGB1, high-                    We will organize our discussion around several distinct
+ mobility group box 1; HSP, heat shock protein; LPS, lipopolysaccharide;   classes of cellular pattern recognition receptors that differ in
+ ssRNA, single-stranded RNA.
+                                                                           their structure and specificity for various types of microbes.
+
+                                                                           Toll-Like Receptors
+by enhancing uptake into phagocytes or by activating extracel-             Toll-like receptors (TLRs) are an evolutionarily conserved fam-
+lular killing mechanisms. Immunologists refer to cellular and              ily of pattern recognition receptors that are expressed by most
+humoral arms of the innate immune system, describing cell-                 cell types and recognize products of a wide variety of microbes,
+associated versus soluble recognition molecules and the effector           as well as molecules expressed or released by stressed and
+responses they are linked to, analogous to cellular and humoral            dying cells. Toll was discovered as a Drosophila gene involved in
+arms of adaptive immunity.                                                 establishing the dorsal-ventral axis during development of the
+   The receptors of the innate immune system are encoded by                fruit fly, but subsequently it was discovered that the Toll pro-
+inherited (germline) genes, whereas the genes encoding recep-              tein also mediated antimicrobial responses in these organisms.
+tors of adaptive immunity are formed by somatic recombina-                 Furthermore, the cytoplasmic domain of Toll was found to be
+tion of gene segments in the precursors of mature lymphocytes.             similar to the cytoplasmic region of the receptor for the innate
+As a result, the diversity of innate immune system receptors and           immune cytokine interleukin-1 (IL-1). These discoveries led to
+the range of their specificities are small compared with those of          the identification of mammalian homologs of Toll, which were
+B and T cells of the adaptive immune system. It is estimated that          named Toll-like receptors (TLRs). There are 10 different func-
+innate immune recognition is mediated by about 100 different               tional TLRs in humans, named TLR1 through TLR10 (Fig. 4.2).
+receptors belonging to several protein families, whereas in the            Mice express TLRs homologous to human TLRs 1 through 9,
+adaptive immune system there are only two families of receptors            plus three more (TLRs 11 through 13), but they do not express
+
+
+                                                             ERRNVPHGLFRVRUJ
+
+

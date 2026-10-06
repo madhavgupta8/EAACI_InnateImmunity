@@ -1,0 +1,65 @@
+                                                                                         CHAPTER 4 Innate Immunity                   101
+
+
+cells the expression of costimulators, all of which promote T-cell      response is critically important for protection against
+activation (see Chapter 9). Thus, the innate immune response            microbes, it has the potential to cause tissue injury and dis-
+to microbes in macrophages stimulates the adaptive T-cell               ease. Several mechanisms have evolved to provide a brake on
+response that helps the macrophages to destroy such microbes.           inflammation, and these mechanisms come into play at the
+   By contrast, many extracellular microbes that enter the              same time as or shortly after the initiation of inflammation.
+blood activate the alternative complement pathway, and some of          Furthermore, many of these control mechanisms are trig-
+the proteolytic products of complement activation enhance the           gered by the same PAMPs and DAMPs that induce inflam-
+production of antibodies by B lymphocytes (see Chapter 12).             mation. We will describe a selected group of these regulatory
+These antibodies opsonize the microbes and thereby promote              mechanisms.
+their phagocytosis by neutrophils and macrophages, or kill the              IL-10 is a cytokine that is produced by and inhibits activa-
+microbes by complement-dependent mechanisms. Thus, blood-               tion of macrophages and DCs. IL-10 inhibits the production of
+borne microbes induce an innate response (complement acti-              various inflammatory cytokines by activated macrophages and
+vation) that triggers the adaptive response that is designed to         DCs, including IL-1, TNF, and IL-12. Because it is both pro-
+eliminate these extracellular pathogens.                                duced by macrophages and DCs and inhibits the functions of
+   Cytokines produced by cells during innate immune responses           these cells, IL-10 is an example of a negative feedback regula-
+to microbes or cell injury stimulate the proliferation and dif-         tor. Alternatively activated macrophages make more IL-10 than
+ferentiation of lymphocytes in adaptive immune responses.               classically activated macrophages. IL-10 is produced by some
+Examples of cytokines secreted during innate immune reactions           nonhematopoietic cell types (e.g., keratinocytes). IL-10 is also
+acting on B cells, CD4+ T cells, and CD8+ T cells are given here.       produced by regulatory T cells, and we will discuss the details
+We have mentioned these cytokines previously and will discuss           of IL-10 in this context in Chapter 15. Loss-of-function muta-
+the details of their roles in lymphocyte responses in later chapters.   tions in the IL-10 receptor result in severe colitis that develops
+• IL-12 is required for the differentiation of naive CD4+ T cells       in infancy.
+   to the Th1 subset of effector cells (see Chapter 10) and stimu-          Macrophages produce a natural antagonist of IL-1 that is
+   lates cytotoxic activity and IFN-γ secretion by CD8+ CTLs.           structurally homologous to the cytokine and binds to the same
+• IL-1, IL-6, and IL-23 stimulate the differentiation of naive CD4+     receptors but is biologically inactive, so that it functions as a
+   T cells to the Th17 subset of effector cells (see Chapter 10).       competitive inhibitor of IL-1. It is therefore called IL-1 recep-
+• IL-25, IL-33, and TSLP stimulate the differentiation of naive         tor antagonist (IL-1RA). Synthesis of IL-1RA is induced by
+   CD4+ T cells to the Th2 subset of effector cells.                    many of the same stimuli that induce IL-1 production. Some
+• IL-15 promotes the survival of memory CD8+ T cells.                   studies in IL-1RA–deficient mice suggest that this inhibitory
+• IL-6 promotes the survival of antibody-producing plasma cells.        cytokine is required to prevent inflammatory diseases of joints
+                                                                        and other tissues, and a rare disease caused by genetic defi-
+    Adjuvants are substances that need to be administered               ciency of IL-1RA in humans is characterized by severe bone
+together with purified protein antigens to elicit maximal T cell–       and skin inflammation. Recombinant IL-1RA was originally
+dependent immune responses. Most work by stimulating innate             developed as a drug for the treatment of rheumatoid arthri-
+immune responses at the site of antigen exposure that promote           tis; it is an effective treatment for familial fever syndromes in
+subsequent adaptive immunity. Adjuvants are useful in experi-           which IL-1 production is dysregulated. Regulation of IL-1–
+mental immunology and in clinical vaccines (see Chapter 16).            mediated inflammation may also occur by expression of the
+Many adjuvants in experimental use are microbial products that          type II receptor, which binds IL-1 but does not transduce an
+engage TLRs, such as killed mycobacteria and LPS. Aluminum, in          activating signal. The major function of this receptor may be
+the form of various salts, is the most commonly used adjuvant in        to act as a decoy that competitively inhibits IL-1 binding to the
+human vaccines and may work by causing inflammasome activa-             type I signaling receptor.
+tion. CpG, the ligand for TLR9, is used in some hepatitis B virus           There are numerous negative regulatory signaling path-
+vaccines. Among their important effects, adjuvants activate DCs         ways that block the activating signals generated by pat-
+to express more MHC molecules that are part of the antigen (sig-        tern recognition receptors and inflammatory cytokines.
+nal 1) that T cells recognize, increase the expression of costimu-      Suppressors of cytokine signaling (SOCS) proteins are inhibi-
+lators (signal 2) and cytokines needed for T-cell activation, and       tors of JAK-STAT signaling pathways linked to cytokine
+stimulate migration of the DCs to lymph nodes where T cells are         receptors. TLR signaling in macrophages and DCs induces
+located (see Chapter 6).                                                the expression of SOCS proteins, which limit responses
+                                                                        of these cells to exogenous cytokines such as type I IFNs.
+                                                                        Proinflammatory responses of cells to TLR signaling are nega-
+MECHANISMS THAT LIMIT INNATE IMMUNE                                     tively regulated by SHP1, an intracellular protein phosphatase
+RESPONSES                                                               that inhibits numerous tyrosine kinase–dependent signaling
+                                                                        pathways in lymphocytes. Many other examples of kinases
+The magnitude and duration of innate immune responses                   and phosphatases inhibit TLR, NLR, and RLR signaling and
+are regulated by a variety of inhibitory mechanisms that                small inhibitory RNAs that inhibit production of many of the
+limit potential damage to tissues. Whereas the inflammatory             mediators of innate immunity.
+
+
+
+                                                         ERRNVPHGLFRVRUJ
+
+

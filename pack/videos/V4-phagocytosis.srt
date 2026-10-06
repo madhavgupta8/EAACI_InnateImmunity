@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:02,763
+Phagocytosis and the respiratory burst.
+
+2
+00:00:02,813 --> 00:00:08,243
+A neutrophil must leave the blood, find the microbe, swallow it and kill it.
+
+3
+00:00:08,293 --> 00:00:13,580
+Exam questions test each step, and the disease that appears when it fails.
+
+4
+00:00:13,933 --> 00:00:15,920
+Neutrophils come first.
+
+5
+00:00:15,970 --> 00:00:21,677
+An adult makes more than one hundred billion neutrophils per day.
+
+6
+00:00:21,727 --> 00:00:25,574
+G-CSF and GM-CSF stimulate their production.
+
+7
+00:00:25,933 --> 00:00:28,240
+Step one is to leave the blood.
+
+8
+00:00:28,290 --> 00:00:32,954
+Abbas describes four steps: selectin rolling, chemokine-driven
+
+9
+00:00:33,004 --> 00:00:37,667
+integrin activation, firm integrin arrest, and transmigration.
+
+10
+00:00:38,033 --> 00:00:40,960
+Rolling starts in postcapillary venules.
+
+11
+00:00:41,010 --> 00:00:44,606
+Selectins mediate a first, low-affinity adhesion.
+
+12
+00:00:44,656 --> 00:00:48,475
+Endothelial cells express P-selectin and E-selectin.
+
+13
+00:00:48,525 --> 00:00:52,716
+L-selectin sits on the leukocyte, not on the endothelium.
+
+14
+00:00:53,067 --> 00:00:56,704
+P-selectin is stored in endothelial granules.
+
+15
+00:00:56,754 --> 00:01:01,130
+Histamine and thrombin move it rapidly to the surface.
+
+16
+00:01:01,180 --> 00:01:05,637
+IL-1 and TNF induce E-selectin within one to two hours.
+
+17
+00:01:06,000 --> 00:01:09,505
+The leukocyte ligand is the sugar sialyl Lewis X.
+
+18
+00:01:09,555 --> 00:01:13,349
+Selectin bonds have low affinity and a fast off-rate.
+
+19
+00:01:13,399 --> 00:01:17,339
+They form and break again and again, so the cell rolls.
+
+20
+00:01:17,700 --> 00:01:19,451
+Next, integrin activation.
+
+21
+00:01:19,501 --> 00:01:24,992
+Endothelial heparan sulfate holds chemokines and shows them to the rolling cell.
+
+22
+00:01:25,042 --> 00:01:29,425
+Chemokine receptor signals switch the integrin to high affinity.
+
+23
+00:01:29,475 --> 00:01:31,988
+This is called inside-out signalling.
+
+24
+00:01:32,367 --> 00:01:33,877
+Then firm arrest.
+
+25
+00:01:33,927 --> 00:01:39,016
+Cytokines increase ICAM-1 and VCAM-1 on the endothelium.
+
+26
+00:01:39,066 --> 00:01:41,677
+ICAM-1 binds LFA-1 and MAC-1.
+
+27
+00:01:41,727 --> 00:01:43,421
+VCAM-1 binds VLA-4.
+
+28
+00:01:43,471 --> 00:01:44,798
+The cell stops.
+
+29
+00:01:45,167 --> 00:01:46,778
+Last, transmigration.
+
+30
+00:01:46,828 --> 00:01:51,920
+The cell squeezes between endothelial cells, with help from CD31.
+
+31
+00:01:51,970 --> 00:01:53,977
+Watch the word diapedesis.
+
+32
+00:01:54,027 --> 00:01:56,430
+Abbas uses it for this passage.
+
+33
+00:01:56,480 --> 00:02:00,465
+Janeway uses it for crossing the basement membrane.
+
+34
+00:02:00,833 --> 00:02:03,120
+Now the cell must find the microbe.
+
+35
+00:02:03,170 --> 00:02:08,062
+Chemotaxis is movement along a chemoattractant gradient toward its source.
+
+36
+00:02:08,112 --> 00:02:12,869
+Chemokine receptors are seven-transmembrane G protein-coupled receptors.
+
+37
+00:02:13,233 --> 00:02:21,136
+Neutrophils use CXCR1 and CXCR2 to bind CXCL8, also called IL-8.
+
+38
+00:02:21,186 --> 00:02:28,218
+Classical monocytes use CCR2, and its key ligand is CCL2.
+
+39
+00:02:28,600 --> 00:02:33,291
+Other attractants are C5a, C3a and leukotriene B4.
+
+40
+00:02:33,341 --> 00:02:41,257
+Bacterial formyl peptides bind FPR1, and they are among the most potent attractants.
+
+41
+00:02:41,307 --> 00:02:46,093
+C5a and CXCL8 also switch on the respiratory burst.
+
+42
+00:02:46,467 --> 00:02:47,815
+Step three: swallow.
+
+43
+00:02:47,865 --> 00:02:51,591
+Phagocytosis is an active, energy-dependent engulfment
+
+44
+00:02:51,641 --> 00:02:54,598
+of particles larger than half a micrometre.
+
+45
+00:02:54,648 --> 00:02:55,927
+Opsonization helps.
+
+46
+00:02:55,977 --> 00:03:01,591
+Antibodies or complement coat the microbe, so phagocytes take it up more readily.
+
+47
+00:03:01,967 --> 00:03:05,318
+Each opsonin has its receptor.
+
+48
+00:03:05,368 --> 00:03:11,213
+FcγRI is a high-affinity receptor for IgG1 and IgG3.
+
+49
+00:03:11,263 --> 00:03:13,708
+CR1 binds C3b and C4b.
+
+50
+00:03:13,758 --> 00:03:20,964
+CR1 alone is weak, but IgG binding or interferon gamma helps it.
+
+51
+00:03:21,333 --> 00:03:28,653
+CR3 binds iC3b, and this binding alone is enough to stimulate phagocytosis.
+
+52
+00:03:28,703 --> 00:03:34,254
+CR3 is the same molecule as MAC-1, the adhesion integrin.
+
+53
+00:03:34,304 --> 00:03:36,514
+Its beta chain is CD18.
+
+54
+00:03:36,564 --> 00:03:38,872
+Remember this for LAD-1.
+
+55
+00:03:39,233 --> 00:03:40,484
+The steps are simple.
+
+56
+00:03:40,534 --> 00:03:42,280
+The microbe binds a receptor.
+
+57
+00:03:42,330 --> 00:03:45,625
+The membrane forms a cup that closes into a phagosome.
+
+58
+00:03:45,675 --> 00:03:49,342
+The phagosome fuses with a lysosome to make a phagolysosome.
+
+59
+00:03:49,392 --> 00:03:51,014
+Most killing happens there.
+
+60
+00:03:51,367 --> 00:03:52,577
+Step four: kill.
+
+61
+00:03:52,627 --> 00:03:57,067
+The three most important classes of killing molecules are
+
+62
+00:03:57,117 --> 00:04:01,952
+reactive oxygen species, nitric oxide and proteolytic enzymes.
+
+63
+00:04:02,333 --> 00:04:10,585
+Reactive oxygen species come from phagocyte oxidase, also called NADPH oxidase.
+
+64
+00:04:10,635 --> 00:04:17,101
+In resting neutrophils, gp91 and p22 sit in granule membranes.
+
+65
+00:04:17,151 --> 00:04:21,094
+p40, p47 and p67 float in the cytosol.
+
+66
+00:04:21,144 --> 00:04:23,931
+Rac2 signals assemble them.
+
+67
+00:04:24,300 --> 00:04:25,455
+Now the chain.
+
+68
+00:04:25,505 --> 00:04:29,156
+NADPH oxidase reduces oxygen to superoxide.
+
+69
+00:04:29,206 --> 00:04:34,493
+Superoxide dismutase converts superoxide to hydrogen peroxide.
+
+70
+00:04:34,543 --> 00:04:38,280
+Myeloperoxidase turns hydrogen peroxide into
+
+71
+00:04:38,330 --> 00:04:42,067
+hypohalous acids, such as hypochlorous acid.
+
+72
+00:04:42,433 --> 00:04:46,604
+It is called the respiratory burst because it consumes oxygen.
+
+73
+00:04:46,654 --> 00:04:50,485
+Potassium and hydrogen ions then enter the phagolysosome.
+
+74
+00:04:50,535 --> 00:04:55,727
+This releases and activates granule enzymes such as elastase and cathepsin G.
+
+75
+00:04:55,777 --> 00:04:59,403
+Janeway notes that oxygen radicals alone may not kill.
+
+76
+00:04:59,767 --> 00:05:02,355
+Nitric oxide is the second weapon.
+
+77
+00:05:02,405 --> 00:05:07,399
+Inducible nitric oxide synthase is absent in resting macrophages.
+
+78
+00:05:07,449 --> 00:05:11,744
+TLR signals induce it, especially with interferon gamma.
+
+79
+00:05:11,794 --> 00:05:17,409
+Nitric oxide joins superoxide or hydrogen peroxide to make peroxynitrite.
+
+80
+00:05:17,459 --> 00:05:20,746
+Neutrophils make little or no nitric oxide.
+
+81
+00:05:21,100 --> 00:05:26,372
+Neutrophils can also throw out NETs, neutrophil extracellular traps.
+
+82
+00:05:26,422 --> 00:05:30,990
+They are strands of DNA and histones with granule proteins.
+
+83
+00:05:31,040 --> 00:05:33,965
+NETs trap and kill bacteria and fungi.
+
+84
+00:05:34,015 --> 00:05:39,913
+Their formation needs PAD4, elastase, myeloperoxidase and phagocyte oxidase.
+
+85
+00:05:39,963 --> 00:05:42,105
+The neutrophil usually dies.
+
+86
+00:05:42,467 --> 00:05:43,522
+Now the clinic.
+
+87
+00:05:43,572 --> 00:05:47,429
+Phagocyte defects cause invasive bacterial and fungal
+
+88
+00:05:47,479 --> 00:05:50,966
+infections of skin, liver and respiratory tract.
+
+89
+00:05:51,016 --> 00:05:54,283
+The fungi are mainly Aspergillus and Candida.
+
+90
+00:05:54,333 --> 00:06:00,327
+Janeway sorts them into four groups: production, adhesion, activation and killing.
+
+91
+00:06:00,700 --> 00:06:06,186
+Chronic granulomatous disease, or CGD, is the classic killing defect.
+
+92
+00:06:06,236 --> 00:06:11,803
+Mutations hit NADPH oxidase, so phagocytes make too little superoxide.
+
+93
+00:06:11,853 --> 00:06:15,654
+About two-thirds of cases are X-linked, in gp91.
+
+94
+00:06:15,704 --> 00:06:19,746
+The rest are autosomal recessive and can be milder.
+
+95
+00:06:20,100 --> 00:06:25,456
+Catalase-producing organisms, such as Staphylococcus, are a problem in CGD.
+
+96
+00:06:25,506 --> 00:06:29,637
+Their catalase destroys the little hydrogen peroxide left.
+
+97
+00:06:29,687 --> 00:06:34,035
+Invasive Aspergillus infection is the leading cause of death.
+
+98
+00:06:34,085 --> 00:06:37,639
+Uncontrolled infection drives granuloma formation.
+
+99
+00:06:38,000 --> 00:06:42,611
+Abbas lists management as antibiotic and antifungal prophylaxis,
+
+100
+00:06:42,661 --> 00:06:46,761
+interferon gamma, and possible stem cell transplantation.
+
+101
+00:06:46,811 --> 00:06:48,800
+Check the current guideline.
+
+102
+00:06:48,850 --> 00:06:54,262
+Myeloperoxidase deficiency also impairs killing, but it is milder than CGD.
+
+103
+00:06:54,633 --> 00:06:59,205
+Leukocyte adhesion deficiencies are autosomal recessive.
+
+104
+00:06:59,255 --> 00:07:03,826
+Neutrophils cannot reach the tissue, so there is no pus.
+
+105
+00:07:03,876 --> 00:07:08,448
+LAD-1 is a CD18 defect, so beta-2 integrins are missing.
+
+106
+00:07:08,498 --> 00:07:11,336
+The blood often shows leukocytosis.
+
+107
+00:07:11,700 --> 00:07:13,712
+LAD-2 is a rolling defect.
+
+108
+00:07:13,762 --> 00:07:18,470
+A GDP-fucose transporter fails, so sialyl Lewis X is absent.
+
+109
+00:07:18,520 --> 00:07:23,149
+Look for developmental problems and the Bombay blood group.
+
+110
+00:07:23,199 --> 00:07:25,369
+LAD-3 is a KINDLIN-3 defect.
+
+111
+00:07:25,419 --> 00:07:31,555
+Integrins cannot be activated, and patients bleed with normal platelet counts.
+
+112
+00:07:31,933 --> 00:07:35,866
+Chédiak-Higashi syndrome is autosomal recessive.
+
+113
+00:07:35,916 --> 00:07:39,765
+LYST mutations disturb lysosome trafficking, so
+
+114
+00:07:39,815 --> 00:07:43,664
+phagosomes and lysosomes fail to fuse properly.
+
+115
+00:07:43,714 --> 00:07:49,223
+Look for giant lysosomes, partial albinism and pyogenic infections.
+
+116
+00:07:49,273 --> 00:07:52,624
+Without transplant, HLH usually develops.
+
+117
+00:07:53,000 --> 00:07:55,266
+Production defects come last.
+
+118
+00:07:55,316 --> 00:07:58,940
+Severe congenital neutropenia has a neutrophil
+
+119
+00:07:58,990 --> 00:08:02,774
+count below 0.5 times ten to the nine per litre.
+
+120
+00:08:02,824 --> 00:08:06,448
+Cyclic neutropenia cycles about every 21 days.
+
+121
+00:08:06,498 --> 00:08:12,359
+ELA2 mutations are the most common cause of severe congenital neutropenia.
+
+122
+00:08:12,409 --> 00:08:15,154
+G-CSF is the mainstay of treatment.
+
+123
+00:08:15,533 --> 00:08:17,957
+Five things to remember.
+
+124
+00:08:18,007 --> 00:08:22,285
+One: roll, activate, arrest, transmigrate.
+
+125
+00:08:22,335 --> 00:08:28,056
+Two: CXCL8, C5a and formyl peptides attract neutrophils.
+
+126
+00:08:28,106 --> 00:08:31,662
+Three: CR3 is MAC-1 and binds iC3b.
+
+127
+00:08:31,712 --> 00:08:35,991
+Four: oxidase, dismutase, myeloperoxidase.
+
+128
+00:08:36,041 --> 00:08:41,658
+Five: CGD, LAD and Chédiak-Higashi each block one step.
+
+129
+00:08:42,033 --> 00:08:43,203
+One exam trap.
+
+130
+00:08:43,253 --> 00:08:48,606
+Myeloperoxidase does not make superoxide or hydrogen peroxide.
+
+131
+00:08:48,656 --> 00:08:55,664
+NADPH oxidase makes superoxide, and superoxide dismutase makes hydrogen peroxide.
+
+132
+00:08:55,714 --> 00:09:00,020
+So a defect in myeloperoxidase is milder than CGD.
+
+133
+00:09:00,400 --> 00:09:02,521
+Next: complement made easy.
+
+134
+00:09:02,571 --> 00:09:07,827
+Three pathways, one C3 convertase, and the opsonins you met today.

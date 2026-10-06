@@ -1,0 +1,66 @@
+                                                                                        CHAPTER 4 Innate Immunity                        97
+
+
+  stimulate the production of neurotransmitters that reset the       most severe form of sepsis, called septic shock, there is vascular
+  body’s steady-state temperature to a higher level by reducing      collapse and disseminated intravascular coagulation, caused by
+  heat loss (via vasoconstriction) and increasing heat generation    the effects of high doses of TNF, discussed earlier. The level of
+  (through effects on skeletal muscle and fat). Prostaglandin        serum TNF may be predictive of the outcome of severe sepsis.
+  synthesis inhibitors, such as aspirin, reduce fever by blocking    Septic shock can be reproduced in experimental animals by the
+  this action of the cytokines. The role of fever in host defense    administration of LPS, lipoteichoic acid, or TNF. Antagonists
+  is not well understood but may relate to enhanced metabolic        of TNF can prevent mortality in the experimental models, but
+  functions of immune cells, impaired metabolic functions of         clinical trials with anti-TNF antibodies or with soluble TNF
+  microbes, and changes in the behavior of the febrile host that     receptors have not shown a benefit in patients with sepsis. The
+  reduces risk for worsening infections and injury.                  cause of this therapeutic failure is not known, but it may be
+• Leukocytosis. TNF, IL-1, and IL-6 produced at inflammatory         because other cytokines elicit the same responses as TNF.
+  sites circulate to the bone marrow and promote the release of          A syndrome similar to septic shock may occur as a complica-
+  neutrophils and monocytes, and other cytokines called col-         tion of noninfectious disorders, such as severe burns, trauma,
+  ony-stimulating factors (see Chapter 2) stimulate production       pancreatitis, and other serious conditions associated with
+  of these cells, leading to elevated numbers of these white cells   inflammation. This has been called the systemic inflammatory
+  in the blood (leukocytosis). This enhances leukocyte migra-        response syndrome (SIRS).
+  tion into tissues, which can aid in antimicrobial defense but          Acute inflammation may cause tissue injury because the effec-
+  can also contribute to inflammatory damage to tissues.             tor mechanisms that leukocytes use to kill microbes are also toxic
+• Acute-phase response. TNF, IL-1, and IL-6 induce hepatocytes       to host tissues. The proteolytic enzymes, ROS and NO, produced
+  to produce acute-phase proteins, including CRP, SAP, and           by phagocytes that accumulate at a site of infection, can injure host
+  fibrinogen, which are secreted into the blood. Elevated plasma     cells and degrade extracellular matrix if they are generated in large
+  CRP is used clinically as a sign of an inflammatory process.       quantities, especially if the microbes resist being killed and con-
+  CRP and SAP play protective roles in infections, as we dis-        tinue to stimulate innate immune responses. In fact, at least part
+  cussed earlier in the chapter, and fibrinogen, the precursor of    of the pathology associated with infections is due to the inflam-
+  fibrin, contributes to hemostasis and tissue repair.               matory responses and not the direct toxic effects of the microbes.
+                                                                     Acute inflammation also causes tissue damage in the setting of
+   In severe infections, TNF may be produced in large amounts        autoimmune diseases, in which case neutrophils and macrophages
+and causes systemic clinical and pathologic abnormalities. If        accumulate and become activated as a result of stimulation of the
+the stimulus for cytokine production is sufficiently strong, large   adaptive immune system by self antigens (see Chapter 15). As in
+amounts of TNF may be made, enter the bloodstream, and act           inflammation induced by infections, TNF, IL-1, IL-6, and IL-12 are
+at distant sites (see Fig. 4.16). The principal pathologic actions   key inducers of inflammation in autoimmune diseases. Antagonists
+of TNF are as follows:                                               against all of these cytokines or their receptors are used clinically to
+• TNF inhibits myocardial contractility and vascular smooth          reduce inflammation in patients with inflammatory diseases such
+   muscle tone, and increases endothelial permeability, result-      as rheumatoid arthritis, inflammatory bowel disease, and psoriasis.
+   ing in a marked decrease in blood pressure, or shock.
+• TNF causes intravascular thrombosis, mainly as a result of
+   impairment of the normal anticoagulant properties of the
+                                                                     THE ANTIVIRAL RESPONSE
+   endothelium. TNF stimulates endothelial cell expression of        The major way by which the innate immune system blocks viral
+   tissue factor, a potent activator of coagulation, and inhibits    infections is to induce the expression of type I IFNs, whose most
+   expression of thrombomodulin, an inhibitor of coagulation.        important action is to inhibit viral replication. Earlier in the
+   The endothelial alterations are exacerbated by activation of      chapter, we discussed how several pattern recognition receptors,
+   neutrophils, leading to vascular plugging by these cells.         including some TLRs, NLRs, RLRs, and CDSs, generate signals that
+• Prolonged production of TNF causes wasting of muscle and           stimulate IFN-α and IFN-β gene expression in many different cell
+   fat cells, called cachexia. This wasting results from TNF-        types. These type I IFNs are secreted from the cells that are exposed
+   induced appetite suppression and reduced synthesis of lipo-       to viruses and act mainly on other uninfected cells to prevent the
+   protein lipase, an enzyme needed to release fatty acids from      spread of viral infection. In this section, we will describe the proper-
+   circulating lipoproteins so they can be used by the tissues.      ties of type I IFNs and the antiviral actions of these cytokines. Type
+                                                                     III interferons, made up of four members of the IFN-λ family, are
+    A systemic complication of severe infection, usually bacterial   the main antiviral interferons made by many epithelia and by con-
+or fungal, is a syndrome called sepsis, clinically characterized     ventional dendritic cells and have the same functions as type I IFNs.
+by fever, fast heart and respiratory rates, metabolic abnormali-         Type I IFNs are a large family of structurally related cyto-
+ties, and mental disturbances. Bacterial sepsis is most often        kines that mediate the early innate immune response to viral
+initiated by LPS (also called endotoxin) released from gram-         infections. The term interferon derives from the ability of these
+negative bacteria or lipoteichoic acid released from gram-posi-      cytokines to interfere with viral replication. There are many type
+tive bacteria, which may enter the bloodstream and disseminate       I IFNs, which are structurally homologous and are encoded by
+widely. TLR signaling is then induced in cells in many organs by     genes in a single cluster on chromosome 9. The most impor-
+these bacterial PAMPs, leading to the production of TNF and          tant type I IFNs in viral defense are IFN-α, which includes 13
+other cytokines, including IL-12, IFN-γ, IL-6, and IL-1. In the      closely related proteins, and IFN-β, which is a single protein.
+
+                                                      ERRNVPHGLFRVRUJ
+
+
